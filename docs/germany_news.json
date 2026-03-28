@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-03-28T16:08:13.017767+00:00",
-  "story_count": 82,
+  "last_updated": "2026-03-28T23:58:50.867301+00:00",
+  "story_count": 81,
   "stories": [
     {
       "title": "Germany's Merz determined to save European warplane project",
@@ -14,6 +14,13 @@
       "title": "Germany news: 13-year-old boy killed in Witten stabbing",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-13-year-old-boy-killed-in-witten-stabbing/live-76576299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-28T11:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: 13-year-old boy killed in Witten stabbing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-13-year-old-boy-killed-in-witten-stabbing/live-76576299?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-03-28T11:34:00+00:00",
       "category": "Diplomacy"
     },
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU reacts to 'concerning' report of Hungarian leak to Russia",
+      "title": "Iran war: Houthis claim 2nd attack on Israel in 24 hours",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-reacts-to-concerning-report-of-hungarian-leak-to-russia/a-76494395?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-23T17:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-houthis-claim-2nd-attack-on-israel-in-24-hours/live-76573681?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-28T21:31:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Anger in Cyprus as Iran war spotlights 'colonial' UK bases",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/anger-in-cyprus-as-iran-war-spotlights-colonial-uk-bases/a-76502214?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-24T12:38:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Earth Hour: Monuments to go dark as 20th edition kicks off",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/earth-hour-monuments-to-go-dark-as-20th-edition-kicks-off/a-76576232?maca=en-rss-en-all-1573-rdf",
@@ -368,13 +368,6 @@
       "category": "Energy"
     },
     {
-      "title": "Using every drop: Physics answers a crucial kitchen question",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/using-every-drop-physics-answers-a-crucial-kitchen-question/a-76465759?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-21T16:48:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Young voters shake Italy’s political calm as referendum exposes tensions for Giorgia Meloni",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/28/young-voters-italy-referendum-giorgia-meloni",
@@ -436,6 +429,48 @@
       "url": "https://www.dw.com/en/what-s-next-for-germany-s-troubled-car-giants/a-76451598?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-23T05:27:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Gewalttat in Bremen: Mann in Bremen wohl angeschossen – Polizei sucht Täter",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-03/28/mann-in-bremen-wohl-angeschossen-polizei-sucht-taeter",
+      "published_date": "2026-03-28T21:46:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar",
+      "published_date": "2026-03-28T20:38:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bauturbo in Hamburg: Zündet der Turbo, oder zündet er nicht?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-03/bau-turbo-hamburg-gesetz-wohnungsbau-ergebnisse",
+      "published_date": "2026-03-28T18:57:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris: Suspected bomb attack outside Bank of America foiled",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-28T17:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris: Suspected bomb attack outside Bank of America foiled",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-28T17:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Sudanese men face court in Greece after at least 22 people die off Crete coast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+      "published_date": "2026-03-28T16:54:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nach fast zwei Monaten: Vermisster 68-Jähriger aus Hannover tot aufgefunden",
@@ -533,48 +568,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260327/passengers-warned-of-trouble-ahead-as-deutsche-bahn-announces-huge-loss",
       "published_date": "2026-03-27T11:59:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German transport ministers back plan to make getting a driver's licence cheaper",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260327/german-transport-ministers-back-plan-to-make-getting-a-drivers-licence-cheaper",
-      "published_date": "2026-03-27T10:13:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainians Soldiers Who Have Abandoned the Fight: All Quiet on the Eastern Front",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/ukrainians-soldiers-who-have-abandoned-the-fight-all-quiet-on-the-eastern-front-a-2f51d902-1ba5-4714-b95f-da2ff1c1ad2b#ref=rss",
-      "published_date": "2026-03-27T09:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Progressive Paris has many weapons to fight the far right, but the best? Spaces where you can simply hang out | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/27/progressive-paris-far-right-french-capital-food-culture-community-extremists",
-      "published_date": "2026-03-27T05:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/mar/26/keir-starmer-ukraine-iran-social-media-ban-councils-pensions-latest-news-updates",
-      "published_date": "2026-03-26T18:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why deepfakes and sexual violence is the big talking point in Germany right now",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260326/why-is-germany-talking-about-deepfakes-and-sexual-violence",
-      "published_date": "2026-03-26T13:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "​Germany: Building sector warns of spiralling costs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/​germany-building-sector-warns-of-spiralling-costs/a-76541631?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-26T12:34:00+00:00",
       "category": "Local Events"
     }
   ]
