@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-03-28T23:58:50.867301+00:00",
-  "story_count": 81,
+  "last_updated": "2026-03-29T11:55:59.402598+00:00",
+  "story_count": 84,
   "stories": [
     {
       "title": "Germany's Merz determined to save European warplane project",
@@ -144,10 +144,45 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Fact check: Fake satellite images distort Middle East conflict from above",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-fake-satellite-images-distort-middle-east-conflict-from-above/a-76567764?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T10:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's WWII munitions a toxic legacy on Baltic Sea floor",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260329/germanys-wwii-munitions-a-toxic-legacy-on-baltic-sea-floor",
+      "published_date": "2026-03-29T07:52:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea tests high-thrust engine in long-range missile push",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-tests-high-thrust-engine-in-long-range-missile-push/a-76581352?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T05:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Tehran warns US against ground assault",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-tehran-warns-us-against-ground-assault/live-76581165?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T02:37:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran war: Houthis claim 2nd attack on Israel in 24 hours",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-houthis-claim-2nd-attack-on-israel-in-24-hours/live-76573681?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-28T21:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Missing Cuba-bound boats carrying aid arrive safely in Havana",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/missing-cuba-bound-boats-carrying-aid-arrive-safely-in-havana/a-76580010?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-28T19:11:00+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran war boosts strategic significance of South Caucasus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-boosts-strategic-significance-of-south-caucasus/a-76518386?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-25T17:38:00+00:00",
-      "category": "Military"
+      "title": "Wetter: Karwoche beginnt nass, kalt und windig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-03/wetter-karwoche-wind-schauer-schnee-gxe",
+      "published_date": "2026-03-29T10:04:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Is VW eyeing Iron Dome parts production at German plant?",
+      "title": "Nepal: Ex-energy minister arrested in money laundering case",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-vw-eyeing-iron-dome-parts-production-at-german-plant/a-76520877?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-25T14:23:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/nepal-ex-energy-minister-arrested-in-money-laundering-case/a-76583166?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T09:30:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lithuanian PM: Stray crashed drone hailed from Ukraine",
+      "title": "Nuclear power in Africa: Big dreams, bigger hurdles",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lithuanian-pm-stray-crashed-drone-hailed-from-ukraine/a-76507009?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-24T14:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lithuanian PM: Stray crashed drone hailed from Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lithuanian-pm-stray-crashed-drone-hailed-from-ukraine/a-76507009?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-24T14:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "American apocalypse: The end 'feels personal and imminent'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/american-apocalypse-the-end-feels-personal-and-imminent/a-76508264?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-24T13:58:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T07:31:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Earth Hour: Monuments to go dark as 20th edition kicks off",
@@ -431,6 +452,34 @@
       "category": "Economy"
     },
     {
+      "title": "UK police arrest suspect after car hits pedestrians",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-police-arrest-suspect-after-car-hits-pedestrians/a-76583739?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK police arrest suspect after car hits pedestrians",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-police-arrest-suspect-after-car-hits-pedestrians/a-76583739?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-29T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Rescuers launch fresh whale rescue effort",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-03-29T09:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Rescuers launch fresh whale rescue effort",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T09:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gewalttat in Bremen: Mann in Bremen wohl angeschossen – Polizei sucht Täter",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-03/28/mann-in-bremen-wohl-angeschossen-polizei-sucht-taeter",
@@ -462,6 +511,20 @@
       "title": "Paris: Suspected bomb attack outside Bank of America foiled",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-28T17:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Two new arrests over foiled Bank of America attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-28T17:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Two new arrests over foiled Bank of America attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-03-28T17:39:00+00:00",
       "category": "Local Events"
     },
@@ -526,48 +589,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/28/changing-a-city-is-complicated-anne-hidalgo-looks-back-on-12-years-as-paris-mayor",
       "published_date": "2026-03-28T05:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/mar/27/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-03-27T18:19:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attack on World Heritage sites in Ukrainian city of Lviv causes uproar",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-attack-on-world-heritage-sites-in-ukrainian-city-of-lviv-causes-uproar/a-76568784?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-27T17:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attack on World Heritage sites in Ukrainian city of Lviv causes uproar",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-attack-on-world-heritage-sites-in-ukrainian-city-of-lviv-causes-uproar/a-76568784?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-27T17:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria plans to ban social media for under-14s",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-plans-to-ban-social-media-for-under-14s/a-76571330?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-27T17:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria plans to ban social media for under-14s",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-plans-to-ban-social-media-for-under-14s/a-76571330?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-27T17:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passengers warned of trouble ahead as Deutsche Bahn announces huge loss",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260327/passengers-warned-of-trouble-ahead-as-deutsche-bahn-announces-huge-loss",
-      "published_date": "2026-03-27T11:59:30+00:00",
       "category": "Local Events"
     }
   ]
