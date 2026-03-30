@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-03-29T11:55:59.402598+00:00",
-  "story_count": 84,
+  "last_updated": "2026-03-30T00:04:44.953135+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
+      "published_date": "2026-03-29T15:00:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany's Merz determined to save European warplane project",
       "source": "The Local Germany",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU reacts to 'concerning' report of Hungarian leak to Russia",
+      "title": "Iran war: Israel approves billions in new military funds",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-reacts-to-concerning-report-of-hungarian-leak-to-russia/a-76494395?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-23T17:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-israel-approves-billions-in-new-military-funds/live-76586932?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T23:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police block Catholic leaders from Palm Sunday Mass in Jerusalem",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-police-block-catholic-leaders-from-palm-sunday-mass-in-jerusalem/a-76586194?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T17:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo condemns using God to justify war in Palm Sunday mass",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-condemns-using-god-to-justify-war-in-palm-sunday-mass/a-76585338?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T14:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo condemns using God to justify war in Palm Sunday mass",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-condemns-using-god-to-justify-war-in-palm-sunday-mass/a-76585338?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-29T14:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian students duped into signing contracts with military",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-students-duped-into-signing-contracts-with-military/a-76510389?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T12:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian students duped into signing contracts with military",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-students-duped-into-signing-contracts-with-military/a-76510389?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-29T12:47:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Fact check: Fake satellite images distort Middle East conflict from above",
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/fighting-in-iran-is-another-1970s‑style-oil-crisis-looming/a-76557017?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-03-27T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump Has Run Out of Options in Iran",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/short-term-excursion-trump-has-run-out-of-options-in-iran-a-b76cef19-aabc-45de-8b1e-a0f33f607496#ref=rss",
-      "published_date": "2026-03-27T09:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European NATO defense spending rose by almost 20% in 2025",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/european-nato-defense-spending-rose-by-almost-20-in-2025/a-76544678?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-26T15:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European NATO defense spending rose by almost 20% in 2025",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/european-nato-defense-spending-rose-by-almost-20-in-2025/a-76544678?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-26T15:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany and Australia deepen defence ties",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260326/germany-and-australia-deepen-defence-ties",
-      "published_date": "2026-03-26T07:50:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Tehran sets own terms to end war, rejects US plan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-sets-own-terms-to-end-war-rejects-us-plan/live-76515461?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-25T17:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Tehran sets own terms to end war, rejects US plan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-sets-own-terms-to-end-war-rejects-us-plan/live-76515461?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-25T17:57:00+00:00",
       "category": "Military"
     },
     {
@@ -389,6 +389,20 @@
       "category": "Energy"
     },
     {
+      "title": "Im Nordwesten von Hessen: Großbrand: Haus unbewohnbar, Hunderttausende Euro Schaden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-03/30/grossbrand-haus-unbewohnbar-hunderttausende-euro-schaden",
+      "published_date": "2026-03-29T22:06:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Feuer: Großbrand in Waltenhofen – 100.000 Euro Schaden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-03/29/grossbrand-in-waltenhofen-100-000-euro-schaden",
+      "published_date": "2026-03-29T21:03:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Young voters shake Italy’s political calm as referendum exposes tensions for Giorgia Meloni",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/28/young-voters-italy-referendum-giorgia-meloni",
@@ -452,6 +466,20 @@
       "category": "Economy"
     },
     {
+      "title": "Russia wants to legalize cars stolen in EU",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-wants-to-legalize-cars-stolen-in-eu/a-76582804?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T13:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia wants to legalize cars stolen in EU",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-wants-to-legalize-cars-stolen-in-eu/a-76582804?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-29T13:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK police arrest suspect after car hits pedestrians",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-police-arrest-suspect-after-car-hits-pedestrians/a-76583739?maca=en-rss-en-all-1573-rdf",
@@ -462,6 +490,20 @@
       "title": "UK police arrest suspect after car hits pedestrians",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-police-arrest-suspect-after-car-hits-pedestrians/a-76583739?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-29T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK police question suspect after Derby car incident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-police-question-suspect-after-derby-car-incident/a-76583739?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-29T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK police question suspect after Derby car incident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-police-question-suspect-after-derby-car-incident/a-76583739?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-03-29T11:07:00+00:00",
       "category": "Local Events"
     },
@@ -561,34 +603,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america",
       "published_date": "2026-03-28T15:30:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Easter snowfall and protests against digital violence",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260328/inside-germany-easter-snowfall-and-protests-against-digital-violence",
-      "published_date": "2026-03-28T09:10:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiger Woods released on bail after Florida car crash",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tiger-woods-released-on-bail-after-florida-car-crash/a-76573100?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T06:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo heads to Monaco 488 years after the last papal visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/pope-leo-monaco-papal-visit",
-      "published_date": "2026-03-28T06:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Changing a city is complicated’: Anne Hidalgo looks back on 12 years as Paris mayor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/changing-a-city-is-complicated-anne-hidalgo-looks-back-on-12-years-as-paris-mayor",
-      "published_date": "2026-03-28T05:00:18+00:00",
       "category": "Local Events"
     }
   ]
