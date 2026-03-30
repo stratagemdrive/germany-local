@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-03-30T00:04:44.953135+00:00",
-  "story_count": 86,
+  "last_updated": "2026-03-30T14:54:22.916325+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Germany news: Merz and Syrian president talk refugee returns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-and-syrian-president-talk-refugee-returns/live-76588579?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-03-30T14:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz and Syrian president talk refugee returns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-and-syrian-president-talk-refugee-returns/live-76588579?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T14:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrien: Merz strebt Rückkehr von 80 Prozent aller syrischen Geflüchteten an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-03/syrien-gefluechtete-rueckkehr-friedrich-merz-gxe",
+      "published_date": "2026-03-30T13:39:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
+      "published_date": "2026-03-30T12:49:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU seeks new strategy amid Sahel 'influence' rivalries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-seeks-new-strategy-amid-sahel-influence-rivalries/a-76571275?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T12:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fears of increased small boat Channel crossings as UK-French deal nears end",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/30/fears-increased-small-boat-channel-crossings-uk-french-deal-nears-end-shabana-mahmood",
+      "published_date": "2026-03-30T08:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260330/today-in-germany-a-roundup-of-the-latest-news-on-monday-117",
+      "published_date": "2026-03-30T06:36:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five EU governments found to ‘consistently’ dismantle rule of law",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/mar/30/five-eu-governments-consistently-dismantle-rule-of-law-finds-civil-liberties-union-for-europe",
+      "published_date": "2026-03-30T05:01:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
       "source": "The Guardian",
@@ -88,60 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "German Bundestag passes new fuel price rules",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260326/bundestag-gives-green-light-to-new-fuel-price-rules",
-      "published_date": "2026-03-26T15:03:59+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: Selenskyj ist offen für eine Waffenruhe über Ostern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-03-30T14:37:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "How the 'right to repair' electronics will work in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260326/how-the-right-to-repair-for-electronics-will-work-in-germany",
-      "published_date": "2026-03-26T08:22:55+00:00",
-      "category": "Diplomacy"
+      "title": "Israel suspends battalion over attack on CNN journalists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-suspends-battalion-over-attack-on-cnn-journalists/a-76592066?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T13:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war threatens to delay large offshore wind projects in EU and UK",
+      "title": "Spain closes airspace to US military over Iran war, widening rift with US",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/25/iran-war-strait-of-hormuz-shipping-delays-windfarm-projects-europe",
-      "published_date": "2026-03-25T15:17:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/mar/30/spain-closes-airspace-to-us-military-over-iran-war-widening-rift-with-us",
+      "published_date": "2026-03-30T12:26:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Who wins what in the EU's new trade deal with Australia?",
+      "title": "Myanmar clears path for junta leader to become president",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-wins-what-in-the-eu-s-new-trade-deal-with-australia/a-76509304?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-24T16:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/myanmar-clears-path-for-junta-leader-to-become-president/a-76588540?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T07:45:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Who wins what in the EU's new trade deal with Australia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-wins-what-in-the-eu-s-new-trade-deal-with-australia/a-76509304?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-24T16:08:00+00:00",
-      "category": "Diplomacy"
+      "title": "Syrian president to talk war and immigration on Germany visit",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260330/syrian-president-to-talk-war-and-immigration-on-germany-visit",
+      "published_date": "2026-03-30T07:00:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany laments Trump's 'avoidable, unnecessary' Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-laments-trump-s-avoidable-unnecessary-iran-war/a-76501370?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-24T11:56:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Australia and EU strike free trade deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-and-eu-strike-free-trade-deal/a-76496671?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-24T01:28:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Australia and EU strike free trade deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-and-eu-strike-free-trade-deal/a-76496671?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-24T01:28:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘Assault on justice’: how far-right attacks are threatening rule of law in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe",
+      "published_date": "2026-03-30T06:20:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: Israel approves billions in new military funds",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Krieg in der Ukraine: Russland greift Ukraine mit 273 Drohnen an",
+      "title": "Gas: Reiche will Gasversorgung mit langfristigen Verträgen sicherstellen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/ukraine-russland-drohnen-angriff-tote-gxe",
-      "published_date": "2026-03-28T13:58:49+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/wirtschaft/2026-03/gas-katharina-reiche-versorung-liefervertrage-lng-sefe-gazprom-gxe",
+      "published_date": "2026-03-30T13:59:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "What are European countries doing to keep fuel costs down?",
+      "title": "Inflation in Germany hits 2.7 percent on energy price rises",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260328/what-are-european-countries-doing-to-keep-fuel-costs-down",
-      "published_date": "2026-03-28T13:13:15+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.de/20260330/german-inflation-hits-2-7-percent-on-energy-price-rises",
+      "published_date": "2026-03-30T13:20:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: Houthis claim attack on Israel, Zelenskyy in UAE",
+      "title": "US lets Russian oil tanker approach Cuba despite blockade",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-houthis-claim-attack-on-israel-zelenskyy-in-uae/live-76573681?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T09:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-Red Army Faction member Klette faces new charges",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-red-army-faction-member-klette-faces-new-charges/a-76570460?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-27T17:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting in Iran: Is another 1970s‑style oil crisis looming?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fighting-in-iran-is-another-1970s‑style-oil-crisis-looming/a-76557017?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-27T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting in Iran: Is another 1970s‑style oil crisis looming?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fighting-in-iran-is-another-1970s‑style-oil-crisis-looming/a-76557017?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-27T11:44:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-lets-russian-oil-tanker-approach-cuba-despite-blockade/a-76587296?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T04:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wetter: Karwoche beginnt nass, kalt und windig",
@@ -382,11 +403,25 @@
       "category": "Energy"
     },
     {
-      "title": "Earth's climate more unbalanced than ever, WMO warns",
+      "title": "How people in Germany are preparing for price hikes",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260330/how-people-in-germany-are-preparing-for-price-hikes",
+      "published_date": "2026-03-30T09:17:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "WTO talks end in stalemate over e-commerce",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/earth-s-climate-more-unbalanced-than-ever-wmo-warns/a-76448282?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-23T04:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/wto-talks-end-in-stalemate-over-e-commerce/a-76587532?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T05:32:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How US 'Liberation Day' tariffs reshaped global trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-us-liberation-day-tariffs-reshaped-global-trade/a-76303601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T05:10:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Im Nordwesten von Hessen: Großbrand: Haus unbewohnbar, Hunderttausende Euro Schaden",
@@ -452,18 +487,88 @@
       "category": "Economy"
     },
     {
-      "title": "How Africa gets shortchanged in trade with Europe",
+      "title": "Finnish police say stray Ukrainian drone carried warhead",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-africa-gets-shortchanged-in-trade-with-europe/a-76154113?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-23T11:08:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/finnish-police-say-stray-ukrainian-drone-carried-warhead/a-76596061?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T14:34:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What's next for Germany's troubled car giants?",
+      "title": "Hybride Kriegsführung: Ukrainer wegen mutmaßlicher Spionage für Russland in NRW festgenommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-03/ukrainer-wegen-mutmasslicher-spionage-fuer-russland-in-nrw-festgenommen",
+      "published_date": "2026-03-30T14:28:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Everything you need to know about Easter travel in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260330/everything-you-need-to-know-about-easter-travel-in-germany",
+      "published_date": "2026-03-30T11:59:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Delhi police arrest Lashkar-e-Taiba commander",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-s-next-for-germany-s-troubled-car-giants/a-76451598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-23T05:27:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-delhi-police-arrest-lashkar-e-taiba-commander/live-76589303?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T10:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "​​Being Ola review – a sweet and gentle film about disability, friendship and abandonment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/mar/30/being-ola-review-a-sweet-and-gentle-film-about-disability-friendship-and-abandonment",
+      "published_date": "2026-03-30T10:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel poised to pass controversial death penalty bill",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-poised-to-pass-controversial-death-penalty-bill/a-76586475?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T09:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder trial opens over alleged masonic lodge crime network in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/30/trial-opens-masonic-lodge-network-paris-freemason-mafia-france",
+      "published_date": "2026-03-30T08:36:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy: Thieves steal masterpieces in under 3 minutes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-thieves-steal-masterpieces-in-under-3-minutes/a-76587950?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T06:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thieves steal Renoir, Cézanne and Matisse paintings worth millions from Italian museum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/paintings-stolen-museum-italy-renoir-cezanne-matisse",
+      "published_date": "2026-03-30T05:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia police shoot dead man wanted for killing 2 officers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-police-shoot-dead-man-wanted-for-killing-2-officers/a-76587251?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-30T03:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: German defence giant sparks row after comparing Ukraine drone makers to ‘housewives’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives",
+      "published_date": "2026-03-30T00:17:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds flee as fire rips through German nightclub",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260329/hundreds-flee-as-fire-rips-through-german-nightclub",
+      "published_date": "2026-03-29T13:31:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russia wants to legalize cars stolen in EU",
@@ -519,90 +624,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-29T09:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gewalttat in Bremen: Mann in Bremen wohl angeschossen – Polizei sucht Täter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/28/mann-in-bremen-wohl-angeschossen-polizei-sucht-taeter",
-      "published_date": "2026-03-28T21:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar",
-      "published_date": "2026-03-28T20:38:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bauturbo in Hamburg: Zündet der Turbo, oder zündet er nicht?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-03/bau-turbo-hamburg-gesetz-wohnungsbau-ergebnisse",
-      "published_date": "2026-03-28T18:57:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris: Suspected bomb attack outside Bank of America foiled",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T17:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris: Suspected bomb attack outside Bank of America foiled",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-28T17:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Two new arrests over foiled Bank of America attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T17:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Two new arrests over foiled Bank of America attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-28T17:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Sudanese men face court in Greece after at least 22 people die off Crete coast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
-      "published_date": "2026-03-28T16:54:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach fast zwei Monaten: Vermisster 68-Jähriger aus Hannover tot aufgefunden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/28/vermisster-68-jaehriger-aus-hannover-tot-aufgefunden",
-      "published_date": "2026-03-28T15:55:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgium's state-owned railway shines light on Holocaust role",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belgium-s-state-owned-railway-shines-light-on-holocaust-role/a-76560363?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T15:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgium's state-owned railway shines light on Holocaust role",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belgium-s-state-owned-railway-shines-light-on-holocaust-role/a-76560363?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-28T15:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police in Paris foil attempted bomb attack outside Bank of America building",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america",
-      "published_date": "2026-03-28T15:30:39+00:00",
       "category": "Local Events"
     }
   ]
