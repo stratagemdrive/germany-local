@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-03-31T14:50:04.812244+00:00",
+  "last_updated": "2026-04-01T00:04:01.720926+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Ausreise von Syrern aus Deutschland: Wer soll hier das Land verlassen?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-03/ausreise-syrer-deutschland-80-prozent-ahmed-al-scharaa-friedrich-merz",
+      "published_date": "2026-03-31T19:20:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz criticised after calling for Syrians in Germany to ‘go back’ home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/31/friedrich-merz-criticised-syrians-germany-return",
+      "published_date": "2026-03-31T17:24:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany: Conservatives link immigration with crime",
       "source": "Deutsche Welle",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Five EU governments found to ‘consistently’ dismantle rule of law",
+      "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/mar/30/five-eu-governments-consistently-dismantle-rule-of-law-finds-civil-liberties-union-for-europe",
-      "published_date": "2026-03-30T05:01:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
+      "published_date": "2026-03-31T21:01:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
-      "published_date": "2026-03-29T15:00:01+00:00",
-      "category": "Diplomacy"
+      "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-31T20:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian oil tanker docks in Cuba, the 1st since US blockade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-oil-tanker-docks-in-cuba-the-1st-since-us-blockade/a-76611820?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-31T15:19:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Spain defends blocking US from using bases for Iran strikes: ‘We don’t accept lectures from anyone’ – Europe live",
@@ -168,6 +189,13 @@
       "title": "How China's propaganda is spinning the Iran war",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-china-s-propaganda-is-spinning-the-iran-war/a-76607086?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-31T12:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Chinese propaganda casts US as reckless aggressor",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-chinese-propaganda-casts-us-as-reckless-aggressor/a-76607086?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-31T12:28:00+00:00",
       "category": "Military"
     },
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/myanmar-clears-path-for-junta-leader-to-become-president/a-76588540?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-30T07:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian president to talk war and immigration on Germany visit",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260330/syrian-president-to-talk-war-and-immigration-on-germany-visit",
-      "published_date": "2026-03-30T07:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Assault on justice’: how far-right attacks are threatening rule of law in Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe",
-      "published_date": "2026-03-30T06:20:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Israel approves billions in new military funds",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-israel-approves-billions-in-new-military-funds/live-76586932?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-29T23:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police block Catholic leaders from Palm Sunday Mass in Jerusalem",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-police-block-catholic-leaders-from-palm-sunday-mass-in-jerusalem/a-76586194?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-29T17:30:00+00:00",
       "category": "Military"
     },
     {
@@ -494,6 +494,41 @@
       "category": "Economy"
     },
     {
+      "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
+      "published_date": "2026-03-31T18:01:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court rejects Colorado's 'conversion therapy' ban",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-supreme-court-rejects-colorado-s-conversion-therapy-ban/a-76613464?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-31T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
+      "published_date": "2026-03-31T16:13:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-31T15:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-03-31T15:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wolf in Hamburg: Wolfsattacke in Hamburg ist Präzedenzfall",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-03/31/behoerde-erster-wolfsangriff-in-deutschland-seit-ansiedlung",
@@ -596,41 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/haiti-at-least-70-killed-in-massacre-says-rights-group/a-76600042?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-30T21:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel: Knesset approves death penalty for Palestinians",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-knesset-approves-death-penalty-for-palestinians/a-76599313?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T19:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Small boats deal between France and UK is on verge of collapse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/30/uk-france-beach-patrol-deal-intercept-small-boats-negotiations-deadlocked",
-      "published_date": "2026-03-30T18:36:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Curfew in Jos area after attack near university",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-curfew-in-jos-area-after-attack-near-university/a-76598006?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T17:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV star’s AI porn allegations spark national debate in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
-      "published_date": "2026-03-30T16:12:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finnish police say stray Ukrainian drone carried warhead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/finnish-police-say-stray-ukrainian-drone-carried-warhead/a-76596061?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T14:34:00+00:00",
       "category": "Local Events"
     }
   ]
