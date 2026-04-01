@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-01T00:04:01.720926+00:00",
-  "story_count": 90,
+  "last_updated": "2026-04-01T14:55:52.362111+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
+      "published_date": "2026-04-01T14:35:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kommunalwahl in Frankreich: Streit um abgehängte EU-Flaggen an französischen Rathäusern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/frankreich-rathaeuser-rn-rechtspopulisten-eu-flaggen",
+      "published_date": "2026-04-01T14:20:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz sees backlash over Syrian refugee comment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-sees-backlash-over-syrian-refugee-comment/a-76623240?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-01T11:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz sees backlash over Syrian refugee comment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-sees-backlash-over-syrian-refugee-comment/a-76623240?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T11:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delayed by EU entry/exit system? Then travel light",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light",
+      "published_date": "2026-04-01T06:00:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Ukraine calls Hungary ‘a disgrace’ after leaked calls with Moscow emerge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/ukraine-war-briefing-ukraine-calls-hungary-a-disgrace-after-leaked-calls-with-moscow-emerge",
+      "published_date": "2026-04-01T01:18:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ausreise von Syrern aus Deutschland: Wer soll hier das Land verlassen?",
       "source": "ZEIT Online",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Merz and Syrian president talk refugee returns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-and-syrian-president-talk-refugee-returns/live-76588579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T14:21:00+00:00",
-      "category": "Diplomacy"
+      "title": "Macron praises Europe’s predictability in face of countries that ‘hurt you without even informing you’ – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/01/zelenskyy-trump-putin-ukraine-russia-war-easter-ceasefire-iran-europe-latest-news-updates",
+      "published_date": "2026-04-01T14:42:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrien: Merz strebt Rückkehr von 80 Prozent aller syrischen Geflüchteten an",
+      "title": "War es versuchter Mord?: Mutmaßlicher Brandstifter wegen zu schnellem Fahren gefasst",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-03/syrien-gefluechtete-rueckkehr-friedrich-merz-gxe",
-      "published_date": "2026-03-30T13:39:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-04/01/mutmasslicher-brandstifter-wegen-zu-schnellem-fahren-gefasst",
+      "published_date": "2026-04-01T14:23:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
-      "published_date": "2026-03-30T12:49:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU seeks new strategy amid Sahel 'influence' rivalries",
+      "title": "Iran war: Trump says Iran's president asked for ceasefire",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-seeks-new-strategy-amid-sahel-influence-rivalries/a-76571275?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T12:37:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-says-iran-s-president-asked-for-ceasefire/live-76615254?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T13:31:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Fears of increased small boat Channel crossings as UK-French deal nears end",
+      "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/30/fears-increased-small-boat-channel-crossings-uk-french-deal-nears-end-shabana-mahmood",
-      "published_date": "2026-03-30T08:00:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
+      "published_date": "2026-04-01T13:02:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260330/today-in-germany-a-roundup-of-the-latest-news-on-monday-117",
-      "published_date": "2026-03-30T06:36:13+00:00",
-      "category": "Diplomacy"
+      "title": "Russian military plane crash in Crimea kills at least 29",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T10:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian military plane crash in Crimea kills at least 29",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-01T10:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: Jet fuel prices reach record high amid Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-jet-fuel-prices-reach-record-high-amid-iran-war/live-76615690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T06:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan under pressure to host successful US-Iran talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-under-pressure-to-host-successful-us-iran-talks/a-76596163?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T15:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's Pistorius in Asia warns of a frayed global order",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-pistorius-in-asia-warns-of-a-frayed-global-order/a-76594988?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-30T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's Pistorius in Asia warns of a frayed global order",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-pistorius-in-asia-warns-of-a-frayed-global-order/a-76594988?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj ist offen für eine Waffenruhe über Ostern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-03-30T14:37:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel suspends battalion over attack on CNN journalists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-suspends-battalion-over-attack-on-cnn-journalists/a-76592066?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T13:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain closes airspace to US military over Iran war, widening rift with US",
+      "title": "In Europe, lobbyists are using soaring fuel prices to make the case for more dirty energy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/30/spain-closes-airspace-to-us-military-over-iran-war-widening-rift-with-us",
-      "published_date": "2026-03-30T12:26:24+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/apr/01/in-europe-lobbyists-are-using-soaring-fuel-prices-to-make-the-case-for-more-dirty-energy",
+      "published_date": "2026-04-01T14:30:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Myanmar clears path for junta leader to become president",
+      "title": "Germany news: New rules to tamp down gasoline price hikes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-clears-path-for-junta-leader-to-become-president/a-76588540?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T07:45:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-news-new-rules-to-tamp-down-gasoline-price-hikes/live-76616425?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T06:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gas: Reiche will Gasversorgung mit langfristigen Verträgen sicherstellen",
@@ -375,18 +389,25 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine updates: Hungary threatens gas stop amid oil dispute",
+      "title": "Iran war: Strikes on steel deal painful blow to economy",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-hungary-threatens-gas-stop-amid-oil-dispute/live-76519687?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-25T11:24:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T12:34:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ukraine updates: Hungary threatens gas stop amid oil dispute",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-hungary-threatens-gas-stop-amid-oil-dispute/live-76519687?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-25T11:24:00+00:00",
-      "category": "Energy"
+      "title": "The 2026 tax deadlines that Americans in Germany need to know",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260401/the-2026-tax-deadlines-that-americans-in-germany-need-to-know",
+      "published_date": "2026-04-01T10:53:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How much will prices rise in Germany as impact of Middle East war deepens?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260401/how-much-will-prices-rise-in-germany-as-impact-of-middle-east-war-deepens",
+      "published_date": "2026-04-01T10:49:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Germany's major public health insurance reform will affect you",
@@ -494,6 +515,76 @@
       "category": "Economy"
     },
     {
+      "title": "Three go on trial in Germany over plot to overthrow government",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260401/three-go-on-trial-in-germany-over-plot-to-overthrow-government",
+      "published_date": "2026-04-01T14:44:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niedersachsen: Staatsanwaltschaft stellt Ermittlungen wegen Deepfake in der CDU ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/niedersachsen-cdu-deepfake-sexualisierte-gewalt-staatsanwaltschaft-hannover",
+      "published_date": "2026-04-01T14:35:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: Anti-Muslim chants mar Egypt soccer friendly",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-anti-muslim-chants-mar-egypt-soccer-friendly/a-76623499?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tourists flock to Paris, cheapest capital in Europe – archive, 1926",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926",
+      "published_date": "2026-04-01T10:16:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrant boat capsizes in Turkey leaving 18 dead while 21 were rescued",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/migrant-boat-capsizes-in-turkey-leaving-18-dead-while-21-were-rescued/a-76619806?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T09:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutsche Bahn trains to and from Hamburg cancelled due to damaged lines",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260401/deutsche-bahn-cancels-trains-to-and-from-hamburg-due-to-damages",
+      "published_date": "2026-04-01T08:09:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Raise our heads and resist’: how Europe’s civil society is fighting back against the far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/apr/01/raise-our-heads-and-resist-how-europes-civil-society-is-fighting-back-against-the-far-right",
+      "published_date": "2026-04-01T06:30:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
+      "published_date": "2026-04-01T04:00:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US judge blocks Trump order that barred funding for NPR, PBS",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-judge-blocks-trump-order-that-barred-funding-for-npr-pbs/a-76615077?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T00:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court orders Trump to halt White House ballroom construction",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/court-orders-trump-to-halt-white-house-ballroom-construction/a-76615061?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-03-31T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
@@ -561,76 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-wolf-bites-woman-in-hamburg/a-76605668?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-03-31T10:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Wolf bites woman in Hamburg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-wolf-bites-woman-in-hamburg/a-76605668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T10:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Bavaria's state premier Markus Söder visits BMW plant in US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-bavaria-s-state-premier-markus-söder-visits-bmw-plant-in-us/live-76601171?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-31T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Bavaria's state premier Markus Söder visits BMW plant in US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-bavaria-s-state-premier-markus-söder-visits-bmw-plant-in-us/live-76601171?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wolf: Frau in Hamburg von Wolf gebissen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-03/frau-in-hamburg-von-wolf-gebissen",
-      "published_date": "2026-03-30T23:08:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Mann sticht in Hannover auf Frau ein – Lebensgefahr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/30/mann-sticht-in-hannover-auf-frau-ein-lebensgefahr",
-      "published_date": "2026-03-30T22:56:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: Deutschland gewinnt Testspiel gegen Ghana spät",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-03/deutschland-ghana-fussball-freundschaftsspiel-wm",
-      "published_date": "2026-03-30T22:08:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiere: Frau in Hamburg von Wolf gebissen – Tier aus Alster gezogen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/30/behoerde-bestaetigt-wolf-in-blankenese-gesichtet",
-      "published_date": "2026-03-30T21:57:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany beat Ghana to complete confidence-boosting March",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-beat-ghana-to-complete-confidence-boosting-march/a-76599285?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-30T21:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany beat Ghana to complete confidence-boosting March",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-beat-ghana-to-complete-confidence-boosting-march/a-76599285?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T21:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haiti: At least 70 killed in 'massacre,' says rights group",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/haiti-at-least-70-killed-in-massacre-says-rights-group/a-76600042?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T21:31:00+00:00",
       "category": "Local Events"
     }
   ]
