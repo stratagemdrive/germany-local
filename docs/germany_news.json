@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-01T14:55:52.362111+00:00",
+  "last_updated": "2026-04-02T00:01:07.333955+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Russland und Armenien: Putin warnt Armenien vor EU-Beitritt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/putin-russland-armenien-warnung-eu-beitritt",
+      "published_date": "2026-04-01T22:04:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on Ukraine’s perilous spring: Europe’s steadfast support is more vital than ever | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-ukraines-perilous-spring-europes-steadfast-support-is-more-vital-than-ever",
+      "published_date": "2026-04-01T18:32:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump lashes out at Nato: will Europe stand up to him? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/apr/01/trump-lashes-out-at-nato-will-europe-stand-up-to-him-the-latest",
+      "published_date": "2026-04-01T16:26:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
       "source": "The Guardian",
@@ -28,6 +49,20 @@
       "title": "Germany's Merz sees backlash over Syrian refugee comment",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-merz-sees-backlash-over-syrian-refugee-comment/a-76623240?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T11:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's chancellor said 80% of Syrians should return to their home country in the next three years. Syrians in Germany are outraged.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-chancellor-said-80-of-syrians-should-return-to-their-home-country-in-the-next-three-years-syrians-in-germany-are-outraged/a-76623240?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-01T11:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's chancellor said 80% of Syrians should return to their home country in the next three years. Syrians in Germany are outraged.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-chancellor-said-80-of-syrians-should-return-to-their-home-country-in-the-next-three-years-syrians-in-germany-are-outraged/a-76623240?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-01T11:48:00+00:00",
       "category": "Diplomacy"
     },
@@ -109,41 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rückkehr nach Syrien: \"Beschämend\": Kritik an Merz-Ansage zur Ausreise von Syrern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/31/beschaemend-kritik-an-merz-ansage-zur-ausreise-von-syrern",
-      "published_date": "2026-03-30T23:02:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrien: SPD und Grüne kritisieren Regierungspläne zur Ausreise von Syrern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/merz-syrien-rueckkehr-kritik-spd-gruene",
-      "published_date": "2026-03-30T22:13:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European airports record longer waits at borders as EES deadline looms",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
-      "published_date": "2026-03-30T19:31:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US reopens embassy in Venezuela after seizing Nicolas Maduro",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-reopens-embassy-in-venezuela-after-seizing-nicolas-maduro/a-76599216?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-30T19:28:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz and Syrian president talk refugee returns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-and-syrian-president-talk-refugee-returns/live-76588579?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-30T14:21:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Macron praises Europe’s predictability in face of countries that ‘hurt you without even informing you’ – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/01/zelenskyy-trump-putin-ukraine-russia-war-easter-ceasefire-iran-europe-latest-news-updates",
@@ -183,6 +183,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-01T10:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: New fuel price law prompts huge midday spike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-new-fuel-price-law-prompts-huge-midday-spike/live-76616425?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-01T06:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: New fuel price law prompts huge midday spike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-new-fuel-price-law-prompts-huge-midday-spike/live-76616425?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T06:54:00+00:00",
       "category": "Military"
     },
     {
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: allies asked Kyiv about reducing attacks on Russian energy sector, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says",
-      "published_date": "2026-03-31T01:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rheinmetall: Selenskyj reagiert auf \"Hausfrauen\"-Zitat von Rheinmetall-Chef",
+      "title": "Folgen des Irankriegs: Gasversorgung laut Katherina Reiche trotz Irankrieg gesichert",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/ukraine-rheinmetall-armin-papperger-drohnentechnik-wolodymyr-selenskyj",
-      "published_date": "2026-03-30T22:53:47+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/wirtschaft/2026-04/katherina-reiche-gas-oel-preis-irankrieg-versorgung-deutschland",
+      "published_date": "2026-04-01T23:49:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "In Europe, lobbyists are using soaring fuel prices to make the case for more dirty energy",
@@ -379,13 +386,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260327/german-green-village-rides-out-mideast-energy-storm",
       "published_date": "2026-03-27T08:19:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany's green reputation hits a crossroads",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-green-reputation-hits-a-crossroads/a-76529540?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-25T16:08:00+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +515,55 @@
       "category": "Economy"
     },
     {
+      "title": "Wahlen: Haseloff: AfD will ein anderes System",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/02/haseloff-afd-will-ein-anderes-system",
+      "published_date": "2026-04-01T22:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish PM offers deal that could see far-right allowed into government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government",
+      "published_date": "2026-04-01T18:29:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court debates citizenship, with rare Trump visit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-supreme-court-debates-citizenship-with-rare-trump-visit/a-76630576?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High times or low blows? Experts fail to clear air over German drug legalisation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+      "published_date": "2026-04-01T16:48:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two dead and one missing after trying to cross Channel to UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk",
+      "published_date": "2026-04-01T16:31:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Hope fades for stranded humpback whale's survival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-hope-fades-for-stranded-humpback-whale-s-survival/a-76629035?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-01T15:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Hope fades for stranded humpback whale's survival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-hope-fades-for-stranded-humpback-whale-s-survival/a-76629035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-01T15:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Three go on trial in Germany over plot to overthrow government",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260401/three-go-on-trial-in-germany-over-plot-to-overthrow-government",
@@ -603,55 +652,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
       "published_date": "2026-03-31T16:13:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T15:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-31T15:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wolf in Hamburg: Wolfsattacke in Hamburg ist Präzedenzfall",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/31/behoerde-erster-wolfsangriff-in-deutschland-seit-ansiedlung",
-      "published_date": "2026-03-31T14:34:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krieg im Iran: Trump fordert Länder zum Ölkauf bei den USA auf – und droht ihnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/donald-trump-strasse-von-hormus-nato-iran-usa-oel-drohung",
-      "published_date": "2026-03-31T14:09:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kinder- und Jugendbücher: Die Kinder- und Jugendbuch-Bestenliste der ZEIT für April",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/literatur/2026-03/kinder-jugendbuecher-empfehlungen-literatur-lesen",
-      "published_date": "2026-03-31T14:06:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Tennis legend Leander Paes joins Modi's BJP",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-tennis-legend-leander-paes-joins-modi-s-bjp/live-76600941?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T13:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Wolf bites woman in Hamburg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-wolf-bites-woman-in-hamburg/a-76605668?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-03-31T10:37:00+00:00",
       "category": "Local Events"
     }
   ]
