@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-02T00:01:07.333955+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-02T14:41:37.995545+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "How long can Iran's asymmetric strategy hold?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-long-can-iran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T13:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shein, Temu: Why European consumers will pay more for cheap online orders",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260402/shein-temu-why-european-consumers-will-pay-more-for-cheap-online-orders",
+      "published_date": "2026-04-02T11:38:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260402/today-in-germany-a-roundup-of-the-latest-news-on-thursday-113",
+      "published_date": "2026-04-02T06:40:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela's acting President Delcy Rodriguez",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-lifts-sanctions-on-venezuela-s-acting-president-delcy-rodriguez/a-76635151?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T03:13:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russland und Armenien: Putin warnt Armenien vor EU-Beitritt",
       "source": "ZEIT Online",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz pushes return of Syrians as he hosts leader Sharaa",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260331/germanys-merz-pushes-return-of-syrians-as-he-hosts-leader-sharaa",
-      "published_date": "2026-03-31T07:38:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can Europe’s public service media survive attacks by the far right?",
+      "title": "Europe should lift sanctions on Russian energy amid Iran crisis, Viktor Orbán says as he taunts Tusk – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/31/can-europes-public-service-media-survive-attacks-by-the-far-right",
-      "published_date": "2026-03-31T06:30:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+      "published_date": "2026-04-02T14:33:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "title": "Oil price jumps and markets slide after Trump warning to Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
+      "published_date": "2026-04-02T14:18:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How to save money on fuel in Germany as prices hit all time high",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260331/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-117",
-      "published_date": "2026-03-31T06:27:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260402/how-to-save-money-on-fuel-in-germany-as-prices-hit-all-time-high",
+      "published_date": "2026-04-02T14:08:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war: EU calls Tehran to discuss Strait of Hormuz",
+      "title": "Denmark: Warship sunk by Nelson's British fleet discovered",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-eu-calls-tehran-to-discuss-strait-of-hormuz/live-76600314?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T02:44:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/denmark-warship-sunk-by-nelson-s-british-fleet-discovered/a-76643490?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T11:43:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact check: Donald Trump speaks on Iran, oil and economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-donald-trump-speaks-on-iran-oil-and-economy/a-76636405?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T08:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coordinated conflict: how the Ukraine and Iran wars are starting to overlap",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/02/coordinated-conflict-how-the-ukraine-and-iran-wars-are-starting-to-overlap",
+      "published_date": "2026-04-02T08:00:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Lufthansa marks centenary amid testing times",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-marks-centenary-amid-testing-times/live-76636435?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T07:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Oil prices jump, stocks fall after Trump speech",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-oil-prices-jump-stocks-fall-after-trump-speech/live-76635831?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T06:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungary's government accused of spying on opposition as key election nears",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T05:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungary's government accused of spying on opposition as key election nears",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-02T05:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says US will 'finish the job' in Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-us-will-finish-the-job-in-iran/live-76615254?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T01:47:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Macron praises Europe’s predictability in face of countries that ‘hurt you without even informing you’ – Europe live",
@@ -207,81 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
+      "title": "As Iran war rages, Europe gears up for energy crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T14:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "As Iran war rages, Europe gears up for energy crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-02T14:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Drill baby drill': Trump opens wilderness to big energy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/drill-baby-drill-trump-opens-wilderness-to-big-energy/a-76411423?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T08:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Drive slower, work from home and ditch the tie: the world responds to Iran war energy crisis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
-      "published_date": "2026-03-31T21:01:40+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/apr/02/world-response-iran-war-energy-crisis-oil",
+      "published_date": "2026-04-02T05:00:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
+      "title": "UNESCO World Heritage sites facing the heat",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T20:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian oil tanker docks in Cuba, the 1st since US blockade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-oil-tanker-docks-in-cuba-the-1st-since-us-blockade/a-76611820?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T15:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain defends blocking US from using bases for Iran strikes: ‘We don’t accept lectures from anyone’ – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/mar/31/europe-ukraine-bucha-eu-russia-hungary-iran-denmark-latest-news-updates",
-      "published_date": "2026-03-31T14:33:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Charles Lewinsky: \"Ich schrieb Geschichten und war frei\"",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/14/charles-lewinsky-autor-eine-andere-geschichte-schweiz",
-      "published_date": "2026-03-31T14:27:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy denies use of Sicily airbase to US planes carrying weapons for Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/italy-denies-sicily-airbase-us-planes-carrying-weapons-iran-war",
-      "published_date": "2026-03-31T13:17:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How China's propaganda is spinning the Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-china-s-propaganda-is-spinning-the-iran-war/a-76607086?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T12:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Chinese propaganda casts US as reckless aggressor",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-chinese-propaganda-casts-us-as-reckless-aggressor/a-76607086?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T12:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Top EU diplomats mark 4 years since Bucha massacre",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-top-eu-diplomats-mark-4-years-since-bucha-massacre/a-76602640?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T08:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After the Iran war, how fast could global trade recover?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/after-the-iran-war-how-fast-could-global-trade-recover/a-76526954?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T06:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Viktor Orbán has the support of both Russia and the US. Here’s why that doesn’t seem to be doing him any good | Péter Krekó",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters",
-      "published_date": "2026-03-31T04:00:31+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/unesco-world-heritage-sites-facing-the-heat/a-76608311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T03:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Folgen des Irankriegs: Gasversorgung laut Katherina Reiche trotz Irankrieg gesichert",
@@ -389,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Tanken: Grünenchef fordert wegen hoher Spritpreise Tempolimit auf Autobahnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/tanken-spritpreise-tempolimit-autobahn-gruenen-chef-felix-banaszak",
+      "published_date": "2026-04-02T14:36:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India news: Thousands affected as Oracle cuts jobs globally, say reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-thousands-affected-as-oracle-cuts-jobs-globally-say-reports/live-76636409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T07:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wealth tax: Why are countries afraid to tax the ultrarich?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/wealth-tax-why-are-countries-afraid-to-tax-the-ultrarich/a-76030278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T06:32:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Iran war: Strikes on steel deal painful blow to economy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-all-1573-rdf",
@@ -494,25 +550,67 @@
       "category": "Economy"
     },
     {
-      "title": "Lufthansa and the role of big business in the Holocaust",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-and-the-role-of-big-business-in-the-holocaust/a-75276212?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-26T10:46:00+00:00",
-      "category": "Economy"
+      "title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
+      "published_date": "2026-04-02T14:27:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UN recognizes slave trade as gravest crime against humanity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-26T01:24:00+00:00",
-      "category": "Economy"
+      "title": "Wehrmacht-Fahrzeuge: Kritik an Brandenburger CDU-Politiker wegen Militärvideo",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/02/kritik-an-brandenburger-cdu-politiker-wegen-militaervideo",
+      "published_date": "2026-04-02T14:23:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UN recognizes slave trade as gravest crime against humanity",
+      "title": "Uganda: Four children stabbed dead at Kampala kindergarten",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-26T01:24:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/uganda-four-children-stabbed-dead-at-kampala-kindergarten/a-76645784?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T14:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s amazing’: stolen 2,500-year-old Romanian gold helmet has been found",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
+      "published_date": "2026-04-02T13:04:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Citigroup orders home-working as US banks in Paris and Frankfurt tighten security",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260402/citigroup-orders-home-working-as-us-banks-in-paris-and-frankfurt-tighten-security",
+      "published_date": "2026-04-02T12:21:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Archaeologists discover wreck of Danish warship sunk by Nelson 225 years ago",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
+      "published_date": "2026-04-02T10:42:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Chancellor Merz has never been more unpopular",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-02T09:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Chancellor Merz has never been more unpopular",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T09:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denmark’s unique political model is in crisis – I blame the boomerang effect | Rune Lykkeberg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/denmark-unique-political-model-crisis-boomerang-effect",
+      "published_date": "2026-04-02T04:00:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wahlen: Haseloff: AfD will ein anderes System",
@@ -589,69 +687,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926",
       "published_date": "2026-04-01T10:16:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant boat capsizes in Turkey leaving 18 dead while 21 were rescued",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/migrant-boat-capsizes-in-turkey-leaving-18-dead-while-21-were-rescued/a-76619806?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T09:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn trains to and from Hamburg cancelled due to damaged lines",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260401/deutsche-bahn-cancels-trains-to-and-from-hamburg-due-to-damages",
-      "published_date": "2026-04-01T08:09:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Raise our heads and resist’: how Europe’s civil society is fighting back against the far right",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/apr/01/raise-our-heads-and-resist-how-europes-civil-society-is-fighting-back-against-the-far-right",
-      "published_date": "2026-04-01T06:30:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
-      "published_date": "2026-04-01T04:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge blocks Trump order that barred funding for NPR, PBS",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-judge-blocks-trump-order-that-barred-funding-for-npr-pbs/a-76615077?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T00:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court orders Trump to halt White House ballroom construction",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/court-orders-trump-to-halt-white-house-ballroom-construction/a-76615061?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
-      "published_date": "2026-03-31T18:01:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court rejects Colorado's 'conversion therapy' ban",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-supreme-court-rejects-colorado-s-conversion-therapy-ban/a-76613464?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
-      "published_date": "2026-03-31T16:13:45+00:00",
       "category": "Local Events"
     }
   ]
