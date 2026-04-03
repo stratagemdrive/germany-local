@@ -1,12 +1,26 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-02T14:41:37.995545+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-03T00:03:22.631412+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
+      "published_date": "2026-04-02T17:34:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How long can Iran's asymmetric strategy hold?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-long-can-iran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T13:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war: How long can Tehran's asymmetric strategy hold?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-how-long-can-tehran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-02T13:15:00+00:00",
       "category": "Diplomacy"
     },
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: Conservatives link immigration with crime",
+      "title": "Macron dismisses Trump's 'inelegant' dig about his marriage",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-conservatives-link-immigration-with-crime/a-76610076?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T14:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T22:39:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Has Pakistan outplayed India in Iran war diplomacy?",
+      "title": "Trump’s surreal speech on Iran shed no light on his goals | Kenneth Roth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction",
+      "published_date": "2026-04-02T18:29:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burkina Faso: Army behind most civilian deaths — report",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/has-pakistan-outplayed-india-in-iran-war-diplomacy/a-76607078?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T12:35:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T17:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war: Few solutions to fuel shortages in Africa",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-war-few-solutions-to-fuel-shortages-in-africa/a-76642504?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T16:08:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Europe should lift sanctions on Russian energy amid Iran crisis, Viktor Orbán says as he taunts Tusk – Europe live",
@@ -193,9 +221,23 @@
       "category": "Military"
     },
     {
+      "title": "Germany news: Lufthansa marks centenary amid testing times",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-marks-centenary-amid-testing-times/live-76636435?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-02T07:10:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran war: Oil prices jump, stocks fall after Trump speech",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-oil-prices-jump-stocks-fall-after-trump-speech/live-76635831?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T06:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US, Israel hit major bridge, steel plants in Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-israel-hit-major-bridge-steel-plants-in-iran/live-76635831?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-02T06:32:00+00:00",
       "category": "Military"
     },
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-trump-says-iran-s-president-asked-for-ceasefire/live-76615254?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-01T13:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
-      "published_date": "2026-04-01T13:02:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian military plane crash in Crimea kills at least 29",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T10:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian military plane crash in Crimea kills at least 29",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-01T10:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: New fuel price law prompts huge midday spike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-new-fuel-price-law-prompts-huge-midday-spike/live-76616425?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-01T06:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: New fuel price law prompts huge midday spike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-new-fuel-price-law-prompts-huge-midday-spike/live-76616425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T06:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: Jet fuel prices reach record high amid Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-jet-fuel-prices-reach-record-high-amid-iran-war/live-76615690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T06:37:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Is Germany facing an egg shortage this Easter?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260402/is-germany-facing-an-egg-shortage-this-easter",
+      "published_date": "2026-04-02T14:56:03+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Tanken: Grünenchef fordert wegen hoher Spritpreise Tempolimit auf Autobahnen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-04/tanken-spritpreise-tempolimit-autobahn-gruenen-chef-felix-banaszak",
@@ -434,6 +441,13 @@
       "title": "India news: Thousands affected as Oracle cuts jobs globally, say reports",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-thousands-affected-as-oracle-cuts-jobs-globally-say-reports/live-76636409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T07:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India news: Defense exports surge to over $4 billion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-defense-exports-surge-to-over-4-billion/live-76636409?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-02T07:41:00+00:00",
       "category": "Economy"
     },
