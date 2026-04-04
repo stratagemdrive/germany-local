@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-03T12:05:47.429774+00:00",
+  "last_updated": "2026-04-04T00:01:09.238518+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Greek ministers resign over EU farming subsidy scandal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-03T14:12:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Greek ministers resign over EU farming subsidy scandal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-03T14:12:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "German customs raid companies over suspected exports to Russia",
       "source": "The Local Germany",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine war briefing: Ukraine calls Hungary ‘a disgrace’ after leaked calls with Moscow emerge",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/ukraine-war-briefing-ukraine-calls-hungary-a-disgrace-after-leaked-calls-with-moscow-emerge",
-      "published_date": "2026-04-01T01:18:10+00:00",
-      "category": "Diplomacy"
+      "title": "Medien: Russische Desinformationskampagne in Argentinien aufgedeckt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/argentinien-spionagevorwuerfe-russland-javier-milei",
+      "published_date": "2026-04-03T22:52:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ausreise von Syrern aus Deutschland: Wer soll hier das Land verlassen?",
+      "title": "Bundeswehr: Reservistenverband fordert schnellere Aufnahme neuer Soldaten",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-03/ausreise-syrer-deutschland-80-prozent-ahmed-al-scharaa-friedrich-merz",
-      "published_date": "2026-03-31T19:20:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/reservistenverband-bundeswehr-kritik-versorgung-truppe",
+      "published_date": "2026-04-03T22:12:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump seeks $1.5T for defense, 10% cut to domestic programs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-03T19:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: One downed US fighter jet pilot rescued",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-one-downed-us-fighter-jet-pilot-rescued/live-76649854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-03T16:02:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Carl Gustav Jung: Unsere verrückten Heiligen: Carl Gustav Jung, der Herr der Schatten",
@@ -186,9 +214,30 @@
       "category": "Military"
     },
     {
+      "title": "Germany's peace movement gears up for its traditional Easter peace marches, overshadowed by war and possible conscription",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-peace-movement-gears-up-for-its-traditional-easter-peace-marches-overshadowed-by-war-and-possible-conscription/a-76644793?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-03T06:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's peace movement gears up for its traditional Easter peace marches, overshadowed by war and possible conscription",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-peace-movement-gears-up-for-its-traditional-easter-peace-marches-overshadowed-by-war-and-possible-conscription/a-76644793?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-03T06:38:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Germany news: Economist suggests autobahn speed limit amid Iran-enduced fuel price spike",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-03T05:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Economist suggests autobahn speed limit amid Iran-enduced fuel price spike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-03T05:34:00+00:00",
       "category": "Military"
     },
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-02T17:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war: Few solutions to fuel shortages in Africa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-war-few-solutions-to-fuel-shortages-in-africa/a-76642504?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T16:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe should lift sanctions on Russian energy amid Iran crisis, Viktor Orbán says as he taunts Tusk – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
-      "published_date": "2026-04-02T14:33:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil price jumps and markets slide after Trump warning to Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
-      "published_date": "2026-04-02T14:18:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How to save money on fuel in Germany as prices hit all time high",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260402/how-to-save-money-on-fuel-in-germany-as-prices-hit-all-time-high",
-      "published_date": "2026-04-02T14:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Denmark: Warship sunk by Nelson's British fleet discovered",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/denmark-warship-sunk-by-nelson-s-british-fleet-discovered/a-76643490?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T11:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: Donald Trump speaks on Iran, oil and economy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-donald-trump-speaks-on-iran-oil-and-economy/a-76636405?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T08:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coordinated conflict: how the Ukraine and Iran wars are starting to overlap",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/coordinated-conflict-how-the-ukraine-and-iran-wars-are-starting-to-overlap",
-      "published_date": "2026-04-02T08:00:21+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "‘Tempolimit? Nein, danke!’: why German petrolheads won’t slow down – despite the energy crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/27/germany-autobahn-no-speed-limits-energy-crisis",
-      "published_date": "2026-03-27T13:00:01+00:00",
-      "category": "Energy"
+      "title": "Turkey and Armenia: When will the border crossings open?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-and-armenia-when-will-the-border-crossings-open/a-76648630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-03T16:47:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Is Germany facing an egg shortage this Easter?",
@@ -557,6 +557,34 @@
       "category": "Economy"
     },
     {
+      "title": "Reformdebatte: Schulze pocht auf Mitsprache der Länder bei Reformen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/04/schulze-pocht-auf-mitsprache-der-laender-bei-reformen",
+      "published_date": "2026-04-03T22:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schwerpunkt Karfreitag: Car-Freitag: Polizei stellt Tuning-Autos in Stuttgart sicher",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/03/car-freitag-polizei-stellt-tuning-autos-in-stuttgart-sicher",
+      "published_date": "2026-04-03T21:37:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin-Tempelhof: \"Es ist, wie einen Vogel in einen Käfig zu sperren\"",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-04/gefluechtete-unterkunft-todesfaelle-berlin-tempelhof",
+      "published_date": "2026-04-03T18:52:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/03/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-04-03T16:53:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wehrmacht-Fahrzeuge: Kritik an Brandenburger CDU-Politiker wegen Militärvideo",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/03/kritik-an-brandenburger-cdu-politiker-wegen-militaervideo",
@@ -666,34 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/02/denmark-unique-political-model-crisis-boomerang-effect",
       "published_date": "2026-04-02T04:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlen: Haseloff: AfD will ein anderes System",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/02/haseloff-afd-will-ein-anderes-system",
-      "published_date": "2026-04-01T22:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish PM offers deal that could see far-right allowed into government",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government",
-      "published_date": "2026-04-01T18:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court debates citizenship, with rare Trump visit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-supreme-court-debates-citizenship-with-rare-trump-visit/a-76630576?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T16:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High times or low blows? Experts fail to clear air over German drug legalisation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
-      "published_date": "2026-04-01T16:48:07+00:00",
       "category": "Local Events"
     }
   ]
