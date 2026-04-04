@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-04T11:55:40.559633+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-04T23:59:33.714512+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Slowakei: Regierungschef Fico will EU-Sanktionen gegen russisches Öl beenden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/slowkakei-russland-eu-sanktionen-oel-gas",
+      "published_date": "2026-04-04T18:38:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
+      "published_date": "2026-04-04T12:58:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five EU nations urge tax on energy firms' windfall profits",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260404/five-eu-nations-urge-tax-on-energy-firms-windfall-profits",
+      "published_date": "2026-04-04T12:12:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Biometric checks stalled again for cross-Channel travellers",
       "source": "The Guardian",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz sees backlash over Syrian refugee comment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-sees-backlash-over-syrian-refugee-comment/a-76623240?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T11:48:00+00:00",
-      "category": "Diplomacy"
+      "title": "Fußball: Hertha-Spiel in Dresden wegen Ausschreitungen unterbrochen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/bundesliga-hertha-bsc-dynamo-dresden-spiel-unterbrochen-auseinandersetzungen",
+      "published_date": "2026-04-04T21:28:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's chancellor said 80% of Syrians should return to their home country in the next three years. Syrians in Germany are outraged.",
+      "title": "Kenya: Energy  executives step down amid fuel manipulation probe",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-chancellor-said-80-of-syrians-should-return-to-their-home-country-in-the-next-three-years-syrians-in-germany-are-outraged/a-76623240?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-01T11:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/kenya-energy-executives-step-down-amid-fuel-manipulation-probe/a-76663649?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T16:23:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's chancellor said 80% of Syrians should return to their home country in the next three years. Syrians in Germany are outraged.",
+      "title": "German men need military permit for extended stays abroad",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-chancellor-said-80-of-syrians-should-return-to-their-home-country-in-the-next-three-years-syrians-in-germany-are-outraged/a-76623240?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T11:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-04T15:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German men need military permit for extended stays abroad",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T15:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European drivers choke on rising diesel prices",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260404/european-drivers-choke-on-rising-diesel-prices",
+      "published_date": "2026-04-04T14:17:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Young German men refusing military service",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/young-german-men-refusing-military-service/a-76593888?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-04T13:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Young German men refusing military service",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/young-german-men-refusing-military-service/a-76593888?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T13:57:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Friedensbewegung: Friedensaktivisten demonstrieren bei über 70 Ostermärschen",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland greift Ukraine mit Hunderten Drohnen und Raketen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/russland-luftangriff-ukraine-drohnen-marschflugkoerper-gxe",
-      "published_date": "2026-04-03T10:49:53+00:00",
-      "category": "Military"
+      "title": "German, EU finance ministers call for energy windfall tax",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-04T14:30:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine: Kharkiv under repeated attack on 1,500th day of war",
+      "title": "German, EU finance ministers call for energy windfall tax",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-kharkiv-under-repeated-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T09:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Easter peace marches planned in shadow of war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-easter-peace-marches-planned-in-shadow-of-war/a-76644793?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-03T06:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Easter peace marches planned in shadow of war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-easter-peace-marches-planned-in-shadow-of-war/a-76644793?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T06:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's peace movement gears up for its traditional Easter peace marches, overshadowed by war and possible conscription",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-peace-movement-gears-up-for-its-traditional-easter-peace-marches-overshadowed-by-war-and-possible-conscription/a-76644793?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-03T06:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's peace movement gears up for its traditional Easter peace marches, overshadowed by war and possible conscription",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-peace-movement-gears-up-for-its-traditional-easter-peace-marches-overshadowed-by-war-and-possible-conscription/a-76644793?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T06:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Economist suggests autobahn speed limit amid Iran-enduced fuel price spike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T05:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T14:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba: 2,000 prisoners pardoned in Holy Week gesture",
@@ -403,9 +417,23 @@
       "category": "Economy"
     },
     {
+      "title": "Germany news: People change Easter holiday plans amid crises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-people-change-easter-holiday-plans-amid-crises/live-76650036?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-04T09:17:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Beauty as strategy: Why K-beauty is also a political success",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T04:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How South Korea is using K-beauty trend to boost soft power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-south-korea-is-using-k-beauty-trend-to-boost-soft-power/a-76652311?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-04T04:57:00+00:00",
       "category": "Economy"
     },
@@ -522,18 +550,25 @@
       "category": "Economy"
     },
     {
-      "title": "Feuer: Großbrand in Waltenhofen – 100.000 Euro Schaden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/29/grossbrand-in-waltenhofen-100-000-euro-schaden",
-      "published_date": "2026-03-29T21:03:52+00:00",
-      "category": "Economy"
+      "title": "France: Thousands join Paris suburb mayor to protest racism",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-thousands-join-paris-suburb-mayor-to-protest-racism/a-76663818?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T17:39:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Young voters shake Italy’s political calm as referendum exposes tensions for Giorgia Meloni",
+      "title": "Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/young-voters-italy-referendum-giorgia-meloni",
-      "published_date": "2026-03-28T12:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
+      "published_date": "2026-04-04T16:10:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
+      "published_date": "2026-04-04T14:58:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peru: Stadium crush leaves one dead, dozens injured",
@@ -648,31 +683,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
-      "published_date": "2026-04-02T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wehrmacht-Fahrzeuge: Kritik an Brandenburger CDU-Politiker wegen Militärvideo",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/02/kritik-an-brandenburger-cdu-politiker-wegen-militaervideo",
-      "published_date": "2026-04-02T14:23:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uganda: Four children stabbed dead at Kampala kindergarten",
+      "title": "German Chancellor Merz has never been more unpopular",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uganda-four-children-stabbed-dead-at-kampala-kindergarten/a-76645784?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T14:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s amazing’: stolen 2,500-year-old Romanian gold helmet has been found",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
-      "published_date": "2026-04-02T13:04:31+00:00",
+      "url": "https://www.dw.com/en/german-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-02T17:25:00+00:00",
       "category": "Local Events"
     }
   ]
