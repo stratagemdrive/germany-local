@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-04T00:01:09.238518+00:00",
-  "story_count": 99,
+  "last_updated": "2026-04-04T11:55:40.559633+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Biometric checks stalled again for cross-Channel travellers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
+      "published_date": "2026-04-04T08:00:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Greek ministers resign over EU farming subsidy scandal",
       "source": "Deutsche Welle",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Delayed by EU entry/exit system? Then travel light",
+      "title": "Friedensbewegung: Friedensaktivisten demonstrieren bei über 70 Ostermärschen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/ostermaersche-deutschland-friedensbewegung",
+      "published_date": "2026-04-04T11:50:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Roberto Mazzarella: Italienische Polizei fasst gesuchten Mafiaboss in Luxusvilla",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/roberto-mazzarella-mafiaboss-verhaftet-italien",
+      "published_date": "2026-04-04T10:52:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: LPG tanker headed for Mumbai crosses Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-lpg-tanker-headed-for-mumbai-crosses-strait-of-hormuz/live-76658437?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T07:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: 14 people killed in 'massive' Russian attack on 1,500th day of war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-14-people-killed-in-massive-russian-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T06:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The frontline is like Terminator’: fighting robots give Ukraine hope in war with Russia",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light",
-      "published_date": "2026-04-01T06:00:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia",
+      "published_date": "2026-04-04T06:00:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Search on for missing crew member of downed US jet",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-search-on-for-missing-crew-member-of-downed-us-jet/live-76657680?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T01:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
+      "published_date": "2026-04-04T00:30:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Medien: Russische Desinformationskampagne in Argentinien aufgedeckt",
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-03T05:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Economist suggests autobahn speed limit amid Iran-enduced fuel price spike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-03T05:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are Iran-allied paramilitaries dragging Iraq into the war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-iran-allied-paramilitaries-dragging-iraq-into-the-war/a-76643752?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T05:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: UNSC to vote on Gulf-led resolution to open Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T02:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy offers expertise on keeping waterways open amid Middle East conflict",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict",
-      "published_date": "2026-04-03T00:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Macron dismisses Trump's 'inelegant' dig about his marriage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T22:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s surreal speech on Iran shed no light on his goals | Kenneth Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction",
-      "published_date": "2026-04-02T18:29:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina Faso: Army behind most civilian deaths — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T17:12:00+00:00",
       "category": "Military"
     },
     {
@@ -396,25 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "Earth Hour: Monuments to go dark as 20th edition kicks off",
+      "title": "Germany news: People change Easter holiday plans amid crises",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/earth-hour-monuments-to-go-dark-as-20th-edition-kicks-off/a-76576232?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T09:31:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-people-change-easter-holiday-plans-amid-crises/live-76650036?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T09:17:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy crisis may force Germany to run coal plants longer",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260328/energy-crisis-may-force-germany-to-run-coal-plants-longer",
-      "published_date": "2026-03-28T08:56:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar is winning the energy race",
+      "title": "Beauty as strategy: Why K-beauty is also a political success",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T08:28:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T04:57:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Turkey and Armenia: When will the border crossings open?",
@@ -543,18 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "Pope Leo tells Monaco to use 'gift of smallness' for good",
+      "title": "Peru: Stadium crush leaves one dead, dozens injured",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-tells-monaco-to-use-gift-of-smallness-for-good/a-76577459?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-28T11:45:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/peru-stadium-crush-leaves-one-dead-dozens-injured/a-76660551?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T11:44:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pope Leo tells Monaco to use 'gift of smallness' for good",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-tells-monaco-to-use-gift-of-smallness-for-good/a-76577459?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-03-28T11:45:00+00:00",
-      "category": "Economy"
+      "title": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
+      "published_date": "2026-04-04T11:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dietmar Woidke: \"Ich will nicht all unseren Strom an Herrn Söder nach Bayern schicken\"",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/dietmar-woidke-brandenburg-spd-cdu-afd",
+      "published_date": "2026-04-04T09:51:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian council buys Mussolini’s villa to keep it away from ‘fascist nostalgics’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/italian-council-buys-mussolini-villa-riccione-fascist-nostalgics",
+      "published_date": "2026-04-04T08:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right",
+      "published_date": "2026-04-04T07:47:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reformdebatte: Schulze pocht auf Mitsprache der Länder bei Reformen",
@@ -659,41 +673,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
       "published_date": "2026-04-02T13:04:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Citigroup orders home-working as US banks in Paris and Frankfurt tighten security",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260402/citigroup-orders-home-working-as-us-banks-in-paris-and-frankfurt-tighten-security",
-      "published_date": "2026-04-02T12:21:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Archaeologists discover wreck of Danish warship sunk by Nelson 225 years ago",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
-      "published_date": "2026-04-02T10:42:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Chancellor Merz has never been more unpopular",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-02T09:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Chancellor Merz has never been more unpopular",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T09:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark’s unique political model is in crisis – I blame the boomerang effect | Rune Lykkeberg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/denmark-unique-political-model-crisis-boomerang-effect",
-      "published_date": "2026-04-02T04:00:18+00:00",
       "category": "Local Events"
     }
   ]
