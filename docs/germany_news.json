@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-04T23:59:33.714512+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-05T11:57:03.710010+00:00",
+  "story_count": 96,
   "stories": [
     {
       "title": "Slowakei: Regierungschef Fico will EU-Sanktionen gegen russisches Öl beenden",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Uproar in Germany over law requiring men get military approval for long stays abroad",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/uproar-germany-law-men-up-to-45-military-permission-long-stays-abroad",
+      "published_date": "2026-04-05T11:45:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German men required to inform military of extended foreign trips under new law",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260405/german-men-required-to-inform-military-of-extended-foreign-trips-under-new-law",
+      "published_date": "2026-04-05T10:26:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Nobody would forgive me if I told the truth’: new film about pacifist turned Nazi collaborator divides France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/05/les-rayons-et-les-ombres-rays-and-shadows-xavier-giannoli-jean-dujardin",
+      "published_date": "2026-04-05T05:00:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US says missing crew member from downed jet found",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-says-missing-crew-member-from-downed-jet-found/live-76665046?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T04:36:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Fußball: Hertha-Spiel in Dresden wegen Ausschreitungen unterbrochen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-04/bundesliga-hertha-bsc-dynamo-dresden-spiel-unterbrochen-auseinandersetzungen",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump seeks $1.5T for defense, 10% cut to domestic programs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T19:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: One downed US fighter jet pilot rescued",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-one-downed-us-fighter-jet-pilot-rescued/live-76649854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T16:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Carl Gustav Jung: Unsere verrückten Heiligen: Carl Gustav Jung, der Herr der Schatten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/carl-gustav-jung-psychologie-traeume-bibelpodcast",
-      "published_date": "2026-04-03T11:56:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj bewertet Lage \"so gut wie seit zehn Monaten nicht mehr\"",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-04-03T11:01:30+00:00",
-      "category": "Military"
-    },
-    {
       "title": "German, EU finance ministers call for energy windfall tax",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-ger-1023-rdf",
@@ -295,6 +295,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-04T14:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "India news: New Delhi turns back to Iranian crude after seven years",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-new-delhi-turns-back-to-iranian-crude-after-seven-years/live-76658437?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T07:02:00+00:00",
       "category": "Energy"
     },
     {
@@ -386,27 +393,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-lets-russian-oil-tanker-approach-cuba-despite-blockade/a-76587296?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-03-30T04:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wetter: Karwoche beginnt nass, kalt und windig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-03/wetter-karwoche-wind-schauer-schnee-gxe",
-      "published_date": "2026-03-29T10:04:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nepal: Ex-energy minister arrested in money laundering case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-ex-energy-minister-arrested-in-money-laundering-case/a-76583166?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-29T09:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nuclear power in Africa: Big dreams, bigger hurdles",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-29T07:31:00+00:00",
       "category": "Energy"
     },
     {
@@ -550,6 +536,48 @@
       "category": "Economy"
     },
     {
+      "title": "Fußball: Ermittlungen nach Ausschreitungen beim Hertha-Spiel in Dresden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/ausschreitungen-ermittlungen-dresden-hertha",
+      "published_date": "2026-04-05T11:12:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a mother turned her drowned daughter’s passion into a thriving patisserie",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/germany-patisserie-johanna-orth-bereaved-parents-ahr-valley-floods",
+      "published_date": "2026-04-05T07:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Paris swapped cars for bikes – and transformed its streets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
+      "published_date": "2026-04-05T07:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T05:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-05T05:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Slovakia PM calls on EU to lift sanctions on Russian oil and gas",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas",
+      "published_date": "2026-04-05T00:03:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France: Thousands join Paris suburb mayor to protest racism",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-thousands-join-paris-suburb-mayor-to-protest-racism/a-76663818?maca=en-rss-en-all-1573-rdf",
@@ -645,48 +673,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260403/russian-court-convicts-german-carnival-float-artist",
       "published_date": "2026-04-03T10:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm Erminio lashes much of Greece as Saharan dust blankets Crete",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/apr/03/storm-erminio-saharan-dust-crete-greece-italy-rain-flooding-afghanistan",
-      "published_date": "2026-04-03T09:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after setting off pyrotechnics on German train, injuring 12",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260403/man-arrested-after-setting-off-pyrotechnics-on-german-train-injuring-12",
-      "published_date": "2026-04-03T07:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stop brunch! How a rustic Catalan meal is taking the fight to bland food and overtourism | Abbas Asaria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/stop-brunch-rustic-catalan-meal-food-overtourism-barcelona",
-      "published_date": "2026-04-03T04:00:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nuns who broke back into their Austrian convent ‘are step closer to being able to stay’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/nuns-who-broke-back-into-their-austrian-convent-are-step-closer-to-being-able-to-stay",
-      "published_date": "2026-04-03T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary elections: what is at stake and who is likely to win?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
-      "published_date": "2026-04-03T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German Chancellor Merz has never been more unpopular",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-02T17:25:00+00:00",
       "category": "Local Events"
     }
   ]
