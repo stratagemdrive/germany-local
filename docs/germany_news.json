@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-05T11:57:03.710010+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-06T00:02:04.971082+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
+      "published_date": "2026-04-05T13:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Slowakei: Regierungschef Fico will EU-Sanktionen gegen russisches Öl beenden",
       "source": "ZEIT Online",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz sees backlash over Syrian refugee comment",
+      "title": "Bundeswehr: Wehrdienstgesetz zu Auslandsreisen sorgt für Kritik",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/gruene-fordern-aufklaerung-reiseregeln-junge-maenner",
+      "published_date": "2026-04-05T18:10:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump sees 'good chance' of deal, warns of 'hell'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-sees-backlash-over-syrian-refugee-comment/a-76623240?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-01T11:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-sees-good-chance-of-deal-warns-of-hell/live-76665046?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T14:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India's growth forecast slashed to 6% amid Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-s-growth-forecast-slashed-to-6-amid-iran-war/live-76658437?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T13:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope's Easter message: Leaders must choose peace over war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T12:21:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Uproar in Germany over law requiring men get military approval for long stays abroad",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: Search on for missing crew member of downed US jet",
+      "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-search-on-for-missing-crew-member-of-downed-us-jet/live-76657680?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T01:33:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T17:54:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
+      "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-05T17:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
-      "published_date": "2026-04-04T00:30:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Medien: Russische Desinformationskampagne in Argentinien aufgedeckt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/argentinien-spionagevorwuerfe-russland-javier-milei",
-      "published_date": "2026-04-03T22:52:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehr: Reservistenverband fordert schnellere Aufnahme neuer Soldaten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/reservistenverband-bundeswehr-kritik-versorgung-truppe",
-      "published_date": "2026-04-03T22:12:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
+      "published_date": "2026-04-05T17:13:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "German, EU finance ministers call for energy windfall tax",
@@ -529,11 +550,25 @@
       "category": "Economy"
     },
     {
-      "title": "Im Nordwesten von Hessen: Großbrand: Haus unbewohnbar, Hunderttausende Euro Schaden",
+      "title": "Verkehr: Zwei Schwerverletzte bei Verkehrsunfall in Hannover",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-03/30/grossbrand-haus-unbewohnbar-hunderttausende-euro-schaden",
-      "published_date": "2026-03-29T22:06:54+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-04/05/drei-schwerverletzte-bei-verkehrsunfall-in-hannover",
+      "published_date": "2026-04-05T22:31:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria's army rescues 31 hostages after church attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-s-army-rescues-31-hostages-after-church-attack/a-76675665?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T22:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 28. Spieltag – Sonntag: Köln erkämpft Remis in Frankfurt, Union und St. Pauli unentschieden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/bundesliga-28-spieltag-sonntag-union-berlin-st-pauli-frankfurt-koeln",
+      "published_date": "2026-04-05T18:26:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fußball: Ermittlungen nach Ausschreitungen beim Hertha-Spiel in Dresden",
@@ -567,6 +602,20 @@
       "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-05T05:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Estonia, rumors are circulating that the city of Narva wants to secede and join Russia. Is it true?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-estonia-rumors-are-circulating-that-the-city-of-narva-wants-to-secede-and-join-russia-is-it-true/a-76663710?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-05T05:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Estonia, rumors are circulating that the city of Narva wants to secede and join Russia. Is it true?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-estonia-rumors-are-circulating-that-the-city-of-narva-wants-to-secede-and-join-russia-is-it-true/a-76663710?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-05T05:14:00+00:00",
       "category": "Local Events"
     },
@@ -638,41 +687,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/04/schulze-pocht-auf-mitsprache-der-laender-bei-reformen",
       "published_date": "2026-04-03T22:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schwerpunkt Karfreitag: Car-Freitag: Polizei stellt Tuning-Autos in Stuttgart sicher",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/03/car-freitag-polizei-stellt-tuning-autos-in-stuttgart-sicher",
-      "published_date": "2026-04-03T21:37:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin-Tempelhof: \"Es ist, wie einen Vogel in einen Käfig zu sperren\"",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/gefluechtete-unterkunft-todesfaelle-berlin-tempelhof",
-      "published_date": "2026-04-03T18:52:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/03/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-04-03T16:53:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wehrmacht-Fahrzeuge: Kritik an Brandenburger CDU-Politiker wegen Militärvideo",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/03/kritik-an-brandenburger-cdu-politiker-wegen-militaervideo",
-      "published_date": "2026-04-03T11:46:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian court convicts German carnival float artist",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260403/russian-court-convicts-german-carnival-float-artist",
-      "published_date": "2026-04-03T10:00:17+00:00",
       "category": "Local Events"
     }
   ]
