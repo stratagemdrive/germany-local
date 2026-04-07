@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-06T14:16:33.600563+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-07T00:05:03.788912+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Greek PM vows to tackle ‘deep state’ in wake of farm fraud scandal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/06/greek-pm-vows-to-tackle-deep-state-in-wake-of-farm-scandal",
+      "published_date": "2026-04-06T16:59:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
       "source": "The Guardian",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kommunalwahl in Frankreich: Streit um abgehängte EU-Flaggen an französischen Rathäusern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/frankreich-rathaeuser-rn-rechtspopulisten-eu-flaggen",
-      "published_date": "2026-04-01T14:20:17+00:00",
-      "category": "Diplomacy"
+      "title": "Hungary puts gas pipeline under military protection amid false-flag accusations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/06/hungary-puts-gas-pipeline-under-military-protection-amid-false-flag-accusations",
+      "published_date": "2026-04-06T17:51:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea: Kim's daughter now seen as likely heir — South",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-06T16:09:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Bombing of Iran's pharma producers threatens patients' lives",
@@ -214,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran war: Tehran reportedly rejects ceasefire proposal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-tehran-reportedly-rejects-ceasefire-proposal/live-76675879?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-06T03:01:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ukraine war briefing: Russian oil facilities burn as Zelenskyy tours Middle East",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/06/ukraine-war-briefing-russian-oil-facilities-burn-as-zelenskyy-tours-middle-east",
@@ -260,27 +281,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260405/german-men-required-to-inform-military-of-extended-foreign-trips-under-new-law",
       "published_date": "2026-04-05T10:26:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Nobody would forgive me if I told the truth’: new film about pacifist turned Nazi collaborator divides France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/05/les-rayons-et-les-ombres-rays-and-shadows-xavier-giannoli-jean-dujardin",
-      "published_date": "2026-04-05T05:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US says missing crew member from downed jet found",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-says-missing-crew-member-from-downed-jet-found/live-76665046?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T04:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fußball: Hertha-Spiel in Dresden wegen Ausschreitungen unterbrochen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/bundesliga-hertha-bsc-dynamo-dresden-spiel-unterbrochen-auseinandersetzungen",
-      "published_date": "2026-04-04T21:28:04+00:00",
       "category": "Military"
     },
     {
@@ -487,6 +487,13 @@
       "category": "Economy"
     },
     {
+      "title": "How US 'Liberation Day' tariffs reshaped global trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-us-liberation-day-tariffs-reshaped-global-trade/a-76303601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-02T05:20:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Iran war: Strikes on steel deal painful blow to economy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-all-1573-rdf",
@@ -522,6 +529,20 @@
       "category": "Economy"
     },
     {
+      "title": "FDP: Henning Höne hält trotz Kubicki an Kandidatur für FDP-Vorsitz fest",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/fdp-vorsitz-henning-hoene-wolfgang-kubicki-christian-duerr",
+      "published_date": "2026-04-06T23:17:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brände: Zwei Brände in Stuttgart - Feuerwehr im Dauereinsatz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/06/zwei-braende-in-stuttgart-feuerwehr-im-dauereinsatz",
+      "published_date": "2026-04-06T20:46:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Geschichte: Lufthansa feiert in Berlin ersten Linienflug vor 100 Jahren",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/06/lufthansa-feiert-in-berlin-ersten-linienflug-vor-100-jahren",
@@ -533,6 +554,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/06/entwurf-eine-milliarde-jaehrlich-fuer-laender-und-kommunen",
       "published_date": "2026-04-06T14:01:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wolf that bit woman in Germany released back into wild",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260406/wolf-that-bit-woman-in-germany-released-back-into-wild",
+      "published_date": "2026-04-06T13:58:17+00:00",
       "category": "Local Events"
     },
     {
@@ -638,27 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
       "published_date": "2026-04-04T16:10:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
-      "published_date": "2026-04-04T14:58:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru: Stadium crush leaves one dead, dozens injured",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peru-stadium-crush-leaves-one-dead-dozens-injured/a-76660551?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T11:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
-      "published_date": "2026-04-04T11:00:21+00:00",
       "category": "Local Events"
     }
   ]
