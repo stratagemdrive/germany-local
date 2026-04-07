@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-07T00:05:03.788912+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-07T14:58:16.123576+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
+      "published_date": "2026-04-07T14:42:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Korea turns to EU to revive talks with the North",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T13:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe mulls the prospect of a NATO without the US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/europe-mulls-the-prospect-of-a-nato-without-the-us/a-76682522?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T11:09:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Greek PM vows to tackle ‘deep state’ in wake of farm fraud scandal",
       "source": "The Guardian",
@@ -123,25 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Guardian view on Ukraine’s perilous spring: Europe’s steadfast support is more vital than ever | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-ukraines-perilous-spring-europes-steadfast-support-is-more-vital-than-ever",
-      "published_date": "2026-04-01T18:32:13+00:00",
-      "category": "Diplomacy"
+      "title": "Kanye West: Großbritannien verweigert Rapper Kanye West vor Festival die Einreise",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-04/rapper-kanye-west-antisemitische-aeusserungen-england-london-einreise-gxe",
+      "published_date": "2026-04-07T14:19:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump lashes out at Nato: will Europe stand up to him? - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/apr/01/trump-lashes-out-at-nato-will-europe-stand-up-to-him-the-latest",
-      "published_date": "2026-04-01T16:26:33+00:00",
-      "category": "Diplomacy"
+      "title": "Inside India's courts, AI's growing role sparks concern",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T12:28:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
-      "published_date": "2026-04-01T14:35:24+00:00",
-      "category": "Diplomacy"
+      "title": "France: One killed as high-speed TGV train derails after truck crash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-one-killed-as-high-speed-tgv-train-derails-after-truck-crash/a-76690044?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T11:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: Nuclear reactor in Kalpakkam attains criticality",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-nuclear-reactor-in-kalpakkam-attains-criticality/live-76682852?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T08:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Minister floats fare-dodging decriminalization",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-07T08:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Minister floats fare-dodging decriminalization",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T08:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump amps up threats ahead of Hormuz deadline",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-amps-up-threats-ahead-of-hormuz-deadline/live-76683315?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T07:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260407/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-118",
+      "published_date": "2026-04-07T06:24:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can small nuclear reactors solve Europe's energy woes?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-small-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T06:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can small nuclear reactors solve Europe's energy woes?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-small-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-07T06:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia arrests decorated veteran Ben Roberts-Smith on war crimes charges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-arrests-decorated-veteran-ben-roberts-smith-on-war-crimes-charges/a-76682712?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T05:49:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Hungary puts gas pipeline under military protection amid false-flag accusations",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russians living in exile cope with grief far from home",
+      "title": "US citizens beat rising energy bills with homegrown power",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-06T05:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We don’t want pity’: Ukrainian war veterans face off in amputee boxing championship",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/apr/06/ukraine-war-veterans-amputee-boxing-championship",
-      "published_date": "2026-04-06T04:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Israel attacks Iran's South Pars gas field again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-israel-attacks-iran-s-south-pars-gas-field-again/live-76675879?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-06T03:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Tehran reportedly rejects ceasefire proposal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-reportedly-rejects-ceasefire-proposal/live-76675879?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-06T03:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian oil facilities burn as Zelenskyy tours Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/06/ukraine-war-briefing-russian-oil-facilities-burn-as-zelenskyy-tours-middle-east",
-      "published_date": "2026-04-06T02:05:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehr: Wehrdienstgesetz zu Auslandsreisen sorgt für Kritik",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/gruene-fordern-aufklaerung-reiseregeln-junge-maenner",
-      "published_date": "2026-04-05T18:10:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump sees 'good chance' of deal, warns of 'hell'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-sees-good-chance-of-deal-warns-of-hell/live-76665046?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T14:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India's growth forecast slashed to 6% amid Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-growth-forecast-slashed-to-6-amid-iran-war/live-76658437?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T13:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope's Easter message: Leaders must choose peace over war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T12:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uproar in Germany over law requiring men get military approval for long stays abroad",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/uproar-germany-law-men-up-to-45-military-permission-long-stays-abroad",
-      "published_date": "2026-04-05T11:45:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German men required to inform military of extended foreign trips under new law",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260405/german-men-required-to-inform-military-of-extended-foreign-trips-under-new-law",
-      "published_date": "2026-04-05T10:26:04+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-citizens-beat-rising-energy-bills-with-homegrown-power/a-76566780?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T13:15:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
@@ -323,6 +330,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-new-delhi-turns-back-to-iranian-crude-after-seven-years/live-76658437?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-04T07:02:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Drill baby drill' ― Trump opens up nature to big energy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/drill-baby-drill-―-trump-opens-up-nature-to-big-energy/a-76411423?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-04T06:00:00+00:00",
       "category": "Energy"
     },
     {
@@ -394,6 +408,13 @@
       "url": "https://www.dw.com/en/germany-news-new-rules-to-tamp-down-gasoline-price-hikes/live-76616425?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-01T06:54:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "‘Italy has the best benefits’: Milan takes on Dubai as home for the super-rich",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
+      "published_date": "2026-04-07T04:00:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mercedes G-Klasse: G bitte",
@@ -515,18 +536,74 @@
       "category": "Economy"
     },
     {
-      "title": "How Germany's major public health insurance reform will affect you",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260331/how-germanys-major-public-health-insurance-reform-will-affect-you",
-      "published_date": "2026-03-31T11:59:51+00:00",
-      "category": "Economy"
+      "title": "Gunman killed in shootout near Israel's Istanbul consulate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gunman-killed-in-shootout-near-israel-s-istanbul-consulate/a-76695392?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T14:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US trade chief lambasts WTO after failed talks",
+      "title": "Spanish politicians clash over request to move Picasso’s Guernica",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/spain-politician-clash-picasso-guernica",
+      "published_date": "2026-04-07T14:34:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a piece of Berlin's cultural history just went into space",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260407/how-a-piece-of-berlins-cultural-history-just-went-into-space",
+      "published_date": "2026-04-07T13:15:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where public transport strikes will hit passengers in Germany this week",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260407/where-public-transport-strikes-will-hit-passengers-in-germany-this-week",
+      "published_date": "2026-04-07T12:07:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viktor Orbán told Putin ‘I am at your service’ in October phone call",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
+      "published_date": "2026-04-07T11:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: US dispatches JD Vance to aid Orban reelection bid",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-trade-chief-lambasts-wto-after-failed-talks/a-76600658?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-03-31T03:53:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/hungary-us-dispatches-jd-vance-to-aid-orban-reelection-bid/a-76685625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T09:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Stranger review – lustrously beautiful and superbly realised modern take on the Camus classic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/07/the-stranger-review-francois-ozon-adaptation-albert-camus-l-tranger",
+      "published_date": "2026-04-07T08:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vietnam elects Communist Party leader To Lam as president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vietnam-elects-communist-party-leader-to-lam-as-president/a-76682860?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T05:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From ‘stink bugs’ to ‘enemies of the people’: how Viktor Orbán blazed a trail for Trump’s media assaults | Amrit Singh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election",
+      "published_date": "2026-04-07T04:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy reiterates truce offer ahead of Orthodox Easter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/ukraine-russia-war-briefing-zelenskyy-orthodox-easter-truce-offer",
+      "published_date": "2026-04-07T00:34:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "FDP: Henning Höne hält trotz Kubicki an Kandidatur für FDP-Vorsitz fest",
@@ -596,76 +673,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-04/bundesliga-28-spieltag-sonntag-union-berlin-st-pauli-frankfurt-koeln",
       "published_date": "2026-04-05T18:26:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: Ermittlungen nach Ausschreitungen beim Hertha-Spiel in Dresden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/ausschreitungen-ermittlungen-dresden-hertha",
-      "published_date": "2026-04-05T11:12:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a mother turned her drowned daughter’s passion into a thriving patisserie",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/germany-patisserie-johanna-orth-bereaved-parents-ahr-valley-floods",
-      "published_date": "2026-04-05T07:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Paris swapped cars for bikes – and transformed its streets",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
-      "published_date": "2026-04-05T07:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T05:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-05T05:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Estonia, rumors are circulating that the city of Narva wants to secede and join Russia. Is it true?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-estonia-rumors-are-circulating-that-the-city-of-narva-wants-to-secede-and-join-russia-is-it-true/a-76663710?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T05:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Estonia, rumors are circulating that the city of Narva wants to secede and join Russia. Is it true?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-estonia-rumors-are-circulating-that-the-city-of-narva-wants-to-secede-and-join-russia-is-it-true/a-76663710?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-05T05:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Slovakia PM calls on EU to lift sanctions on Russian oil and gas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas",
-      "published_date": "2026-04-05T00:03:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Thousands join Paris suburb mayor to protest racism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-thousands-join-paris-suburb-mayor-to-protest-racism/a-76663818?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T17:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
-      "published_date": "2026-04-04T16:10:50+00:00",
       "category": "Local Events"
     }
   ]
