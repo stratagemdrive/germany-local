@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-08T05:31:04.696053+00:00",
-  "story_count": 99,
+  "last_updated": "2026-04-08T14:59:37.747541+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Justiz: Hitlergruß im Bundestag? AfD-Abgeordneter muss vor Gericht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/08/hitlergruss-im-bundestag-afd-abgeordneter-muss-vor-gericht",
+      "published_date": "2026-04-08T14:48:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to ‘convey concerns’ to US about Vance’s Hungary intervention – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
+      "published_date": "2026-04-08T14:21:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance criticizes Zelenskyy and Ukraine in Hungary on visit campaigning for Viktor Orban",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jd-vance-criticizes-zelenskyy-and-ukraine-in-hungary-on-visit-campaigning-for-viktor-orban/a-76706045?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T14:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘A full-on embrace’: how the EU’s largest news publisher fell in love with the US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/apr/08/how-axel-springer-germany-mathias-doepfner-us-political",
+      "published_date": "2026-04-08T07:46:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germans pining for Gerhard Schröder forget his errors and ties to Putin. The SPD needs a fresh approach | Katja Hoyer",
       "source": "The Guardian",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How long can Iran's asymmetric strategy hold?",
+      "title": "Iran doubles down on executions amid US-Israeli war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-long-can-iran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T13:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-doubles-down-on-executions-amid-us-israeli-war/a-76710640?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T14:48:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war: How long can Tehran's asymmetric strategy hold?",
+      "title": "How farmers adapt as Iran war fertilizer crunch heats up",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-how-long-can-tehran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T13:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-farmers-adapt-as-iran-war-fertilizer-crunch-heats-up/a-76705488?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T12:30:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Shein, Temu: Why European consumers will pay more for cheap online orders",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260402/shein-temu-why-european-consumers-will-pay-more-for-cheap-online-orders",
-      "published_date": "2026-04-02T11:38:55+00:00",
-      "category": "Diplomacy"
+      "title": "‘A step back from the brink’: European leaders welcome US-Iran ceasefire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/08/european-leaders-welcome-us-iran-ceasefire",
+      "published_date": "2026-04-08T09:50:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260402/today-in-germany-a-roundup-of-the-latest-news-on-thursday-113",
-      "published_date": "2026-04-02T06:40:32+00:00",
-      "category": "Diplomacy"
+      "title": "60 years after the Indonesian mass killings: Is the Cold War back?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/60-years-after-the-indonesian-mass-killings-is-the-cold-war-back/a-76504740?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T08:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will AI doom office space to history?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-ai-doom-office-space-to-history/a-76609217?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T07:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Military travel rule for young men put on hold",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-military-travel-rule-for-young-men-put-on-hold/live-76701957?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-08T07:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Military travel rule for young men put on hold",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-military-travel-rule-for-young-men-put-on-hold/live-76701957?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T07:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungarians living in Ukraine caught between front lines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungarians-living-in-ukraine-caught-between-front-lines/a-76664206?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T06:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungarians living in Ukraine caught between front lines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungarians-living-in-ukraine-caught-between-front-lines/a-76664206?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-08T06:44:00+00:00",
+      "category": "Military"
     },
     {
       "title": "From the archive: Freedom without constraints: how the US squandered its cold war victory – podcast",
@@ -155,6 +218,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
       "published_date": "2026-04-08T01:22:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Hegseth declares 'historic' victory for US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-hegseth-declares-historic-victory-for-us/live-76700191?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T22:45:00+00:00",
       "category": "Military"
     },
     {
@@ -214,76 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Minister floats fare-dodging decriminalization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T08:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump amps up threats ahead of Hormuz deadline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-amps-up-threats-ahead-of-hormuz-deadline/live-76683315?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T07:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260407/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-118",
-      "published_date": "2026-04-07T06:24:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can small nuclear reactors solve Europe's energy woes?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-small-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T06:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can small nuclear reactors solve Europe's energy woes?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-small-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-07T06:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia arrests decorated veteran Ben Roberts-Smith on war crimes charges",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-arrests-decorated-veteran-ben-roberts-smith-on-war-crimes-charges/a-76682712?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T05:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary puts gas pipeline under military protection amid false-flag accusations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/06/hungary-puts-gas-pipeline-under-military-protection-amid-false-flag-accusations",
-      "published_date": "2026-04-06T17:51:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea: Kim's daughter now seen as likely heir — South",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-06T16:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bombing of Iran's pharma producers threatens patients' lives",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-06T13:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pelz in der Mode: Sieht aus wie Nerz, ist aus Brennnessel",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/15/pelz-mode-kunstpelz-vintage-nachhaltigkeit",
-      "published_date": "2026-04-06T13:39:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
@@ -294,6 +294,13 @@
       "title": "US citizens beat rising energy bills with homegrown power",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-citizens-beat-rising-energy-bills-with-homegrown-power/a-76566780?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-07T13:15:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How to insulate your household from soaring energy bills",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-to-insulate-your-household-from-soaring-energy-bills/a-76566780?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-07T13:15:00+00:00",
       "category": "Energy"
     },
@@ -403,18 +410,18 @@
       "category": "Energy"
     },
     {
-      "title": "In Europe, lobbyists are using soaring fuel prices to make the case for more dirty energy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/in-europe-lobbyists-are-using-soaring-fuel-prices-to-make-the-case-for-more-dirty-energy",
-      "published_date": "2026-04-01T14:30:58+00:00",
-      "category": "Energy"
+      "title": "Hamburg-Eißendorf: 5.000 Euro Belohnung nach Tötungsdelikt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/08/5-000-euro-belohnung-nach-toetungsdelikt",
+      "published_date": "2026-04-08T14:52:10+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany news: New rules to tamp down gasoline price hikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-new-rules-to-tamp-down-gasoline-price-hikes/live-76616425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T06:54:00+00:00",
-      "category": "Energy"
+      "title": "Deutsche Bank: Deutsche-Bank-Aufsichtsratschef verdient künftig 1,4 Millionen Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/deutsche-bank-aufsichtsrat-alexander-wynaendts-gehalt",
+      "published_date": "2026-04-08T14:31:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Geschichtsphilosophie: Wiederholt sich Geschichte, Ute Frevert?",
@@ -536,25 +543,39 @@
       "category": "Economy"
     },
     {
-      "title": "Iran war: Strikes on steel deal painful blow to economy",
+      "title": "Nigeria: At least 20 killed in attack, residents say",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-01T12:34:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/nigeria-at-least-20-killed-in-attack-residents-say/a-76711053?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T14:49:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The 2026 tax deadlines that Americans in Germany need to know",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260401/the-2026-tax-deadlines-that-americans-in-germany-need-to-know",
-      "published_date": "2026-04-01T10:53:04+00:00",
-      "category": "Economy"
+      "title": "​Twin corruption trials cast a shadow over Spain’s main parties ahead of key elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/08/twin-corruption-trials-cast-a-shadow-over-spains-main-parties-ahead-of-key-elections",
+      "published_date": "2026-04-08T14:30:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How much will prices rise in Germany as impact of Middle East war deepens?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260401/how-much-will-prices-rise-in-germany-as-impact-of-middle-east-war-deepens",
-      "published_date": "2026-04-01T10:49:46+00:00",
-      "category": "Economy"
+      "title": "A new generation of politicians of colour is emerging in France. The backlash speaks volumes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/politicians-colour-france-backlash-elections-racism",
+      "published_date": "2026-04-08T11:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: DW correspondent Alican Uludag still in custody",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-still-in-custody/a-76698562?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T05:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: DW correspondent Alican Uludag still in custody",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-still-in-custody/a-76698562?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-08T05:13:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "\"Watches and Wonders\" in Genf: Dicke Wecker fürs dicke Portemonnaie",
@@ -659,41 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election",
       "published_date": "2026-04-07T04:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy reiterates truce offer ahead of Orthodox Easter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/ukraine-russia-war-briefing-zelenskyy-orthodox-easter-truce-offer",
-      "published_date": "2026-04-07T00:34:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FDP: Henning Höne hält trotz Kubicki an Kandidatur für FDP-Vorsitz fest",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/fdp-vorsitz-henning-hoene-wolfgang-kubicki-christian-duerr",
-      "published_date": "2026-04-06T23:17:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brände: Zwei Brände in Stuttgart - Feuerwehr im Dauereinsatz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/06/zwei-braende-in-stuttgart-feuerwehr-im-dauereinsatz",
-      "published_date": "2026-04-06T20:46:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Geschichte: Lufthansa feiert in Berlin ersten Linienflug vor 100 Jahren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/06/lufthansa-feiert-in-berlin-ersten-linienflug-vor-100-jahren",
-      "published_date": "2026-04-06T14:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finanzspritze vom Bund: Entwurf: Eine Milliarde jährlich für Länder und Kommunen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/06/entwurf-eine-milliarde-jaehrlich-fuer-laender-und-kommunen",
-      "published_date": "2026-04-06T14:01:06+00:00",
       "category": "Local Events"
     }
   ]
