@@ -1,8 +1,85 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-09T00:03:22.032475+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-09T16:07:03.183311+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Irankrieg: Merz nennt Bedingungen für deutschen Einsatz an der Straße von Hormus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/friedrich-merz-strasse-von-hormus-donald-trump-mandat",
+      "published_date": "2026-04-09T15:56:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
+      "published_date": "2026-04-09T15:15:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato ‘very disappointing’, says Trump, in fresh attack ahead of Rutte speech – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
+      "published_date": "2026-04-09T15:08:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T14:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-09T14:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Southeast Asia trusts the EU more, but Brussels still has work to do",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/southeast-asia-trusts-the-eu-more-but-brussels-still-has-work-to-do/a-76721986?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T14:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Most Hungarians want better relations with EU after years of Orbán Brussels-bashing, poll finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/majority-hungary-voters-back-continued-eu-membership-poll-finds-election-orban",
+      "published_date": "2026-04-09T12:03:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Gas price hike higher than other EU countries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-gas-price-hike-higher-than-other-eu-countries/live-76716252?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-09T08:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Gas price hike higher than other EU countries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-gas-price-hike-higher-than-other-eu-countries/live-76716252?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T08:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump criticizes NATO over Iran in meeting with Rutte",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T01:24:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump criticizes NATO over Iran in meeting with Rutte",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-09T01:24:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nato: Trump will mit Rutte über möglichen Nato-Austritt diskutieren",
       "source": "ZEIT Online",
@@ -67,81 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germans pining for Gerhard Schröder forget his errors and ties to Putin. The SPD needs a fresh approach | Katja Hoyer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/germany-gerhard-schroder-errors-putin-spd-russia",
-      "published_date": "2026-04-08T04:00:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war: Trump announces two-week ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-announces-two-week-ceasefire/live-76700191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T22:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
-      "published_date": "2026-04-07T14:42:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "South Korea turns to EU to revive talks with the North",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T13:22:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe mulls the prospect of a NATO without the US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-mulls-the-prospect-of-a-nato-without-the-us/a-76682522?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T11:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Greek PM vows to tackle ‘deep state’ in wake of farm fraud scandal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/06/greek-pm-vows-to-tackle-deep-state-in-wake-of-farm-scandal",
-      "published_date": "2026-04-06T16:59:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
-      "published_date": "2026-04-05T13:00:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Slowakei: Regierungschef Fico will EU-Sanktionen gegen russisches Öl beenden",
+      "title": "Entwicklungshilfe: Deutschland verfehlt UN-Zielmarke für Entwicklungshilfe",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/slowkakei-russland-eu-sanktionen-oel-gas",
-      "published_date": "2026-04-04T18:38:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/entwicklungshilfe-kuerzung-oecd-deutschland-gxe",
+      "published_date": "2026-04-09T15:34:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+      "title": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
-      "published_date": "2026-04-04T12:58:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
+      "published_date": "2026-04-09T15:12:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Five EU nations urge tax on energy firms' windfall profits",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260404/five-eu-nations-urge-tax-on-energy-firms-windfall-profits",
-      "published_date": "2026-04-04T12:12:23+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: Tehran claims victory but people fear what's next",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-tehran-claims-victory-but-people-fear-what-s-next/a-76724635?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T14:44:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Biometric checks stalled again for cross-Channel travellers",
+      "title": "Fact check: Orban points to Ukraine over pipeline bomb",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-orban-points-to-ukraine-over-pipeline-bomb/a-76690990?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T14:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact check: Orban points to Ukraine over pipeline bomb",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-orban-points-to-ukraine-over-pipeline-bomb/a-76690990?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-09T14:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Facts vs. influencers: Is the 'Dubai dream' really over?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/facts-vs-influencers-is-the-dubai-dream-really-over/a-76711193?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T09:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guinea-Bissau on edge after activist's killing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/guinea-bissau-on-edge-after-activist-s-killing/a-76704388?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T08:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ten years after Brexit, this is the UK: a divided nation frozen in time | Aditya Chakrabortty",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
-      "published_date": "2026-04-04T08:00:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/09/ten-years-brexit-uk-divided-country",
+      "published_date": "2026-04-09T05:00:22+00:00",
+      "category": "Military"
     },
     {
       "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Military travel rule for young men put on hold",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-military-travel-rule-for-young-men-put-on-hold/live-76701957?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-08T07:09:00+00:00",
-      "category": "Military"
+      "title": "A new German-Polish project shows how cities can be heated without fossil fuels",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260409/a-new-german-polish-project-shows-how-cities-can-be-heated-without-fossil-fuels",
+      "published_date": "2026-04-09T14:40:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Germany news: Military travel rule for young men put on hold",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-military-travel-rule-for-young-men-put-on-hold/live-76701957?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T07:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungarians living in Ukraine caught between front lines",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungarians-living-in-ukraine-caught-between-front-lines/a-76664206?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T06:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungarians living in Ukraine caught between front lines",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungarians-living-in-ukraine-caught-between-front-lines/a-76664206?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-08T06:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From the archive: Freedom without constraints: how the US squandered its cold war victory – podcast",
+      "title": "Strait of Hormuz not open, Abu Dhabi’s oil chief says as crude prices rise",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/apr/08/from-the-archive-freedom-without-constraints-how-the-us-squandered-its-cold-war-victory-podcast",
-      "published_date": "2026-04-08T04:00:16+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
+      "published_date": "2026-04-09T14:14:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Kyiv lays out how ‘Russian satellites help Iran in war’",
+      "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
-      "published_date": "2026-04-08T01:22:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Hegseth declares 'historic' victory for US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-hegseth-declares-historic-victory-for-us/live-76700191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T22:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Several killed as Russia strikes bus, other targets",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T16:33:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
+      "published_date": "2026-04-09T13:00:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
@@ -368,39 +389,18 @@
       "category": "Energy"
     },
     {
-      "title": "As Iran war rages, Europe gears up for energy crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T14:18:00+00:00",
-      "category": "Energy"
+      "title": "German exports were up in February but industrial output fell",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260409/german-exports-were-up-in-february-but-industrial-output-fell",
+      "published_date": "2026-04-09T13:43:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "As Iran war rages, Europe gears up for energy crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-02T14:18:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'Drill baby drill': Trump opens wilderness to big energy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/drill-baby-drill-trump-opens-wilderness-to-big-energy/a-76411423?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T08:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Drive slower, work from home and ditch the tie: the world responds to Iran war energy crisis",
+      "title": "Lidl to open 50 UK stores in year ahead as part of £600m expansion plans",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/02/world-response-iran-war-energy-crisis-oil",
-      "published_date": "2026-04-02T05:00:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UNESCO World Heritage sites facing the heat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/unesco-world-heritage-sites-facing-the-heat/a-76608311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T03:53:00+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/09/lidl-to-open-50-uk-stores-in-year-ahead-as-part-of-600m-expansion-plans",
+      "published_date": "2026-04-09T12:45:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Hamburg-Eißendorf: 5.000 Euro Belohnung nach Tötungsdelikt",
@@ -487,46 +487,88 @@
       "category": "Economy"
     },
     {
-      "title": "Is Germany facing an egg shortage this Easter?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260402/is-germany-facing-an-egg-shortage-this-easter",
-      "published_date": "2026-04-02T14:56:03+00:00",
-      "category": "Economy"
+      "title": "Russia labels human rights group Memorial 'extremist'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-labels-human-rights-group-memorial-extremist/a-76726398?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T15:54:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tanken: Grünenchef fordert wegen hoher Spritpreise Tempolimit auf Autobahnen",
+      "title": "Wolf in Hamburg : Der Wolf ist jetzt auf Bewährung",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/tanken-spritpreise-tempolimit-autobahn-gruenen-chef-felix-banaszak",
-      "published_date": "2026-04-02T14:36:03+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/hamburg/2026-04/wolf-hamburg-auswilderung-entscheidung-umweltbehoerde",
+      "published_date": "2026-04-09T15:27:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "India news: Thousands affected as Oracle cuts jobs globally, say reports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-thousands-affected-as-oracle-cuts-jobs-globally-say-reports/live-76636409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T07:41:00+00:00",
-      "category": "Economy"
+      "title": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset",
+      "published_date": "2026-04-09T15:00:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "India news: Defense exports surge to over $4 billion",
+      "title": "India news: Voting closes in Kerala, Assam and Puducherry",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-defense-exports-surge-to-over-4-billion/live-76636409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T07:41:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-voting-closes-in-kerala-assam-and-puducherry/live-76715999?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T13:34:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Wealth tax: Why are countries afraid to tax the ultrarich?",
+      "title": "Iran casts doubt on US talks after Israel strikes Lebanon",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/wealth-tax-why-are-countries-afraid-to-tax-the-ultrarich/a-76030278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T06:32:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/iran-casts-doubt-on-us-talks-after-israel-strikes-lebanon/live-76715205?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T12:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How US 'Liberation Day' tariffs reshaped global trade",
+      "title": "Germany: Fare evasion is a crime that can send you to prison",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-us-liberation-day-tariffs-reshaped-global-trade/a-76303601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-02T05:20:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-fare-evasion-is-a-crime-that-can-send-you-to-prison/a-76711403?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-09T12:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Fare evasion is a crime that can send you to prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-fare-evasion-is-a-crime-that-can-send-you-to-prison/a-76711403?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T12:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four people die in Channel small-boat sinking",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking",
+      "published_date": "2026-04-09T12:06:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passengers in Germany face disruptions on Friday due to Lufthansa strike",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260409/travellers-in-germany-face-disruptions-on-friday-due-to-lufthansa-strike",
+      "published_date": "2026-04-09T08:39:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungarian election: How football has helped Orban keep power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungarian-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungarian election: How football has helped Orban keep power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungarian-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-09T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260409/today-in-germany-a-roundup-of-the-latest-news-on-thursday-114",
+      "published_date": "2026-04-09T06:22:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Teillegalisierung von Cannabis: Mehr als 400 Cannabisvereine in Deutschland",
@@ -582,90 +624,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-still-in-custody/a-76698562?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-08T05:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey: DW correspondent Alican Uludag still in custody",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-still-in-custody/a-76698562?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-08T05:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Watches and Wonders\" in Genf: Dicke Wecker fürs dicke Portemonnaie",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/watches-and-wonders-genf-uhrenmesse-luxusuhren-alpenpodcast",
-      "published_date": "2026-04-08T04:05:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virtual Romanian singer goes viral but sparks criticism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T19:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virtual Romanian singer goes viral but sparks criticism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-07T19:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vance’s whirlwind visit may not help Orbán to the election victory he craves",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-hungary-viktor-orban-election",
-      "published_date": "2026-04-07T19:28:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump Jr calls EU ‘a bit of a mess’ on visit to Bosnia’s Republika Srpska",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/donald-trump-jr-eu-visit-bosnia-republika-srpska",
-      "published_date": "2026-04-07T19:06:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
-      "published_date": "2026-04-07T18:59:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunman killed in shootout near Israel's Istanbul consulate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gunman-killed-in-shootout-near-israel-s-istanbul-consulate/a-76695392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T14:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish politicians clash over request to move Picasso’s Guernica",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/spain-politician-clash-picasso-guernica",
-      "published_date": "2026-04-07T14:34:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a piece of Berlin's cultural history just went into space",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260407/how-a-piece-of-berlins-cultural-history-just-went-into-space",
-      "published_date": "2026-04-07T13:15:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where public transport strikes will hit passengers in Germany this week",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260407/where-public-transport-strikes-will-hit-passengers-in-germany-this-week",
-      "published_date": "2026-04-07T12:07:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viktor Orbán told Putin ‘I am at your service’ in October phone call",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
-      "published_date": "2026-04-07T11:28:31+00:00",
       "category": "Local Events"
     }
   ]
