@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-08T14:59:37.747541+00:00",
-  "story_count": 97,
+  "last_updated": "2026-04-09T00:03:22.032475+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Nato: Trump will mit Rutte über möglichen Nato-Austritt diskutieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/usa-iran-trump-rutte-nato-austritt",
+      "published_date": "2026-04-08T20:47:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance claims US is not interfering in Hungary election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban",
+      "published_date": "2026-04-08T17:18:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Justiz: Hitlergruß im Bundestag? AfD-Abgeordneter muss vor Gericht",
       "source": "ZEIT Online",
@@ -25,10 +39,31 @@
       "category": "Diplomacy"
     },
     {
+      "title": "JD Vance criticizes Zelenskyy and Ukraine in Hungary on visit campaigning for Viktor Orban",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jd-vance-criticizes-zelenskyy-and-ukraine-in-hungary-on-visit-campaigning-for-viktor-orban/a-76706045?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-08T14:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany calls on Israel to limit Lebanon campaign to 'self-defence'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260408/germany-calls-on-israel-to-limit-lebanon-campaign-to-self-defence",
+      "published_date": "2026-04-08T11:58:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "‘A full-on embrace’: how the EU’s largest news publisher fell in love with the US",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/media/2026/apr/08/how-axel-springer-germany-mathias-doepfner-us-political",
       "published_date": "2026-04-08T07:46:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260408/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-115",
+      "published_date": "2026-04-08T06:41:02+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Greek ministers resign over EU farming subsidy scandal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T14:12:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Greek ministers resign over EU farming subsidy scandal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-03T14:12:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German customs raid companies over suspected exports to Russia",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260403/german-customs-raid-companies-over-suspected-exports-to-russia",
-      "published_date": "2026-04-03T07:38:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What are the cheapest electric cars you can buy in Germany right now?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260403/what-are-the-cheapest-electric-cars-you-can-buy-in-germany-right-now",
-      "published_date": "2026-04-03T07:00:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran",
+      "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
-      "published_date": "2026-04-02T17:34:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
+      "published_date": "2026-04-08T23:00:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Verhandlungen in Pakistan: Streit um Hormus und Libanon vor Verhandlungen in Pakistan",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/waffenruhe-iran-verhandlungen-pakistan-hormus-vance",
+      "published_date": "2026-04-08T22:51:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"Friends\"-Star: Dealerin nach Tod von Matthew Perry zu langer Haftstrafe verurteilt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/matthew-perry-tod-dealerin-urteil",
+      "published_date": "2026-04-08T19:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: who gained ground, who lost influence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T18:36:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran doubles down on executions amid US-Israeli war",
@@ -158,10 +186,31 @@
       "category": "Military"
     },
     {
+      "title": "Iran war: how farmers adapt as fertilizer crunch heats up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-how-farmers-adapt-as-fertilizer-crunch-heats-up/a-76705488?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T12:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will travellers in Germany be affected by Europe's looming jet fuel crisis?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260408/will-travellers-in-germany-be-affected-by-europes-looming-jet-fuel-crisis",
+      "published_date": "2026-04-08T12:20:46+00:00",
+      "category": "Military"
+    },
+    {
       "title": "‘A step back from the brink’: European leaders welcome US-Iran ceasefire",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/08/european-leaders-welcome-us-iran-ceasefire",
       "published_date": "2026-04-08T09:50:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany says military age men don't need permission to travel after all",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260408/germany-says-military-age-men-dont-need-permission-to-travel-after-all",
+      "published_date": "2026-04-08T08:50:49+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-07T16:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Several killed as Russia strikes bus, other targets",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-07T16:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Germany's new military service rules affect travel for foreign nationals",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260407/how-germanys-new-military-service-rules-affect-travel-for-foreign-nationals",
-      "published_date": "2026-04-07T15:07:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kanye West: Großbritannien verweigert Rapper Kanye West vor Festival die Einreise",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/rapper-kanye-west-antisemitische-aeusserungen-england-london-einreise-gxe",
-      "published_date": "2026-04-07T14:19:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside India's courts, AI's growing role sparks concern",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T12:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France: One killed as high-speed TGV train derails after truck crash",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-one-killed-as-high-speed-tgv-train-derails-after-truck-crash/a-76690044?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T11:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: Nuclear reactor in Kalpakkam attains criticality",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-nuclear-reactor-in-kalpakkam-attains-criticality/live-76682852?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T08:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Minister floats fare-dodging decriminalization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-07T08:24:00+00:00",
       "category": "Military"
     },
     {
@@ -400,13 +400,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/unesco-world-heritage-sites-facing-the-heat/a-76608311?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-02T03:53:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Folgen des Irankriegs: Gasversorgung laut Katherina Reiche trotz Irankrieg gesichert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/katherina-reiche-gas-oel-preis-irankrieg-versorgung-deutschland",
-      "published_date": "2026-04-01T23:49:45+00:00",
       "category": "Energy"
     },
     {
@@ -536,11 +529,32 @@
       "category": "Economy"
     },
     {
-      "title": "Reeves criticises Trump for starting Iran war with no ‘clear plan’ to get out of it – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
-      "published_date": "2026-04-01T16:15:18+00:00",
-      "category": "Economy"
+      "title": "Teillegalisierung von Cannabis: Mehr als 400 Cannabisvereine in Deutschland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/cannabis-anbau-vereine-teillegalisierung",
+      "published_date": "2026-04-08T23:16:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Westfield Hamburg-Überseequartier: Wo geht's hier zu diesen Plaketten?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-04/westfield-hamburg-ueberseequartier-bilanz-geburtstag",
+      "published_date": "2026-04-08T18:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Lufthansa cabin crew to strike on Friday, UFO trade union says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-cabin-crew-to-strike-on-friday-ufo-trade-union-says/live-76701957?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-08T17:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Lufthansa cabin crew to strike on Friday, UFO trade union says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-cabin-crew-to-strike-on-friday-ufo-trade-union-says/live-76701957?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-08T17:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nigeria: At least 20 killed in attack, residents say",
@@ -652,34 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
       "published_date": "2026-04-07T11:28:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: US dispatches JD Vance to aid Orban reelection bid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-us-dispatches-jd-vance-to-aid-orban-reelection-bid/a-76685625?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T09:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Stranger review – lustrously beautiful and superbly realised modern take on the Camus classic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/07/the-stranger-review-francois-ozon-adaptation-albert-camus-l-tranger",
-      "published_date": "2026-04-07T08:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vietnam elects Communist Party leader To Lam as president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vietnam-elects-communist-party-leader-to-lam-as-president/a-76682860?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T05:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From ‘stink bugs’ to ‘enemies of the people’: how Viktor Orbán blazed a trail for Trump’s media assaults | Amrit Singh",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election",
-      "published_date": "2026-04-07T04:00:38+00:00",
       "category": "Local Events"
     }
   ]
