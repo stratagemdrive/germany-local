@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-09T16:07:03.183311+00:00",
-  "story_count": 89,
+  "last_updated": "2026-04-10T06:08:58.038229+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Benzinpreise: Pendlerpauschale, Spritpreisbremse, 9-Euro-Ticket: Was hilft?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-04/benzinpreise-politik-entlastung-massnahmen-nachrichtenpodcast",
+      "published_date": "2026-04-10T04:24:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine and Syria tighten relations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-and-syria-tighten-relations/a-76727981?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T19:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine and Syria tighten relations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-and-syria-tighten-relations/a-76727981?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-09T19:14:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Irankrieg: Merz nennt Bedingungen für deutschen Einsatz an der Straße von Hormus",
       "source": "ZEIT Online",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany calls on Israel to limit Lebanon campaign to 'self-defence'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260408/germany-calls-on-israel-to-limit-lebanon-campaign-to-self-defence",
-      "published_date": "2026-04-08T11:58:04+00:00",
-      "category": "Diplomacy"
+      "title": "Musikszene: Hip-Hop-Pionier Afrika Bambaataa ist tot",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/musik/2026-04/afrika-bambaataa-gestorben-hip-hop-zulu-nation-new-york",
+      "published_date": "2026-04-10T05:38:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘A full-on embrace’: how the EU’s largest news publisher fell in love with the US",
+      "title": "Klimawandel: Zweitwärmster März in Europa seit Beginn der Messungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissen/umwelt/2026-04/wetter-maerz-zweitwaermster-monat-europa-klimawandel-arktis",
+      "published_date": "2026-04-10T04:25:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US to host Israel, Lebanon peace talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-to-host-israel-lebanon-peace-talks/live-76729523?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T03:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: First official ceasefire agreed after Zelenskyy push succeeds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/apr/08/how-axel-springer-germany-mathias-doepfner-us-political",
-      "published_date": "2026-04-08T07:46:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/10/ukraine-war-briefing-first-official-ceasefire-agreed-after-zelenskyy-push-succeeds",
+      "published_date": "2026-04-10T00:32:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260408/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-115",
-      "published_date": "2026-04-08T06:41:02+00:00",
-      "category": "Diplomacy"
+      "title": "US: Pentagon must restore journalists' access, judge says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-pentagon-must-restore-journalists-access-judge-says/a-76729492?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T00:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russia's Putin declares Easter ceasefire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-s-putin-declares-easter-ceasefire/a-76728827?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T20:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russia's Putin declares Easter ceasefire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-s-putin-declares-easter-ceasefire/a-76728827?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-09T20:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+      "published_date": "2026-04-09T20:23:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-israel-says-it-will-hold-talks-with-lebanon-soon/live-76715205?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T16:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Entwicklungshilfe: Deutschland verfehlt UN-Zielmarke für Entwicklungshilfe",
@@ -218,69 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/matthew-perry-tod-dealerin-urteil",
       "published_date": "2026-04-08T19:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: who gained ground, who lost influence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T18:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran doubles down on executions amid US-Israeli war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-doubles-down-on-executions-amid-us-israeli-war/a-76710640?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T14:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How farmers adapt as Iran war fertilizer crunch heats up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-farmers-adapt-as-iran-war-fertilizer-crunch-heats-up/a-76705488?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T12:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: how farmers adapt as fertilizer crunch heats up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-how-farmers-adapt-as-fertilizer-crunch-heats-up/a-76705488?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T12:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will travellers in Germany be affected by Europe's looming jet fuel crisis?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260408/will-travellers-in-germany-be-affected-by-europes-looming-jet-fuel-crisis",
-      "published_date": "2026-04-08T12:20:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘A step back from the brink’: European leaders welcome US-Iran ceasefire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/european-leaders-welcome-us-iran-ceasefire",
-      "published_date": "2026-04-08T09:50:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany says military age men don't need permission to travel after all",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260408/germany-says-military-age-men-dont-need-permission-to-travel-after-all",
-      "published_date": "2026-04-08T08:50:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "60 years after the Indonesian mass killings: Is the Cold War back?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/60-years-after-the-indonesian-mass-killings-is-the-cold-war-back/a-76504740?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T08:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will AI doom office space to history?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-ai-doom-office-space-to-history/a-76609217?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T07:14:00+00:00",
       "category": "Military"
     },
     {
@@ -389,6 +389,20 @@
       "category": "Energy"
     },
     {
+      "title": "International development aid suffers unprecedented 2025 dip, led by Trump gutting USAID",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/international-development-aid-suffers-unprecedented-2025-dip-led-by-trump-gutting-usaid/a-76726606?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-09T18:02:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "International development aid suffers unprecedented 2025 dip, led by Trump gutting USAID",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/international-development-aid-suffers-unprecedented-2025-dip-led-by-trump-gutting-usaid/a-76726606?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-09T18:02:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "German exports were up in February but industrial output fell",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260409/german-exports-were-up-in-february-but-industrial-output-fell",
@@ -485,6 +499,41 @@
       "url": "https://www.dw.com/en/turkey-and-armenia-when-will-the-border-crossings-open/a-76648630?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-03T16:47:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Flugverkehr: Flugbegleiter der Lufthansa beginnen eintägigen Streik",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/arbeit/2026-04/streik-flugbegleiter-lufthansa-flugausfall-lufthansa",
+      "published_date": "2026-04-10T05:26:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Even if Victor Orbán is ousted on Sunday, Hungary’s return to liberal democracy is not guaranteed | Gabriela Greilinger and Cas Mudde",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/victor-orban-hungary-peter-magyar-liberal-democracy-fidesz",
+      "published_date": "2026-04-10T04:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Péter Magyar, the man leading the polls as Hungary prepares for election?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/peter-magyar-leading-polls-hungary-election-tisza-opposition",
+      "published_date": "2026-04-10T04:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lufthansa cabin crew begin strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-10T03:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lufthansa cabin crew begin strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T03:22:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russia labels human rights group Memorial 'extremist'",
@@ -589,41 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-lufthansa-cabin-crew-to-strike-on-friday-ufo-trade-union-says/live-76701957?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-08T17:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Lufthansa cabin crew to strike on Friday, UFO trade union says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lufthansa-cabin-crew-to-strike-on-friday-ufo-trade-union-says/live-76701957?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T17:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: At least 20 killed in attack, residents say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-at-least-20-killed-in-attack-residents-say/a-76711053?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "​Twin corruption trials cast a shadow over Spain’s main parties ahead of key elections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/twin-corruption-trials-cast-a-shadow-over-spains-main-parties-ahead-of-key-elections",
-      "published_date": "2026-04-08T14:30:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A new generation of politicians of colour is emerging in France. The backlash speaks volumes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/politicians-colour-france-backlash-elections-racism",
-      "published_date": "2026-04-08T11:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey: DW correspondent Alican Uludag still in custody",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-still-in-custody/a-76698562?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-08T05:13:00+00:00",
       "category": "Local Events"
     }
   ]
