@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-10T14:35:39.021903+00:00",
-  "story_count": 91,
+  "last_updated": "2026-04-10T23:28:18.062797+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+      "published_date": "2026-04-10T16:47:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rückkehr nach Syrien: Friedrich Merz' 80-Prozent-Illusion",
       "source": "ZEIT Online",
@@ -21,6 +28,13 @@
       "title": "March second warmest on record says global warming monitor",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/march-second-warmest-on-record-says-global-warming-monitor/a-76734104?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T13:24:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Nino forecast as ocean temperatures approach record highs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/el-nino-forecast-as-ocean-temperatures-approach-record-highs/a-76734104?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-10T13:24:00+00:00",
       "category": "Diplomacy"
     },
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Most Hungarians want better relations with EU after years of Orbán Brussels-bashing, poll finds",
+      "title": "The week around the world in 20 pictures",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/09/majority-hungary-voters-back-continued-eu-membership-poll-finds-election-orban",
-      "published_date": "2026-04-09T12:03:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/10/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-04-10T18:26:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Gas price hike higher than other EU countries",
+      "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
+      "published_date": "2026-04-10T17:53:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Rifts in regime bigger threat to ceasefire",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-gas-price-hike-higher-than-other-eu-countries/live-76716252?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-09T08:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-rifts-in-regime-bigger-threat-to-ceasefire/a-76739876?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T14:45:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Fuel-price protesters cause chaos in Ireland and spread to Norway",
@@ -161,6 +182,13 @@
       "title": "Germany news: Protesters block Rheinmetall arms plant",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-protesters-block-rheinmetall-arms-plant/live-76731144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T12:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Protesters block Rheinmetall arms plant",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-protesters-block-rheinmetall-arms-plant/live-76731144?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-10T12:32:00+00:00",
       "category": "Military"
     },
@@ -253,34 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-04/entwicklungshilfe-kuerzung-oecd-deutschland-gxe",
       "published_date": "2026-04-09T15:34:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
-      "published_date": "2026-04-09T15:12:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Tehran claims victory but people fear what's next",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-claims-victory-but-people-fear-what-s-next/a-76724635?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T14:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: Orban points to Ukraine over pipeline bomb",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-orban-points-to-ukraine-over-pipeline-bomb/a-76690990?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T14:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: Orban points to Ukraine over pipeline bomb",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-orban-points-to-ukraine-over-pipeline-bomb/a-76690990?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-09T14:04:00+00:00",
       "category": "Military"
     },
     {
@@ -494,11 +494,60 @@
       "category": "Economy"
     },
     {
-      "title": "Turkey and Armenia: When will the border crossings open?",
+      "title": "Kino: Film über Popstar Michael Jackson feiert Premiere in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/11/film-ueber-popstar-michael-jackson-feiert-premiere-in-berlin",
+      "published_date": "2026-04-10T22:24:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former New York City mayor Eric Adams obtains Albanian citizenship",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/eric-adams-albanian-citizenship",
+      "published_date": "2026-04-10T21:44:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
+      "published_date": "2026-04-10T19:35:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-and-armenia-when-will-the-border-crossings-open/a-76648630?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-03T16:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T19:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-10T19:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Molotov cocktail thrown at Sam Altman's home, man arrested",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/molotov-cocktail-thrown-at-sam-altman-s-home-man-arrested/a-76744259?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-10T18:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after four die trying to cross Channel in small boat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
+      "published_date": "2026-04-10T17:24:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
+      "published_date": "2026-04-10T16:33:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
@@ -582,62 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-10T03:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lufthansa cabin crew begin strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T03:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia labels human rights group Memorial 'extremist'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-labels-human-rights-group-memorial-extremist/a-76726398?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T15:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wolf in Hamburg : Der Wolf ist jetzt auf Bewährung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-04/wolf-hamburg-auswilderung-entscheidung-umweltbehoerde",
-      "published_date": "2026-04-09T15:27:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset",
-      "published_date": "2026-04-09T15:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Voting closes in Kerala, Assam and Puducherry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-voting-closes-in-kerala-assam-and-puducherry/live-76715999?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T13:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran casts doubt on US talks after Israel strikes Lebanon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-casts-doubt-on-us-talks-after-israel-strikes-lebanon/live-76715205?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T12:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Fare evasion is a crime that can send you to prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-fare-evasion-is-a-crime-that-can-send-you-to-prison/a-76711403?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-09T12:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Fare evasion is a crime that can send you to prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-fare-evasion-is-a-crime-that-can-send-you-to-prison/a-76711403?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T12:42:00+00:00",
       "category": "Local Events"
     }
   ]
