@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-11T11:25:53.945482+00:00",
+  "last_updated": "2026-04-11T23:25:37.428481+00:00",
   "story_count": 87,
   "stories": [
+    {
+      "title": "Germans see little progress on cutting red tape",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germans-see-little-progress-on-cutting-red-tape/a-76747976?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-11T14:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germans see little progress on cutting red tape",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germans-see-little-progress-on-cutting-red-tape/a-76747976?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T14:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Full rollout of new EU border checks hit by delays and disruption",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260411/full-rollout-of-new-eu-border-checks-hit-by-delays-and-disruption",
+      "published_date": "2026-04-11T13:56:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is this Syrian doctor one of the 80% Germany wants to remove?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-this-syrian-doctor-one-of-the-80-germany-wants-to-remove/a-76739903?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-11T13:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is this Syrian doctor one of the 80% Germany wants to remove?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-this-syrian-doctor-one-of-the-80-germany-wants-to-remove/a-76739903?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T13:46:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "India looks on from sidelines as US, Iran talk peace in Islamabad",
       "source": "Deutsche Welle",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nato ‘very disappointing’, says Trump, in fresh attack ahead of Rutte speech – as it happened",
+      "title": "Iran-Verhandlungen: USA und Iran ringen um Kontrolle über Straße von Hormus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/iran-krieg-verhandlungen-usa-islamabad-strasse-hormus",
+      "published_date": "2026-04-11T22:03:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
-      "published_date": "2026-04-09T15:08:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
+      "published_date": "2026-04-11T19:50:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
+      "title": "UK freezes deal to return Chagos Islands to Mauritius",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T14:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-09T14:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough Ukraine stance, poll shows",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-ukraine-stance-poll-shows/a-76722416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T14:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough Ukraine stance, poll shows",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-ukraine-stance-poll-shows/a-76722416?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-09T14:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/uk-freezes-deal-to-return-chagos-islands-to-mauritius/a-76748742?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T16:26:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg in der Ukraine: Vor Osterwaffenruhe: Kiew und Moskau tauschen Gefangene aus",
@@ -169,6 +190,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-attacks-continue-as-orthodox-easter-ceasefire-nears/a-76746629?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-11T09:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says warships passed Hormuz amid ongoing talks with Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-says-warships-passed-hormuz-amid-ongoing-talks-with-iran/live-76745065?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T05:03:00+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Klimawandel: Zweitwärmster März in Europa seit Beginn der Messungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissen/umwelt/2026-04/wetter-maerz-zweitwaermster-monat-europa-klimawandel-arktis",
-      "published_date": "2026-04-10T04:25:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US to host Israel, Lebanon peace talks",
+      "title": "India news: Delhi looks to ban fossil fuel two-wheelers from 2028",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-to-host-israel-lebanon-peace-talks/live-76729523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T03:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: First official ceasefire agreed after Zelenskyy push succeeds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/ukraine-war-briefing-first-official-ceasefire-agreed-after-zelenskyy-push-succeeds",
-      "published_date": "2026-04-10T00:32:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Pentagon must restore journalists' access, judge says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-pentagon-must-restore-journalists-access-judge-says/a-76729492?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T00:12:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-news-delhi-looks-to-ban-fossil-fuel-two-wheelers-from-2028/live-76745829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T07:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
@@ -354,18 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "German, EU finance ministers call for energy windfall tax",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-04T14:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "German, EU finance ministers call for energy windfall tax",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T14:30:00+00:00",
-      "category": "Energy"
+      "title": "Bundesliga, 29. Spieltag – Samstag: FC Bayern siegt hoch bei St. Pauli",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/bundesliga-29-spieltag-samstag-dortmund-leverkusen-st-pauli-bayern-muenchen",
+      "published_date": "2026-04-11T18:47:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany news: Coalition split widens over fuel price relief",
@@ -473,6 +473,97 @@
       "category": "Economy"
     },
     {
+      "title": "Fußball-Bundesliga: Union Berlin trennt sich von Baumgart - Eta übernimmt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/12/union-berlin-trennt-sich-von-baumgart-eta-uebernimmt",
+      "published_date": "2026-04-11T23:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested for allegedly damaging US military aircraft in Shannon airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport",
+      "published_date": "2026-04-11T22:51:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Notfälle: Dachstuhl brennt in Bremen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/12/dachstuhl-brennt-in-bremen",
+      "published_date": "2026-04-11T22:27:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fußball: Union Berlin trennt sich von Trainer Baumgart",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/12/union-berlin-trennt-sich-von-trainer-baumgart",
+      "published_date": "2026-04-11T22:13:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is this the end of Viktor Orbán’s regime? - podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/11/is-this-the-end-of-viktor-orbans-regime-full-story-podcast",
+      "published_date": "2026-04-11T20:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How much sway does Trump have over Hungarian voters?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T19:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How much sway does Trump have over Hungarian voters?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-11T19:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French man charged with keeping nine-year-old son locked in van since 2024",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/french-man-charged-keeping-nine-year-old-son-locked-van-hagenbach",
+      "published_date": "2026-04-11T18:11:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Lufthansa pilots' union call for two-day strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-lufthansa-pilots-union-call-for-two-day-strike/a-76748571?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-11T15:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Lufthansa pilots' union call for two-day strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-lufthansa-pilots-union-call-for-two-day-strike/a-76748571?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T15:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian Memorial human rights NGO labeled 'extremist'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T14:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian Memorial human rights NGO labeled 'extremist'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-11T14:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘He cares about Hungarians’: the small Ukrainian town divided over Orbán",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-divided-viktor-orban-berehove-fidesz",
+      "published_date": "2026-04-11T13:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Markus Söder: Berlin, wir haben ein Problem",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/16/markus-soeder-csu-reform-blockade-lars-klingbeil",
@@ -519,97 +610,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-11T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: Scandal, fear and hope ahead of vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: Scandal, fear and hope ahead of vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-11T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zebras, wealth and power: Hungary’s election tests Orbán’s grip on power",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/11/zebras-wealth-and-power-hungarys-election-tests-orbans-grip-on-power",
-      "published_date": "2026-04-11T05:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kino: Film über Popstar Michael Jackson feiert Premiere in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/11/film-ueber-popstar-michael-jackson-feiert-premiere-in-berlin",
-      "published_date": "2026-04-10T22:24:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former New York City mayor Eric Adams obtains Albanian citizenship",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/eric-adams-albanian-citizenship",
-      "published_date": "2026-04-10T21:44:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
-      "published_date": "2026-04-10T19:35:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T19:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-10T19:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Molotov cocktail thrown at Sam Altman's home, man arrested",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/molotov-cocktail-thrown-at-sam-altman-s-home-man-arrested/a-76744259?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T18:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after four die trying to cross Channel in small boat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
-      "published_date": "2026-04-10T17:24:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
-      "published_date": "2026-04-10T16:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
-      "published_date": "2026-04-10T14:26:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CO₂-Abscheidung im Hamburger Hafen: \"Ohne uns wird die Stadt ihre Klimaziele nicht erreichen\"",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-04/co2-abscheidung-hamburger-hafen-klimaneutralitaet-faq",
-      "published_date": "2026-04-10T13:50:05+00:00",
       "category": "Local Events"
     }
   ]
