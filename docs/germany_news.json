@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-10T23:28:18.062797+00:00",
-  "story_count": 90,
+  "last_updated": "2026-04-11T11:25:53.945482+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "India looks on from sidelines as US, Iran talk peace in Islamabad",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-looks-on-from-sidelines-as-us-iran-talk-peace-in-islamabad/live-76745829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T07:53:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
       "source": "The Guardian",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Southeast Asia trusts the EU more, but Brussels still has work to do",
+      "title": "Krieg in der Ukraine: Vor Osterwaffenruhe: Kiew und Moskau tauschen Gefangene aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/11/oster-waffenruhe-im-ukraine-krieg-fuer-32-stunden-geplant",
+      "published_date": "2026-04-11T11:12:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dschibuti: Dschibutis Präsident Guelleh mit fast 98 Prozent wiedergewählt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/praesidentschaftswahl-dschibuti-wiederwahl-guelleh",
+      "published_date": "2026-04-11T09:56:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
+      "published_date": "2026-04-11T09:36:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Attacks continue as Orthodox Easter ceasefire nears",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/southeast-asia-trusts-the-eu-more-but-brussels-still-has-work-to-do/a-76721986?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T14:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-attacks-continue-as-orthodox-easter-ceasefire-nears/a-76746629?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T09:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water",
+      "published_date": "2026-04-11T04:00:37+00:00",
+      "category": "Military"
     },
     {
       "title": "The week around the world in 20 pictures",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Russia's Putin declares Easter ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-s-putin-declares-easter-ceasefire/a-76728827?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T20:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russia's Putin declares Easter ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-s-putin-declares-easter-ceasefire/a-76728827?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-09T20:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "published_date": "2026-04-09T20:23:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-israel-says-it-will-hold-talks-with-lebanon-soon/live-76715205?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T16:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Entwicklungshilfe: Deutschland verfehlt UN-Zielmarke für Entwicklungshilfe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/entwicklungshilfe-kuerzung-oecd-deutschland-gxe",
-      "published_date": "2026-04-09T15:34:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
@@ -368,18 +368,25 @@
       "category": "Energy"
     },
     {
-      "title": "India news: New Delhi turns back to Iranian crude after seven years",
+      "title": "Germany news: Coalition split widens over fuel price relief",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-new-delhi-turns-back-to-iranian-crude-after-seven-years/live-76658437?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T07:02:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-coalition-split-widens-over-fuel-price-relief/live-76746587?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-11T09:16:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Drill baby drill' ― Trump opens up nature to big energy",
+      "title": "Germany news: Coalition split widens over fuel price relief",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/drill-baby-drill-―-trump-opens-up-nature-to-big-energy/a-76411423?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T06:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-coalition-split-widens-over-fuel-price-relief/live-76746587?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T09:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Artemis II splashes down in Pacific after historic moon trip",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/artemis-ii-splashes-down-in-pacific-after-historic-moon-trip/live-76722861?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T00:11:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Hungary: Orban and opposition trade barbs ahead of election",
@@ -466,32 +473,74 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: People change Easter holiday plans amid crises",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-people-change-easter-holiday-plans-amid-crises/live-76650036?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T09:17:00+00:00",
-      "category": "Economy"
+      "title": "Markus Söder: Berlin, wir haben ein Problem",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/16/markus-soeder-csu-reform-blockade-lars-klingbeil",
+      "published_date": "2026-04-11T10:54:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: People change Easter holiday plans amid crises",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-people-change-easter-holiday-plans-amid-crises/live-76650036?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-04T09:17:00+00:00",
-      "category": "Economy"
+      "title": "Inside Germany: Who's afraid of the big bad wolf?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260411/inside-germany-whos-afraid-of-the-big-bad-wolf",
+      "published_date": "2026-04-11T08:08:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Beauty as strategy: Why K-beauty is also a political success",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T04:57:00+00:00",
-      "category": "Economy"
+      "title": "Michael Jackson fans swarm Berlin for biopic premiere",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260411/michael-jackson-fans-swarm-berlin-for-biopic-premiere",
+      "published_date": "2026-04-11T07:36:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How South Korea is using K-beauty trend to boost soft power",
+      "title": "Hungarians speak to the Guardian before decisive election – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/11/hungarians-speak-to-the-guardian-before-decisive-election-video",
+      "published_date": "2026-04-11T07:31:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish exhibition explores life of 18th-century Black diarist",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/sweden-gustav-badin-exhibition-18th-century-black-diarist",
+      "published_date": "2026-04-11T07:30:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First gay rights movement: Berlin's wild 1920s queer history",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-south-korea-is-using-k-beauty-trend-to-boost-soft-power/a-76652311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-04T04:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-11T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First gay rights movement: Berlin's wild 1920s queer history",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: Scandal, fear and hope ahead of vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-11T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: Scandal, fear and hope ahead of vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-11T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zebras, wealth and power: Hungary’s election tests Orbán’s grip on power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/11/zebras-wealth-and-power-hungarys-election-tests-orbans-grip-on-power",
+      "published_date": "2026-04-11T05:00:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kino: Film über Popstar Michael Jackson feiert Premiere in Berlin",
@@ -561,76 +610,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/hamburg/2026-04/co2-abscheidung-hamburger-hafen-klimaneutralitaet-faq",
       "published_date": "2026-04-10T13:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Police suspect antisemitism in Israeli restaurant attack in Munich",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-police-suspect-antisemitism-in-israeli-restaurant-attack-in-munich/a-76736160?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-10T11:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Police suspect antisemitism in Israeli restaurant attack in Munich",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-police-suspect-antisemitism-in-israeli-restaurant-attack-in-munich/a-76736160?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T11:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Key exceptions likely as Germany moves to scrap free health insurance for spouses",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260410/key-exceptions-likely-as-germany-moves-to-scrap-free-health-insurance-for-spouses",
-      "published_date": "2026-04-10T09:37:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary elections: what is at stake and who is likely to win?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
-      "published_date": "2026-04-10T08:46:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From the Nile to the Euphrates: Inside Israel's expansionist ambitions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/from-the-nile-to-the-euphrates-inside-israel-s-expansionist-ambitions/a-76711994?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T08:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260410/today-in-germany-a-roundup-of-the-latest-news-on-friday-119",
-      "published_date": "2026-04-10T06:34:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flugverkehr: Flugbegleiter der Lufthansa beginnen eintägigen Streik",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/arbeit/2026-04/streik-flugbegleiter-lufthansa-flugausfall-lufthansa",
-      "published_date": "2026-04-10T05:26:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Even if Victor Orbán is ousted on Sunday, Hungary’s return to liberal democracy is not guaranteed | Gabriela Greilinger and Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/victor-orban-hungary-peter-magyar-liberal-democracy-fidesz",
-      "published_date": "2026-04-10T04:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Péter Magyar, the man leading the polls as Hungary prepares for election?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/peter-magyar-leading-polls-hungary-election-tisza-opposition",
-      "published_date": "2026-04-10T04:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lufthansa cabin crew begin strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-10T03:22:00+00:00",
       "category": "Local Events"
     }
   ]
