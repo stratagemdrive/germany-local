@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-11T23:25:37.428481+00:00",
-  "story_count": 87,
+  "last_updated": "2026-04-12T11:30:00.641860+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Wahl in Ungarn : Orbáns zweifelhafte Freundschaften",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-wahl-2026-viktor-orban-donald-trump-russland-china",
+      "published_date": "2026-04-12T10:27:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germans see little progress on cutting red tape",
       "source": "Deutsche Welle",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
+      "title": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
-      "published_date": "2026-04-09T15:15:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha",
+      "published_date": "2026-04-12T08:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What could come after a rules-based world order?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-could-come-after-a-rules-based-world-order/a-76742441?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T05:16:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran-Verhandlungen: USA und Iran ringen um Kontrolle über Straße von Hormus",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "What's getting more expensive in Germany as fuel crisis deepens?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260410/which-costs-are-rising-in-germany-as-higher-fuel-prices-drive-inflation",
-      "published_date": "2026-04-10T11:07:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Musikszene: Hip-Hop-Pionier Afrika Bambaataa ist tot",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/musik/2026-04/afrika-bambaataa-gestorben-hip-hop-zulu-nation-new-york",
-      "published_date": "2026-04-10T05:38:16+00:00",
-      "category": "Military"
-    },
-    {
       "title": "India news: Delhi looks to ban fossil fuel two-wheelers from 2028",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-delhi-looks-to-ban-fossil-fuel-two-wheelers-from-2028/live-76745829?maca=en-rss-en-all-1573-rdf",
@@ -359,6 +359,27 @@
       "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
       "published_date": "2026-04-05T17:13:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Germany news: Most Germans see decline in public manners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-most-germans-see-decline-in-public-manners/live-76746587?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-12T08:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Most Germans see decline in public manners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-most-germans-see-decline-in-public-manners/live-76746587?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T08:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India news: Jaishankar meets UAE deputy PM to discuss Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-jaishankar-meets-uae-deputy-pm-to-discuss-iran-war/live-76745829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T08:06:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bundesliga, 29. Spieltag – Samstag: FC Bayern siegt hoch bei St. Pauli",
@@ -473,6 +494,48 @@
       "category": "Economy"
     },
     {
+      "title": "Germany: Bundesliga side Union Berlin appoint first female head coach",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-12T09:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Bundesliga side Union Berlin appoint first female head coach",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T09:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilots at Germany's Lufthansa to stage two-day strike",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260412/pilots-at-germanys-lufthansa-to-stage-two-day-strike-2",
+      "published_date": "2026-04-12T06:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungarians vote in hard-fought election that could oust Viktor Orbán after 16 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years",
+      "published_date": "2026-04-12T06:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary election: Orban faces tight race in pivotal vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-election-orban-faces-tight-race-in-pivotal-vote/live-76750838?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T03:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary election: Orban faces tight race in pivotal vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-election-orban-faces-tight-race-in-pivotal-vote/live-76750838?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-12T03:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Fußball-Bundesliga: Union Berlin trennt sich von Baumgart - Eta übernimmt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/12/union-berlin-trennt-sich-von-baumgart-eta-uebernimmt",
@@ -568,48 +631,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/16/markus-soeder-csu-reform-blockade-lars-klingbeil",
       "published_date": "2026-04-11T10:54:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Who's afraid of the big bad wolf?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260411/inside-germany-whos-afraid-of-the-big-bad-wolf",
-      "published_date": "2026-04-11T08:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michael Jackson fans swarm Berlin for biopic premiere",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260411/michael-jackson-fans-swarm-berlin-for-biopic-premiere",
-      "published_date": "2026-04-11T07:36:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungarians speak to the Guardian before decisive election – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/11/hungarians-speak-to-the-guardian-before-decisive-election-video",
-      "published_date": "2026-04-11T07:31:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish exhibition explores life of 18th-century Black diarist",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/sweden-gustav-badin-exhibition-18th-century-black-diarist",
-      "published_date": "2026-04-11T07:30:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First gay rights movement: Berlin's wild 1920s queer history",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-11T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First gay rights movement: Berlin's wild 1920s queer history",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T06:34:00+00:00",
       "category": "Local Events"
     }
   ]
