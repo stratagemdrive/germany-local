@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-12T11:30:00.641860+00:00",
-  "story_count": 90,
+  "last_updated": "2026-04-12T23:26:46.842090+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Wahlsieger in Ungarn: Magyar fordert Staatspräsidenten zum Rücktritt auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/wahl-ungarn-peter-magyar-mehrheit-europa-rede",
+      "published_date": "2026-04-12T22:27:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reaktionen zur Wahl in Ungarn: \"Ungarn hat Europa gewählt\"",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-sieg-opposition-reaktionen",
+      "published_date": "2026-04-12T21:33:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungarian opposition ousts Viktor Orbán after 16 years in power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
+      "published_date": "2026-04-12T20:05:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain could adopt single market rules without MPs’ vote as part of UK-EU reset",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
+      "published_date": "2026-04-12T17:58:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Wahl in Ungarn : Orbáns zweifelhafte Freundschaften",
       "source": "ZEIT Online",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Benzinpreise: Pendlerpauschale, Spritpreisbremse, 9-Euro-Ticket: Was hilft?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-04/benzinpreise-politik-entlastung-massnahmen-nachrichtenpodcast",
-      "published_date": "2026-04-10T04:24:41+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
+      "published_date": "2026-04-12T23:00:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine and Syria tighten relations",
+      "title": "Nigeria: Many dead after military bombs village market",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-and-syria-tighten-relations/a-76727981?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-09T19:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/nigeria-many-dead-after-military-bombs-village-market/a-76756309?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T17:53:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine and Syria tighten relations",
+      "title": "Interest in EVs surges in Europe as fuel prices jump after Iran war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/12/interest-evs-surge-europe-fuel-prices-iran-war",
+      "published_date": "2026-04-12T15:53:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran talks: What prevented a deal and what's next?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-and-syria-tighten-relations/a-76727981?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-09T19:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-iran-talks-what-prevented-a-deal-and-what-s-next/a-76755660?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T15:52:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Irankrieg: Merz nennt Bedingungen für deutschen Einsatz an der Straße von Hormus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/friedrich-merz-strasse-von-hormus-donald-trump-mandat",
-      "published_date": "2026-04-09T15:56:19+00:00",
-      "category": "Diplomacy"
+      "title": "Zelenskyy, Putin mark Easter amid truce breach allegations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-putin-mark-easter-amid-truce-breach-allegations/a-76754232?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T15:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
@@ -155,6 +190,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/what-could-come-after-a-rules-based-world-order/a-76742441?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-12T05:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump orders Strait of Hormuz naval blockade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-orders-strait-of-hormuz-naval-blockade/live-76750859?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T02:06:00+00:00",
       "category": "Military"
     },
     {
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Fuel-price protesters cause chaos in Ireland and spread to Norway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/fuel-price-protests-chaos-ireland-norway",
-      "published_date": "2026-04-10T14:25:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: JD Vance hoping for 'positive' talks in Pakistan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-jd-vance-hoping-for-positive-talks-in-pakistan/live-76729523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T13:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Protesters block Rheinmetall arms plant",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-protesters-block-rheinmetall-arms-plant/live-76731144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T12:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Protesters block Rheinmetall arms plant",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-protesters-block-rheinmetall-arms-plant/live-76731144?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-10T12:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German Bundeswehr says military-aged men can travel freely",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-bundeswehr-says-military-aged-men-can-travel-freely/a-76738187?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-10T11:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German Bundeswehr says military-aged men can travel freely",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-bundeswehr-says-military-aged-men-can-travel-freely/a-76738187?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-10T11:57:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "India news: Delhi looks to ban fossil fuel two-wheelers from 2028",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-delhi-looks-to-ban-fossil-fuel-two-wheelers-from-2028/live-76745829?maca=en-rss-en-all-1573-rdf",
@@ -340,25 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
+      "title": "Benin election: Finance minister Wadagni expected to win",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-05T17:54:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-05T17:54:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
-      "published_date": "2026-04-05T17:13:07+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/benin-election-finance-minister-wadagni-expected-to-win/a-76754222?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T13:38:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany news: Most Germans see decline in public manners",
@@ -494,6 +480,62 @@
       "category": "Economy"
     },
     {
+      "title": "Hungary election live: ‘We have done it,’ Magyar tells jubilant Budapest as Orbán’s 16-year rule ends",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates",
+      "published_date": "2026-04-12T23:04:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru general elections: No clear frontrunner, runoff likely",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/peru-general-elections-no-clear-frontrunner-runoff-likely/a-76756162?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T19:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irish police clear Dublin blockade staged by fuel price protesters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/irish-police-clear-dublin-blockade-fuel-price-protesters-farmers-hauliers",
+      "published_date": "2026-04-12T18:25:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hope, fear and an ‘unpredictable outcome’ as Hungarians vote after 16 years of Orbán",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/hungarian-election-hope-voters-cast-ballots",
+      "published_date": "2026-04-12T17:29:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hacking women's political underrepresentation, Dutch-style",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hacking women's political underrepresentation, Dutch-style",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-12T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Betting on elections is illegal — but possible",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-12T12:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Betting on elections is illegal — but possible",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T12:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Germany: Bundesliga side Union Berlin appoint first female head coach",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-ger-1023-rdf",
@@ -536,6 +578,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Hungary election: Orban concedes 'painful' defeat to Magyar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-election-orban-concedes-painful-defeat-to-magyar/live-76750838?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-12T03:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary election: Orban concedes 'painful' defeat to Magyar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-election-orban-concedes-painful-defeat-to-magyar/live-76750838?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-12T03:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Fußball-Bundesliga: Union Berlin trennt sich von Baumgart - Eta übernimmt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/12/union-berlin-trennt-sich-von-baumgart-eta-uebernimmt",
@@ -561,76 +617,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/12/union-berlin-trennt-sich-von-trainer-baumgart",
       "published_date": "2026-04-11T22:13:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is this the end of Viktor Orbán’s regime? - podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/11/is-this-the-end-of-viktor-orbans-regime-full-story-podcast",
-      "published_date": "2026-04-11T20:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much sway does Trump have over Hungarian voters?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T19:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much sway does Trump have over Hungarian voters?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-11T19:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French man charged with keeping nine-year-old son locked in van since 2024",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/french-man-charged-keeping-nine-year-old-son-locked-van-hagenbach",
-      "published_date": "2026-04-11T18:11:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Lufthansa pilots' union call for two-day strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-lufthansa-pilots-union-call-for-two-day-strike/a-76748571?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-11T15:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Lufthansa pilots' union call for two-day strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-lufthansa-pilots-union-call-for-two-day-strike/a-76748571?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T15:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian Memorial human rights NGO labeled 'extremist'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T14:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian Memorial human rights NGO labeled 'extremist'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-11T14:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He cares about Hungarians’: the small Ukrainian town divided over Orbán",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-divided-viktor-orban-berehove-fidesz",
-      "published_date": "2026-04-11T13:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Markus Söder: Berlin, wir haben ein Problem",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/16/markus-soeder-csu-reform-blockade-lars-klingbeil",
-      "published_date": "2026-04-11T10:54:47+00:00",
       "category": "Local Events"
     }
   ]
