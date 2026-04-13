@@ -1,8 +1,99 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-13T11:59:57.430015+00:00",
-  "story_count": 88,
+  "last_updated": "2026-04-13T23:36:04.158300+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Energiekosten: EU-Kommission will Staatshilfen wegen des Irankriegs lockern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/eu-kommission-staatshilfen-irankrieg",
+      "published_date": "2026-04-13T23:10:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Industrie: EU einigt sich auf schärfere Regeln für Stahlimporte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/14/eu-einigt-sich-auf-schaerfere-regeln-fuer-stahlimporte",
+      "published_date": "2026-04-13T22:46:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krieg im Nahen Osten: Friedrich Merz ruft Israel zu Ende der Angriffe im Südlibanon auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/merz-netanjahu-beendigung-angriffe-libanon",
+      "published_date": "2026-04-13T21:59:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU applauds Hungary’s election result",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T19:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU applauds Hungary’s election result",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-13T19:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vance’s bad week: vice-president risks becoming face of two Trump foreign policy failures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/jd-vance-orban-hungary-iran-trump",
+      "published_date": "2026-04-13T18:10:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What does Péter Magyar’s win in Hungary mean for the EU and Ukraine?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-election-win-hungary-eu-ukraine-russia",
+      "published_date": "2026-04-13T17:14:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU relieved to see back of Orbán but Magyar’s Hungary may still present problems",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/why-peter-magyar-hungary-likely-become-normal-eu-member-state",
+      "published_date": "2026-04-13T16:38:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will Orbán’s defeat in Hungary be a turning point for Europe? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/13/will-orbans-defeat-in-hungary-be-a-turning-point-for-europe-the-latest",
+      "published_date": "2026-04-13T16:11:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war: Talks collapse is bad news for ordinary Iranians",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-talks-collapse-is-bad-news-for-ordinary-iranians/a-76767100?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T15:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary's Magyar outlines policy in first news conference",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-magyar-outlines-policy-in-first-news-conference/a-76766682?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T14:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany announces tax cuts and employee bonuses for fuel price relief",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260413/germany-announces-tax-cuts-and-employee-bonuses-for-fuel-price-relief",
+      "published_date": "2026-04-13T12:31:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burkina Faso: Moving forward without democracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/burkina-faso-moving-forward-without-democracy/a-76760621?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T12:26:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Magyar says his government will work for a ‘free, European’ Hungary in break with Orbán era – Europe live",
       "source": "The Guardian",
@@ -25,6 +116,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany news: Merz says fuel tax lowered to ease price surge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-says-fuel-tax-lowered-to-ease-price-surge/live-76759123?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-13T07:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz says fuel tax lowered to ease price surge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-says-fuel-tax-lowered-to-ease-price-surge/live-76759123?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T07:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "German leaders welcome Hungary's new leadership after Orban's defeat",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260413/german-leaders-welcome-hungarys-new-leadership-after-orbans-defeat",
@@ -39,109 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hungary: Peter Magyar's election heralds thaw in EU ties",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-peter-magyar-s-election-heralds-thaw-in-eu-ties/a-76758641?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-13T06:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Hungary has chosen Europe’: EU leaders jubilant after Péter Magyar’s victory over Orbán",
+      "title": "US starts naval blockade of Iranian ports after deadline passes",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
-      "published_date": "2026-04-13T04:42:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin",
+      "published_date": "2026-04-13T22:13:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Thousands celebrate in Hungary as Péter Magyar ends Viktor Orbán's 16-year rule – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/13/thousands-celebrate-hungary-peter-magyar-viktor-orban-16-year-rule-video",
-      "published_date": "2026-04-13T02:33:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wahlsieger in Ungarn: Magyar fordert Staatspräsidenten zum Rücktritt auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/wahl-ungarn-peter-magyar-mehrheit-europa-rede",
-      "published_date": "2026-04-12T22:27:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reaktionen zur Wahl in Ungarn: \"Ungarn hat Europa gewählt\"",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-sieg-opposition-reaktionen",
-      "published_date": "2026-04-12T21:33:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungarian opposition ousts Viktor Orbán after 16 years in power",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
-      "published_date": "2026-04-12T20:05:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain could adopt single market rules without MPs’ vote as part of UK-EU reset",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
-      "published_date": "2026-04-12T17:58:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wahl in Ungarn : Orbáns zweifelhafte Freundschaften",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-wahl-2026-viktor-orban-donald-trump-russland-china",
-      "published_date": "2026-04-12T10:27:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germans see little progress on cutting red tape",
+      "title": "US-Iran war: Is Pakistan a real peacemaker?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-see-little-progress-on-cutting-red-tape/a-76747976?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-11T14:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-iran-war-is-pakistan-a-real-peacemaker/a-76765623?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T13:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germans see little progress on cutting red tape",
+      "title": "Australia appoints first female army chief",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-see-little-progress-on-cutting-red-tape/a-76747976?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T14:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Full rollout of new EU border checks hit by delays and disruption",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260411/full-rollout-of-new-eu-border-checks-hit-by-delays-and-disruption",
-      "published_date": "2026-04-11T13:56:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is this Syrian doctor one of the 80% Germany wants to remove?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-this-syrian-doctor-one-of-the-80-germany-wants-to-remove/a-76739903?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-11T13:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is this Syrian doctor one of the 80% Germany wants to remove?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-this-syrian-doctor-one-of-the-80-germany-wants-to-remove/a-76739903?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T13:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India looks on from sidelines as US, Iran talk peace in Islamabad",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-looks-on-from-sidelines-as-us-iran-talk-peace-in-islamabad/live-76745829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T07:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-      "published_date": "2026-04-10T16:47:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/australia-appoints-first-female-army-chief/a-76763950?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T12:53:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Bundesregierung will schnelle Freigabe von Ukrainehilfe durch Ungarn",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Attacks continue as Orthodox Easter ceasefire nears",
+      "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-attacks-continue-as-orthodox-easter-ceasefire-nears/a-76746629?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T09:29:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-13T17:51:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US says warships passed Hormuz amid ongoing talks with Iran",
+      "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-says-warships-passed-hormuz-amid-ongoing-talks-with-iran/live-76745065?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T05:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water",
-      "published_date": "2026-04-11T04:00:37+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T17:51:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "India news: Delhi looks to ban fossil fuel two-wheelers from 2028",
@@ -340,9 +354,37 @@
       "category": "Energy"
     },
     {
+      "title": "Lufthansa pilots launch 2-day strike, cabin crew say they will strike right after",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-13T17:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lufthansa pilots launch 2-day strike, cabin crew say they will strike right after",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T17:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US maritime restrictions increase economic pressure on Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-maritime-restrictions-increase-economic-pressure-on-iran/a-76760110?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T16:31:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "France: Ex-CEO of cement giant Lafarge jailed for funding Syrian jihadi groups",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-ex-ceo-of-cement-giant-lafarge-jailed-for-funding-syrian-jihadi-groups/a-76764335?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T11:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France: Ex-Lafarge CEO jailed for funding Syrian jihadists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-ex-lafarge-ceo-jailed-for-funding-syrian-jihadists/a-76764335?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-13T11:55:00+00:00",
       "category": "Economy"
     },
@@ -452,32 +494,53 @@
       "category": "Economy"
     },
     {
-      "title": "Lidl to open 50 UK stores in year ahead as part of £600m expansion plans",
+      "title": "‘Now I’m hopeful’: Hungarians welcome the morning after 16 years of Orbán rule",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/09/lidl-to-open-50-uk-stores-in-year-ahead-as-part-of-600m-expansion-plans",
-      "published_date": "2026-04-09T12:45:53+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/13/now-im-hopeful-hungarians-welcome-the-morning-after-16-years-of-orban-rule",
+      "published_date": "2026-04-13T18:29:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hamburg-Eißendorf: 5.000 Euro Belohnung nach Tötungsdelikt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/08/5-000-euro-belohnung-nach-toetungsdelikt",
-      "published_date": "2026-04-08T14:52:10+00:00",
-      "category": "Economy"
+      "title": "The Guardian view on Hungary’s election: democracy reclaimed | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/the-guardian-view-on-hungarys-election-democracy-reclaimed-",
+      "published_date": "2026-04-13T17:57:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Deutsche Bank: Deutsche-Bank-Aufsichtsratschef verdient künftig 1,4 Millionen Euro",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/deutsche-bank-aufsichtsrat-alexander-wynaendts-gehalt",
-      "published_date": "2026-04-08T14:31:07+00:00",
-      "category": "Economy"
+      "title": "Orbán’s defeat holds lessons for US: ‘Autocrats may rise, but are not invincible’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/viktor-orban-defeat-lessons-trump",
+      "published_date": "2026-04-13T17:47:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Geschichtsphilosophie: Wiederholt sich Geschichte, Ute Frevert?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissen/2026-04/geschichtsphilosophie-zyklentheorie-emotionsgeschichte-ute-frevert-nur-eine-frage-interview-podcast",
-      "published_date": "2026-04-08T04:00:35+00:00",
-      "category": "Economy"
+      "title": "Péter Magyar vows to pursue those who ‘plundered’ Hungary after election win",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
+      "published_date": "2026-04-13T17:25:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK finds attack on Taylor Swift-themed class 'preventable'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-finds-attack-on-taylor-swift-themed-class-preventable/a-76767586?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T16:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "End of the Orban era: Hungary and Europe breathe again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-13T14:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "End of the Orban era: Hungary and Europe breathe again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-13T14:49:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wahlen in MV: Bürgermeisterwahlen in MV Dämpfer für AfD",
@@ -568,55 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/peru-general-elections-no-clear-frontrunner-runoff-likely/a-76756162?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-12T19:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irish police clear Dublin blockade staged by fuel price protesters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/12/irish-police-clear-dublin-blockade-fuel-price-protesters-farmers-hauliers",
-      "published_date": "2026-04-12T18:25:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hope, fear and an ‘unpredictable outcome’ as Hungarians vote after 16 years of Orbán",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/12/hungarian-election-hope-voters-cast-ballots",
-      "published_date": "2026-04-12T17:29:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hacking women's political underrepresentation, Dutch-style",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hacking women's political underrepresentation, Dutch-style",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-12T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Betting on elections is illegal — but possible",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-12T12:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Betting on elections is illegal — but possible",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T12:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Bundesliga side Union Berlin appoint first female head coach",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-12T09:30:00+00:00",
       "category": "Local Events"
     }
   ]
