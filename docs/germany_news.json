@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-14T11:55:04.200827+00:00",
-  "story_count": 91,
+  "last_updated": "2026-04-14T23:36:32.405849+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "In a joyful Budapest, I see the chance of an unprecedented transition | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/budapest-populists-donald-trump-viktor-orban-hungary-europe",
+      "published_date": "2026-04-14T16:43:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli ambassador to Germany condemns Bezalel Smotrich’s tirade against chancellor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/14/israeli-ambassador-germany-condemns-bezalel-smotrich-chancellor-friedrich-merz-nazi-regime",
+      "published_date": "2026-04-14T15:45:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Q&A: Who will get Germany's tax-free bonus?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260414/qa-who-will-get-germanys-tax-free-bonus",
+      "published_date": "2026-04-14T15:01:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Magyar set to make rare appearance on Hungary’s state media after accusing them of spreading Orbán propaganda – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Will Orbán’s defeat in Hungary be a turning point for Europe? – The Latest",
+      "title": "Trump accuses ally Meloni of lacking courage for not joining attacks on Iran",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/13/will-orbans-defeat-in-hungary-be-a-turning-point-for-europe-the-latest",
-      "published_date": "2026-04-13T16:11:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/14/trump-accuses-ally-meloni-of-lacking-courage-for-not-joining-attacks-on-iran",
+      "published_date": "2026-04-14T17:11:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war: Talks collapse is bad news for ordinary Iranians",
+      "title": "Sudan: Iran war prompts 'massive' food, fuel price rises; drones kill hundreds of civilians in 2026",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-talks-collapse-is-bad-news-for-ordinary-iranians/a-76767100?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T15:13:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sudan-iran-war-prompts-massive-food-fuel-price-rises-drones-kill-hundreds-of-civilians-in-2026/a-76779824?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-14T16:55:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary's Magyar outlines policy in first news conference",
+      "title": "Sudan: Iran war prompts 'massive' food, fuel price rises; drones kill hundreds of civilians in 2026",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-magyar-outlines-policy-in-first-news-conference/a-76766682?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T14:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sudan-iran-war-prompts-massive-food-fuel-price-rises-drones-kill-hundreds-of-civilians-in-2026/a-76779824?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T16:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New Berlin centre aims to help Ukraine refugees and encourage returns",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260414/new-berlin-centre-aims-to-help-ukraine-refugees-and-encourage-returns",
+      "published_date": "2026-04-14T15:44:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's aid to Ukraine faces challenges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-aid-to-ukraine-faces-challenges/a-76780797?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-14T15:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's aid to Ukraine faces challenges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-aid-to-ukraine-faces-challenges/a-76780797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T15:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US blockade of Hormuz tests China's restraint",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-blockade-of-hormuz-tests-china-s-restraint/a-76777251?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T14:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe could face jet fuel supply issues 'in near future'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260414/europe-could-face-jet-fuel-supply-issues-in-near-future",
+      "published_date": "2026-04-14T12:57:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Selenskyj in Berlin: Deutschland und Ukraine wollen Zusammenarbeit ausbauen",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: US military to blockade Iranian ports",
+      "title": "Why India walked away from its bid to host COP33",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-military-to-blockade-iranian-ports/live-76758809?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T06:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
-      "published_date": "2026-04-12T23:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria: Many dead after military bombs village market",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-many-dead-after-military-bombs-village-market/a-76756309?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T17:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Interest in EVs surges in Europe as fuel prices jump after Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/12/interest-evs-surge-europe-fuel-prices-iran-war",
-      "published_date": "2026-04-12T15:53:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran talks: What prevented a deal and what's next?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-talks-what-prevented-a-deal-and-what-s-next/a-76755660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T15:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy, Putin mark Easter amid truce breach allegations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-putin-mark-easter-amid-truce-breach-allegations/a-76754232?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T15:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha",
-      "published_date": "2026-04-12T08:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What could come after a rules-based world order?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-could-come-after-a-rules-based-world-order/a-76742441?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T05:16:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/why-india-walked-away-from-its-bid-to-host-cop33/a-76778682?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T13:34:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
@@ -340,25 +347,39 @@
       "category": "Energy"
     },
     {
-      "title": "US citizens beat rising energy bills with homegrown power",
+      "title": "Lufthansa pilots to strike again for 2 more days, leading to a full working week of disruption",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-citizens-beat-rising-energy-bills-with-homegrown-power/a-76566780?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T13:15:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/lufthansa-pilots-to-strike-again-for-2-more-days-leading-to-a-full-working-week-of-disruption/a-76783319?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-14T19:06:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How to insulate your household from soaring energy bills",
+      "title": "Lufthansa pilots to strike again for 2 more days, leading to a full working week of disruption",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-to-insulate-your-household-from-soaring-energy-bills/a-76566780?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T13:15:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/lufthansa-pilots-to-strike-again-for-2-more-days-leading-to-a-full-working-week-of-disruption/a-76783319?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T19:06:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Homegrown energy is slashing US energy bills",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/homegrown-energy-is-slashing-us-energy-bills/a-76566780?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-07T13:15:00+00:00",
-      "category": "Energy"
+      "title": "UK woman fears being stranded in Spain over new Home Office border rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/14/uk-woman-fears-being-stranded-spain-new-home-office-border-rules",
+      "published_date": "2026-04-14T17:33:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reeves arrives at IMF with little leeway to prove its UK downgrade wrong",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/14/rachel-reeves-arrives-at-imf-with-little-leeway-to-prove-its-uk-downgrade-wrong",
+      "published_date": "2026-04-14T17:27:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK steel exports to EU at risk as bloc doubles tariffs and halves quotas",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/14/uk-steel-exports-eu-risk-tariffs-quotas",
+      "published_date": "2026-04-14T13:53:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Spanish prime minister’s wife charged with corruption",
@@ -386,6 +407,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-14T02:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Renewed ties with EU needed to boost UK security and economy, says Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/13/keir-starmer-defends-plan-for-closer-alignment-with-eu-rules",
+      "published_date": "2026-04-13T17:33:57+00:00",
       "category": "Economy"
     },
     {
@@ -459,51 +487,65 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Most Germans see decline in public manners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-most-germans-see-decline-in-public-manners/live-76746587?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-12T08:19:00+00:00",
-      "category": "Economy"
+      "title": "Health of boy thrown from Tate Modern takes ‘sad step backwards’, family say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/14/health-of-boy-thrown-from-tate-moderns-10th-floor-worsens",
+      "published_date": "2026-04-14T22:47:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Most Germans see decline in public manners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-most-germans-see-decline-in-public-manners/live-76746587?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T08:19:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "India news: Jaishankar meets UAE deputy PM to discuss Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-jaishankar-meets-uae-deputy-pm-to-discuss-iran-war/live-76745829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T08:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bundesliga, 29. Spieltag – Samstag: FC Bayern siegt hoch bei St. Pauli",
+      "title": "Tennis: Lys nach Comeback-Sieg in Stuttgart emotional",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/bundesliga-29-spieltag-samstag-dortmund-leverkusen-st-pauli-bayern-muenchen",
-      "published_date": "2026-04-11T18:47:35+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-04/14/nach-abstieg-seidel-verpasst-erstrundensieg-in-stuttgart",
+      "published_date": "2026-04-14T21:08:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Coalition split widens over fuel price relief",
+      "title": "Antisemitic violence at record high for Jews outside Israel",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-split-widens-over-fuel-price-relief/live-76746587?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-11T09:16:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/antisemitic-violence-at-record-high-for-jews-outside-israel/a-76781707?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T18:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Coalition split widens over fuel price relief",
+      "title": "Vernon Katz obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/apr/14/vernon-katz-obituary",
+      "published_date": "2026-04-14T16:55:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We were never friends’: Kremlin plays down loss of ally following Orbán’s election defeat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/14/hungary-new-era-russia-back-foot-vladimir-putin-viktor-orban",
+      "published_date": "2026-04-14T12:29:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orban's defeat in Hungary reverberates across Central Europe",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-split-widens-over-fuel-price-relief/live-76746587?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T09:16:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/orban-s-defeat-in-hungary-reverberates-across-central-europe/a-76776714?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T11:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orban's defeat in Hungary reverberates across Central Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/orban-s-defeat-in-hungary-reverberates-across-central-europe/a-76776714?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-14T11:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New whale sighting on German-Danish border",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/new-whale-sighting-on-german-danish-border/a-76777008?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-14T11:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New whale sighting on German-Danish border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-whale-sighting-on-german-danish-border/a-76777008?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-14T11:52:00+00:00",
       "category": "Local Events"
     },
@@ -582,62 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
       "published_date": "2026-04-13T17:25:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK finds attack on Taylor Swift-themed class 'preventable'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-finds-attack-on-taylor-swift-themed-class-preventable/a-76767586?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T16:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "End of the Orban era: Hungary and Europe breathe again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "End of the Orban era: Hungary and Europe breathe again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-13T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: Orban's election defeat sparks hope and relief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-orban-s-election-defeat-sparks-hope-and-relief/a-76766410?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: Orban's election defeat sparks hope and relief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-orban-s-election-defeat-sparks-hope-and-relief/a-76766410?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-13T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlen in MV: Bürgermeisterwahlen in MV Dämpfer für AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/13/schwerin-vor-der-stichwahl-afd-frau-knapp-auf-platz-drei",
-      "published_date": "2026-04-13T11:47:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Einigung auf Reformpaket: Doch, ein Befreiungsschlag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/reformpaket-regierung-beschluss-entlastung-mineraloelsteuer-friedrich-merz",
-      "published_date": "2026-04-13T11:46:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mehr Blitzer in NRW: \"Speedweek\": Vermehrt Geschwindigkeitskontrollen diese Woche",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/13/speedweek-vermehrt-geschwindigkeitskontrollen-diese-woche",
-      "published_date": "2026-04-13T11:44:53+00:00",
       "category": "Local Events"
     }
   ]
