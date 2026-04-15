@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-14T23:36:32.405849+00:00",
+  "last_updated": "2026-04-15T11:52:40.369128+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Antisemitismus: Deutschland ist laut EU-Bericht zu streng mit Antisemitismus-Begriff",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/antisemitismus-deutschland-ihra-israel-europarat-kritik",
+      "published_date": "2026-04-15T10:41:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260415/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-116",
+      "published_date": "2026-04-15T06:28:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Orbán’s defeat in Hungary could unlock €90bn loan for Ukraine, says EU official",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/15/ukraine-war-briefing-orbans-defeat-in-hungary-could-unlock-90bn-loan-for-ukraine-says-eu-official",
+      "published_date": "2026-04-15T02:04:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is the EU back in vogue? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/apr/15/is-the-eu-back-in-vogue-podcast",
+      "published_date": "2026-04-15T02:00:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "In a joyful Budapest, I see the chance of an unprecedented transition | Timothy Garton Ash",
       "source": "The Guardian",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU applauds Hungary’s election result",
+      "title": "Germany: Berlin conference for Sudan aims to raise over $1B",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-13T19:36:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-berlin-conference-for-sudan-aims-to-raise-over-1b/a-76786563?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-15T11:22:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Vance’s bad week: vice-president risks becoming face of two Trump foreign policy failures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/jd-vance-orban-hungary-iran-trump",
-      "published_date": "2026-04-13T18:10:31+00:00",
-      "category": "Diplomacy"
+      "title": "Germany: Berlin conference for Sudan aims to raise over $1B",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-berlin-conference-for-sudan-aims-to-raise-over-1b/a-76786563?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T11:22:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What does Péter Magyar’s win in Hungary mean for the EU and Ukraine?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-election-win-hungary-eu-ukraine-russia",
-      "published_date": "2026-04-13T17:14:16+00:00",
-      "category": "Diplomacy"
+      "title": "Xi hails China-Russia ties, signals bigger role in Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/xi-hails-china-russia-ties-signals-bigger-role-in-iran-war/a-76787130?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T10:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU relieved to see back of Orbán but Magyar’s Hungary may still present problems",
+      "title": "Hidden treasures: Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/why-peter-magyar-hungary-likely-become-normal-eu-member-state",
-      "published_date": "2026-04-13T16:38:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+      "published_date": "2026-04-15T08:00:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nuba Mountains: a fragile refuge on Sudan's frontline",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nuba-mountains-a-fragile-refuge-on-sudan-s-frontline/a-76766294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T06:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: A Dalit officer highlights caste barriers in judiciary",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-a-dalit-officer-highlights-caste-barriers-in-judiciary/live-76784663?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T06:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Truth & Treason review – persuasive, punchy treatment of teenager who takes on the Gestapo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/15/truth-treason-review-persuasive-punchy-treatment-of-teenager-who-takes-on-the-gestapo",
+      "published_date": "2026-04-15T06:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US will make Iran 'thrive' if it ditches nukes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-will-make-iran-thrive-if-it-ditches-nukes/live-76783967?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T03:11:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump accuses ally Meloni of lacking courage for not joining attacks on Iran",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: Tehran slams US port blockade",
+      "title": "US: Maine pushes for first statewide pause on AI data centers",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-slams-us-port-blockade/live-76769832?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T05:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/ukraine-war-briefing-peter-magyar-hungary-putin",
-      "published_date": "2026-04-14T01:10:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Fugitive Brazilian ex-spy chief arrested by ICE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-fugitive-brazilian-ex-spy-chief-arrested-by-ice/a-76769371?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T00:15:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US starts naval blockade of Iranian ports after deadline passes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin",
-      "published_date": "2026-04-13T22:13:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran war: Is Pakistan a real peacemaker?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-war-is-pakistan-a-real-peacemaker/a-76765623?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T13:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia appoints first female army chief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-appoints-first-female-army-chief/a-76763950?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T12:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Bundesregierung will schnelle Freigabe von Ukrainehilfe durch Ungarn",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-04-13T11:39:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo: I am not afraid of Trump administration",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-i-am-not-afraid-of-trump-administration/a-76763503?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T11:09:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-maine-pushes-for-first-statewide-pause-on-ai-data-centers/a-76784015?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T03:58:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why India walked away from its bid to host COP33",
@@ -340,11 +347,53 @@
       "category": "Energy"
     },
     {
-      "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
+      "title": "Higher co-pays, fewer services: The cuts coming for Germany's public health insurance",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260415/higher-co-pays-fewer-services-the-cuts-coming-for-germanys-public-health-insurance",
+      "published_date": "2026-04-15T11:30:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Women's workwear: When proper fit becomes a safety issue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-15T10:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Women's workwear: When proper fit becomes a safety issue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T10:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tax Day is a reminder of America’s unequal tax system. But we can fix it | Zohran Mamdani, Gabriel Zucman and Joseph Stiglitz",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
-      "published_date": "2026-04-08T04:00:15+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/tax-day-united-states-unequal-taxation",
+      "published_date": "2026-04-15T10:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aegon offloads 200-year-old UK business to Standard Life for £2bn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/15/aegon-offloads-200-year-old-uk-business-to-standard-life",
+      "published_date": "2026-04-15T09:23:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France's Renault slashes engineer jobs amid pressure from Chinese carmakers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-renault-slashes-engineer-jobs-amid-pressure-from-chinese-carmakers/a-76783924?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T00:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France's Renault slashes engineer jobs amid pressure from Chinese carmakers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-renault-slashes-engineer-jobs-amid-pressure-from-chinese-carmakers/a-76783924?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-15T00:30:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Lufthansa pilots to strike again for 2 more days, leading to a full working week of disruption",
@@ -438,53 +487,95 @@
       "category": "Economy"
     },
     {
-      "title": "Trump's naval blockade raises economic pressure on Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-s-naval-blockade-raises-economic-pressure-on-iran/a-76760110?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T16:31:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "France: Ex-CEO of cement giant Lafarge jailed for funding Syrian jihadi groups",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-ex-ceo-of-cement-giant-lafarge-jailed-for-funding-syrian-jihadi-groups/a-76764335?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T11:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "France: Ex-Lafarge CEO jailed for funding Syrian jihadists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-ex-lafarge-ceo-jailed-for-funding-syrian-jihadists/a-76764335?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T11:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
+      "title": "Magyar ‘is going to do good job’, Trump says as he distances himself from Orbán – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
-      "published_date": "2026-04-13T11:33:59+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/live/2026/apr/15/peter-magyar-hungary-president-media-viktor-orban-european-union-europe-latest",
+      "published_date": "2026-04-15T11:29:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lufthansa pilots launch 2-day strike, the fourth this year; hundreds of flights canceled",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-the-fourth-this-year-hundreds-of-flights-canceled/a-76760890?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-13T10:33:00+00:00",
-      "category": "Economy"
+      "title": "Viktor Orbán und die AfD: Das schmerzt auch die AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/viktor-orban-afd-ungarn-verbuendete-niederlage-reaktion",
+      "published_date": "2026-04-15T11:25:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lufthansa pilots launch 2-day strike, the fourth this year; hundreds of flights canceled",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-the-fourth-this-year-hundreds-of-flights-canceled/a-76760890?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T10:33:00+00:00",
-      "category": "Economy"
+      "title": "The Brexit delusion is dead – so now Keir Starmer doesn’t need to pretend any more | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/brexit-delusion-keir-starmer-europe-prime-minister",
+      "published_date": "2026-04-15T09:00:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Benin election: Finance minister Wadagni expected to win",
+      "title": "Where passengers in Saxony are affected by public transport strikes this week",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260415/where-passengers-in-saxony-are-affected-by-public-transport-strikes-this-week",
+      "published_date": "2026-04-15T08:26:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: What's next for Peter Magyar after election win?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/benin-election-finance-minister-wadagni-expected-to-win/a-76754222?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-12T13:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T08:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: What's next for Peter Magyar after election win?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-15T08:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'BerlinPay': How a new tourism initiative aims to clean up Germany's capital city",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260415/berlinpay-how-a-new-tourism-initiative-aims-to-clean-up-germanys-capital-city",
+      "published_date": "2026-04-15T08:08:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Lufthansa air crew strike after pilot walkout",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-air-crew-strike-after-pilot-walkout/live-76785451?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-15T07:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Lufthansa air crew strike after pilot walkout",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-air-crew-strike-after-pilot-walkout/live-76785451?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T07:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lufthansa pilots' union calls for second new strike this week",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260415/lufthansa-pilots-union-calls-for-second-new-strike-this-week",
+      "published_date": "2026-04-15T07:05:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey school shooting injures 16, teenage attacker dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-school-shooting-injures-16-teenage-attacker-dead/a-76784713?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T06:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary beware: authoritarianism can be checked, but it is rarely dismissed with a single blow | Blanche Leridon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law",
+      "published_date": "2026-04-15T04:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kanye West postpones Marseille concert as France considers blocking him from performing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/apr/15/kanye-west-ban-france-marseille-ye-concert",
+      "published_date": "2026-04-15T00:34:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Health of boy thrown from Tate Modern takes ‘sad step backwards’, family say",
@@ -533,97 +624,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/orban-s-defeat-in-hungary-reverberates-across-central-europe/a-76776714?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-14T11:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New whale sighting on German-Danish border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-whale-sighting-on-german-danish-border/a-76777008?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T11:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New whale sighting on German-Danish border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-whale-sighting-on-german-danish-border/a-76777008?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-14T11:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Mann in Fürstenwalde angeschossen – Festnahmen in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/14/mann-in-fuerstenwalde-angeschossen-festnahmen-in-berlin",
-      "published_date": "2026-04-14T11:32:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Man found guilty in Pelicot-style rape case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-man-found-guilty-in-pelicot-style-rape-case/a-76775746?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-14T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Man found guilty in Pelicot-style rape case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-man-found-guilty-in-pelicot-style-rape-case/a-76775746?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea sentences 90‑year‑old woman for money laundering",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-sentences-90‑year‑old-woman-for-money-laundering/a-76773971?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T09:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Travel to and from Germany disrupted by back to back Lufthansa strikes",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260414/travel-to-and-from-germany-disrupted-by-back-to-back-lufthansa-strikes",
-      "published_date": "2026-04-14T09:17:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada: Carney secures majority after special election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T06:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China: Evergrande property developer founder pleads guilty",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-evergrande-property-developer-founder-pleads-guilty/a-76770242?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T06:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Now I’m hopeful’: Hungarians welcome the morning after 16 years of Orbán rule",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/now-im-hopeful-hungarians-welcome-the-morning-after-16-years-of-orban-rule",
-      "published_date": "2026-04-13T18:29:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Hungary’s election: democracy reclaimed | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/the-guardian-view-on-hungarys-election-democracy-reclaimed-",
-      "published_date": "2026-04-13T17:57:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orbán’s defeat holds lessons for US: ‘Autocrats may rise, but are not invincible’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/viktor-orban-defeat-lessons-trump",
-      "published_date": "2026-04-13T17:47:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Péter Magyar vows to pursue those who ‘plundered’ Hungary after election win",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
-      "published_date": "2026-04-13T17:25:44+00:00",
       "category": "Local Events"
     }
   ]
