@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-15T23:35:46.081506+00:00",
-  "story_count": 91,
+  "last_updated": "2026-04-16T11:55:53.122894+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
+      "published_date": "2026-04-16T11:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Subventionen: EU-Kommission genehmigt deutschen Industriestrompreis",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/industriestrompreis-eu-kommission-deutschland-unternehmen-energie",
+      "published_date": "2026-04-16T10:04:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK signs deal to rejoin EU's Erasmus student exchange scheme",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260416/uk-signs-deal-to-rejoin-eus-erasmus-student-exchange-scheme",
+      "published_date": "2026-04-16T07:52:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK signs deal to rejoin EU's Erasmus exchange scheme",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T01:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK signs deal to rejoin EU's Erasmus exchange scheme",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-16T01:56:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New EU entry-exit system causing up to three-hour delays, say airports",
       "source": "The Guardian",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany, Ukraine discuss drone deal as Merz hosts Zelenskyy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ukraine-discuss-drone-deal-as-merz-hosts-zelenskyy/live-76770415?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T11:31:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ungarn: Péter Magyar will Regierungssitz verlegen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-peter-magyar-regierungssitz-orban",
+      "published_date": "2026-04-16T11:53:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanish premier calls for a stronger bond between China and EU on Beijing trip",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spanish-premier-calls-for-a-stronger-bond-between-china-and-eu-on-beijing-trip/a-76770392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T09:59:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine's Zelensky to meet German Chancellor Merz in Berlin",
+      "title": "Essential articles to understand how the fuel crisis is affecting Germany",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260414/ukraines-zelensky-to-meet-german-chancellor-merz-in-berlin",
-      "published_date": "2026-04-14T09:04:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260416/essential-articles-to-understand-how-the-fuel-crisis-is-affecting-germany",
+      "published_date": "2026-04-16T10:41:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "How the European job market will change with new pay transparency rules",
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260414/how-the-european-job-market-will-change-with-new-pay-transparency-rules",
-      "published_date": "2026-04-14T08:37:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260416/today-in-germany-a-roundup-of-the-latest-news-on-thursday-115",
+      "published_date": "2026-04-16T06:32:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee",
+      "title": "Several killed in Russian strikes across Ukraine, many more injured",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T05:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several killed in Russian strikes across Ukraine, many more injured",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-16T05:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
-      "published_date": "2026-04-14T05:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro",
+      "published_date": "2026-04-16T04:48:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Pakistan delegation in Tehran to continue talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-pakistan-delegation-in-tehran-to-continue-talks/live-76802532?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T04:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Netherlands to spend almost $300m on making drones for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/ukraine-war-briefing-netherlands-to-spend-almost-300m-on-making-drones-for-ukraine",
+      "published_date": "2026-04-16T01:24:38+00:00",
+      "category": "Military"
     },
     {
       "title": "France seeks release of 86-year-old French widow detained by ICE",
@@ -200,6 +256,20 @@
       "category": "Military"
     },
     {
+      "title": "Berlin hosts Sudan conference amid brutal, forgotten war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-hosts-sudan-conference-amid-brutal-forgotten-war/a-76798246?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-15T16:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Berlin hosts Sudan conference amid brutal, forgotten war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-hosts-sudan-conference-amid-brutal-forgotten-war/a-76798246?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-15T16:02:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Germany: Sudan aid conference in Berlin raises €1.3B",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-sudan-aid-conference-in-berlin-raises-€1-3b/a-76786563?maca=en-rss-en-ger-1023-rdf",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "What's behind Israel's attacks along Lebanon's Litani River?",
+      "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-s-behind-israel-s-attacks-along-lebanon-s-litani-river/a-76783514?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T14:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Hundreds of thousands of jobs lost due to war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-hundreds-of-thousands-of-jobs-lost-due-to-war/a-76794860?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T14:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense in Orbit: Germany Goes Big in the Military Space Race",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/germany/defense-in-orbit-germany-goes-big-in-the-military-space-race-a-0b1f15e2-740e-4c8b-b759-52d8a49fab31#ref=rss",
-      "published_date": "2026-04-15T14:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India's aviation boom hits turbulence amid Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-aviation-boom-hits-turbulence-amid-iran-war/a-76790258?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T12:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: White House mulling fresh talks with Tehran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-white-house-mulling-fresh-talks-with-tehran/live-76783967?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T12:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Berlin conference for Sudan aims to raise over $1B",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-berlin-conference-for-sudan-aims-to-raise-over-1b/a-76786563?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T11:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Berlin conference for Sudan aims to raise over $1B",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-berlin-conference-for-sudan-aims-to-raise-over-1b/a-76786563?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T11:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xi hails China-Russia ties, signals bigger role in Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/xi-hails-china-russia-ties-signals-bigger-role-in-iran-war/a-76787130?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T10:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hidden treasures: Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
-      "published_date": "2026-04-15T08:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nuba Mountains: a fragile refuge on Sudan's frontline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nuba-mountains-a-fragile-refuge-on-sudan-s-frontline/a-76766294?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T06:47:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T03:57:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Firefighters battle huge blaze at Australian oil refinery",
@@ -501,6 +508,55 @@
       "category": "Economy"
     },
     {
+      "title": "Tiere: AfD zu Wal-Rettung: »Woher der plötzliche Sinneswandel?«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/16/afd-zu-wal-rettung-woher-der-ploetzliche-sinneswandel",
+      "published_date": "2026-04-16T11:46:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Everything flew': Ukrainians describe Russian attack on apartment block – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/16/everything-flew-ukrainians-describe-russian-attack-on-apartment-block-video",
+      "published_date": "2026-04-16T11:28:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan-Konferenz: Wir scheitern an diesem Krieg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/sudan-konferenz-humanitaere-hilfe-krieg-berlin",
+      "published_date": "2026-04-16T11:12:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa's Malema sentenced to jail on gun charges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-s-malema-sentenced-to-jail-on-gun-charges/a-76805868?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T09:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German news: Teacher group urges action over pupil violence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Miroirs No 3 review – Christian Petzold’s elegantly unnerving mystery of grief and family dysfunction",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/16/miroirs-no-3-review-",
+      "published_date": "2026-04-16T08:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can anyone stop Jordan Bardella in France? A crowded field could gift the election to the far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/16/jordan-bardella-france-crowded-field-gift-election-far-right",
+      "published_date": "2026-04-16T04:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Schwarzfahren: SPD fordert von Union Entkriminalisierung des Fahrens ohne Fahrschein",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-04/schwarzfahren-spd-cdu-csu-entkriminalisierung-strafrecht",
@@ -589,55 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-15T08:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: What's next for Peter Magyar after election win?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-15T08:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'BerlinPay': How a new tourism initiative aims to clean up Germany's capital city",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260415/berlinpay-how-a-new-tourism-initiative-aims-to-clean-up-germanys-capital-city",
-      "published_date": "2026-04-15T08:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Lufthansa air crew strike after pilot walkout",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lufthansa-air-crew-strike-after-pilot-walkout/live-76785451?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T07:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Lufthansa air crew strike after pilot walkout",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lufthansa-air-crew-strike-after-pilot-walkout/live-76785451?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T07:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lufthansa pilots' union calls for second new strike this week",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260415/lufthansa-pilots-union-calls-for-second-new-strike-this-week",
-      "published_date": "2026-04-15T07:05:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey school shooting injures 16, teenage attacker dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-school-shooting-injures-16-teenage-attacker-dead/a-76784713?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T06:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary beware: authoritarianism can be checked, but it is rarely dismissed with a single blow | Blanche Leridon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law",
-      "published_date": "2026-04-15T04:00:58+00:00",
       "category": "Local Events"
     }
   ]
