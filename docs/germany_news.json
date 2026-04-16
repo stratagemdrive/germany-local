@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-16T11:55:53.122894+00:00",
-  "story_count": 92,
+  "last_updated": "2026-04-16T23:33:32.493037+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "A decade on from Brexit, Britain still flounders without a place in the world | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/16/a-decade-on-from-brexit-britain-still-flounders-without-a-place-in-the-world",
+      "published_date": "2026-04-16T15:49:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Chancellor Merz takes title of world's most unpopular leader",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260416/germanys-chancellor-merz-takes-title-of-worlds-most-unpopular-leader",
+      "published_date": "2026-04-16T14:44:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top EU court rules online gamblers can sue for compensation if betting illegal in home country",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/top-eu-court-rules-online-gamblers-can-sue-for-compensation-if-betting-illegal-in-home-country/a-76807534?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-16T13:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top EU court rules online gamblers can sue for compensation if betting illegal in home country",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/top-eu-court-rules-online-gamblers-can-sue-for-compensation-if-betting-illegal-in-home-country/a-76807534?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T13:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top EU court rules online gamblers can sue for compensation if betting illegal in home country",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/top-eu-court-rules-online-gamblers-can-sue-for-compensation-if-betting-illegal-in-home-country/a-76807534?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-16T13:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany, Israel see growing divide after criticism of Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-israel-see-growing-divide-after-criticism-of-merz/a-76806148?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-16T13:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany, Israel see growing divide after criticism of Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-israel-see-growing-divide-after-criticism-of-merz/a-76806148?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T13:02:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
       "source": "The Guardian",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is the EU back in vogue? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/apr/15/is-the-eu-back-in-vogue-podcast",
-      "published_date": "2026-04-15T02:00:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "In a joyful Budapest, I see the chance of an unprecedented transition | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/budapest-populists-donald-trump-viktor-orban-hungary-europe",
-      "published_date": "2026-04-14T16:43:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli ambassador to Germany condemns Bezalel Smotrich’s tirade against chancellor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/israeli-ambassador-germany-condemns-bezalel-smotrich-chancellor-friedrich-merz-nazi-regime",
-      "published_date": "2026-04-14T15:45:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Q&A: Who will get Germany's tax-free bonus?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260414/qa-who-will-get-germanys-tax-free-bonus",
-      "published_date": "2026-04-14T15:01:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Magyar set to make rare appearance on Hungary’s state media after accusing them of spreading Orbán propaganda – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
-      "published_date": "2026-04-14T11:45:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deutsch-ukrainische Regierungskonsultationen: Merz und Selenskyj verkünden \"strategische Partnerschaft\"",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/friedrich-merz-wolodymyr-selenskyj-regierungskonsultationen-berlin-ukraine-hilfe-eu",
-      "published_date": "2026-04-14T11:38:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany, Ukraine discuss drone deal as Merz hosts Zelenskyy",
+      "title": "Iran war: Temporary Israel-Lebanon ceasefire takes effect",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ukraine-discuss-drone-deal-as-merz-hosts-zelenskyy/live-76770415?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-14T11:31:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-temporary-israel-lebanon-ceasefire-takes-effect/live-76816644?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T23:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cuban president vows defense of island if US invades",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cuban-president-vows-defense-of-island-if-us-invades/a-76815996?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T19:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo excoriates 'tyrants' waging war instead of peace",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-excoriates-tyrants-waging-war-instead-of-peace/a-76813305?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T15:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The immense cost of Iran's nuclear program",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-immense-cost-of-iran-s-nuclear-program/a-76810402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T14:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
+      "published_date": "2026-04-16T14:22:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lufthansa axes CityLine fleet early over strikes, fuel costs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lufthansa-axes-cityline-fleet-early-over-strikes-fuel-costs/a-76809881?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-16T12:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lufthansa axes CityLine fleet early over strikes, fuel costs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lufthansa-axes-cityline-fleet-early-over-strikes-fuel-costs/a-76809881?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T12:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 100 writers quit French publisher in protest against rightwing owner Vincent Bolloré",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/writers-quit-french-publisher-protest-against-billionaire-owner-vincent-bollore",
+      "published_date": "2026-04-16T12:01:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rwanda ties Mozambique troop deployment to EU funding",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rwanda-ties-mozambique-troop-deployment-to-eu-funding/a-76795743?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T12:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ungarn: Péter Magyar will Regierungssitz verlegen",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T17:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-15T17:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Peace activist, 91, walks across Ireland in protest against US military stopovers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/peace-activist-lelia-doolan-walk-ireland-protest-us-military-shannon-airport",
-      "published_date": "2026-04-15T16:04:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berlin hosts Sudan Conference: a brutal, forgotten conflict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-hosts-sudan-conference-a-brutal-forgotten-conflict/a-76798246?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T16:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berlin hosts Sudan Conference: a brutal, forgotten conflict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-hosts-sudan-conference-a-brutal-forgotten-conflict/a-76798246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T16:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berlin hosts Sudan conference amid brutal, forgotten war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-hosts-sudan-conference-amid-brutal-forgotten-war/a-76798246?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T16:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berlin hosts Sudan conference amid brutal, forgotten war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-hosts-sudan-conference-amid-brutal-forgotten-war/a-76798246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T16:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Sudan aid conference in Berlin raises €1.3B",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sudan-aid-conference-in-berlin-raises-€1-3b/a-76786563?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T15:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Sudan aid conference in Berlin raises €1.3B",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sudan-aid-conference-in-berlin-raises-€1-3b/a-76786563?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T15:26:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-rdf",
@@ -347,25 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "A new German-Polish project shows how cities can be heated without fossil fuels",
+      "title": "Why leaving Germany doesn't always mean you're done with German taxes",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260409/a-new-german-polish-project-shows-how-cities-can-be-heated-without-fossil-fuels",
-      "published_date": "2026-04-09T14:40:18+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.de/20260416/why-leaving-germany-doesnt-always-mean-youre-done-with-german-taxes",
+      "published_date": "2026-04-16T14:53:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Strait of Hormuz not open, Abu Dhabi’s oil chief says as crude prices rise",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
-      "published_date": "2026-04-09T14:14:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
-      "published_date": "2026-04-09T13:00:50+00:00",
-      "category": "Energy"
+      "title": "How the Hormuz Strait crisis is squeezing India's SMEs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T14:26:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "German health minister announces billions in cutbacks",
@@ -494,18 +487,39 @@
       "category": "Economy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260414/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-119",
-      "published_date": "2026-04-14T06:39:01+00:00",
-      "category": "Economy"
+      "title": "WTA-Tour in Stuttgart: Tennisstars Rybakina und Gauff erreichen Viertelfinale",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/16/tennisstar-rybakina-erreicht-viertelfinale-souveraen",
+      "published_date": "2026-04-16T22:08:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Benin's finance minister wins presidential election with 94%",
+      "title": "Gesundheitskosten: »Nicht tragfähig«: CSU kritisiert Warkens Reformpläne",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/17/nicht-tragfaehig-csu-kritisiert-warkens-reformplaene",
+      "published_date": "2026-04-16T22:03:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armed robbers hold 25 people hostage at Naples bank before fleeing through hole in floor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/armed-robbers-hostages-naples-bank-flee-hole-floor-sewers",
+      "published_date": "2026-04-16T18:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal: The Goethe-Institut opens its new building in Dakar",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T02:29:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T14:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Lufthansa to close CityLine unit over strike, jet fuel prices",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260416/germanys-lufthansa-to-close-cityline-unit-over-strike-jet-fuel-prices",
+      "published_date": "2026-04-16T12:43:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tiere: AfD zu Wal-Rettung: »Woher der plötzliche Sinneswandel?«",
@@ -539,6 +553,20 @@
       "title": "German news: Teacher group urges action over pupil violence",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Teacher group urges action over pupil violence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-16T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Teacher group urges action over pupil violence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-16T08:37:00+00:00",
       "category": "Local Events"
     },
@@ -596,55 +624,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/turkey-school-shooting-leaves-9-dead/a-76791529?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-15T12:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magyar ‘is going to do good job’, Trump says as he distances himself from Orbán – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/15/peter-magyar-hungary-president-media-viktor-orban-european-union-europe-latest",
-      "published_date": "2026-04-15T11:29:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viktor Orbán und die AfD: Das schmerzt auch die AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/viktor-orban-afd-ungarn-verbuendete-niederlage-reaktion",
-      "published_date": "2026-04-15T11:25:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Brexit delusion is dead – so now Keir Starmer doesn’t need to pretend any more | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/brexit-delusion-keir-starmer-europe-prime-minister",
-      "published_date": "2026-04-15T09:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Man found guilty in Pelicot-style rape case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-man-found-guilty-in-pelicot-style-rape-case/a-76775746?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Man found guilty in Pelicot-style rape case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-man-found-guilty-in-pelicot-style-rape-case/a-76775746?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where passengers in Saxony are affected by public transport strikes this week",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260415/where-passengers-in-saxony-are-affected-by-public-transport-strikes-this-week",
-      "published_date": "2026-04-15T08:26:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: What's next for Peter Magyar after election win?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T08:24:00+00:00",
       "category": "Local Events"
     }
   ]
