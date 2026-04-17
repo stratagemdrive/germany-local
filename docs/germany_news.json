@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-16T23:33:32.493037+00:00",
+  "last_updated": "2026-04-17T11:45:37.895554+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "EU officials arrive in Hungary for high-stakes talks with Magyar’s government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/17/eu-officials-hungary-talks-peter-magyar-government",
+      "published_date": "2026-04-17T11:21:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Far-right AfD ahead of Merz's conservatives",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-ahead-of-merz-s-conservatives/live-76817891?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-17T09:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Far-right AfD ahead of Merz's conservatives",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-ahead-of-merz-s-conservatives/live-76817891?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T09:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260417/today-in-germany-a-roundup-of-the-latest-news-on-friday-120",
+      "published_date": "2026-04-17T06:33:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "A decade on from Brexit, Britain still flounders without a place in the world | Letters",
       "source": "The Guardian",
@@ -49,6 +77,20 @@
       "title": "Germany, Israel see growing divide after criticism of Merz",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-israel-see-growing-divide-after-criticism-of-merz/a-76806148?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T13:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany-Israel divide deepens after Merz criticism",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-israel-divide-deepens-after-merz-criticism/a-76806148?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-16T13:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany-Israel divide deepens after Merz criticism",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-israel-divide-deepens-after-merz-criticism/a-76806148?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-16T13:02:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Does Viktor Orbán’s defeat signal a wider backlash against ‘the forces of darkness’?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/this-is-europe-end-of-orban-impact-on-european-elections",
-      "published_date": "2026-04-15T14:18:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU chief urges bloc-wide push on age verification app to protect children online",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-chief-urges-bloc-wide-push-on-age-verification-app-to-protect-children-online/a-76788202?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T13:22:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungary’s voters shunned Orbán – but it may be too early to celebrate end of Europe’s far right",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/hungary-election-voters-orban-europe-far-right-peter-magyar",
-      "published_date": "2026-04-15T12:46:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Antisemitismus: Deutschland ist laut EU-Bericht zu streng mit Antisemitismus-Begriff",
+      "title": "Ben Judah: »Die Höflinge haben nicht die Macht, nein zu sagen«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/antisemitismus-deutschland-ihra-israel-europarat-kritik",
-      "published_date": "2026-04-15T10:41:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ben-judah-grossbritannien-aussenministerium-donald-trump-regierung",
+      "published_date": "2026-04-17T11:23:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260415/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-116",
-      "published_date": "2026-04-15T06:28:01+00:00",
-      "category": "Diplomacy"
+      "title": "Regierungswechsel in Ungarn: Orbáns Abwahl kann der Beginn einer demokratischen Zeitenwende sein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/regierungswechsel-ungarn-wirtschaft-demokratie-rechtspopulismus-afd",
+      "published_date": "2026-04-17T11:02:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Orbán’s defeat in Hungary could unlock €90bn loan for Ukraine, says EU official",
+      "title": "Myanmar frees over 4,000 prisoners in annual tradition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-frees-over-4-000-prisoners-in-annual-tradition/a-76819806?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T09:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nuba Mountains, a fragile refuge on Sudan's front line",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nuba-mountains-a-fragile-refuge-on-sudan-s-front-line/a-76766294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T08:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Overshadowed by Iran, Gaza stuck between war and peace",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/overshadowed-by-iran-gaza-stuck-between-war-and-peace/a-76791719?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T08:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military in Libya: Pursuing unity, or pressuring Russia?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-military-in-libya-pursuing-unity-or-pressuring-russia/a-76808931?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T07:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Roberts-Smith gets bail in Australia over Afghan war crimes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/roberts-smith-gets-bail-in-australia-over-afghan-war-crimes/a-76817243?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/ukraine-war-briefing-orbans-defeat-in-hungary-could-unlock-90bn-loan-for-ukraine-says-eu-official",
-      "published_date": "2026-04-15T02:04:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
+      "published_date": "2026-04-17T00:19:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: Temporary Israel-Lebanon ceasefire takes effect",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Several killed in Russian strikes across Ukraine, many more injured",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T05:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed in Russian strikes across Ukraine, many more injured",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-16T05:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
+      "title": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro",
-      "published_date": "2026-04-16T04:48:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Pakistan delegation in Tehran to continue talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-pakistan-delegation-in-tehran-to-continue-talks/live-76802532?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T04:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Netherlands to spend almost $300m on making drones for Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/ukraine-war-briefing-netherlands-to-spend-almost-300m-on-making-drones-for-ukraine",
-      "published_date": "2026-04-16T01:24:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France seeks release of 86-year-old French widow detained by ICE",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross",
-      "published_date": "2026-04-15T21:42:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Trump get a better Iran deal than Obama?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T18:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T17:22:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
+      "published_date": "2026-04-17T06:00:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
@@ -340,11 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
+      "title": "I want to reform our country because a strong Germany is a precondition for a strong Europe | Lars Klingbeil",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
-      "published_date": "2026-04-10T07:55:53+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/i-want-to-reform-our-country-because-a-strong-germany-is-a-precondition-for-a-strong-europe",
+      "published_date": "2026-04-17T04:00:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why leaving Germany doesn't always mean you're done with German taxes",
@@ -357,6 +364,13 @@
       "title": "How the Hormuz Strait crisis is squeezing India's SMEs",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-16T14:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why India's SMEs are suffering from Hormuz Strait crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-india-s-smes-are-suffering-from-hormuz-strait-crisis/a-76810797?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-16T14:26:00+00:00",
       "category": "Economy"
     },
@@ -473,18 +487,53 @@
       "category": "Economy"
     },
     {
-      "title": "Spanish prime minister’s wife charged with corruption",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/spanish-prime-minister-wife-charged-with-corruption-pedro-sanchez-begona-gomez",
-      "published_date": "2026-04-14T10:58:37+00:00",
-      "category": "Economy"
+      "title": "Will Germany tighten its rules on paid sick leave?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260417/will-germany-tighten-its-rules-on-paid-sick-leave",
+      "published_date": "2026-04-17T11:24:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Wirtschaftskrise: Deutsche Autohersteller starten mit Verkaufsminus ins Jahr 2026",
+      "title": "Atommüll-Lagerung: Zweiter Castor-Transport am Dienstag? Gegner planen Proteste",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/autoindustrie-absatz-bmw-volkswagen-mercedes-china",
-      "published_date": "2026-04-14T10:42:21+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-04/17/zweiter-castor-transport-am-dienstag-gegner-planen-proteste",
+      "published_date": "2026-04-17T11:19:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nueva Germania: The failed 'Aryan project' in Paraguay",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nueva-germania-the-failed-aryan-project-in-paraguay/a-76817647?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-17T09:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nueva Germania: The failed 'Aryan project' in Paraguay",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nueva-germania-the-failed-aryan-project-in-paraguay/a-76817647?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T09:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Bulgaria's election change the country's course?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T07:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Bulgaria's election change the country's course?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-17T07:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman stranded in Dusseldorf after return UK flight blocked over Home Office admin error",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/17/woman-dusseldorf-uk-home-office-return-flight-blocked",
+      "published_date": "2026-04-17T06:00:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "WTA-Tour in Stuttgart: Tennisstars Rybakina und Gauff erreichen Viertelfinale",
@@ -575,55 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/apr/16/miroirs-no-3-review-",
       "published_date": "2026-04-16T08:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can anyone stop Jordan Bardella in France? A crowded field could gift the election to the far right",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/16/jordan-bardella-france-crowded-field-gift-election-far-right",
-      "published_date": "2026-04-16T04:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schwarzfahren: SPD fordert von Union Entkriminalisierung des Fahrens ohne Fahrschein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/schwarzfahren-spd-cdu-csu-entkriminalisierung-strafrecht",
-      "published_date": "2026-04-15T23:20:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennis: Tennis-Duo Siegemund und Lys in Stuttgart chancenlos",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/15/tennis-talent-noha-akugue-scheidet-in-stuttgart-aus",
-      "published_date": "2026-04-15T21:01:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eishockey-Playoffs: Köln gleicht nach Verlängerungs-Krimi gegen Berlin aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/15/koeln-gleicht-nach-verlaengerungs-krimi-gegen-berlin-aus",
-      "published_date": "2026-04-15T20:57:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/hungary-prime-minister-elect-peter-magyar-suspend-state-media-propaganda",
-      "published_date": "2026-04-15T13:32:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacks on US academics: A microcosm of a larger threat to democracy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/attacks-on-us-academics-a-microcosm-of-a-larger-threat-to-democracy/a-76777273?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T13:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey: School shooting leaves 9 dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-school-shooting-leaves-9-dead/a-76791529?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T12:43:00+00:00",
       "category": "Local Events"
     }
   ]
