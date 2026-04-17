@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-17T11:45:37.895554+00:00",
-  "story_count": 89,
+  "last_updated": "2026-04-17T23:31:59.658967+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Hormus-Konferenz: EU-Staatschefs planen Mission zur Sicherung der Straße von Hormus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/strasse-von-hormus-konferenz-militaermission-eu-staatschefs-gxe",
+      "published_date": "2026-04-17T22:04:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than half of Britons support rejoining EU 10 years on from Brexit vote",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/17/half-britons-support-rejoining-eu-10-years-brexit-vote",
+      "published_date": "2026-04-17T13:27:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK: 'Furious' PM Starmer refuses to step down over Mandelson",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-furious-pm-starmer-refuses-to-step-down-over-mandelson/a-76829190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T12:53:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU officials arrive in Hungary for high-stakes talks with Magyar’s government",
       "source": "The Guardian",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK signs deal to rejoin EU's Erasmus exchange scheme",
+      "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-16T01:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T20:25:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "New EU entry-exit system causing up to three-hour delays, say airports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/eu-entry-exit-system-ees-delays-airports-border-checks",
-      "published_date": "2026-04-15T15:46:53+00:00",
-      "category": "Diplomacy"
+      "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-17T20:25:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "South Africa appoints veteran Afrikaner politician Roelf Meyer as US ambassador amid tense Trump ties",
+      "title": "Italy's Meloni breaks with Trump over war in Iran, pope",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-appoints-veteran-afrikaner-politician-roelf-meyer-as-us-ambassador-amid-tense-trump-ties/a-76794872?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T15:18:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/italy-s-meloni-breaks-with-trump-over-war-in-iran-pope/a-76827787?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T15:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy's Meloni breaks with Trump over war in Iran, pope",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-s-meloni-breaks-with-trump-over-war-in-iran-pope/a-76827787?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-17T15:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What does Tehran expect from fresh talks with US?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-what-does-tehran-expect-from-fresh-talks-with-us/a-76835484?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T14:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Strait of Hormuz open amid Israel-Lebanon truce",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-strait-of-hormuz-open-amid-israel-lebanon-truce/live-76816644?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T13:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-17T13:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T13:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cyprus: Global politics felt at Candidates chess tournaments",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyprus-global-politics-felt-at-candidates-chess-tournaments/a-76824991?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T12:43:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cyprus: Global politics felt at Candidates chess tournaments",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyprus-global-politics-felt-at-candidates-chess-tournaments/a-76824991?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-17T12:43:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ben Judah: »Die Höflinge haben nicht die Macht, nein zu sagen«",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pope Leo excoriates 'tyrants' waging war instead of peace",
+      "title": "India’s harvest festivals under climate strain",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-excoriates-tyrants-waging-war-instead-of-peace/a-76813305?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T15:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The immense cost of Iran's nuclear program",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-immense-cost-of-iran-s-nuclear-program/a-76810402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T14:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
-      "published_date": "2026-04-16T14:22:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa axes CityLine fleet early over strikes, fuel costs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-axes-cityline-fleet-early-over-strikes-fuel-costs/a-76809881?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-16T12:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa axes CityLine fleet early over strikes, fuel costs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-axes-cityline-fleet-early-over-strikes-fuel-costs/a-76809881?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T12:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 100 writers quit French publisher in protest against rightwing owner Vincent Bolloré",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/writers-quit-french-publisher-protest-against-billionaire-owner-vincent-bollore",
-      "published_date": "2026-04-16T12:01:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rwanda ties Mozambique troop deployment to EU funding",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rwanda-ties-mozambique-troop-deployment-to-eu-funding/a-76795743?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T12:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ungarn: Péter Magyar will Regierungssitz verlegen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-peter-magyar-regierungssitz-orban",
-      "published_date": "2026-04-16T11:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Essential articles to understand how the fuel crisis is affecting Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260416/essential-articles-to-understand-how-the-fuel-crisis-is-affecting-germany",
-      "published_date": "2026-04-16T10:41:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260416/today-in-germany-a-roundup-of-the-latest-news-on-thursday-115",
-      "published_date": "2026-04-16T06:32:24+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-s-harvest-festivals-under-climate-strain/a-76821351?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T13:40:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
@@ -345,6 +352,27 @@
       "url": "https://www.dw.com/en/india-news-delhi-looks-to-ban-fossil-fuel-two-wheelers-from-2028/live-76745829?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-11T07:53:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Gesundheitsreform: Was jetzt auf Patienten zukommt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/gesundheitsreform-nina-warken-veraenderungen-krankenkasse-faq",
+      "published_date": "2026-04-17T18:44:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran: Internet blackout highlights real toll of censorship",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-internet-blackout-highlights-real-toll-of-censorship/a-76832488?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T15:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sanctions don’t result in regime change. Whether against Iran or Russia, western countries need shrewder tactics | Simon Jenkins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/sanctions-regime-change-iran-russia-western-countries",
+      "published_date": "2026-04-17T12:19:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "I want to reform our country because a strong Germany is a precondition for a strong Europe | Lars Klingbeil",
@@ -466,25 +494,60 @@
       "category": "Economy"
     },
     {
-      "title": "UK woman fears being stranded in Spain over new Home Office border rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/14/uk-woman-fears-being-stranded-spain-new-home-office-border-rules",
-      "published_date": "2026-04-14T17:33:34+00:00",
-      "category": "Economy"
+      "title": "Tennis: Unerwartetes Stuttgart-Aus für Tennisstars Gauff und Swiatek",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/17/ukrainerin-switolina-nervenstark-im-stuttgart-halbfinale",
+      "published_date": "2026-04-17T21:34:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reeves arrives at IMF with little leeway to prove its UK downgrade wrong",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/14/rachel-reeves-arrives-at-imf-with-little-leeway-to-prove-its-uk-downgrade-wrong",
-      "published_date": "2026-04-14T17:27:57+00:00",
-      "category": "Economy"
+      "title": "Fahrt über Bundesstraßen: Autokonvoi gegen hohe Spritpreise vor Reichstag in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/17/autokonvoi-gegen-hohe-spritpreise-rollt-richtung-berlin",
+      "published_date": "2026-04-17T21:30:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK steel exports to EU at risk as bloc doubles tariffs and halves quotas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/14/uk-steel-exports-eu-risk-tariffs-quotas",
-      "published_date": "2026-04-14T13:53:35+00:00",
-      "category": "Economy"
+      "title": "Teen discovers first ancient Greek artifact found in Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-17T19:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teen discovers first ancient Greek artifact found in Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T19:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Modi plan for women's quota in parliament fails vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-modi-plan-for-women-s-quota-in-parliament-fails-vote/a-76818089?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T18:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo XIV to Cameroon's faithful — 'reject violence'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-xiv-to-cameroon-s-faithful-reject-violence/a-76835789?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T15:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German train driver finds 20 tarantulas left aboard",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260417/german-train-driver-finds-20-tarantulas-left-aboard",
+      "published_date": "2026-04-17T13:09:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Students abducted enroute to Uni entrance exams",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-students-abducted-enroute-to-uni-entrance-exams/a-76819530?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T11:43:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Will Germany tighten its rules on paid sick leave?",
@@ -568,62 +631,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260416/germanys-lufthansa-to-close-cityline-unit-over-strike-jet-fuel-prices",
       "published_date": "2026-04-16T12:43:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiere: AfD zu Wal-Rettung: »Woher der plötzliche Sinneswandel?«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/16/afd-zu-wal-rettung-woher-der-ploetzliche-sinneswandel",
-      "published_date": "2026-04-16T11:46:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Everything flew': Ukrainians describe Russian attack on apartment block – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/16/everything-flew-ukrainians-describe-russian-attack-on-apartment-block-video",
-      "published_date": "2026-04-16T11:28:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan-Konferenz: Wir scheitern an diesem Krieg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/sudan-konferenz-humanitaere-hilfe-krieg-berlin",
-      "published_date": "2026-04-16T11:12:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa's Malema sentenced to jail on gun charges",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-s-malema-sentenced-to-jail-on-gun-charges/a-76805868?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T09:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German news: Teacher group urges action over pupil violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Teacher group urges action over pupil violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-16T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Teacher group urges action over pupil violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miroirs No 3 review – Christian Petzold’s elegantly unnerving mystery of grief and family dysfunction",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/16/miroirs-no-3-review-",
-      "published_date": "2026-04-16T08:00:52+00:00",
       "category": "Local Events"
     }
   ]
