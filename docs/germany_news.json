@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-18T11:30:26.826227+00:00",
+  "last_updated": "2026-04-18T23:26:58.108962+00:00",
   "story_count": 90,
   "stories": [
     {
@@ -88,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
+      "published_date": "2026-04-16T14:45:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Germany's Chancellor Merz takes title of world's most unpopular leader",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260416/germanys-chancellor-merz-takes-title-of-worlds-most-unpopular-leader",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany-Israel divide deepens after Merz criticism",
+      "title": "Ukraine: Gunman shot dead after killing spree in Kyiv",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-israel-divide-deepens-after-merz-criticism/a-76806148?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T13:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-gunman-shot-dead-after-killing-spree-in-kyiv/a-76843205?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T21:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo plays down rift with Trump, doubles down on peace",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T19:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says Tehran cannot 'blackmail us'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-tehran-cannot-blackmail-us/live-76839599?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T18:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Record fuel prices: How are governments responding?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/record-fuel-prices-how-are-governments-responding/a-76805635?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T13:42:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Rutte dismisses speculation about US leaving NATO",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T13:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cyprus: Global politics felt at Candidates chess tournaments",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-global-politics-felt-at-candidates-chess-tournaments/a-76824991?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T12:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cyprus: Global politics felt at Candidates chess tournaments",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-global-politics-felt-at-candidates-chess-tournaments/a-76824991?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-17T12:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ben Judah: »Die Höflinge haben nicht die Macht, nein zu sagen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ben-judah-grossbritannien-aussenministerium-donald-trump-regierung",
-      "published_date": "2026-04-17T11:23:30+00:00",
-      "category": "Military"
-    },
-    {
       "title": "US extends waiver allowing purchase of Russian oil",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-extends-waiver-allowing-purchase-of-russian-oil/a-76839756?maca=en-rss-en-all-1573-rdf",
@@ -352,6 +352,13 @@
       "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-13T17:51:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Langstrecken-Serie: Schwedischer Fahrer verunglückt am Nürburgring",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/formel-1-nuerburgring-juha-miettinen-unfall-tod-max-verstappen",
+      "published_date": "2026-04-18T23:03:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Deutsche Bahn: Bahn will 20 Milliarden Euro in Bahnhöfe investieren",
@@ -487,11 +494,67 @@
       "category": "Economy"
     },
     {
-      "title": "France's Renault slashes engineer jobs amid pressure from Chinese carmakers",
+      "title": "Berlin: Haushalte nach erneutem Stromausfall in Nikolassee wieder am Netz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/berlin-nicolassee-stromausfall-blackout-netz-energie",
+      "published_date": "2026-04-18T22:44:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Notfälle: Erneut Stromausfall in Berlin-Nikolassee",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/18/erneut-stromausfall-in-berlin-nikolassee",
+      "published_date": "2026-04-18T21:37:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/terrorist-attack-kyiv-ukraine",
+      "published_date": "2026-04-18T20:19:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Racing driver Juha Miettinen killed and six injured at 24-hour Nürburgring qualifiers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/apr/18/racing-driver-juha-miettinen-killed-and-six-injured-at-24-hour-nurburgring-race",
+      "published_date": "2026-04-18T19:47:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 30. Spieltag – Samstag: Leipzig gewinnt gegen Frankfurt, BVB verliert in Hoffenheim",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/bundesliga-30-spieltag-samstag-werder-hsv-hoffenheim-bvb-leverkusen-augsburg",
+      "published_date": "2026-04-18T19:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Modi slams Congress over women's quota vote",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-renault-slashes-engineer-jobs-amid-pressure-from-chinese-carmakers/a-76783924?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T00:30:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-modi-slams-congress-over-women-s-quota-vote/live-76840035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T17:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British police probe another arson attack in London",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/british-police-probe-another-arson-attack-in-london/a-76842584?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T14:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UEFA probe after photographers injured at Bayern-Real game",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260418/uefa-probe-after-photographers-injured-at-bayern-real-game",
+      "published_date": "2026-04-18T13:54:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
+      "published_date": "2026-04-18T13:00:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nach Landtagswahl-Debakel: SPD will mit Mitgliederbefragung neuen Vorsitz finden",
@@ -568,69 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-17T19:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Modi plan for women's quota in parliament fails vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-modi-plan-for-women-s-quota-in-parliament-fails-vote/a-76818089?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T18:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV to Cameroon's faithful — 'reject violence'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-xiv-to-cameroon-s-faithful-reject-violence/a-76835789?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T15:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German train driver finds 20 tarantulas left aboard",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260417/german-train-driver-finds-20-tarantulas-left-aboard",
-      "published_date": "2026-04-17T13:09:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Students abducted enroute to Uni entrance exams",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-students-abducted-enroute-to-uni-entrance-exams/a-76819530?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Germany tighten its rules on paid sick leave?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260417/will-germany-tighten-its-rules-on-paid-sick-leave",
-      "published_date": "2026-04-17T11:24:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atommüll-Lagerung: Zweiter Castor-Transport am Dienstag? Gegner planen Proteste",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/17/zweiter-castor-transport-am-dienstag-gegner-planen-proteste",
-      "published_date": "2026-04-17T11:19:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nueva Germania: The failed 'Aryan project' in Paraguay",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nueva-germania-the-failed-aryan-project-in-paraguay/a-76817647?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-17T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nueva Germania: The failed 'Aryan project' in Paraguay",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nueva-germania-the-failed-aryan-project-in-paraguay/a-76817647?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Bulgaria's election change the country's course?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T07:31:00+00:00",
       "category": "Local Events"
     }
   ]
