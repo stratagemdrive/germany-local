@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-17T23:31:59.658967+00:00",
+  "last_updated": "2026-04-18T11:30:26.826227+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee",
+      "published_date": "2026-04-18T10:48:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Europe avoid a summer of holiday flight and cross-Channel travel chaos?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
+      "published_date": "2026-04-18T07:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are my rights if flights are cancelled and holidays disrupted due to fuel shortage?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/apr/18/what-to-do-if-flights-cancelled-holidays-disrupted-iran-war-eu-ees",
+      "published_date": "2026-04-18T07:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran closes Strait of Hormuz again over US blockade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-again-over-us-blockade/live-76839599?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T01:31:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hormus-Konferenz: EU-Staatschefs planen Mission zur Sicherung der Straße von Hormus",
       "source": "ZEIT Online",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
-      "published_date": "2026-04-16T11:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Subventionen: EU-Kommission genehmigt deutschen Industriestrompreis",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/industriestrompreis-eu-kommission-deutschland-unternehmen-energie",
-      "published_date": "2026-04-16T10:04:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK signs deal to rejoin EU's Erasmus student exchange scheme",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260416/uk-signs-deal-to-rejoin-eus-erasmus-student-exchange-scheme",
-      "published_date": "2026-04-16T07:52:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK signs deal to rejoin EU's Erasmus exchange scheme",
+      "title": "Rutte dismisses speculation about US leaving NATO",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T01:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/rutte-dismisses-speculation-about-us-leaving-nato/a-76841349?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T11:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rutte dismisses speculation about US leaving NATO",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rutte-dismisses-speculation-about-us-leaving-nato/a-76841349?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-18T11:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Straße von Hormus: Iran macht Öffnung der Straße von Hormus rückgängig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/iran-schliesst-strasse-von-hormus-wieder-wegen-us-blockade-gxe",
+      "published_date": "2026-04-18T10:12:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Displaced by Iran war: out of Lebanon, into Syrian crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/displaced-by-iran-war-out-of-lebanon-into-syrian-crisis/a-76822402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T10:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Meloni’s hold over Italy weakens, a progressive challenger gathers momentum in Genoa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/giorgia-meloni-hold-weakens-italy-silvia-salis-genoa-mayor",
+      "published_date": "2026-04-18T10:00:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lufthansa labour conflict 'more entrenched than ever', unions say",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260418/lufthansa-labour-conflict-more-entrenched-than-ever-unions-say",
+      "published_date": "2026-04-18T07:54:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Airlines fear jet-fuel rationing due to Mideast war",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
+      "published_date": "2026-04-18T07:14:22+00:00",
+      "category": "Military"
     },
     {
       "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
@@ -154,6 +203,20 @@
       "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-17T20:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe looks to secure shipping in Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T20:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe looks to secure shipping in Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-17T20:25:00+00:00",
       "category": "Military"
     },
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Regierungswechsel in Ungarn: Orbáns Abwahl kann der Beginn einer demokratischen Zeitenwende sein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/regierungswechsel-ungarn-wirtschaft-demokratie-rechtspopulismus-afd",
-      "published_date": "2026-04-17T11:02:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar frees over 4,000 prisoners in annual tradition",
+      "title": "US extends waiver allowing purchase of Russian oil",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-frees-over-4-000-prisoners-in-annual-tradition/a-76819806?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T09:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nuba Mountains, a fragile refuge on Sudan's front line",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nuba-mountains-a-fragile-refuge-on-sudan-s-front-line/a-76766294?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T08:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Overshadowed by Iran, Gaza stuck between war and peace",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/overshadowed-by-iran-gaza-stuck-between-war-and-peace/a-76791719?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T08:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military in Libya: Pursuing unity, or pressuring Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-military-in-libya-pursuing-unity-or-pressuring-russia/a-76808931?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T07:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Roberts-Smith gets bail in Australia over Afghan war crimes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/roberts-smith-gets-bail-in-australia-over-afghan-war-crimes/a-76817243?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-      "published_date": "2026-04-17T00:19:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Temporary Israel-Lebanon ceasefire takes effect",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-temporary-israel-lebanon-ceasefire-takes-effect/live-76816644?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T23:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cuban president vows defense of island if US invades",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuban-president-vows-defense-of-island-if-us-invades/a-76815996?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T19:05:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-extends-waiver-allowing-purchase-of-russian-oil/a-76839756?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T03:22:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "India’s harvest festivals under climate strain",
@@ -347,11 +354,25 @@
       "category": "Energy"
     },
     {
-      "title": "India news: Delhi looks to ban fossil fuel two-wheelers from 2028",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-delhi-looks-to-ban-fossil-fuel-two-wheelers-from-2028/live-76745829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-11T07:53:00+00:00",
-      "category": "Energy"
+      "title": "Deutsche Bahn: Bahn will 20 Milliarden Euro in Bahnhöfe investieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-04/deutsche-bahn-investitionen-bahnhoefe-sicherheit-gxe",
+      "published_date": "2026-04-18T10:49:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Young Bulgarians hold out for change in eighth election in five years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/young-bulgarians-election-wave-of-protests",
+      "published_date": "2026-04-18T07:00:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Péter Magyar’s real coup was winning over loyal Orbán voters – not preaching to the converted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/18/peter-magyars-real-coup-was-winning-over-loyal-orban-voters-not-preaching-to-the-converted",
+      "published_date": "2026-04-18T06:00:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gesundheitsreform: Was jetzt auf Patienten zukommt",
@@ -473,25 +494,53 @@
       "category": "Economy"
     },
     {
-      "title": "France's Renault slashes engineer jobs amid pressure from Chinese carmakers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-renault-slashes-engineer-jobs-amid-pressure-from-chinese-carmakers/a-76783924?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-15T00:30:00+00:00",
-      "category": "Economy"
+      "title": "Nach Landtagswahl-Debakel: SPD will mit Mitgliederbefragung neuen Vorsitz finden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/18/spd-will-mit-mitgliederbefragung-neuen-vorsitz-finden",
+      "published_date": "2026-04-18T11:18:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lufthansa pilots to strike again for 2 more days, leading to a full working week of disruption",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-pilots-to-strike-again-for-2-more-days-leading-to-a-full-working-week-of-disruption/a-76783319?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-14T19:06:00+00:00",
-      "category": "Economy"
+      "title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
+      "published_date": "2026-04-18T11:00:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lufthansa pilots to strike again for 2 more days, leading to a full working week of disruption",
+      "title": "Germany news: Iran war not causing migration wave — Dobrindt",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lufthansa-pilots-to-strike-again-for-2-more-days-leading-to-a-full-working-week-of-disruption/a-76783319?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T19:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-iran-war-not-causing-migration-wave-dobrindt/live-76840275?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-18T09:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Iran war not causing migration wave — Dobrindt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-iran-war-not-causing-migration-wave-dobrindt/live-76840275?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T09:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: The AfD's army of staunch supporters - in Nigeria",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260418/inside-germany-the-afds-army-of-staunch-supporters-in-nigeria",
+      "published_date": "2026-04-18T08:02:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Parliament fails to pass women's quota bill after delimitation uproar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-parliament-fails-to-pass-women-s-quota-bill-after-delimitation-uproar/live-76840035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T07:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Fans to pay $150 for train ticket to stadium",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/world-cup-2026-fans-to-pay-150-for-train-ticket-to-stadium/a-76839579?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-17T23:53:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tennis: Unerwartetes Stuttgart-Aus für Tennisstars Gauff und Swiatek",
@@ -582,55 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-17T07:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Bulgaria's election change the country's course?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-17T07:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman stranded in Dusseldorf after return UK flight blocked over Home Office admin error",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/17/woman-dusseldorf-uk-home-office-return-flight-blocked",
-      "published_date": "2026-04-17T06:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WTA-Tour in Stuttgart: Tennisstars Rybakina und Gauff erreichen Viertelfinale",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/16/tennisstar-rybakina-erreicht-viertelfinale-souveraen",
-      "published_date": "2026-04-16T22:08:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gesundheitskosten: »Nicht tragfähig«: CSU kritisiert Warkens Reformpläne",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/17/nicht-tragfaehig-csu-kritisiert-warkens-reformplaene",
-      "published_date": "2026-04-16T22:03:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed robbers hold 25 people hostage at Naples bank before fleeing through hole in floor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/armed-robbers-hostages-naples-bank-flee-hole-floor-sewers",
-      "published_date": "2026-04-16T18:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal: The Goethe-Institut opens its new building in Dakar",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T14:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Lufthansa to close CityLine unit over strike, jet fuel prices",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260416/germanys-lufthansa-to-close-cityline-unit-over-strike-jet-fuel-prices",
-      "published_date": "2026-04-16T12:43:59+00:00",
       "category": "Local Events"
     }
   ]
