@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-18T23:26:58.108962+00:00",
-  "story_count": 90,
+  "last_updated": "2026-04-19T11:30:55.901123+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/israel-europe-support-iran-war-orban-meloni",
+      "published_date": "2026-04-19T10:13:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands rally across Germany to demand faster green shift",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260419/thousands-rally-across-germany-to-call-for-faster-green-shift",
+      "published_date": "2026-04-19T07:11:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India protests Iran fire on two vessels in Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-protests-iran-fire-on-two-vessels-in-strait-of-hormuz/live-76846282?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T07:05:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
       "source": "The Guardian",
@@ -123,31 +144,59 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany, Israel see growing divide after criticism of Merz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-israel-see-growing-divide-after-criticism-of-merz/a-76806148?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-16T13:02:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine: Polizei steht nach tödlichen Schüssen in Kyjiw in der Kritik",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/ukraine-kyjiw-schussangriff-polizei-ermittlungen",
+      "published_date": "2026-04-19T10:13:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany, Israel see growing divide after criticism of Merz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-israel-see-growing-divide-after-criticism-of-merz/a-76806148?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T13:02:00+00:00",
-      "category": "Diplomacy"
+      "title": "Stromausfall in Berlin: Keine Anzeichen für Anschlag nach erneutem Stromausfall in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-04/stromausfall-berlin-nikolassee-kein-anschlag",
+      "published_date": "2026-04-19T09:50:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany-Israel divide deepens after Merz criticism",
+      "title": "Bulgaria votes as pro-Russian former president leads in the polls",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "published_date": "2026-04-19T09:45:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
+      "published_date": "2026-04-19T08:00:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘I was fighting two wars’: Ukraine’s soldiers confront their addiction struggles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/ukraine-soldiers-confront-addiction-struggles",
+      "published_date": "2026-04-19T04:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Tehran says 'progress' made in talks with US",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-israel-divide-deepens-after-merz-criticism/a-76806148?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-16T13:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-tehran-says-progress-made-in-talks-with-us/live-76845923?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T03:03:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Gunman shot dead after killing spree in Kyiv",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-gunman-shot-dead-after-killing-spree-in-kyiv/a-76843205?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-18T21:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T20:02:00+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Europe looks to secure shipping in Strait of Hormuz",
+      "title": "Spain, Brazil, Mexico vow to boost Cuba aid amid US threats",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T20:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe looks to secure shipping in Strait of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-17T20:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy's Meloni breaks with Trump over war in Iran, pope",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-s-meloni-breaks-with-trump-over-war-in-iran-pope/a-76827787?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T15:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy's Meloni breaks with Trump over war in Iran, pope",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-s-meloni-breaks-with-trump-over-war-in-iran-pope/a-76827787?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-17T15:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What does Tehran expect from fresh talks with US?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-what-does-tehran-expect-from-fresh-talks-with-us/a-76835484?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T14:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Strait of Hormuz open amid Israel-Lebanon truce",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-strait-of-hormuz-open-amid-israel-lebanon-truce/live-76816644?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T13:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-17T13:07:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/spain-brazil-mexico-vow-to-boost-cuba-aid-amid-us-threats/a-76845646?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T00:02:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "US extends waiver allowing purchase of Russian oil",
@@ -352,6 +359,27 @@
       "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-13T17:51:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Brände: Feuer in Holzlager und Heizwerk - 500.000 Euro Schaden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/19/feuer-in-holzlager-und-heizwerk-500-000-euro-schaden",
+      "published_date": "2026-04-19T11:15:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Labour’s ‘crabwise’ approach to closer EU ties must address damage of Brexit | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/19/labour-approach-closer-eu-ties-address-damage-of-brexit",
+      "published_date": "2026-04-19T10:50:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Entlastungsprämie: Breite Kritik an geplanter steuerfreier Entlastungsprämie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/familie/2026-04/entlastungspraemie-steuerfrei-mittelstand-handwerk-konzerne",
+      "published_date": "2026-04-19T10:38:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Langstrecken-Serie: Schwedischer Fahrer verunglückt am Nürburgring",
@@ -473,25 +501,95 @@
       "category": "Economy"
     },
     {
-      "title": "Women's workwear: When proper fit becomes a safety issue",
+      "title": "Malaysia: Fire in impoverished village destroys 1,000 homes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T10:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/malaysia-fire-in-impoverished-village-destroys-1-000-homes/a-76847720?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T11:05:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tax Day is a reminder of America’s unequal tax system. But we can fix it | Zohran Mamdani, Gabriel Zucman and Joseph Stiglitz",
+      "title": "Rat poison found in baby food jar in Austria after product recall",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/tax-day-united-states-unequal-taxation",
-      "published_date": "2026-04-15T10:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/19/rat-poison-baby-food-jar-hipp-austria-product-recall",
+      "published_date": "2026-04-19T10:00:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aegon offloads 200-year-old UK business to Standard Life for £2bn",
+      "title": "Germany's crime figures: Comparing apples to oranges?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-crime-figures-comparing-apples-to-oranges/a-76832148?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-19T09:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's crime figures: Comparing apples to oranges?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-crime-figures-comparing-apples-to-oranges/a-76832148?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T09:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several killed in Kyiv as gunman opens fire and takes hostages – video report",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/15/aegon-offloads-200-year-old-uk-business-to-standard-life",
-      "published_date": "2026-04-15T09:23:24+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/apr/19/several-killed-in-kyiv-as-gunman-opens-fire-and-takes-hostages-video-report",
+      "published_date": "2026-04-19T09:16:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heino: Heino geht juristisch gegen Wahlwerbung der AfD vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-04/heino-wahlwerbung-afd-uckermark-unterlassungserklaerung",
+      "published_date": "2026-04-19T09:04:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police find rat poison in recalled baby food jar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-find-rat-poison-in-recalled-baby-food-jar/a-76846811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police find rat poison in recalled baby food jar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-find-rat-poison-in-recalled-baby-food-jar/a-76846811?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-19T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attacks on US academics: A microcosm of a larger threat to democracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/attacks-on-us-academics-a-microcosm-of-a-larger-threat-to-democracy/a-76777273?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T08:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgarians vote in high-stakes election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgarians-vote-in-high-stakes-election/a-76846189?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T06:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgarians vote in high-stakes election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgarians-vote-in-high-stakes-election/a-76846189?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-19T06:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: search for motive after gunman kills six in Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/ukraine-war-briefing-search-for-motive-after-gunman-kills-six-in-kyiv",
+      "published_date": "2026-04-19T05:30:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bodies of 50 babies, 6 adults found in Trinidad and Tobago",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bodies-of-50-babies-6-adults-found-in-trinidad-and-tobago/a-76845914?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T01:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Berlin: Haushalte nach erneutem Stromausfall in Nikolassee wieder am Netz",
@@ -540,97 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/british-police-probe-another-arson-attack-in-london/a-76842584?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-18T14:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA probe after photographers injured at Bayern-Real game",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260418/uefa-probe-after-photographers-injured-at-bayern-real-game",
-      "published_date": "2026-04-18T13:54:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
-      "published_date": "2026-04-18T13:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach Landtagswahl-Debakel: SPD will mit Mitgliederbefragung neuen Vorsitz finden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/18/spd-will-mit-mitgliederbefragung-neuen-vorsitz-finden",
-      "published_date": "2026-04-18T11:18:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
-      "published_date": "2026-04-18T11:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Iran war not causing migration wave — Dobrindt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-iran-war-not-causing-migration-wave-dobrindt/live-76840275?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-18T09:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Iran war not causing migration wave — Dobrindt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-iran-war-not-causing-migration-wave-dobrindt/live-76840275?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T09:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: The AfD's army of staunch supporters - in Nigeria",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260418/inside-germany-the-afds-army-of-staunch-supporters-in-nigeria",
-      "published_date": "2026-04-18T08:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Parliament fails to pass women's quota bill after delimitation uproar",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-parliament-fails-to-pass-women-s-quota-bill-after-delimitation-uproar/live-76840035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T07:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Fans to pay $150 for train ticket to stadium",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/world-cup-2026-fans-to-pay-150-for-train-ticket-to-stadium/a-76839579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T23:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennis: Unerwartetes Stuttgart-Aus für Tennisstars Gauff und Swiatek",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/17/ukrainerin-switolina-nervenstark-im-stuttgart-halbfinale",
-      "published_date": "2026-04-17T21:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fahrt über Bundesstraßen: Autokonvoi gegen hohe Spritpreise vor Reichstag in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/17/autokonvoi-gegen-hohe-spritpreise-rollt-richtung-berlin",
-      "published_date": "2026-04-17T21:30:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen discovers first ancient Greek artifact found in Berlin",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-17T19:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen discovers first ancient Greek artifact found in Berlin",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T19:52:00+00:00",
       "category": "Local Events"
     }
   ]
