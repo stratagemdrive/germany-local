@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-19T11:30:55.901123+00:00",
+  "last_updated": "2026-04-19T23:29:13.076681+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "Treibstoffversorgung: Merz plant Sitzung des nationalen Sicherheitsrates zur Energiekrise",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/merz-energiekrise-nationaler-sicherheitsrat",
+      "published_date": "2026-04-19T21:57:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations?",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Top EU court rules online gamblers can sue for compensation if betting illegal in home country",
+      "title": "Iran war: Tehran vows response to US seizure of cargo ship",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/top-eu-court-rules-online-gamblers-can-sue-for-compensation-if-betting-illegal-in-home-country/a-76807534?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-16T13:04:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-tehran-vows-response-to-us-seizure-of-cargo-ship/live-76845923?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T20:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Life in Donbas: 'If we give up, there will be nothing left'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/life-in-donbas-if-we-give-up-there-will-be-nothing-left/a-76794734?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T16:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Life in Donbas: 'If we give up, there will be nothing left'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/life-in-donbas-if-we-give-up-there-will-be-nothing-left/a-76794734?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-19T16:38:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Polizei steht nach tödlichen Schüssen in Kyjiw in der Kritik",
@@ -200,6 +221,13 @@
       "category": "Military"
     },
     {
+      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-18T20:02:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pope Leo plays down rift with Trump, doubles down on peace",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-rdf",
@@ -221,6 +249,20 @@
       "category": "Military"
     },
     {
+      "title": "Europe looks to secure shipping in Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-18T12:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe looks to secure shipping in Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-18T12:49:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Rutte dismisses speculation about US leaving NATO",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/rutte-dismisses-speculation-about-us-leaving-nato/a-76841349?maca=en-rss-en-all-1573-rdf",
@@ -239,48 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-04/iran-schliesst-strasse-von-hormus-wieder-wegen-us-blockade-gxe",
       "published_date": "2026-04-18T10:12:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Displaced by Iran war: out of Lebanon, into Syrian crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/displaced-by-iran-war-out-of-lebanon-into-syrian-crisis/a-76822402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T10:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Meloni’s hold over Italy weakens, a progressive challenger gathers momentum in Genoa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/giorgia-meloni-hold-weakens-italy-silvia-salis-genoa-mayor",
-      "published_date": "2026-04-18T10:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa labour conflict 'more entrenched than ever', unions say",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260418/lufthansa-labour-conflict-more-entrenched-than-ever-unions-say",
-      "published_date": "2026-04-18T07:54:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airlines fear jet-fuel rationing due to Mideast war",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
-      "published_date": "2026-04-18T07:14:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T20:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-17T20:25:00+00:00",
       "category": "Military"
     },
     {
@@ -359,6 +359,20 @@
       "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-13T17:51:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Leute: Lindner über den Alltag mit Kleinkind: Nicht nur stressfrei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/20/lindner-ueber-den-alltag-mit-kleinkind-nicht-nur-stressfrei",
+      "published_date": "2026-04-19T23:01:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK seeks EU deals on steel and EVs in push for closer economic ties",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
+      "published_date": "2026-04-19T13:00:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Brände: Feuer in Holzlager und Heizwerk - 500.000 Euro Schaden",
@@ -487,18 +501,74 @@
       "category": "Economy"
     },
     {
-      "title": "Higher co-pays, fewer services: The cuts coming for Germany's public health insurance",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260415/higher-co-pays-fewer-services-the-cuts-coming-for-germanys-public-health-insurance",
-      "published_date": "2026-04-15T11:30:04+00:00",
-      "category": "Economy"
+      "title": "Köln-Rhein/Ruhr: Klare Mehrheit in NRW für Bewerbung um Olympische Spiele",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/olympische-spiele-bewerbung-nrw",
+      "published_date": "2026-04-19T23:03:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Women's workwear: When proper fit becomes a safety issue",
+      "title": "Bürgerentscheide: Olympia-Entscheide: Die Ergebnisse in den 17 NRW-Städten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/20/olympia-entscheide-die-ergebnisse-in-den-17-nrw-staedten",
+      "published_date": "2026-04-19T22:04:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rund 1,4 Millionen stimmen ab: Klares Ja für Olympia-Bewerbung bei Bürgerentscheiden in NRW",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/19/rund-1-4-millionen-beteiligen-sich-an-olympia-votum-in-nrw",
+      "published_date": "2026-04-19T21:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich clinch 35th Bundesliga title",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-15T10:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/bayern-munich-clinch-35th-bundesliga-title/a-76849660?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-19T17:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich clinch 35th Bundesliga title",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayern-munich-clinch-35th-bundesliga-title/a-76849660?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T17:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T17:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-19T17:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US mass shooting leaves 8 children dead in Louisiana",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-mass-shooting-leaves-8-children-dead-in-louisiana/a-76849556?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T16:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany News: Neighbor attacked for pounding schnitzel too loudly",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-neighbor-attacked-for-pounding-schnitzel-too-loudly/live-76840275?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-19T13:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany News: Neighbor attacked for pounding schnitzel too loudly",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-neighbor-attacked-for-pounding-schnitzel-too-loudly/live-76840275?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T13:50:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Malaysia: Fire in impoverished village destroys 1,000 homes",
@@ -529,6 +599,20 @@
       "category": "Local Events"
     },
     {
+      "title": "German crime statistics: false blame on migrants?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-crime-statistics-false-blame-on-migrants/a-76832148?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-19T09:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German crime statistics: false blame on migrants?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-crime-statistics-false-blame-on-migrants/a-76832148?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-19T09:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Several killed in Kyiv as gunman opens fire and takes hostages – video report",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/apr/19/several-killed-in-kyiv-as-gunman-opens-fire-and-takes-hostages-video-report",
@@ -554,90 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/austria-police-find-rat-poison-in-recalled-baby-food-jar/a-76846811?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-19T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacks on US academics: A microcosm of a larger threat to democracy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/attacks-on-us-academics-a-microcosm-of-a-larger-threat-to-democracy/a-76777273?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgarians vote in high-stakes election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgarians-vote-in-high-stakes-election/a-76846189?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T06:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgarians vote in high-stakes election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgarians-vote-in-high-stakes-election/a-76846189?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-19T06:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: search for motive after gunman kills six in Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/ukraine-war-briefing-search-for-motive-after-gunman-kills-six-in-kyiv",
-      "published_date": "2026-04-19T05:30:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bodies of 50 babies, 6 adults found in Trinidad and Tobago",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bodies-of-50-babies-6-adults-found-in-trinidad-and-tobago/a-76845914?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T01:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Haushalte nach erneutem Stromausfall in Nikolassee wieder am Netz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/berlin-nicolassee-stromausfall-blackout-netz-energie",
-      "published_date": "2026-04-18T22:44:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Notfälle: Erneut Stromausfall in Berlin-Nikolassee",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/18/erneut-stromausfall-in-berlin-nikolassee",
-      "published_date": "2026-04-18T21:37:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/terrorist-attack-kyiv-ukraine",
-      "published_date": "2026-04-18T20:19:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Racing driver Juha Miettinen killed and six injured at 24-hour Nürburgring qualifiers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/apr/18/racing-driver-juha-miettinen-killed-and-six-injured-at-24-hour-nurburgring-race",
-      "published_date": "2026-04-18T19:47:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 30. Spieltag – Samstag: Leipzig gewinnt gegen Frankfurt, BVB verliert in Hoffenheim",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/bundesliga-30-spieltag-samstag-werder-hsv-hoffenheim-bvb-leverkusen-augsburg",
-      "published_date": "2026-04-18T19:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Modi slams Congress over women's quota vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-modi-slams-congress-over-women-s-quota-vote/live-76840035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T17:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British police probe another arson attack in London",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/british-police-probe-another-arson-attack-in-london/a-76842584?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T14:05:00+00:00",
       "category": "Local Events"
     }
   ]
