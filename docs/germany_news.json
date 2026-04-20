@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-20T12:00:08.765766+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-20T23:36:10.068427+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Große Koalition: Friedrich Merz fordert stärkeres Entgegenkommen der SPD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/merz-spd-reformen-wirtschaft-gesundheit",
+      "published_date": "2026-04-20T20:55:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK: Starmer says he would't have appointed Mandelson as US envoy if he'd known he failed vetting process",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-starmer-says-he-would-t-have-appointed-mandelson-as-us-envoy-if-he-d-known-he-failed-vetting-process/a-76864691?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T18:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK: Starmer says he would't have appointed Mandelson as US envoy if he'd known he failed vetting process",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-starmer-says-he-would-t-have-appointed-mandelson-as-us-envoy-if-he-d-known-he-failed-vetting-process/a-76864691?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-20T18:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on the EU and Israel: moving beyond mere exhortation | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/the-guardian-view-on-the-eu-and-israel-moving-beyond-mere-exhortation-",
+      "published_date": "2026-04-20T17:43:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany summons Russian envoy over 'threats'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260420/germany-summons-russian-envoy-over-threats",
+      "published_date": "2026-04-20T15:10:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Deutschland und Brasilien: Handelsvolumen mit Brasilien soll laut Kanzler Merz verdoppelt werden",
       "source": "ZEIT Online",
@@ -15,6 +50,20 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates",
       "published_date": "2026-04-20T11:41:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bulgaria: Pro-Russia Rumen Radev wins ‌election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-‌election/a-76846189?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T09:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bulgaria: Pro-Russia Rumen Radev wins ‌election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-‌election/a-76846189?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-20T09:16:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hormus-Konferenz: EU-Staatschefs planen Mission zur Sicherung der Straße von Hormus",
+      "title": "Krieg in der Ukraine: Selenskyj wirft US-Vermittlern Respektlosigkeit vor",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/strasse-von-hormus-konferenz-militaermission-eu-staatschefs-gxe",
-      "published_date": "2026-04-17T22:04:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-04/20/selenskyj-wirft-us-vermittlern-respektlosigkeit-vor",
+      "published_date": "2026-04-20T21:30:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "More than half of Britons support rejoining EU 10 years on from Brexit vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/17/half-britons-support-rejoining-eu-10-years-brexit-vote",
-      "published_date": "2026-04-17T13:27:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK: 'Furious' PM Starmer refuses to step down over Mandelson",
+      "title": "Tim Cook to step down as Apple CEO, John Ternus to take over",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-furious-pm-starmer-refuses-to-step-down-over-mandelson/a-76829190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T12:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/tim-cook-to-step-down-as-apple-ceo-john-ternus-to-take-over/a-76873245?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T21:25:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU officials arrive in Hungary for high-stakes talks with Magyar’s government",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/17/eu-officials-hungary-talks-peter-magyar-government",
-      "published_date": "2026-04-17T11:21:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Far-right AfD ahead of Merz's conservatives",
+      "title": "Ugandan military reports rescue of some 200 hostages from ADF militants in eastern DRC",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-afd-ahead-of-merz-s-conservatives/live-76817891?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-17T09:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ugandan-military-reports-rescue-of-some-200-hostages-from-adf-militants-in-eastern-drc/a-76863450?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T14:47:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Far-right AfD ahead of Merz's conservatives",
+      "title": "Sudan war enters fourth year as child hunger crisis deepens",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-afd-ahead-of-merz-s-conservatives/live-76817891?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T09:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sudan-war-enters-fourth-year-as-child-hunger-crisis-deepens/a-76837481?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T12:29:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "title": "Russia arrests German woman in alleged bomb plot",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260417/today-in-germany-a-roundup-of-the-latest-news-on-friday-120",
-      "published_date": "2026-04-17T06:33:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260420/russia-arrests-german-woman-in-alleged-bomb-plot",
+      "published_date": "2026-04-20T12:07:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "‘I was fighting two wars’: Ukraine’s soldiers confront their addiction struggles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/ukraine-soldiers-confront-addiction-struggles",
-      "published_date": "2026-04-19T04:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Tehran says 'progress' made in talks with US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-says-progress-made-in-talks-with-us/live-76845923?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T03:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Gunman shot dead after killing spree in Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-gunman-shot-dead-after-killing-spree-in-kyiv/a-76843205?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T21:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T20:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-18T20:02:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Europe’s last coal – a photo essay",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/apr/20/europe-last-coal-a-photo-essay",
@@ -361,20 +361,6 @@
       "category": "Energy"
     },
     {
-      "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-13T17:51:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-13T17:51:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Jobwechsel: In welchen Jobs Menschen oft wechseln – und wo sie lange bleiben",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/arbeit/2026-04/jobwechsel-beruf-karriere-arbeitsplatz",
@@ -396,9 +382,23 @@
       "category": "Economy"
     },
     {
+      "title": "How China's chip expansion puts pressure on global rivals",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-china-s-chip-expansion-puts-pressure-on-global-rivals/a-76056790?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T09:46:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Venezuela's oil reform aims to lure private investors",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/venezuela-s-oil-reform-aims-to-lure-private-investors/a-76837762?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T05:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will Venezuela's oil sector reform attract investors?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-venezuela-s-oil-sector-reform-attract-investors/a-76837762?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-20T05:27:00+00:00",
       "category": "Economy"
     },
@@ -501,18 +501,18 @@
       "category": "Economy"
     },
     {
-      "title": "Why leaving Germany doesn't always mean you're done with German taxes",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260416/why-leaving-germany-doesnt-always-mean-youre-done-with-german-taxes",
-      "published_date": "2026-04-16T14:53:39+00:00",
-      "category": "Economy"
+      "title": "Mexico: Canadian killed in shooting at Teotihuacan pyramid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mexico-canadian-killed-in-shooting-at-teotihuacan-pyramid/a-76872804?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T20:17:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How the Hormuz Strait crisis is squeezing India's SMEs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T14:26:00+00:00",
-      "category": "Economy"
+      "title": "One Japanese town sorts waste into 40 different categories. How does Australia’s recycling compare?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/20/one-japanese-town-sorts-waste-into-40-different-categories-how-does-australias-recycling-compare",
+      "published_date": "2026-04-20T15:00:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Berlin im Kalten Krieg: Dokumentation zu legendärem Spionagetunnel mit DDR-Fotos",
@@ -638,20 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-19T17:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US mass shooting leaves 8 children dead in Louisiana",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-mass-shooting-leaves-8-children-dead-in-louisiana/a-76849556?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T16:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany News: Neighbor attacked for pounding schnitzel too loudly",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-neighbor-attacked-for-pounding-schnitzel-too-loudly/live-76840275?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-19T13:50:00+00:00",
       "category": "Local Events"
     }
   ]
