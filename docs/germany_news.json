@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-20T23:36:10.068427+00:00",
-  "story_count": 91,
+  "last_updated": "2026-04-21T11:57:07.145682+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
+      "published_date": "2026-04-21T11:33:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zukunft der Rente: SPD greift Kanzler Merz wegen Äußerung zur gesetzlichen Rente an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/zukunft-der-rente-linke-kritisiert-friedrich-merz-ines-schwerdtner",
+      "published_date": "2026-04-21T10:59:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Stone age' ticket system preventing travellers in Europe from taking trains",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260421/stone-age-ticket-system-preventing-travellers-in-europe-from-taking-trains",
+      "published_date": "2026-04-21T10:50:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary: Orban-era LGBTQ law infringes human rights, ECJ rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-orban-era-lgbtq-law-infringes-human-rights-ecj-rules/a-76876926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T10:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary: Orban-era LGBTQ law infringes human rights, ECJ rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-orban-era-lgbtq-law-infringes-human-rights-ecj-rules/a-76876926?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-21T10:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU’s top court finds Hungary’s anti-LGBTQ+ law in breach of key values",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/eu-court-ecj-hungary-anti-gay-lgbtq-law",
+      "published_date": "2026-04-21T10:39:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: India-US near trade deal in Washington",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-india-us-near-trade-deal-in-washington/live-76875202?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T07:12:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Almost half of EU’s busiest flight routes are ‘hard or impossible’ to book on trains – report",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/21/almost-half-of-eus-busiest-flight-routes-are-hard-or-impossible-to-book-on-trains-report",
+      "published_date": "2026-04-21T04:00:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Große Koalition: Friedrich Merz fordert stärkeres Entgegenkommen der SPD",
       "source": "ZEIT Online",
@@ -88,60 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Treibstoffversorgung: Merz plant Sitzung des nationalen Sicherheitsrates zur Energiekrise",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/merz-energiekrise-nationaler-sicherheitsrat",
-      "published_date": "2026-04-19T21:57:06+00:00",
-      "category": "Diplomacy"
+      "title": "Apple switches CEO: What it means for the iPhone maker",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/apple-switches-ceo-what-it-means-for-the-iphone-maker/a-76875625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T11:17:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/israel-europe-support-iran-war-orban-meloni",
-      "published_date": "2026-04-19T10:13:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands rally across Germany to demand faster green shift",
+      "title": "What travellers in Germany need to know about the jet fuel crisis",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260419/thousands-rally-across-germany-to-call-for-faster-green-shift",
-      "published_date": "2026-04-19T07:11:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260421/what-travellers-in-germany-need-to-know-about-the-jet-fuel-crisis",
+      "published_date": "2026-04-21T09:41:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "India protests Iran fire on two vessels in Strait of Hormuz",
+      "title": "Japan loosens long-standing curbs on arms exports",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-protests-iran-fire-on-two-vessels-in-strait-of-hormuz/live-76846282?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T07:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/japan-loosens-long-standing-curbs-on-arms-exports/a-76874734?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T08:26:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
+      "title": "The War in Ukraine: As Russian Losses Mount, Signing Bonuses for Recruits Are Skyrocketing",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/the-war-in-ukraine-as-russian-losses-mount-signing-bonuses-for-recruits-are-skyrocketing-a-b1c752f6-0edb-4304-a24b-2869730b4248#ref=rss",
+      "published_date": "2026-04-21T08:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Scarborn (Kos) review – rumbustuous period epic stirs up trouble in 18th-century Poland",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee",
-      "published_date": "2026-04-18T10:48:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/apr/21/scarborn-kos-review-stirring-up-trouble-in-18th-century-poland",
+      "published_date": "2026-04-21T06:00:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Europe avoid a summer of holiday flight and cross-Channel travel chaos?",
+      "title": "Picasso’s Guernica is the ultimate emblem of the horrors of war. It has no place in Spain's partisan squabbles | María Ramírez",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
-      "published_date": "2026-04-18T07:00:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/21/picasso-guernica-horrors-war-spain-partisan-squabbles-madrid-franco",
+      "published_date": "2026-04-21T04:00:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "What are my rights if flights are cancelled and holidays disrupted due to fuel shortage?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/apr/18/what-to-do-if-flights-cancelled-holidays-disrupted-iran-war-eu-ees",
-      "published_date": "2026-04-18T07:00:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz again over US blockade",
+      "title": "Iran war: Talks in doubt as leaders issue threats",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-again-over-us-blockade/live-76839599?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-18T01:31:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-talks-in-doubt-as-leaders-issue-threats/live-76874663?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T03:08:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg in der Ukraine: Selenskyj wirft US-Vermittlern Respektlosigkeit vor",
@@ -168,6 +217,13 @@
       "title": "Sudan war enters fourth year as child hunger crisis deepens",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/sudan-war-enters-fourth-year-as-child-hunger-crisis-deepens/a-76837481?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T12:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war fuels child hunger crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-war-fuels-child-hunger-crisis/a-76837481?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-20T12:29:00+00:00",
       "category": "Military"
     },
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Europe needs homegrown missile defence in a year – Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/20/ukraine-war-briefing-europe-needs-homegrown-missile-defence-in-a-year-zelenskyy",
-      "published_date": "2026-04-20T00:27:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Tehran vows response to US seizure of cargo ship",
+      "title": "Why the cloud still runs on coal and gas",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tehran-vows-response-to-us-seizure-of-cargo-ship/live-76845923?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T20:51:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/why-the-cloud-still-runs-on-coal-and-gas/a-76873187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T09:28:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Life in Donbas: 'If we give up, there will be nothing left'",
+      "title": "Germany news: Trial starts in Istanbul over tourist deaths",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/life-in-donbas-if-we-give-up-there-will-be-nothing-left/a-76794734?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T16:38:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-news-trial-starts-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-21T07:54:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Life in Donbas: 'If we give up, there will be nothing left'",
+      "title": "Germany news: Trial starts in Istanbul over tourist deaths",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/life-in-donbas-if-we-give-up-there-will-be-nothing-left/a-76794734?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-19T16:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Polizei steht nach tödlichen Schüssen in Kyjiw in der Kritik",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/ukraine-kyjiw-schussangriff-polizei-ermittlungen",
-      "published_date": "2026-04-19T10:13:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stromausfall in Berlin: Keine Anzeichen für Anschlag nach erneutem Stromausfall in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/stromausfall-berlin-nikolassee-kein-anschlag",
-      "published_date": "2026-04-19T09:50:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bulgaria votes as pro-Russian former president leads in the polls",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-      "published_date": "2026-04-19T09:45:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
-      "published_date": "2026-04-19T08:00:36+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-news-trial-starts-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T07:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe’s last coal – a photo essay",
@@ -361,6 +382,13 @@
       "category": "Energy"
     },
     {
+      "title": "Germany to allow tax-free €1,000 employee bonus until next year",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260421/germany-to-allow-tax-free-e1000-employee-bonus-until-next-year",
+      "published_date": "2026-04-21T08:59:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Jobwechsel: In welchen Jobs Menschen oft wechseln – und wo sie lange bleiben",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/arbeit/2026-04/jobwechsel-beruf-karriere-arbeitsplatz",
@@ -385,6 +413,13 @@
       "title": "How China's chip expansion puts pressure on global rivals",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-china-s-chip-expansion-puts-pressure-on-global-rivals/a-76056790?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-20T09:46:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China's chip ambitions shake up global tech industry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-s-chip-ambitions-shake-up-global-tech-industry/a-76056790?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-20T09:46:00+00:00",
       "category": "Economy"
     },
@@ -487,18 +522,60 @@
       "category": "Economy"
     },
     {
-      "title": "Sanctions don’t result in regime change. Whether against Iran or Russia, western countries need shrewder tactics | Simon Jenkins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/sanctions-regime-change-iran-russia-western-countries",
-      "published_date": "2026-04-17T12:19:41+00:00",
-      "category": "Economy"
+      "title": "Bewerbung um Sommerspiele: Zehn Bürger-Empfehlungen für Olympia in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/21/zehn-buerger-empfehlungen-fuer-olympia-in-berlin",
+      "published_date": "2026-04-21T11:54:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "I want to reform our country because a strong Germany is a precondition for a strong Europe | Lars Klingbeil",
+      "title": "Iran-Krieg: Demonstrationen zum Besuch von Schah-Sohn Pahlavi in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/21/demonstrationen-zum-besuch-von-schah-sohn-pahlavi-in-berlin",
+      "published_date": "2026-04-21T11:49:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In which direction will Rumen Radev steer Bulgaria?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-which-direction-will-rumen-radev-steer-bulgaria/a-76879858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Midtjylland footballer Alamara Djabi seriously injured after stabbing in Denmark",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/i-want-to-reform-our-country-because-a-strong-germany-is-a-precondition-for-a-strong-europe",
-      "published_date": "2026-04-17T04:00:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/football/2026/apr/21/midtjylland-footballer-alamara-djabi-seriously-injured-after-stabbing-in-denmark",
+      "published_date": "2026-04-21T11:29:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine lessons for the US from Viktor Orbán’s defeat | Kenneth Roth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/21/viktor-orban-hungary-lessons",
+      "published_date": "2026-04-21T10:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Korea: Police seek to arrest BTS agency chief over fraud allegations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T06:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260421/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-120",
+      "published_date": "2026-04-21T06:28:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: EU moves to unlock €90bn loan as Orbán exits",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/ukraine-war-briefing-eu-moves-to-unlock-90bn-loan-as-orban-exits",
+      "published_date": "2026-04-21T00:50:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mexico: Canadian killed in shooting at Teotihuacan pyramid",
@@ -582,62 +659,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-04/olympische-spiele-bewerbung-nrw",
       "published_date": "2026-04-19T23:03:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bürgerentscheide: Olympia-Entscheide: Die Ergebnisse in den 17 NRW-Städten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/20/olympia-entscheide-die-ergebnisse-in-den-17-nrw-staedten",
-      "published_date": "2026-04-19T22:04:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rund 1,4 Millionen stimmen ab: Klares Ja für Olympia-Bewerbung bei Bürgerentscheiden in NRW",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/19/rund-1-4-millionen-beteiligen-sich-an-olympia-votum-in-nrw",
-      "published_date": "2026-04-19T21:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich clinch 35th Bundesliga title",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-clinch-35th-bundesliga-title/a-76849660?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-19T17:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich clinch 35th Bundesliga title",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-clinch-35th-bundesliga-title/a-76849660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T17:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich beat Stuttgart to clinch Bundesliga title",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-beat-stuttgart-to-clinch-bundesliga-title/a-76849660?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-19T17:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich beat Stuttgart to clinch Bundesliga title",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-beat-stuttgart-to-clinch-bundesliga-title/a-76849660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T17:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-19T17:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-19T17:19:00+00:00",
       "category": "Local Events"
     }
   ]
