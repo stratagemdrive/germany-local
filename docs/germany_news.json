@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-21T11:57:07.145682+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-21T23:29:41.406641+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Sanktionen gegen Israel: SPD-Außenpolitiker fordert deutschen Kurswechsel gegenüber Israel",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/adis-ahmetovic-kritik-wadephul-israel-eu-abkommen",
+      "published_date": "2026-04-21T22:58:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU foreign ministers reject proposal to suspend association agreement with Israel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
+      "published_date": "2026-04-21T18:46:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kunstbiennale von Venedig: EU kürzt wegen Russlands Teilnahme Zuschuss für Biennale in Venedig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/russland-kunst-venedig-biennale-eu",
+      "published_date": "2026-04-21T18:44:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albanians in UK scapegoated by rightwing media and politicians, says ambassador",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/21/albanians-uk-scapegoated-rightwing-ambassador-uran-ferizi",
+      "published_date": "2026-04-21T16:30:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albanians are being unfairly demonised in illegal immigration debate | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/albanians-are-being-unfairly-demonised-in-immigration-debate",
+      "published_date": "2026-04-21T16:29:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyy says Druzhba oil pipeline to Europe repaired",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-says-druzhba-oil-pipeline-to-europe-repaired/a-76886727?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T16:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany and Italy reject suspending EU-Israel cooperation deal",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260421/germany-and-italy-reject-suspending-eu-israel-cooperation-deal",
+      "published_date": "2026-04-21T13:56:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Delhi braces for first heatwave of the year",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-delhi-braces-for-first-heatwave-of-the-year/live-76875202?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T13:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'We must be ready': EU to lay out its plan to deal with jet fuel crisis",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260421/we-must-be-ready-eu-to-lay-out-its-plan-to-deal-with-jet-fuel-crisis",
+      "published_date": "2026-04-21T12:48:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
       "source": "The Guardian",
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Guardian view on the EU and Israel: moving beyond mere exhortation | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/the-guardian-view-on-the-eu-and-israel-moving-beyond-mere-exhortation-",
-      "published_date": "2026-04-20T17:43:10+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: Trump says US extending ceasefire to give Iran more time to negotiate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-us-extending-ceasefire-to-give-iran-more-time-to-negotiate/live-76874663?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T20:34:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany summons Russian envoy over 'threats'",
+      "title": "Nigeria charges six over alleged Tinubu overthrow plot",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-charges-six-over-alleged-tinubu-overthrow-plot/a-76889096?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T20:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon war puts pregnant women at risk",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lebanon-war-puts-pregnant-women-at-risk/a-76884533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T19:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German investor morale lowest in over three years amid Iran war fallout",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260420/germany-summons-russian-envoy-over-threats",
-      "published_date": "2026-04-20T15:10:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deutschland und Brasilien: Handelsvolumen mit Brasilien soll laut Kanzler Merz verdoppelt werden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/friedrich-merz-brasilien-wirtschaftsbeziehungen-eu-mercosur",
-      "published_date": "2026-04-20T11:45:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU praises ‘extremely constructive’ early talks with incoming Hungarian government – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates",
-      "published_date": "2026-04-20T11:41:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev wins ‌election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-‌election/a-76846189?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T09:16:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev wins ‌election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-‌election/a-76846189?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-20T09:16:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Timmy the stranded whale back on the move",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-timmy-the-stranded-whale-back-on-the-move/live-76853641?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-20T07:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Timmy the stranded whale back on the move",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-timmy-the-stranded-whale-back-on-the-move/live-76853641?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T07:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260420/today-in-germany-a-roundup-of-the-latest-news-on-monday-119",
-      "published_date": "2026-04-20T06:32:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260421/german-investor-morale-lowest-in-over-three-years-amid-iran-war-fallout",
+      "published_date": "2026-04-21T15:51:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Apple switches CEO: What it means for the iPhone maker",
@@ -256,37 +284,23 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine hits Russian Black Sea port city, 1 dead",
+      "title": "Nigeria's $2B power bailout tests Tinubu reforms",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-hits-russian-black-sea-port-city-1-dead/live-76854298?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-20T08:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: 'No plans' for fresh peace talks, Tehran says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-no-plans-for-fresh-peace-talks-tehran-says/live-76853963?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T08:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strike on alleged drug boat in Caribbean kills 3",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-strike-on-alleged-drug-boat-in-caribbean-kills-3/a-76852936?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T08:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "LensCulture portrait awards 2026 – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/20/lensculture-portrait-awards-2026-in-pictures",
-      "published_date": "2026-04-20T01:22:53+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/nigeria-s-2b-power-bailout-tests-tinubu-reforms/a-76883261?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T13:48:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why the cloud still runs on coal and gas",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-the-cloud-still-runs-on-coal-and-gas/a-76873187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T09:28:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why cloud computing still runs on coal and gas",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-cloud-computing-still-runs-on-coal-and-gas/a-76873187?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-21T09:28:00+00:00",
       "category": "Energy"
     },
@@ -301,6 +315,20 @@
       "title": "Germany news: Trial starts in Istanbul over tourist deaths",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-trial-starts-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T07:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany news: Trial begins in Istanbul over tourist deaths",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-trial-begins-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-21T07:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany news: Trial begins in Istanbul over tourist deaths",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-trial-begins-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-21T07:54:00+00:00",
       "category": "Energy"
     },
@@ -375,11 +403,46 @@
       "category": "Energy"
     },
     {
-      "title": "Why India walked away from its bid to host COP33",
+      "title": "Zukunft der FDP: Lindner will zum FDP-Parteitag kommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/22/lindner-will-zum-fdp-parteitag-kommen",
+      "published_date": "2026-04-21T23:00:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK agriculture deal with EU will not remove all red tape, peers told",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/21/uk-eu-close-iagricultural-deal-brexit",
+      "published_date": "2026-04-21T15:44:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What are Japan, South Korea learning from Hormuz disruption?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-india-walked-away-from-its-bid-to-host-cop33/a-76778682?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-14T13:34:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/what-are-japan-south-korea-learning-from-hormuz-disruption/a-76881461?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T14:22:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "LISTED: The best free websites and apps for German language learners",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260421/listed-the-best-free-websites-and-apps-for-german-language-learners",
+      "published_date": "2026-04-21T13:26:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Taiwan blames pressure from China for nixed Africa trip",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/taiwan-blames-pressure-from-china-for-nixed-africa-trip/a-76882324?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T12:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ultras review – love letter to football’s most dedicated supporters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/21/ultras-review-love-letter-to-footballs-most-dedicated-supporters",
+      "published_date": "2026-04-21T12:00:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany to allow tax-free €1,000 employee bonus until next year",
@@ -480,52 +543,45 @@
       "category": "Economy"
     },
     {
-      "title": "Langstrecken-Serie: Schwedischer Fahrer verunglückt am Nürburgring",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/formel-1-nuerburgring-juha-miettinen-unfall-tod-max-verstappen",
-      "published_date": "2026-04-18T23:03:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deutsche Bahn: Bahn will 20 Milliarden Euro in Bahnhöfe investieren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-04/deutsche-bahn-investitionen-bahnhoefe-sicherheit-gxe",
-      "published_date": "2026-04-18T10:49:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Young Bulgarians hold out for change in eighth election in five years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/young-bulgarians-election-wave-of-protests",
-      "published_date": "2026-04-18T07:00:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Péter Magyar’s real coup was winning over loyal Orbán voters – not preaching to the converted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/18/peter-magyars-real-coup-was-winning-over-loyal-orban-voters-not-preaching-to-the-converted",
-      "published_date": "2026-04-18T06:00:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gesundheitsreform: Was jetzt auf Patienten zukommt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/gesundheitsreform-nina-warken-veraenderungen-krankenkasse-faq",
-      "published_date": "2026-04-17T18:44:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran: Internet blackout highlights real toll of censorship",
+      "title": "Mexican pyramid gunman had materials tied to Columbine shooting, officials say",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-internet-blackout-highlights-real-toll-of-censorship/a-76832488?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-17T15:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/mexican-pyramid-gunman-had-materials-tied-to-columbine-shooting-officials-say/a-76889302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T22:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atommüll-Transport: Zweiter Castor-Transport in Jülich losgefahren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/21/zweiter-castor-transport-in-juelich-losgefahren",
+      "published_date": "2026-04-21T21:12:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hannover: Auffahrunfall mit Motorrad: Zwei Jugendliche schwer verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/21/auffahrunfall-mit-motorrad-zwei-jugendliche-schwer-verletzt",
+      "published_date": "2026-04-21T20:49:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How grievance turns to violence in a mass shooter's mind",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T16:17:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bewerbung um Sommerspiele: Zehn Bürger-Empfehlungen für Olympia in Berlin",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/21/zehn-buerger-empfehlungen-fuer-olympia-in-berlin",
       "published_date": "2026-04-21T11:54:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Martin Scorsese’s film about Pope Francis to receive world premiere in Vatican City",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/21/martin-scorsese-film-about-pope-francis-world-premiere-vatican-city-aldeas-the-final-dream-of-pope-francis",
+      "published_date": "2026-04-21T11:53:08+00:00",
       "category": "Local Events"
     },
     {
@@ -539,6 +595,20 @@
       "title": "In which direction will Rumen Radev steer Bulgaria?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/in-which-direction-will-rumen-radev-steer-bulgaria/a-76879858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What course will Bulgaria’s new leader Rumen Radev take?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-course-will-bulgaria-s-new-leader-rumen-radev-take/a-76879858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What course will Bulgaria’s new leader Rumen Radev take?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-course-will-bulgaria-s-new-leader-rumen-radev-take/a-76879858?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-21T11:43:00+00:00",
       "category": "Local Events"
     },
@@ -610,55 +680,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-04/messerangriff-essen-berufskolleg-bundesanwaltschaft-anklage",
       "published_date": "2026-04-20T10:59:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria enters uncharted territory as Radev wins big",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-enters-uncharted-territory-as-radev-wins-big/a-76856059?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T10:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria enters uncharted territory as Radev wins big",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-enters-uncharted-territory-as-radev-wins-big/a-76856059?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-20T10:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Berlin get rid of its transport ticket machines?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260420/will-berlin-get-rid-of-its-public-transport-ticket-machines",
-      "published_date": "2026-04-20T09:43:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T09:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-20T09:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New direct trains from Germany to Copenhagen to launch this spring",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260420/new-direct-trains-from-germany-to-copenhagen-to-launch-this-spring",
-      "published_date": "2026-04-20T08:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Köln-Rhein/Ruhr: Klare Mehrheit in NRW für Bewerbung um Olympische Spiele",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/olympische-spiele-bewerbung-nrw",
-      "published_date": "2026-04-19T23:03:59+00:00",
       "category": "Local Events"
     }
   ]
