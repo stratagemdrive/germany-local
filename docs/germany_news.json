@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-22T11:56:47.145295+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-22T23:39:48.191769+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Germany's Merz: Climate protection must not hold economy back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-22T22:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz: Climate protection must not hold economy back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T22:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz: Climate protection must not hold economy back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-22T22:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gesetzliche Rente: Sozialministerin Bas distanziert sich von Rente als »Basisabsicherung«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/baerbel-bas-gesetzliche-rente-basisabsicherung-merz-kritik",
+      "published_date": "2026-04-22T20:59:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Roman Abramovich takes Jersey to European human rights court over criminal investigation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/22/roman-abramovich-jersey-european-human-rights-court-chelsea-sale-proceeds",
+      "published_date": "2026-04-22T16:52:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees to unblock €90bn loan for Ukraine after Hungary lifts veto",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto",
+      "published_date": "2026-04-22T15:19:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU unblocks €90 billion loan to Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-unblocks-€90-billion-loan-to-ukraine/a-76895753?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T12:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU unblocks €90 billion loan to Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-unblocks-€90-billion-loan-to-ukraine/a-76895753?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-22T12:05:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mehr als im EU-Schnitt: Jeder Vierte arbeitet zeitweise von zu Hause aus",
       "source": "ZEIT Online",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Albanians are being unfairly demonised in illegal immigration debate | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/21/albanians-are-being-unfairly-demonised-in-immigration-debate",
-      "published_date": "2026-04-21T16:29:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy says Druzhba oil pipeline to Europe repaired",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-says-druzhba-oil-pipeline-to-europe-repaired/a-76886727?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T16:22:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany and Italy reject suspending EU-Israel cooperation deal",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260421/germany-and-italy-reject-suspending-eu-israel-cooperation-deal",
-      "published_date": "2026-04-21T13:56:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: Delhi braces for first heatwave of the year",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-delhi-braces-for-first-heatwave-of-the-year/live-76875202?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T13:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'We must be ready': EU to lay out its plan to deal with jet fuel crisis",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260421/we-must-be-ready-eu-to-lay-out-its-plan-to-deal-with-jet-fuel-crisis",
-      "published_date": "2026-04-21T12:48:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
-      "published_date": "2026-04-21T11:33:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zukunft der Rente: SPD greift Kanzler Merz wegen Äußerung zur gesetzlichen Rente an",
+      "title": "Bundeswehr: Verteidigungsminister sieht keine Obergrenze bei Truppenstärke",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/zukunft-der-rente-linke-kritisiert-friedrich-merz-ines-schwerdtner",
-      "published_date": "2026-04-21T10:59:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/bundeswehr-truppenstaerke-keine-obergrenze-boris-pistorius",
+      "published_date": "2026-04-22T21:11:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Stone age' ticket system preventing travellers in Europe from taking trains",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260421/stone-age-ticket-system-preventing-travellers-in-europe-from-taking-trains",
-      "published_date": "2026-04-21T10:50:54+00:00",
-      "category": "Diplomacy"
+      "title": "School's out in Iran: No phone, no internet, no classes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/school-s-out-in-iran-no-phone-no-internet-no-classes/a-76901420?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T20:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Japan: South Korean arrested outside Yasukuni Shrine ceremony for war dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-south-korean-arrested-outside-yasukuni-shrine-ceremony-for-war-dead/a-76900830?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T18:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war fuels crisis for Africa's aviation sector",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T12:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Agon review – ice-cold, machine-tooled inspection of the dark side of athletic perfection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/22/agon-movie-review-giulio-bertelli-alice-bellandi-sofija-zobina-yile-yara-vianello",
+      "published_date": "2026-04-22T12:00:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Tui cuts profit forecast as effects of Iran war cost travel group €40m",
@@ -176,6 +211,20 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
       "published_date": "2026-04-22T09:00:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T08:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-22T08:38:00+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Apple switches CEO: What it means for the iPhone maker",
+      "title": "EU proposes steps to deal with energy crisis amid Iran war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/apple-switches-ceo-what-it-means-for-the-iphone-maker/a-76875625?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T11:17:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/eu-proposes-steps-to-deal-with-energy-crisis-amid-iran-war/a-76899373?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T19:04:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "What travellers in Germany need to know about the jet fuel crisis",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260421/what-travellers-in-germany-need-to-know-about-the-jet-fuel-crisis",
-      "published_date": "2026-04-21T09:41:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan loosens long-standing curbs on arms exports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-loosens-long-standing-curbs-on-arms-exports/a-76874734?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T08:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The War in Ukraine: As Russian Losses Mount, Signing Bonuses for Recruits Are Skyrocketing",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/the-war-in-ukraine-as-russian-losses-mount-signing-bonuses-for-recruits-are-skyrocketing-a-b1c752f6-0edb-4304-a24b-2869730b4248#ref=rss",
-      "published_date": "2026-04-21T08:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scarborn (Kos) review – rumbustuous period epic stirs up trouble in 18th-century Poland",
+      "title": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/21/scarborn-kos-review-stirring-up-trouble-in-18th-century-poland",
-      "published_date": "2026-04-21T06:00:17+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
+      "published_date": "2026-04-22T14:47:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Picasso’s Guernica is the ultimate emblem of the horrors of war. It has no place in Spain's partisan squabbles | María Ramírez",
+      "title": "EU plans to cut electricity taxes to shield households from Iran war energy crisis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/21/picasso-guernica-horrors-war-spain-partisan-squabbles-madrid-franco",
-      "published_date": "2026-04-21T04:00:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/apr/22/eu-plans-cut-electricity-taxes-shield-households-iran-war-energy-crisis",
+      "published_date": "2026-04-22T12:48:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: Talks in doubt as leaders issue threats",
+      "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-talks-in-doubt-as-leaders-issue-threats/live-76874663?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T03:08:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T12:35:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-22T12:35:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine says Russian oil to Hungary, Slovakia has restarted",
@@ -389,25 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
+      "title": "DFB-Pokal Halbfinale: Bayern München steht nach Sieg in Leverkusen im DFB-Pokalfinale",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/dfb-pokal-halbfinale-bayern-muenchen-bayer-leverkusen",
+      "published_date": "2026-04-22T22:05:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's finance minister wants to scrap spousal tax splitting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-22T14:32:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's finance minister wants to scrap spousal tax splitting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T14:32:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany halves 2026 growth forecast on Iran war fallout",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/germany-halves-2026-growth-forecast-on-iran-war-fallout",
+      "published_date": "2026-04-22T13:18:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ryanair to close check-in 20 minutes earlier amid concern over Europe border queues",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
-      "published_date": "2026-04-17T06:00:24+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/22/ryanair-close-bag-check-in-20-minutes-earlier-concern-europe-border-queues",
+      "published_date": "2026-04-22T12:33:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
+      "title": "Germany news: Lufthansa scraps 20,000 flights",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-16T03:57:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Firefighters battle huge blaze at Australian oil refinery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/firefighters-battle-huge-blaze-at-australian-oil-refinery/a-76801562?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T22:41:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-lufthansa-scraps-20-000-flights/live-76891766?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-22T09:29:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "AI-powered robots offer new hope to German factories",
@@ -508,46 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Will Venezuela's oil sector reform attract investors?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-venezuela-s-oil-sector-reform-attract-investors/a-76837762?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T05:27:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Canada's US ties have become a weakness, says Carney",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-s-us-ties-have-become-a-weakness-says-carney/a-76852129?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T03:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Leute: Lindner über den Alltag mit Kleinkind: Nicht nur stressfrei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/20/lindner-ueber-den-alltag-mit-kleinkind-nicht-nur-stressfrei",
-      "published_date": "2026-04-19T23:01:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK seeks EU deals on steel and EVs in push for closer economic ties",
+      "title": "Tourist charged with damaging historic Florentine fountain in pre-wedding prank",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
-      "published_date": "2026-04-19T13:00:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/22/tourist-charged-with-damaging-historic-florence-fountain-pre-wedding-prank",
+      "published_date": "2026-04-22T17:42:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Brände: Feuer in Holzlager und Heizwerk - 500.000 Euro Schaden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/19/feuer-in-holzlager-und-heizwerk-500-000-euro-schaden",
-      "published_date": "2026-04-19T11:15:24+00:00",
-      "category": "Economy"
+      "title": "ICC blocks ex-Philippine President Duterte release, says it can try him",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/icc-blocks-ex-philippine-president-duterte-release-says-it-can-try-him/a-76894601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T13:27:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Labour’s ‘crabwise’ approach to closer EU ties must address damage of Brexit | Heather Stewart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/19/labour-approach-closer-eu-ties-address-damage-of-brexit",
-      "published_date": "2026-04-19T10:50:18+00:00",
-      "category": "Economy"
+      "title": "When does your employer need to pay you for travel time in Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/when-does-your-employer-need-to-pay-you-for-travel-time-in-germany",
+      "published_date": "2026-04-22T13:07:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The rise and fall of East Germany's Palace of the Republic",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-22T11:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The rise and fall of East Germany's Palace of the Republic",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T11:58:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Druschba-Pipeline: Russland will Öltransit nach Schwedt stoppen",
@@ -652,41 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/21/demonstrationen-zum-besuch-von-schah-sohn-pahlavi-in-berlin",
       "published_date": "2026-04-21T11:49:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In which direction will Rumen Radev steer Bulgaria?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-which-direction-will-rumen-radev-steer-bulgaria/a-76879858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What course will Bulgaria’s new leader Rumen Radev take?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-course-will-bulgaria-s-new-leader-rumen-radev-take/a-76879858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What course will Bulgaria’s new leader Rumen Radev take?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-course-will-bulgaria-s-new-leader-rumen-radev-take/a-76879858?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-21T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Midtjylland footballer Alamara Djabi seriously injured after stabbing in Denmark",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/apr/21/midtjylland-footballer-alamara-djabi-seriously-injured-after-stabbing-in-denmark",
-      "published_date": "2026-04-21T11:29:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine lessons for the US from Viktor Orbán’s defeat | Kenneth Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/21/viktor-orban-hungary-lessons",
-      "published_date": "2026-04-21T10:00:47+00:00",
       "category": "Local Events"
     }
   ]
