@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-21T23:29:41.406641+00:00",
-  "story_count": 97,
+  "last_updated": "2026-04-22T11:56:47.145295+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Mehr als im EU-Schnitt: Jeder Vierte arbeitet zeitweise von zu Hause aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/22/jeder-vierte-arbeitet-zeitweise-von-zu-hause-aus",
+      "published_date": "2026-04-22T11:45:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainehilfe: EU-Staaten geben 90-Milliarden-Hilfspaket für die Ukraine frei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/eu-staaten-geben-milliarden-hilfspaket-fuer-ukraine-frei",
+      "published_date": "2026-04-22T11:36:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU provisionally approves €90bn Ukraine loan as Hungary drops opposition after Druzhba pipeline reopens – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
+      "published_date": "2026-04-22T11:28:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli ambassador: 'Only a strong Israel can achieve peace'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-ambassador-only-a-strong-israel-can-achieve-peace/a-76889132?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T10:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU tightens rules for Brits travelling to Europe with pets",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/eu-tightens-rules-for-brits-travelling-to-europe-with-pets",
+      "published_date": "2026-04-22T07:29:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Record number of immigrants reside in EU in 2025",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/record-number-of-immigrants-reside-in-eu-in-2025/a-76890285?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T07:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Record number of immigrants reside in EU in 2025",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/record-number-of-immigrants-reside-in-eu-in-2025/a-76890285?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-22T07:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-117",
+      "published_date": "2026-04-22T06:32:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sanktionen gegen Israel: SPD-Außenpolitiker fordert deutschen Kurswechsel gegenüber Israel",
       "source": "ZEIT Online",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hungary: Orban-era LGBTQ law infringes human rights, ECJ rules",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-orban-era-lgbtq-law-infringes-human-rights-ecj-rules/a-76876926?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T10:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungary: Orban-era LGBTQ law infringes human rights, ECJ rules",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-orban-era-lgbtq-law-infringes-human-rights-ecj-rules/a-76876926?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-21T10:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU’s top court finds Hungary’s anti-LGBTQ+ law in breach of key values",
+      "title": "Tui cuts profit forecast as effects of Iran war cost travel group €40m",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/21/eu-court-ecj-hungary-anti-gay-lgbtq-law",
-      "published_date": "2026-04-21T10:39:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/apr/22/tui-cuts-profit-forecast-iran-war-cost-travel-group",
+      "published_date": "2026-04-22T11:36:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "India news: India-US near trade deal in Washington",
+      "title": "Iran war: Revolutionary Guard says seizes ships in Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-india-us-near-trade-deal-in-washington/live-76875202?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T07:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-revolutionary-guard-says-seizes-ships-in-hormuz/live-76889868?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T10:47:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Almost half of EU’s busiest flight routes are ‘hard or impossible’ to book on trains – report",
+      "title": "Will Iran war reshape global trade more than COVID?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-iran-war-reshape-global-trade-more-than-covid/a-76804278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T09:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Lufthansa scraps 20,000 flights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-scraps-20-000-flights/live-76891766?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T09:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/21/almost-half-of-eus-busiest-flight-routes-are-hard-or-impossible-to-book-on-trains-report",
-      "published_date": "2026-04-21T04:00:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
+      "published_date": "2026-04-22T09:00:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Große Koalition: Friedrich Merz fordert stärkeres Entgegenkommen der SPD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/merz-spd-reformen-wirtschaft-gesundheit",
-      "published_date": "2026-04-20T20:55:17+00:00",
-      "category": "Diplomacy"
+      "title": "Lufthansa cuts 20,000 flights as fuel crisis bites in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/lufthansa-cuts-20000-flights-as-fuel-crisis-bites-in-germany",
+      "published_date": "2026-04-22T08:16:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK: Starmer says he would't have appointed Mandelson as US envoy if he'd known he failed vetting process",
+      "title": "Surviving Earth review – bruising portrait of addiction and redemption",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/22/surviving-earth-film-review-thea-gajic-slavko-sobin-olive-gray",
+      "published_date": "2026-04-22T06:00:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Quick loan in pipeline as Druzhba reopens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/22/ukraine-war-briefing-quick-loan-in-pipeline-as-druzhba-reopens",
+      "published_date": "2026-04-22T01:28:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US in talks to send Afghan refugees to DR Congo",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-starmer-says-he-would-t-have-appointed-mandelson-as-us-envoy-if-he-d-known-he-failed-vetting-process/a-76864691?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T18:08:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK: Starmer says he would't have appointed Mandelson as US envoy if he'd known he failed vetting process",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-starmer-says-he-would-t-have-appointed-mandelson-as-us-envoy-if-he-d-known-he-failed-vetting-process/a-76864691?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-20T18:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-in-talks-to-send-afghan-refugees-to-dr-congo/a-76889628?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T01:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: Trump says US extending ceasefire to give Iran more time to negotiate",
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Krieg in der Ukraine: Selenskyj wirft US-Vermittlern Respektlosigkeit vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/20/selenskyj-wirft-us-vermittlern-respektlosigkeit-vor",
-      "published_date": "2026-04-20T21:30:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tim Cook to step down as Apple CEO, John Ternus to take over",
+      "title": "Ukraine says Russian oil to Hungary, Slovakia has restarted",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tim-cook-to-step-down-as-apple-ceo-john-ternus-to-take-over/a-76873245?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T21:25:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/ukraine-says-russian-oil-to-hungary-slovakia-has-restarted/a-76894770?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T11:46:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ugandan military reports rescue of some 200 hostages from ADF militants in eastern DRC",
+      "title": "Ukraine says Russian oil to Hungary, Slovakia has restarted",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ugandan-military-reports-rescue-of-some-200-hostages-from-adf-militants-in-eastern-drc/a-76863450?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T14:47:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/ukraine-says-russian-oil-to-hungary-slovakia-has-restarted/a-76894770?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-22T11:46:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sudan war enters fourth year as child hunger crisis deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-war-enters-fourth-year-as-child-hunger-crisis-deepens/a-76837481?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T12:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war fuels child hunger crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-war-fuels-child-hunger-crisis/a-76837481?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T12:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia arrests German woman in alleged bomb plot",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260420/russia-arrests-german-woman-in-alleged-bomb-plot",
-      "published_date": "2026-04-20T12:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
+      "title": "Pollen season in UK and mainland Europe extended by climate breakdown",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/20/electric-car-ev-sales-mainland-europe-petrol-prices-iran-war",
-      "published_date": "2026-04-20T11:25:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We wasted a lot of lives’: CIA spymaster’s caution over past Iran intervention resurfaces from beyond the grave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east",
-      "published_date": "2026-04-20T09:19:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hits Russian Black Sea port city, 1 dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-hits-russian-black-sea-port-city-1-dead/live-76854298?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T08:54:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/apr/22/pollen-season-in-uk-and-mainland-europe-extended-by-climate-breakdown",
+      "published_date": "2026-04-22T04:00:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nigeria's $2B power bailout tests Tinubu reforms",
@@ -389,18 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "Solar power in Morocco's desert: Bold vision, mixed results",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/solar-power-in-morocco-s-desert-bold-vision-mixed-results/a-75387618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T11:56:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US: Maine pushes for first statewide pause on AI data centers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-maine-pushes-for-first-statewide-pause-on-ai-data-centers/a-76784015?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-15T03:58:00+00:00",
-      "category": "Energy"
+      "title": "AI-powered robots offer new hope to German factories",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/ai-powered-robots-offer-new-hope-to-german-factories",
+      "published_date": "2026-04-22T07:47:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Zukunft der FDP: Lindner will zum FDP-Parteitag kommen",
@@ -536,11 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "Entlastungsprämie: Breite Kritik an geplanter steuerfreier Entlastungsprämie",
+      "title": "Druschba-Pipeline: Russland will Öltransit nach Schwedt stoppen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/familie/2026-04/entlastungspraemie-steuerfrei-mittelstand-handwerk-konzerne",
-      "published_date": "2026-04-19T10:38:16+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/wirtschaft/2026-04/kasachstan-oel-schwedt-russland-transit-gestoppt",
+      "published_date": "2026-04-22T11:46:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where in Berlin are the most bikes stolen each year?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260422/where-in-berlin-are-the-most-bikes-are-stolen-each-year",
+      "published_date": "2026-04-22T11:43:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Avoid men, German police association chief tells women",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/avoid-men-german-police-association-chief-tells-women/a-76893402?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-22T10:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Avoid men, German police association chief tells women",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/avoid-men-german-police-association-chief-tells-women/a-76893402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T10:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/terror-records-in-german-hands-isis-and-the-bureaucracy-of-evil-a-b4ce77d2-774b-4ad5-8c8c-8cb2943e6737#ref=rss",
+      "published_date": "2026-04-22T08:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: West Bengal, Tamil Nadu gear up for voting day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-west-bengal-tamil-nadu-gear-up-for-voting-day/live-76889931?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-22T06:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Barcelona to Paris, cities thrive with women in charge. It’s all about sharing public space | Melissa and Chris Bruntlett",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/22/cities-barcelona-paris-women-share-public-space",
+      "published_date": "2026-04-22T04:00:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mexican pyramid gunman had materials tied to Columbine shooting, officials say",
@@ -567,6 +623,13 @@
       "title": "How grievance turns to violence in a mass shooter's mind",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-21T16:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How grievance turns to violence in a mass shooter's mind",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-21T16:17:00+00:00",
       "category": "Local Events"
     },
@@ -624,62 +687,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/21/viktor-orban-hungary-lessons",
       "published_date": "2026-04-21T10:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea: Police seek to arrest BTS agency chief over fraud allegations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-21T06:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260421/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-120",
-      "published_date": "2026-04-21T06:28:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: EU moves to unlock €90bn loan as Orbán exits",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/21/ukraine-war-briefing-eu-moves-to-unlock-90bn-loan-as-orban-exits",
-      "published_date": "2026-04-21T00:50:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico: Canadian killed in shooting at Teotihuacan pyramid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mexico-canadian-killed-in-shooting-at-teotihuacan-pyramid/a-76872804?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T20:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One Japanese town sorts waste into 40 different categories. How does Australia’s recycling compare?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/20/one-japanese-town-sorts-waste-into-40-different-categories-how-does-australias-recycling-compare",
-      "published_date": "2026-04-20T15:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin im Kalten Krieg: Dokumentation zu legendärem Spionagetunnel mit DDR-Fotos",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/20/dokumentation-zu-legendaerem-spionagetunnel-mit-ddr-fotos",
-      "published_date": "2026-04-20T11:43:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gesundheitsversorgung in Kuba: Sie wissen nicht, ob sie schreien, weinen oder wegrennen sollen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/gesundheitsversorgung-kuba-diabetes-eltern-kinder-insulin",
-      "published_date": "2026-04-20T11:33:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacke gegen Lehrerin in Essen: Anklage wegen versuchten Mordes gegen mutmaßlichen Messerangreifer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/messerangriff-essen-berufskolleg-bundesanwaltschaft-anklage",
-      "published_date": "2026-04-20T10:59:26+00:00",
       "category": "Local Events"
     }
   ]
