@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-23T11:56:56.350139+00:00",
+  "last_updated": "2026-04-23T23:37:53.485700+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Rente: Weitere Unionspolitiker kritisieren Merz' Aussagen zur Rente",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/union-friedrich-merz-bundeskanzler-kritik-rente-reform",
+      "published_date": "2026-04-23T22:41:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nach Merz' Rentenansage: Sachsen-Anhalts Regierungschef: Bei Rente den Osten beachten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/24/sachsen-anhalts-regierungschef-bei-rente-den-osten-beachten",
+      "published_date": "2026-04-23T22:01:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU formally approves €90bn Ukraine loan and 20th sanctions package against Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/23/eu-approves-ukraine-loan-sanctions-russia",
+      "published_date": "2026-04-23T18:02:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders discuss Iran, Ukraine at Cyprus summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-discuss-iran-ukraine-at-cyprus-summit/a-76910626?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
       "source": "The Guardian",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukrainehilfe: EU-Staaten geben 90-Milliarden-Hilfspaket für die Ukraine frei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/eu-staaten-geben-milliarden-hilfspaket-fuer-ukraine-frei",
-      "published_date": "2026-04-22T11:36:35+00:00",
-      "category": "Diplomacy"
+      "title": "Ceasefire extended: What's next in the Iran war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T18:09:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU provisionally approves €90bn Ukraine loan as Hungary drops opposition after Druzhba pipeline reopens – Europe live",
+      "title": "UK prepared to deploy RAF Typhoons to keep strait of Hormuz open after Iran war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
-      "published_date": "2026-04-22T11:28:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-raf-typhoons-strait-of-hormuz-iran-war",
+      "published_date": "2026-04-23T18:08:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli ambassador: 'Only a strong Israel can achieve peace'",
+      "title": "Is Ethiopia bracing for war?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-ambassador-only-a-strong-israel-can-achieve-peace/a-76889132?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T10:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/is-ethiopia-bracing-for-war/a-76900905?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T17:40:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Could Iran war trigger bigger trade crisis than COVID?",
+      "title": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
+      "published_date": "2026-04-23T17:27:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the tide turning for Ukraine in war with Russia? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/apr/23/is-the-tide-turning-for-ukraine-in-war-with-russia-the-latest",
+      "published_date": "2026-04-23T16:36:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany unveils first ever military strategy for Bundeswehr",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-iran-war-trigger-bigger-trade-crisis-than-covid/a-76804278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T09:41:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-unveils-first-ever-military-strategy-for-bundeswehr/a-76914837?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-23T14:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany unveils first ever military strategy for Bundeswehr",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-unveils-first-ever-military-strategy-for-bundeswehr/a-76914837?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T14:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prince Harry tells Putin 'there is still a moment to stop this war', at Kyiv conference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/video/2026/apr/23/prince-harry-tells-putin-moment-stop-this-war-kyiv-conference",
+      "published_date": "2026-04-23T14:43:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Libya oscillates between cooperation and illusion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/libya-oscillates-between-cooperation-and-illusion/a-76897066?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T13:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: Daily life shadowed by war, scarcity and fear",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T13:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo stressed importance of dialogue on Africa trip",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-stressed-importance-of-dialogue-on-africa-trip/a-76906045?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T12:38:00+00:00",
+      "category": "Military"
     },
     {
       "title": "How Ukraine is rebuilding its energy system under fire",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war fuels crisis for Africa's aviation sector",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T12:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Agon review – ice-cold, machine-tooled inspection of the dark side of athletic perfection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/22/agon-movie-review-giulio-bertelli-alice-bellandi-sofija-zobina-yile-yara-vianello",
-      "published_date": "2026-04-22T12:00:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tui cuts profit forecast as effects of Iran war cost travel group €40m",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/22/tui-cuts-profit-forecast-iran-war-cost-travel-group",
-      "published_date": "2026-04-22T11:36:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Revolutionary Guard says seizes ships in Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-revolutionary-guard-says-seizes-ships-in-hormuz/live-76889868?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T10:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Iran war reshape global trade more than COVID?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-iran-war-reshape-global-trade-more-than-covid/a-76804278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T09:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Lufthansa scraps 20,000 flights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lufthansa-scraps-20-000-flights/live-76891766?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T09:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
-      "published_date": "2026-04-22T09:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T08:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-22T08:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa cuts 20,000 flights as fuel crisis bites in Germany",
+      "title": "OPINION: Germany's fuel crisis response shows the government has lost its mind",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260422/lufthansa-cuts-20000-flights-as-fuel-crisis-bites-in-germany",
-      "published_date": "2026-04-22T08:16:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Surviving Earth review – bruising portrait of addiction and redemption",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/22/surviving-earth-film-review-thea-gajic-slavko-sobin-olive-gray",
-      "published_date": "2026-04-22T06:00:10+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.de/20260423/opinion-germanys-fuel-crisis-response-shows-the-government-has-lost-its-mind",
+      "published_date": "2026-04-23T13:10:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "The no-go zone paradox: Chornobyl’s wildlife thrives amid pro-nuclear shift",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Europe’s last coal – a photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/20/europe-last-coal-a-photo-essay",
-      "published_date": "2026-04-20T06:00:03+00:00",
-      "category": "Energy"
+      "title": "Tesla announces plan to add 1,000 jobs in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260423/tesla-announces-plan-to-add-1000-jobs-in-germany",
+      "published_date": "2026-04-23T13:38:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "DFB-Pokal Halbfinale: Bayern München steht nach Sieg in Leverkusen im DFB-Pokalfinale",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Venezuela's oil reform aims to lure private investors",
+      "title": "DFB-Pokal, Halbfinale: Stuttgart kämpft sich gegen Freiburg ins Pokalfinale",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/dfb-pokal-halbfinale-vfb-stuttgart-sc-freiburg",
+      "published_date": "2026-04-23T21:52:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reza Pahlavi: »Sie stellen zu viele Fragen«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/reza-pahlavi-schah-iran-regimewechsel-anhanger",
+      "published_date": "2026-04-23T19:28:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Hairdryer or lighter?’: French police look at claim of sensor tampering to win weather bets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/23/hairdryer-or-lighter-french-police-look-at-claim-of-sensor-tampering-to-win-weather-bets",
+      "published_date": "2026-04-23T17:39:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Samsung workers rally, call for larger share of AI profits",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/venezuela-s-oil-reform-aims-to-lure-private-investors/a-76837762?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-20T05:27:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/samsung-workers-rally-call-for-larger-share-of-ai-profits/a-76912797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T17:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some Interrail travellers told to cancel passports as hacked data posted online",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/23/some-interrail-travellers-told-to-cancel-passports-as-hacked-data-posted-online",
+      "published_date": "2026-04-23T17:16:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Landessynode: Landesbischof warnt vor AfD-Programm: Sorge um Demokratie",
@@ -613,6 +648,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Bavarian police arrest suspected spies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-bavarian-police-arrest-suspected-spies/live-76905577?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-23T09:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Could Berlin housing registry lead to clamp down on illegal rents in Germany?",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260423/could-berlin-housing-registry-lead-to-clamp-down-on-illegal-rents-in-germany",
@@ -659,48 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees",
       "published_date": "2026-04-23T04:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourist charged with damaging historic Florentine fountain in pre-wedding prank",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/22/tourist-charged-with-damaging-historic-florence-fountain-pre-wedding-prank",
-      "published_date": "2026-04-22T17:42:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC blocks ex-Philippine President Duterte release, says it can try him",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/icc-blocks-ex-philippine-president-duterte-release-says-it-can-try-him/a-76894601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T13:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When does your employer need to pay you for travel time in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260422/when-does-your-employer-need-to-pay-you-for-travel-time-in-germany",
-      "published_date": "2026-04-22T13:07:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The rise and fall of East Germany's Palace of the Republic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-22T11:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The rise and fall of East Germany's Palace of the Republic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T11:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Druschba-Pipeline: Russland will Öltransit nach Schwedt stoppen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/kasachstan-oel-schwedt-russland-transit-gestoppt",
-      "published_date": "2026-04-22T11:46:41+00:00",
       "category": "Local Events"
     }
   ]
