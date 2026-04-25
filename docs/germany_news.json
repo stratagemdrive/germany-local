@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-25T11:34:29.446481+00:00",
+  "last_updated": "2026-04-25T23:30:08.601740+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Macron says EU’s mutual defence clause ‘not just words’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
+      "published_date": "2026-04-25T19:10:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz says no 'immediate' Ukraine EU membership, floats Kyiv joining meetings",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260425/merz-says-no-immediate-ukraine-eu-membership-floats-kyiv-joining-meetings",
+      "published_date": "2026-04-25T13:13:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "CDA-Bundestagung: Merz verspricht: »Keine Kürzungen der gesetzlichen Renten«",
       "source": "ZEIT Online",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU formally approves €90bn Ukraine loan and 20th sanctions package against Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/23/eu-approves-ukraine-loan-sanctions-russia",
-      "published_date": "2026-04-23T18:02:21+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine: Mehrere Tote nach russischen Angriffen auf Dnipro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/dnipro-russland-angriffe-drohnen-bomben-zivilisten",
+      "published_date": "2026-04-25T23:09:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU leaders discuss Iran, Ukraine at Cyprus summit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-leaders-discuss-iran-ukraine-at-cyprus-summit/a-76910626?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-23T12:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Mali: Malis Armee meldet Angriffe »terroristischer Gruppen«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/mali-bamako-kaempfe-angriffe",
+      "published_date": "2026-04-25T22:21:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
+      "published_date": "2026-04-25T13:17:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly Russian strikes hit Dnipro – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/25/deadly-russian-strikes-dnipro-ukraine-video",
+      "published_date": "2026-04-25T12:47:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany to despatch minesweeper for possible Hormuz mission",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260425/germany-to-despatch-minesweeper-for-possible-hormuz-mission",
+      "published_date": "2026-04-25T12:42:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelenskyy ready to hold Ukraine-Russia talks in Azerbaijan",
@@ -214,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran war: Trump cancels envoys' trip to Islamabad",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-cancels-envoys-trip-to-islamabad/live-76929720?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-25T00:14:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Could Trump withdraw US support for UK sovereignty of Falklands?",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/apr/24/could-donald-trump-withdraw-us-support-uk-sovereignty-falklands",
@@ -239,48 +281,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260424/will-you-be-compensated-if-your-european-flight-is-cancelled-due-to-jet-fuel-shortages",
       "published_date": "2026-04-24T11:10:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran talks should include nuclear experts: EU top diplomat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-talks-should-include-nuclear-experts-eu-top-diplomat/a-76921103?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T09:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier allegedly made $400k on Polymarket betting on Maduro raid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-soldier-allegedly-made-400k-on-polymarket-betting-on-maduro-raid/a-76918858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T03:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICC says Philippines' Duterte can stand trial over war on drugs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/icc-says-philippines-duterte-can-stand-trial-over-war-on-drugs/a-76918608?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T00:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Trump bristles at Prince Harry’s passionate plea for Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/ukraine-war-briefing-trump-bristles-at-prince-harrys-passionate-plea-for-ukraine",
-      "published_date": "2026-04-23T23:40:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ceasefire extended: What's next in the Iran war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-23T18:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK prepared to deploy RAF Typhoons to keep strait of Hormuz open after Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-raf-typhoons-strait-of-hormuz-iran-war",
-      "published_date": "2026-04-23T18:08:41+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Reformdebatte: SPD beklagt »Unwucht« bei Sparpaket für Gesundheitskosten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/26/spd-beklagt-unwucht-bei-sparpaket-fuer-gesundheitskosten",
+      "published_date": "2026-04-25T23:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gesundheitsreform: Nina Warken hinterfragt Anzahl der gesetzlichen Krankenkassen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesundheit/2026-04/gesundheitsreform-gesetzliche-krankenversicherung-warken-diskussion",
+      "published_date": "2026-04-25T22:01:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Basketball: Science City Jena stoppt den freien Fall",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/25/science-city-jena-stoppt-den-freien-fall",
+      "published_date": "2026-04-25T21:01:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK-US ties tested: Britain courts Trump with King Charles",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-us-ties-tested-britain-courts-trump-with-king-charles/a-76928978?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-25T16:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court jails Hezbollah supporter over videos showing weapons",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260425/german-court-jails-hezbollah-supporter-over-videos-showing-weapons",
+      "published_date": "2026-04-25T11:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Palermo ‘honoured’ by rumours Dua Lipa and Callum Turner might marry there in June",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/music/2026/apr/25/palermo-honoured-by-rumours-dua-lipa-and-callum-turner-might-marry-there-in-june",
@@ -666,41 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/24/italy-citizenship-law-change-us-citizens-supreme-court",
       "published_date": "2026-04-24T10:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Record turnout in Bengal, Tamil Nadu polls",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-record-turnout-in-bengal-tamil-nadu-polls/live-76919355?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T07:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China's DeepSeek launches preview of new AI model",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-s-deepseek-launches-preview-of-new-ai-model/a-76919223?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T05:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe is in a profound state of crisis. Luckily, we know what to do | Nathalie Tocci and Anu Bradford",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy",
-      "published_date": "2026-04-24T04:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFB-Pokal, Halbfinale: Stuttgart kämpft sich gegen Freiburg ins Pokalfinale",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/dfb-pokal-halbfinale-vfb-stuttgart-sc-freiburg",
-      "published_date": "2026-04-23T21:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reza Pahlavi: »Sie stellen zu viele Fragen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/reza-pahlavi-schah-iran-regimewechsel-anhanger",
-      "published_date": "2026-04-23T19:28:47+00:00",
       "category": "Local Events"
     }
   ]
