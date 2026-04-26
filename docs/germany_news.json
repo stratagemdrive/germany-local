@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-25T23:30:08.601740+00:00",
+  "last_updated": "2026-04-26T11:35:20.107813+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Is Germany's pension system still secure?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-26T07:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Germany's pension system still secure?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T07:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany blames Russia for Signal phishing attacks on MPs",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260426/germany-blames-russia-for-signal-phishing-attacks-on-mps",
+      "published_date": "2026-04-26T07:40:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron says EU’s mutual defence clause ‘not just words’",
       "source": "The Guardian",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays",
+      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor Folgen von Russlands »nuklearem Terrorismus«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-04-26T10:14:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Peace talks on hold, what's next?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T07:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report",
-      "published_date": "2026-04-24T04:00:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
+      "published_date": "2026-04-26T04:00:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rente: Weitere Unionspolitiker kritisieren Merz' Aussagen zur Rente",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/union-friedrich-merz-bundeskanzler-kritik-rente-reform",
-      "published_date": "2026-04-23T22:41:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nach Merz' Rentenansage: Sachsen-Anhalts Regierungschef: Bei Rente den Osten beachten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/24/sachsen-anhalts-regierungschef-bei-rente-den-osten-beachten",
-      "published_date": "2026-04-23T22:01:04+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Zelenskyy signs agreement with Azerbaijan as death toll from Russian attacks rises to 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
+      "published_date": "2026-04-26T00:23:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Mehrere Tote nach russischen Angriffen auf Dnipro",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Could Trump withdraw US support for UK sovereignty of Falklands?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/could-donald-trump-withdraw-us-support-uk-sovereignty-falklands",
-      "published_date": "2026-04-24T16:37:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice Biennale jury will not ‘award artists whose countries face war crimes charges’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/24/venice-biennale-jury-not-award-artists-countries-face-war-crimes-israel-russia",
-      "published_date": "2026-04-24T11:33:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian soldiers left emaciated on frontline from lack of food and water",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/ukraine-frontline-soldiers-emaciated-lack-of-food-and-water",
-      "published_date": "2026-04-24T11:18:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will you be compensated if your European flight is cancelled due to jet fuel shortages?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260424/will-you-be-compensated-if-your-european-flight-is-cancelled-due-to-jet-fuel-shortages",
-      "published_date": "2026-04-24T11:10:14+00:00",
-      "category": "Military"
+      "title": "Ausstieg aus fossiler Energie: So klappt’s mit dem Ausstieg aus Kohle, Öl und Gas",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissen/umwelt/2026-04/ausstieg-fossile-energie-beispiele-kolumbien-uruguay-spanien",
+      "published_date": "2026-04-26T11:11:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fossile Energie: Kolumbien geht auf Entzug – und spürt die Nebenwirkungen",
@@ -414,13 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-says-russian-oil-to-hungary-slovakia-has-restarted/a-76894770?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-22T11:46:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pollen season in UK and mainland Europe extended by climate breakdown",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/22/pollen-season-in-uk-and-mainland-europe-extended-by-climate-breakdown",
-      "published_date": "2026-04-22T04:00:08+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Queer as folk: The gay scandal that shook the German Empire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-26T09:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Queer as folk: The gay scandal that shook the German Empire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T09:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Modi wishes Trump safety after shooting incident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T08:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia highway bomb attack kills 14",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T05:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump uninjured after shooting at Correspondents' Dinner",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T04:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "40 years after Chernobyl: Pripyat today",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T00:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "40 years after Chernobyl: Pripyat today",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-26T00:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Reformdebatte: SPD beklagt »Unwucht« bei Sparpaket für Gesundheitskosten",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/26/spd-beklagt-unwucht-bei-sparpaket-fuer-gesundheitskosten",
@@ -652,55 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/is-the-far-right-afd-misusing-its-parliamentary-questions/a-76924310?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-24T17:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the far-right AfD misusing its parliamentary questions?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-the-far-right-afd-misusing-its-parliamentary-questions/a-76924310?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T17:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "published_date": "2026-04-24T17:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
-      "published_date": "2026-04-24T14:12:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Free Timmy!': How a beached whale has gripped and divided Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260424/free-timmy-how-a-beached-whale-has-gripped-and-divided-germany",
-      "published_date": "2026-04-24T13:22:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flugreisen: Ryanair halbiert Zahl der Flüge von und nach Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-04/ryanair-fluege-deutschland-berlin",
-      "published_date": "2026-04-24T11:50:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landgericht Bremen: Bewährungsstrafe nach Messer-Attacke in Flüchtlingsheim",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/24/bewaehrungsstrafe-nach-messer-attacke-in-fluechtlingsheim",
-      "published_date": "2026-04-24T11:45:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Meloni’s law change, Americans hope Italian supreme court ruling will open door to citizenship",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/italy-citizenship-law-change-us-citizens-supreme-court",
-      "published_date": "2026-04-24T10:00:37+00:00",
       "category": "Local Events"
     }
   ]
