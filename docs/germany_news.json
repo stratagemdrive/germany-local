@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-26T23:31:41.982248+00:00",
+  "last_updated": "2026-04-27T12:18:09.732471+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Irankrieg: USA haben laut Merz »offensichtlich keine Strategie« für Kriegsende",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-03/iran-krieg-usa-israel-liveblog",
+      "published_date": "2026-04-27T11:39:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz says US 'humiliated,' lacks strategy in Iran conflict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-says-us-humiliated-lacks-strategy-in-iran-conflict/a-76952959?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T11:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Eukrainian review – heroic portrait of the diplomat trying to haul Ukraine into Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/27/the-eukrainian-review-heroic-portrait-of-the-diplomat-trying-to-haul-ukraine-into-europe",
+      "published_date": "2026-04-27T10:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Araghchi visits Russia as talks with US on hold",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-s-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T05:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany pensions will fall short of living standards: Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-pensions-will-fall-short-of-living-standards-merz/a-76925722?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-26T12:24:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany pensions will fall short of living standards: Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-pensions-will-fall-short-of-living-standards-merz/a-76925722?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-26T12:24:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany news: Söder calls for compulsory military service",
       "source": "Deutsche Welle",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lebanon should be part of an Iran peace deal, EU's Ursula von der Leyen says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T15:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU leaders look to little-known mutual assistance pact amid Trump Nato jibes",
+      "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump",
-      "published_date": "2026-04-24T13:13:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
+      "published_date": "2026-04-27T12:16:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spain responds to reported US plans to punish NATO allies",
+      "title": "Will the Iran war end Strait of Hormuz oil supremacy?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-responds-to-reported-us-plans-to-punish-nato-allies/a-76923103?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T11:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/will-the-iran-war-end-strait-of-hormuz-oil-supremacy/a-76893004?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T09:59:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump und die Nato: Spanien reagiert auf Bericht über mögliche Nato-Suspendierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/nato-usa-suspendierung-spanien-pedro-sanchez",
-      "published_date": "2026-04-24T11:40:18+00:00",
-      "category": "Diplomacy"
+      "title": "Portugal's arms industry is taking off",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/portugal-s-arms-industry-is-taking-off/a-76946304?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T09:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU-Haushalt: Merz stellt sich gegen größeren EU-Haushalt und Gemeinschaftsschulden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/eu-haushalt-schulden-friedrich-merz-zypern-landwirtschaft",
-      "published_date": "2026-04-24T11:30:15+00:00",
-      "category": "Diplomacy"
+      "title": "Portugal's arms industry is taking off",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/portugal-s-arms-industry-is-taking-off/a-76946304?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-27T09:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Britain should seek to rejoin EU, says civil servant who led Brexit department",
+      "title": "Germany news: Rise in young people refusing military service",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-rise-in-young-people-refusing-military-service/live-76948211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T08:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war deadline heats up Trump-Congress showdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T07:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260427/today-in-germany-a-roundup-of-the-latest-news-on-monday-120",
+      "published_date": "2026-04-27T06:31:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany to despatch minesweeper for possible Hormuz mission",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260427/germany-to-despatch-minesweeper-for-possible-hormuz-mission-2",
+      "published_date": "2026-04-27T06:05:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kim Jong-un strengthens military ties with Russia and hails soldiers who fought in Kursk",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/24/britain-should-rejoin-eu-philip-rycroft",
-      "published_date": "2026-04-24T11:13:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/27/ukraine-war-briefing-kim-jong-un-north-korea-russia-military-agreement",
+      "published_date": "2026-04-27T00:32:32+00:00",
+      "category": "Military"
     },
     {
       "title": "SIPRI: Record arms spending, again",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Mali: Malis Armee meldet Angriffe »terroristischer Gruppen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/mali-bamako-kaempfe-angriffe",
-      "published_date": "2026-04-25T22:21:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "published_date": "2026-04-25T13:17:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Russian strikes hit Dnipro – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/25/deadly-russian-strikes-dnipro-ukraine-video",
-      "published_date": "2026-04-25T12:47:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany to despatch minesweeper for possible Hormuz mission",
+      "title": "Deutsche Bahn announces 12 month ticket price freeze for long-distance travel",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260425/germany-to-despatch-minesweeper-for-possible-hormuz-mission",
-      "published_date": "2026-04-25T12:42:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy ready to hold Ukraine-Russia talks in Azerbaijan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-ready-to-hold-ukraine-russia-talks-in-azerbaijan/a-76933298?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-25T10:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy ready to hold Ukraine-Russia talks in Azerbaijan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-ready-to-hold-ukraine-russia-talks-in-azerbaijan/a-76933298?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-25T10:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali: Explosions, gunfire rock main military camp near capital",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mali-explosions-gunfire-rock-main-military-camp-near-capital/a-76931743?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-25T08:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Ships to head to Med for possible Hormuz role",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-ships-to-head-to-med-for-possible-hormuz-role/live-76930770?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-25T07:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Ships to head to Med for possible Hormuz role",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-ships-to-head-to-med-for-possible-hormuz-role/live-76930770?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-25T07:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.de/20260427/deutsche-bahn-announces-12-month-ticket-price-freeze-for-long-distance-travel",
+      "published_date": "2026-04-27T08:40:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
@@ -347,6 +354,13 @@
       "category": "Energy"
     },
     {
+      "title": "States gather in a new push to ditch coal, oil and gas",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/states-gather-in-a-new-push-to-ditch-coal-oil-and-gas/a-76891719?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-24T07:01:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
@@ -358,6 +372,13 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260423/opinion-germanys-fuel-crisis-response-shows-the-government-has-lost-its-mind",
       "published_date": "2026-04-23T13:10:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "With its energy under fire, Ukraine turns to solar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/with-its-energy-under-fire-ukraine-turns-to-solar/a-76907346?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-23T11:37:00+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Russia to block Kazakh oil flows to Germany via key pipeline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-to-germany-via-key-pipeline/a-76895743?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T12:35:00+00:00",
-      "category": "Energy"
+      "title": "Orbán may be gone, but his prejudices are now baked into the European political mainstream | Shada Islam",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/orban-europe-eu-racism-migration-border",
+      "published_date": "2026-04-27T11:31:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Russia to block Kazakh oil flows to Germany via key pipeline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-to-germany-via-key-pipeline/a-76895743?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-22T12:35:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine says Russian oil to Hungary, Slovakia has restarted",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-russian-oil-to-hungary-slovakia-has-restarted/a-76894770?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T11:46:00+00:00",
-      "category": "Energy"
+      "title": "Phantoms of July review – interlocking tales hop across time in funny-quirky fable with a point",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/27/phantoms-of-july-review",
+      "published_date": "2026-04-27T05:00:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Zukunft der FDP: Lindner will zum FDP-Parteitag kommen",
+      "title": "Unfall in Düsseldorf: Schranke umfahren: Zug erfasst Lkw - Trümmer treffen Frau",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/22/lindner-will-zum-fdp-parteitag-kommen",
-      "published_date": "2026-04-21T23:00:06+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-04/27/schranke-umfahren-zug-erfasst-lkw-truemmer-treffen-frau",
+      "published_date": "2026-04-27T12:03:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK agriculture deal with EU will not remove all red tape, peers told",
+      "title": "US news: Suspect in DC gala shooting to appear in court",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-news-suspect-in-dc-gala-shooting-to-appear-in-court/live-76948331?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T10:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The essential guide to celebrating May 1st in Berlin in 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260427/the-essential-guide-to-celebrating-may-1st-in-berlin-in-2026",
+      "published_date": "2026-04-27T09:58:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/21/uk-eu-close-iagricultural-deal-brexit",
-      "published_date": "2026-04-21T15:44:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
+      "published_date": "2026-04-27T04:00:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bundeshaushalt: CDU-Politiker fordern Klingbeil zu Sparpaket auf",
@@ -673,34 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-26T00:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "40 years after Chernobyl: Pripyat today",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-26T00:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reformdebatte: SPD beklagt »Unwucht« bei Sparpaket für Gesundheitskosten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/26/spd-beklagt-unwucht-bei-sparpaket-fuer-gesundheitskosten",
-      "published_date": "2026-04-25T23:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gesundheitsreform: Nina Warken hinterfragt Anzahl der gesetzlichen Krankenkassen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesundheit/2026-04/gesundheitsreform-gesetzliche-krankenversicherung-warken-diskussion",
-      "published_date": "2026-04-25T22:01:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Basketball: Science City Jena stoppt den freien Fall",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/25/science-city-jena-stoppt-den-freien-fall",
-      "published_date": "2026-04-25T21:01:51+00:00",
       "category": "Local Events"
     }
   ]
