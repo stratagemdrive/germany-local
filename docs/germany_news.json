@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-27T12:18:09.732471+00:00",
+  "last_updated": "2026-04-27T23:44:18.830333+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU-Richtlinie umgesetzt: USB-C: Einheitliche Ladebuchse für alle Laptops in der EU",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/28/usb-c-einheitliche-ladebuchse-fuer-alle-laptops-in-der-eu",
+      "published_date": "2026-04-27T22:01:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz",
+      "published_date": "2026-04-27T18:24:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US is being humiliated by Iran, says German chancellor – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/27/us-is-being-humiliated-by-iran-says-german-chancellor-video",
+      "published_date": "2026-04-27T17:27:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU weighs giving US data for fewer travel restrictions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-weighs-giving-us-data-for-fewer-travel-restrictions/a-76912370?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T15:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China seeks Southeast Asia gains as US influence falters",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-seeks-southeast-asia-gains-as-us-influence-falters/a-76954075?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T13:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-choice campaigners in Malta create lockboxes containing abortion pills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/pro-choice-campaign-malta-lockboxes-containing-abortion-pills",
+      "published_date": "2026-04-27T12:33:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Irankrieg: USA haben laut Merz »offensichtlich keine Strategie« für Kriegsende",
       "source": "ZEIT Online",
@@ -14,6 +56,13 @@
       "title": "Merz says US 'humiliated,' lacks strategy in Iran conflict",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/merz-says-us-humiliated-lacks-strategy-in-iran-conflict/a-76952959?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T11:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz says US 'humiliated,' lacks strategy in Iran conflict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-says-us-humiliated-lacks-strategy-in-iran-conflict/a-76952959?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-27T11:29:00+00:00",
       "category": "Diplomacy"
     },
@@ -95,53 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Merz says no 'immediate' Ukraine EU membership, floats Kyiv joining meetings",
+      "title": "Mali on edge as insurgency tests junta's resolve",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mali-on-edge-as-insurgency-tests-junta-s-resolve/a-76955690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T18:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin pledges support for Iran in talks with FM Araghchi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/putin-pledges-support-for-iran-in-talks-with-fm-araghchi/a-76947020?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T15:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the Iran war is bringing back 'citizenship as a weapon'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-iran-war-is-bringing-back-citizenship-as-a-weapon/a-76935737?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T13:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why anti-US sentiment is quietly growing in India",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-anti-us-sentiment-is-quietly-growing-in-india/a-76952514?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T12:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Economists slam German petrol law for pushing up prices",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260425/merz-says-no-immediate-ukraine-eu-membership-floats-kyiv-joining-meetings",
-      "published_date": "2026-04-25T13:13:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CDA-Bundestagung: Merz verspricht: »Keine Kürzungen der gesetzlichen Renten«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/25/merz-verspricht-keine-kuerzungen-der-gesetzlichen-renten",
-      "published_date": "2026-04-25T11:22:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato airspace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/25/raf-typhoons-scrambled-russia-drone-nato-romania-ukraine",
-      "published_date": "2026-04-25T09:57:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war: Second attempt at peace talks takes shape",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-second-attempt-at-peace-talks-takes-shape/live-76918799?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T18:23:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine: Zelenskyy visits Saudi Arabia, Putin weighs G20 attendance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-visits-saudi-arabia-putin-weighs-g20-attendance/a-76928614?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T17:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine: Zelenskyy visits Saudi Arabia, Putin weighs G20 attendance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-visits-saudi-arabia-putin-weighs-g20-attendance/a-76928614?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-24T17:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on Germany, Japan and the end of the postwar order: as US alliances crumble, a new world emerges | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/the-guardian-view-on-germany-japan-and-the-end-of-the-postwar-order-as-us-alliances-crumble-a-new-world-emerges",
-      "published_date": "2026-04-24T16:48:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260427/economists-slam-german-petrol-price-law-for-pushing-up-prices",
+      "published_date": "2026-04-27T12:46:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
@@ -175,6 +210,13 @@
       "title": "Germany news: Rise in young people refusing military service",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-rise-in-young-people-refusing-military-service/live-76948211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T08:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Rise in young people refusing military service",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-rise-in-young-people-refusing-military-service/live-76948211?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-27T08:34:00+00:00",
       "category": "Military"
     },
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-26T17:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T10:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor Folgen von Russlands »nuklearem Terrorismus«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-04-26T10:14:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Peace talks on hold, what's next?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T07:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
-      "published_date": "2026-04-26T04:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy signs agreement with Azerbaijan as death toll from Russian attacks rises to 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
-      "published_date": "2026-04-26T00:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Mehrere Tote nach russischen Angriffen auf Dnipro",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/dnipro-russland-angriffe-drohnen-bomben-zivilisten",
-      "published_date": "2026-04-25T23:09:53+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "Unkrautvernichtungsmittel: Oberster Gerichtshof der USA uneins über Glyphosat-Klagen gegen Bayer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-04/bayer-glyphosat-usa-oberster-gerichtshof-erste-anhoerung",
+      "published_date": "2026-04-27T23:30:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rechtsstreitigkeiten: Glyphosat-Klagen: Bayer begrüßt Prüfung durch US-Gerichtshof",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/27/glyphosat-klagen-bayer-begruesst-pruefung-durch-us-gerichtshof",
+      "published_date": "2026-04-27T20:34:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
+      "published_date": "2026-04-27T16:08:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Everything that changes in Germany in May 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260427/everything-that-changes-in-germany-in-may-2026",
+      "published_date": "2026-04-27T15:09:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Venice opera house fires government-linked music director after months of protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/apr/27/venice-opera-house-fires-incoming-music-director-who-made-nepotism-claims",
+      "published_date": "2026-04-27T12:19:15+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Orbán may be gone, but his prejudices are now baked into the European political mainstream | Shada Islam",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/27/orban-europe-eu-racism-migration-border",
@@ -529,39 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's finance minister wants to scrap spousal tax splitting",
+      "title": "Gala shooting suspect charged with attempt to murder Trump",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T14:32:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/gala-shooting-suspect-charged-with-attempt-to-murder-trump/live-76948331?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T18:23:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany halves 2026 growth forecast on Iran war fallout",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260422/germany-halves-2026-growth-forecast-on-iran-war-fallout",
-      "published_date": "2026-04-22T13:18:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ryanair to close check-in 20 minutes earlier amid concern over Europe border queues",
+      "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/22/ryanair-close-bag-check-in-20-minutes-earlier-concern-europe-border-queues",
-      "published_date": "2026-04-22T12:33:34+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
+      "published_date": "2026-04-27T17:26:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Lufthansa scraps 20,000 flights",
+      "title": "Clashes over water resources in Chad kill over 40 people",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lufthansa-scraps-20-000-flights/live-76891766?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-22T09:29:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/clashes-over-water-resources-in-chad-kill-over-40-people/a-76950445?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-27T16:17:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AI-powered robots offer new hope to German factories",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260422/ai-powered-robots-offer-new-hope-to-german-factories",
-      "published_date": "2026-04-22T07:47:34+00:00",
-      "category": "Economy"
+      "title": "Ten Years after the End of the One-Child Policy: A Visit to Ground Zero of China's Aging Population",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/ten-years-after-the-end-of-the-one-child-policy-a-visit-to-ground-zero-of-chinas-aging-population-a-7b669939-a8f8-4af5-9b77-ac9f08bb691d#ref=rss",
+      "published_date": "2026-04-27T12:35:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Unfall in Düsseldorf: Schranke umfahren: Zug erfasst Lkw - Trümmer treffen Frau",
@@ -673,34 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-26T08:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Modi targets TMC in Bengal rally",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T08:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia highway bomb attack kills 14",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T05:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump uninjured after shooting at Correspondents' Dinner",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T04:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "40 years after Chernobyl: Pripyat today",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T00:14:00+00:00",
       "category": "Local Events"
     }
   ]
