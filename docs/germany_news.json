@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-28T12:21:59.538648+00:00",
+  "last_updated": "2026-04-28T23:46:12.283300+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran-Krieg: Scholz zu Trumps Kritik an Merz: Beziehung hält das aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/29/scholz-zu-trumps-kritik-an-merz-beziehung-haelt-das-aus",
+      "published_date": "2026-04-28T23:24:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Parliament approves common definition of rape",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T19:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Parliament approves common definition of rape",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-28T19:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European parliament urges EU to draw up standardised consent-based definition of rape",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/european-parliament-urges-eu-draw-up-standardised-consent-based-definition-rape",
+      "published_date": "2026-04-28T18:55:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine's Zelenskyy rebukes Israel for buying grain 'stolen' by Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T13:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine's Zelenskyy rebukes Israel for buying grain 'stolen' by Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-28T13:13:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Illegaler Tierhandel: EU-Parlament beschließt Chippflicht für Hunde und Katzen",
       "source": "ZEIT Online",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany pensions will fall short of living standards: Merz",
+      "title": "Germany benefits from work with Ukraine — defense minister",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-pensions-will-fall-short-of-living-standards-merz/a-76925722?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T12:24:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-28T18:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Söder calls for compulsory military service",
+      "title": "Germany benefits from work with Ukraine — defense minister",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-söder-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-26T11:46:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T18:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Söder calls for compulsory military service",
+      "title": "Iran war: Who in Tehran could shape talks with the US?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-söder-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T11:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Söder calls for compulsory military service",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-söder-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-26T11:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Germany's pension system still secure?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-26T07:54:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Germany's pension system still secure?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T07:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-who-in-tehran-could-shape-talks-with-the-us/a-76967105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T13:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Japan looks to woo allies with new weapons deals",
@@ -263,25 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Rise in young people refusing military service",
+      "title": "How a controversial gas pipeline deal could further stall Bosnia's EU accession",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-rise-in-young-people-refusing-military-service/live-76948211?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-27T08:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T19:26:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war deadline heats up Trump-Congress showdown",
+      "title": "How a controversial gas pipeline deal could further stall Bosnia's EU accession",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-27T07:44:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-28T19:26:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260427/today-in-germany-a-roundup-of-the-latest-news-on-monday-120",
-      "published_date": "2026-04-27T06:31:15+00:00",
-      "category": "Military"
+      "title": "One year after Spain’s blackout, its shift to renewables and grid evolution power on",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
+      "published_date": "2026-04-28T13:47:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UAE quits OPEC in shock move amid energy turmoil",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uae-quits-opec-in-shock-move-amid-energy-turmoil/a-76968579?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T12:58:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fact check: Cloud seeding didn't make it rain in Iran",
@@ -396,32 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "EU proposes steps to deal with energy crisis amid Iran war",
+      "title": "Venezuela: German entrepreneurs bet on business boom",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-steps-to-deal-with-energy-crisis-amid-iran-war/a-76899373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T19:04:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/venezuela-german-entrepreneurs-bet-on-business-boom/a-76968518?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T18:33:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
-      "published_date": "2026-04-22T14:47:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU plans to cut electricity taxes to shield households from Iran war energy crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/22/eu-plans-cut-electricity-taxes-shield-households-iran-war-energy-crisis",
-      "published_date": "2026-04-22T12:48:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
+      "title": "What Renault's new EV reveals about the global auto industry",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-22T12:35:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-28T15:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Europe’s smaller airports ‘under threat’ if fuel shortages cause many cancellations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/28/europe-smaller-airports-fuel-shortages-cancellations-eu-ees",
+      "published_date": "2026-04-28T13:30:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Haushalt: Bundesregierung will offenbar Zuckerabgabe einführen",
@@ -543,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "German economy growth forecasts halved",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-economy-growth-forecasts-halved/a-76921673?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T10:08:00+00:00",
-      "category": "Economy"
+      "title": "Gestrandeter Wal: Wal-Transport fährt auf Ostsee weiter Richtung Fehmarn",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/29/wal-transport-faehrt-auf-ostsee-weiter-richtung-fehmarn",
+      "published_date": "2026-04-28T22:32:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Meta, Microsoft purge jobs amid AI build-up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meta-microsoft-purge-jobs-amid-ai-build-up/a-76918848?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T03:54:00+00:00",
-      "category": "Economy"
+      "title": "89-year-old man arrested over Athens double shooting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/89-year-old-man-arrested-greece-athens-double-shooting",
+      "published_date": "2026-04-28T18:43:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tesla announces plan to add 1,000 jobs in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260423/tesla-announces-plan-to-add-1000-jobs-in-germany",
-      "published_date": "2026-04-23T13:38:35+00:00",
-      "category": "Economy"
+      "title": "The Guardian view on the politics of central Europe: in search of a new left | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/the-guardian-view-on-the-politics-of-central-europe-in-search-of-a-new-left-",
+      "published_date": "2026-04-28T18:05:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Charles addresses joint meeting of US Congress",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/king-charles-addresses-joint-meeting-of-us-congress/live-76968757?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T14:38:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Greek police hunt for alleged 89-year-old shooter on the run",
@@ -627,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Major raids carried out against Hells Angels",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-28T06:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Media freedom ‘under sustained attack’ across EU as public trust drops, report finds",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
@@ -666,41 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/27/schranke-umfahren-zug-erfasst-lkw-truemmer-treffen-frau",
       "published_date": "2026-04-27T12:03:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US news: Suspect in DC gala shooting to appear in court",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-news-suspect-in-dc-gala-shooting-to-appear-in-court/live-76948331?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-27T10:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The essential guide to celebrating May 1st in Berlin in 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260427/the-essential-guide-to-celebrating-may-1st-in-berlin-in-2026",
-      "published_date": "2026-04-27T09:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
-      "published_date": "2026-04-27T04:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundeshaushalt: CDU-Politiker fordern Klingbeil zu Sparpaket auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/cdu-lars-klingbeil-vizekanzler-finanzminister-sparpaket",
-      "published_date": "2026-04-26T22:56:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krise der SPD: NRW-Spitzenkandidat fordert Kurskorrektur der Bundes-SPD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/27/nrw-spitzenkandidat-fordert-kurskorrektur-der-bundes-spd",
-      "published_date": "2026-04-26T22:11:04+00:00",
       "category": "Local Events"
     }
   ]
