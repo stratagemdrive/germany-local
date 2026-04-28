@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-27T23:44:18.830333+00:00",
+  "last_updated": "2026-04-28T12:21:59.538648+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Illegaler Tierhandel: EU-Parlament beschließt Chippflicht für Hunde und Katzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-04/illegaler-tierhandel-eu-parlament-chip-pflicht-hunde-katzen",
+      "published_date": "2026-04-28T11:40:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU anti-waste law: New laptops sold in Europe must now use USB-C chargers",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260428/eu-anti-waste-law-new-laptops-sold-in-europe-must-now-use-usb-c-chargers",
+      "published_date": "2026-04-28T10:16:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-Richtlinie umgesetzt: USB-C: Einheitliche Ladebuchse für alle Laptops in der EU",
       "source": "ZEIT Online",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany blames Russia for Signal phishing attacks on MPs",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260426/germany-blames-russia-for-signal-phishing-attacks-on-mps",
-      "published_date": "2026-04-26T07:40:10+00:00",
-      "category": "Diplomacy"
+      "title": "Japan looks to woo allies with new weapons deals",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-looks-to-woo-allies-with-new-weapons-deals/a-76966201?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T12:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron says EU’s mutual defence clause ‘not just words’",
+      "title": "Krieg gegen die Ukraine: Selenskyj wirft Israel Kauf von gestohlenem ukrainischen Getreide vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-04-28T10:47:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US wary of peace plan postponing nuclear deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-wary-of-peace-plan-postponing-nuclear-deal/live-76959714?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T08:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mexico: Special forces capture cartel leader 'El Jardinero'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T06:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe's budget airlines first to cut flights as jet fuel prices soar",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260428/budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
+      "published_date": "2026-04-28T06:39:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Giorgia Meloni clung to her relationship with Trump – now it’s starting to look like a liability | Riccardo Alcaro",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
-      "published_date": "2026-04-25T19:10:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war",
+      "published_date": "2026-04-28T04:00:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Arrests over Russian GRU-linked murder plots in Lithuania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/ukraine-war-briefing-arrests-russian-gru-linked-plots-lithuania",
+      "published_date": "2026-04-28T01:01:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Mali on edge as insurgency tests junta's resolve",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany to despatch minesweeper for possible Hormuz mission",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260427/germany-to-despatch-minesweeper-for-possible-hormuz-mission-2",
-      "published_date": "2026-04-27T06:05:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kim Jong-un strengthens military ties with Russia and hails soldiers who fought in Kursk",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/ukraine-war-briefing-kim-jong-un-north-korea-russia-military-agreement",
-      "published_date": "2026-04-27T00:32:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SIPRI: Record arms spending, again",
+      "title": "Fact check: Cloud seeding didn't make it rain in Iran",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-26T22:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SIPRI: Record arms spending, again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T22:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SIPRI: Record arms spending, again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-26T22:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia, North Korea agree 'long-term' military cooperation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T17:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia, North Korea agree 'long-term' military cooperation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-26T17:25:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/fact-check-cloud-seeding-didn-t-make-it-rain-in-iran/a-76924780?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T09:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Deutsche Bahn announces 12 month ticket price freeze for long-distance travel",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
+      "title": "Haushalt: Bundesregierung will offenbar Zuckerabgabe einführen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/haushalt-zuckerabgabe-tabak-alkohol-steuer-bundesregierung",
+      "published_date": "2026-04-28T11:53:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What Renault's new EV reveals about the global auto industry",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-22T12:35:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T09:12:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Unkrautvernichtungsmittel: Oberster Gerichtshof der USA uneins über Glyphosat-Klagen gegen Bayer",
@@ -550,18 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "DFB-Pokal Halbfinale: Bayern München steht nach Sieg in Leverkusen im DFB-Pokalfinale",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-04/dfb-pokal-halbfinale-bayern-muenchen-bayer-leverkusen",
-      "published_date": "2026-04-22T22:05:34+00:00",
-      "category": "Economy"
+      "title": "Greek police hunt for alleged 89-year-old shooter on the run",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greek-police-hunt-for-alleged-89-year-old-shooter-on-the-run/a-76966927?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T11:21:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany's finance minister wants to scrap spousal tax splitting",
+      "title": "South Korea: Ex-first lady Kim handed longer graft sentence",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-22T14:32:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/south-korea-ex-first-lady-kim-handed-longer-graft-sentence/a-76964144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot",
+      "published_date": "2026-04-28T10:36:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barge rescue attempt for Timmy the whale in Germany gets go-ahead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/timmy-whale-barge-rescue-attempt-germany",
+      "published_date": "2026-04-28T10:22:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wild Foxes review – animal-obsessed fighter at elite sports academy wonders if more to life than boxing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/28/wild-foxes-review-animal-obsessed-fighter-at-elite-sports-academy-wonders-if-more-to-life-than-boxing",
+      "published_date": "2026-04-28T10:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austrian man admits plot to attack 2024 Taylor Swift concert",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austrian-man-admits-plot-to-attack-2024-taylor-swift-concert/a-76960278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T09:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jimmy Kimmel says Melania Trump joke not 'call to assassination'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jimmy-kimmel-says-melania-trump-joke-not-call-to-assassination/a-76960074?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T08:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260428/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-121",
+      "published_date": "2026-04-28T06:36:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Major raids carried out against Hells Angels",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-28T06:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Media freedom ‘under sustained attack’ across EU as public trust drops, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
+      "published_date": "2026-04-28T05:00:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gala shooting suspect charged with attempt to murder Trump",
@@ -631,76 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/27/nrw-spitzenkandidat-fordert-kurskorrektur-der-bundes-spd",
       "published_date": "2026-04-26T22:11:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kritik: NRW fordert Änderungen bei geplanter Gesundheitsreform",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/27/nrw-fordert-aenderungen-bei-geplanter-gesundheitsreform",
-      "published_date": "2026-04-26T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hochhausblock in Kreuzberg: Daheim, wo sie dir früh um sechs die Tür eintreten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-04/hochhausblock-kreuzberg-berlin-mieter-polizei",
-      "published_date": "2026-04-26T19:02:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
-      "published_date": "2026-04-26T16:46:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orbán associates rush to move wealth out of Hungary after election defeat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/viktor-orban-associates-wealth-hungary-election",
-      "published_date": "2026-04-26T16:42:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia highway bomb attack kills at least 19",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-at-least-19/a-76939450?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T15:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunman was likely targeting Trump team, says official",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gunman-was-likely-targeting-trump-team-says-official/live-76938867?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T15:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria: First trial of Assad-era officials opens in Damascus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-first-trial-of-assad-era-officials-opens-in-damascus/a-76944735?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Queer as folk: The gay scandal that shook the German Empire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-26T09:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Queer as folk: The gay scandal that shook the German Empire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T09:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Modi wishes Trump safety after shooting incident",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-26T08:11:00+00:00",
       "category": "Local Events"
     }
   ]
