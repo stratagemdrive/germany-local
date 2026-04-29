@@ -1,8 +1,78 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-29T12:13:53.529669+00:00",
+  "last_updated": "2026-04-29T23:45:46.766375+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
+      "published_date": "2026-04-29T23:36:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens US troop cuts in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T23:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the sticking points for the EU's new budget?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-are-the-sticking-points-for-the-eu-s-new-budget/a-76987127?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T19:47:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the sticking points for the EU's new budget?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-are-the-sticking-points-for-the-eu-s-new-budget/a-76987127?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-29T19:47:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine asks Israel to seize vessel it claims is carrying grain stolen by Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/29/ukraine-asks-israel-to-seize-vessel-it-claims-is-carrying-grain-stolen-by-russia",
+      "published_date": "2026-04-29T17:46:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Merz hails 'historic' health care reform",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-merz-hails-historic-health-care-reform/a-76984736?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-29T15:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Merz hails 'historic' health care reform",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-merz-hails-historic-health-care-reform/a-76984736?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T15:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Ghana walked away from a US health deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-ghana-walked-away-from-a-us-health-deal/a-76982515?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T15:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/germany/an-interview-with-german-chancellor-friedrich-merz-i-am-dissatisfied-with-the-prevailing-atmosphere-in-germany-a-1d4346f0-4635-4925-bab0-dc9b057bc25c#ref=rss",
+      "published_date": "2026-04-29T14:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Germany wants a seat at the UN Security Council",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germany-wants-a-seat-at-the-un-security-council/a-76979443?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-29T12:05:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – Europe live",
       "source": "The Guardian",
@@ -74,79 +144,86 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran-Krieg: Scholz zu Trumps Kritik an Merz: Beziehung hält das aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/29/scholz-zu-trumps-kritik-an-merz-beziehung-haelt-das-aus",
-      "published_date": "2026-04-28T23:24:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Parliament approves common definition of rape",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T19:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Parliament approves common definition of rape",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-28T19:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European parliament urges EU to draw up standardised consent-based definition of rape",
+      "title": "Raise tax on alcohol and junk food to cut deaths from liver disease, experts say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/european-parliament-urges-eu-draw-up-standardised-consent-based-definition-rape",
-      "published_date": "2026-04-28T18:55:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/society/2026/apr/29/alcohol-junk-food-liver-disease-taxes-health-europe",
+      "published_date": "2026-04-29T22:31:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine's Zelenskyy rebukes Israel for buying grain 'stolen' by Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T13:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine's Zelenskyy rebukes Israel for buying grain 'stolen' by Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-28T13:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Illegaler Tierhandel: EU-Parlament beschließt Chippflicht für Hunde und Katzen",
+      "title": "Krieg in der Ukraine: Putin schlägt kurze Feuerpause zu russischem Weltkriegsgedenken vor",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-04/illegaler-tierhandel-eu-parlament-chip-pflicht-hunde-katzen",
-      "published_date": "2026-04-28T11:40:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ukraine-russland-krieg-wladimir-putin-trump-telefonat-waffenruhe",
+      "published_date": "2026-04-29T22:29:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU anti-waste law: New laptops sold in Europe must now use USB-C chargers",
+      "title": "Mali: France urges citizens to leave amid Tuareg advance",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mali-france-urges-citizens-to-leave-amid-tuareg-advance/a-76986837?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T18:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Teenage bullying increases in Ukrainian schools",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T18:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Teenage bullying increases in Ukrainian schools",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-29T18:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chornobyl, 40 years on: inside the 1 May Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/apr/29/chornobyl-40-years-on-inside-the-1-may-guardian-weekly",
+      "published_date": "2026-04-29T17:00:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why do some US citizens seek asylum in Germany?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260428/eu-anti-waste-law-new-laptops-sold-in-europe-must-now-use-usb-c-chargers",
-      "published_date": "2026-04-28T10:16:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260429/why-do-some-us-citizens-seek-asylum-in-germany",
+      "published_date": "2026-04-29T14:21:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU-Richtlinie umgesetzt: USB-C: Einheitliche Ladebuchse für alle Laptops in der EU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/28/usb-c-einheitliche-ladebuchse-fuer-alle-laptops-in-der-eu",
-      "published_date": "2026-04-27T22:01:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz",
+      "title": "The missing Ukrainian reporter, the Russian prison – and a vital lesson learned about journalism in a dangerous age | Laurent Richard",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz",
-      "published_date": "2026-04-27T18:24:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/29/missing-ukrainian-reporter-russian-prison-journalism-investigative",
+      "published_date": "2026-04-29T13:50:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German prosecutors call for 15 years in jail for far-left militant",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260429/german-prosecutors-call-for-15-years-in-jail-for-far-left-militant",
+      "published_date": "2026-04-29T13:06:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war squeezes India's pharma supply chain",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-squeezes-india-s-pharma-supply-chain/a-76980858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T12:35:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: UN rights chief 'appalled' by arrests, executions",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-un-rights-chief-appalled-by-arrests-executions/live-76979799?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T11:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Brent oil briefly hits $119 as talks stall",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-brent-oil-briefly-hits-119-as-talks-stall/live-76979799?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-29T11:42:00+00:00",
       "category": "Military"
     },
@@ -179,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Germany news: Cabinet discusses 2027 budget plans as Iran war threatens finances",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-cabinet-discusses-2027-budget-plans-as-iran-war-threatens-finances/live-76975008?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-29T07:20:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Births, deaths and a first kiss: life near the frontline in Ukraine – in pictures",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/29/wet-ground-by-aria-shahrokhshahi-ukraine",
@@ -197,90 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-28T18:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany benefits from work with Ukraine — defense minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T18:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Who in Tehran could shape talks with the US?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-who-in-tehran-could-shape-talks-with-the-us/a-76967105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T13:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan looks to woo allies with new weapons deals",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-looks-to-woo-allies-with-new-weapons-deals/a-76966201?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T12:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj wirft Israel Kauf von gestohlenem ukrainischen Getreide vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-04-28T10:47:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US wary of peace plan postponing nuclear deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-wary-of-peace-plan-postponing-nuclear-deal/live-76959714?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T08:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mexico: Special forces capture cartel leader 'El Jardinero'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T06:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe's budget airlines first to cut flights as jet fuel prices soar",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260428/budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
-      "published_date": "2026-04-28T06:39:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Giorgia Meloni clung to her relationship with Trump – now it’s starting to look like a liability | Riccardo Alcaro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war",
-      "published_date": "2026-04-28T04:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Arrests over Russian GRU-linked murder plots in Lithuania",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/ukraine-war-briefing-arrests-russian-gru-linked-plots-lithuania",
-      "published_date": "2026-04-28T01:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali on edge as insurgency tests junta's resolve",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mali-on-edge-as-insurgency-tests-junta-s-resolve/a-76955690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-27T18:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin pledges support for Iran in talks with FM Araghchi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-pledges-support-for-iran-in-talks-with-fm-araghchi/a-76947020?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-27T15:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Iran war is bringing back 'citizenship as a weapon'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-iran-war-is-bringing-back-citizenship-as-a-weapon/a-76935737?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-27T13:41:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/29/reliance-on-chinese-green-tech-poses-serious-risk-europe-economy-security-experts-say",
+      "published_date": "2026-04-29T14:49:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's plan to crack down on high rents for furnished, short-term flats",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260429/germanys-plan-to-crack-down-on-high-rents-for-furnished-short-term-flats",
+      "published_date": "2026-04-29T14:10:34+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Preise: Inflation steigt mit Iran-Krieg auf 2,9 Prozent im April",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-04/29/inflation-steigt-mit-iran-krieg-auf-2-9-prozent-im-april",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
-      "published_date": "2026-04-26T13:44:01+00:00",
-      "category": "Economy"
+      "title": "US top court mulls scrapping Syrians', Haitians' protection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-top-court-mulls-scrapping-syrians-haitians-protection/a-76987440?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T19:55:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "REVEALED: The countries in Europe that will buck the trend and grow in population",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260425/revealed-the-countries-in-europe-that-will-buck-the-trend-and-grow-in-population",
-      "published_date": "2026-04-25T09:32:03+00:00",
-      "category": "Economy"
+      "title": "USA: Ex-FBI chief Comey appears in court over Trump threat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/usa-ex-fbi-chief-comey-appears-in-court-over-trump-threat/a-76987435?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T19:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firetrucks swarm Cologne Cathedral after smell of smoke",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/firetrucks-swarm-cologne-cathedral-after-smell-of-smoke/a-76984432?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-29T14:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firetrucks swarm Cologne Cathedral after smell of smoke",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/firetrucks-swarm-cologne-cathedral-after-smell-of-smoke/a-76984432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T14:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghanistan: Shiite and other minorities living in fear",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghanistan-shiite-and-other-minorities-living-in-fear/a-76980856?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T13:07:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK: 2 people stabbed in north London, suspect arrested",
@@ -574,6 +609,20 @@
       "title": "UK: 2 people stabbed in north London, suspect arrested",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-2-people-stabbed-in-north-london-suspect-arrested/a-76980651?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-29T11:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: London stabbing being treated as 'terrorist incident'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-london-stabbing-being-treated-as-terrorist-incident/a-76980651?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T11:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: London stabbing being treated as 'terrorist incident'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-london-stabbing-being-treated-as-terrorist-incident/a-76980651?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-04-29T11:36:00+00:00",
       "category": "Local Events"
     },
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/28/timmy-whale-barge-rescue-attempt-germany",
       "published_date": "2026-04-28T10:22:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wild Foxes review – animal-obsessed fighter at elite sports academy wonders if more to life than boxing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/28/wild-foxes-review-animal-obsessed-fighter-at-elite-sports-academy-wonders-if-more-to-life-than-boxing",
-      "published_date": "2026-04-28T10:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austrian man admits plot to attack 2024 Taylor Swift concert",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austrian-man-admits-plot-to-attack-2024-taylor-swift-concert/a-76960278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T09:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jimmy Kimmel says Melania Trump joke not 'call to assassination'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jimmy-kimmel-says-melania-trump-joke-not-call-to-assassination/a-76960074?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T08:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260428/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-121",
-      "published_date": "2026-04-28T06:36:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Major raids carried out against Hells Angels",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T06:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Major raids carried out against Hells Angels",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-28T06:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Media freedom ‘under sustained attack’ across EU as public trust drops, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
-      "published_date": "2026-04-28T05:00:41+00:00",
       "category": "Local Events"
     }
   ]
