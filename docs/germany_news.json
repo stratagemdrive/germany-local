@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-29T23:45:46.766375+00:00",
+  "last_updated": "2026-04-30T12:11:32.275051+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bündnisverteidigung: Bereit zum «fight tonight» - Merz besucht die Truppe",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-04/30/heereschef-wir-muessen-kuenftig-anders-kaempfen",
+      "published_date": "2026-04-30T12:05:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
+      "published_date": "2026-04-30T12:02:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Beziehung zu den USA: Bundeskanzler Merz bekräftigt militärische Zusammenarbeit mit den USA",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/usa-deutschland-militaer-zusammenarbeit-nato",
+      "published_date": "2026-04-30T11:20:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "First train in a decade between Copenhagen, Berlin and Prague to depart on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260430/first-train-in-a-decade-between-copenhagen-berlin-and-prague-to-depart-on-friday",
+      "published_date": "2026-04-30T09:19:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Nightmare’ queues and missed flights: a turbulent start to EU entry-exit system",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
+      "published_date": "2026-04-30T08:25:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
       "source": "The Guardian",
@@ -14,6 +49,13 @@
       "title": "Trump threatens US troop cuts in Germany",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-29T23:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens US troop cuts in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-29T23:35:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Meta found in breach of EU law for failing to keep children off platforms",
+      "title": "Fifa-Kongress in Vancouver: Iranische Fußballfunktionäre an Einreise nach Kanada gehindert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/kanada-fifa-kongress-vertreter-iran",
+      "published_date": "2026-04-30T12:08:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Pezeshkian says US blockade 'doomed to fail,' Centcom admiral argues otherwise",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-pezeshkian-says-us-blockade-doomed-to-fail-centcom-admiral-argues-otherwise/live-76992263?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T09:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air France-KLM cuts capacity growth forecast amid expected $2.4bn fuel bill rise",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
-      "published_date": "2026-04-29T09:29:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/apr/30/air-france-klm-cuts-capacity-growth-forecast-amid-expected-24bn-fuel-bill-rise",
+      "published_date": "2026-04-30T09:13:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary's Magyar meets EU's von der Leyen in high-stakes Brussels visit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-magyar-meets-eu-s-von-der-leyen-in-high-stakes-brussels-visit/a-76976109?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T09:18:00+00:00",
-      "category": "Diplomacy"
+      "title": "As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking",
+      "published_date": "2026-04-30T04:00:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary's Magyar meets EU's von der Leyen in high-stakes Brussels visit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-magyar-meets-eu-s-von-der-leyen-in-high-stakes-brussels-visit/a-76976109?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-29T09:18:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Parliament pushes for bigger long-term budget, new taxes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-parliament-pushes-for-bigger-long-term-budget-new-taxes/a-76976119?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-29T08:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Parliament pushes for bigger long-term budget, new taxes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-parliament-pushes-for-bigger-long-term-budget-new-taxes/a-76976119?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T08:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU accuses Meta of allowing children under 13 on platforms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-accuses-meta-of-allowing-children-under-13-on-platforms/a-76975475?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T07:35:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Enough of our homegrown weapons to go around, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/ukraine-war-briefing-enough-of-our-homegrown-weapons-to-go-around-says-zelenskyy",
+      "published_date": "2026-04-30T00:32:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Raise tax on alcohol and junk food to cut deaths from liver disease, experts say",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Cabinet discusses 2027 budget plans as Iran war threatens finances",
+      "title": "Will EU bring in a windfall tax on oil companies?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-cabinet-discusses-2027-budget-plans-as-iran-war-threatens-finances/live-76975008?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T07:20:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/will-eu-bring-in-a-windfall-tax-on-oil-companies/a-76920556?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T10:32:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Germany news: Cabinet discusses 2027 budget plans as Iran war threatens finances",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-cabinet-discusses-2027-budget-plans-as-iran-war-threatens-finances/live-76975008?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-29T07:20:00+00:00",
-      "category": "Military"
+      "title": "What Germany's new heating law means for tenants and landlords",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260430/what-germanys-new-heating-law-means-for-tenants-and-landlords",
+      "published_date": "2026-04-30T08:43:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Births, deaths and a first kiss: life near the frontline in Ukraine – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/29/wet-ground-by-aria-shahrokhshahi-ukraine",
-      "published_date": "2026-04-29T06:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says King Charles agrees Iran cannot have nuclear bomb",
+      "title": "Ecuador starts fracking in Amazon rainforest",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-king-charles-agrees-iran-cannot-have-nuclear-bomb/live-76968757?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T03:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany benefits from work with Ukraine — defense minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-28T18:08:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/ecuador-starts-fracking-in-amazon-rainforest/a-76990028?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T03:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why UAE's OPEC exit is a blow to Saudi Arabia",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Amid fuel crisis, a bold move to leave oil and gas behind",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/amid-fuel-crisis-a-bold-move-to-leave-oil-and-gas-behind/a-76891719?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T07:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "States gather in a new push to ditch coal, oil and gas",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/states-gather-in-a-new-push-to-ditch-coal-oil-and-gas/a-76891719?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T07:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
+      "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
-      "published_date": "2026-04-24T05:00:32+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
+      "published_date": "2026-04-30T10:36:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "German auto giant Volkswagen warns of more cost cuts as profits plunge",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260430/german-auto-giant-volkswagen-warns-of-more-cost-cuts-as-profits-plunge",
+      "published_date": "2026-04-30T09:17:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Economy shows surprise growth despite Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-economy-shows-surprise-growth-despite-iran-war/live-76991183?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T08:43:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say",
@@ -543,25 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Orbán may be gone, but his prejudices are now baked into the European political mainstream | Shada Islam",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/orban-europe-eu-racism-migration-border",
-      "published_date": "2026-04-27T11:31:11+00:00",
-      "category": "Economy"
+      "title": "India news: Exit polls out in key state elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-exit-polls-out-in-key-state-elections/live-76990473?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T08:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Phantoms of July review – interlocking tales hop across time in funny-quirky fable with a point",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/27/phantoms-of-july-review",
-      "published_date": "2026-04-27T05:00:35+00:00",
-      "category": "Economy"
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260430/today-in-germany-a-roundup-of-the-latest-news-on-thursday-117",
+      "published_date": "2026-04-30T06:37:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
+      "title": "North Korea faces food shortages as drought threatens crops",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-faces-food-shortages-as-drought-threatens-crops/a-76990431?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T06:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
-      "published_date": "2026-04-26T21:30:25+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/i-took-an-algorithm-to-court-in-sweden-the-algorithm-won",
+      "published_date": "2026-04-30T04:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US charges Mexico’s Sinaloa state governor with drug trafficking",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-charges-mexico-s-sinaloa-state-governor-with-drug-trafficking/a-76989747?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T03:20:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US top court mulls scrapping Syrians', Haitians' protection",
@@ -666,41 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/28/the-guardian-view-on-the-politics-of-central-europe-in-search-of-a-new-left-",
       "published_date": "2026-04-28T18:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Charles addresses joint meeting of US Congress",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/king-charles-addresses-joint-meeting-of-us-congress/live-76968757?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greek police hunt for alleged 89-year-old shooter on the run",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greek-police-hunt-for-alleged-89-year-old-shooter-on-the-run/a-76966927?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T11:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea: Ex-first lady Kim handed longer graft sentence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-ex-first-lady-kim-handed-longer-graft-sentence/a-76964144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T11:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot",
-      "published_date": "2026-04-28T10:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barge rescue attempt for Timmy the whale in Germany gets go-ahead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/timmy-whale-barge-rescue-attempt-germany",
-      "published_date": "2026-04-28T10:22:50+00:00",
       "category": "Local Events"
     }
   ]
