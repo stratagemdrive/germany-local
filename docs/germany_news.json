@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-30T12:11:32.275051+00:00",
+  "last_updated": "2026-04-30T23:43:47.180482+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Welthandel: EU startet riesige Freihandelszone mit Mercosur-Staaten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/01/eu-startet-riesige-freihandelszone-mit-mercosur-staaten",
+      "published_date": "2026-04-30T22:15:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE oil exit from OPEC signals focus on domestic priorities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T14:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why does the US have military bases in Germany – and will Trump follow through on his threat to cut numbers?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
+      "published_date": "2026-04-30T12:55:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bündnisverteidigung: Bereit zum «fight tonight» - Merz besucht die Truppe",
       "source": "ZEIT Online",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Energiekrise: EU-Kommission erlaubt vorübergehend höhere Strompreis-Hilfe für Firmen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/eu-kommission-strompreis-entlastung",
-      "published_date": "2026-04-29T11:22:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Germany wants a seat at the UN Security Council",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-germany-wants-a-seat-at-the-un-security-council/a-76979443?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T11:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU farmers and hauliers to get up to €50,000 to cover extra costs of Iran war",
+      "title": "Trump tells Merz to ‘fix his broken country’ in new attack on German chancellor",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/29/eu-farmers-hauliers-fishing-subsidies-up-to-50000-fuel-fertiliser-iran-war",
-      "published_date": "2026-04-29T11:06:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/30/trump-tells-merz-to-fix-his-broken-country-in-new-attack-on-german-chancellor",
+      "published_date": "2026-04-30T16:37:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany says it is 'prepared' for any reduction in US troops",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260430/germany-says-it-is-prepared-for-any-reduction-in-us-troops",
+      "published_date": "2026-04-30T14:32:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Fifa-Kongress in Vancouver: Iranische Fußballfunktionäre an Einreise nach Kanada gehindert",
@@ -154,6 +168,20 @@
       "title": "Iran war: Pezeshkian says US blockade 'doomed to fail,' Centcom admiral argues otherwise",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-pezeshkian-says-us-blockade-doomed-to-fail-centcom-admiral-argues-otherwise/live-76992263?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T09:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Mojtaba Khamenei says there will be 'change' in Strait of Hormuz 'management'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-mojtaba-khamenei-says-there-will-be-change-in-strait-of-hormuz-management/live-76992263?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-04-30T09:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Mojtaba Khamenei says there will be 'change' in Strait of Hormuz 'management'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-mojtaba-khamenei-says-there-will-be-change-in-strait-of-hormuz-management/live-76992263?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-30T09:35:00+00:00",
       "category": "Military"
     },
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: Brent oil briefly hits $119 as talks stall",
+      "title": "Belgium seeks nationalization of nuclear power plants",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-brent-oil-briefly-hits-119-as-talks-stall/live-76979799?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T11:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
-      "published_date": "2026-04-29T11:34:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berlin: Finanzsenator Stefan Evers übernimmt Berliner Kultursenat",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/berlin-kultursenat-evers-wedl-wilson-foerdermittel",
-      "published_date": "2026-04-29T10:57:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia to hold Victory Day parade with no military hardware amid Ukraine strike fears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/29/russia-to-scale-back-victory-day-parade-as-ukraine-extends-its-drone-attacks",
-      "published_date": "2026-04-29T10:39:18+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/belgium-seeks-nationalization-of-nuclear-power-plants/a-76993170?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T12:29:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Will EU bring in a windfall tax on oil companies?",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Germany news: Lawmakers vote to lower fuel tax amid high gas prices",
+      "title": "Saudi Arabia's public fund to withdraw LIV Golf funding",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lawmakers-vote-to-lower-fuel-tax-amid-high-gas-prices/live-76921522?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-24T10:50:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/saudi-arabia-s-public-fund-to-withdraw-liv-golf-funding/a-77005158?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T17:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany was largest exporter of plastic waste in 2025, sending 810,000 tonnes overseas, analysis finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/30/germany-largest-exporter-plastic-waste-2025",
+      "published_date": "2026-04-30T14:38:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
@@ -441,6 +455,13 @@
       "title": "Germany news: Economy shows surprise growth despite Iran war",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-economy-shows-surprise-growth-despite-iran-war/live-76991183?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T08:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Economy shows surprise growth despite Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-economy-shows-surprise-growth-despite-iran-war/live-76991183?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-04-30T08:43:00+00:00",
       "category": "Economy"
     },
@@ -543,25 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
-      "published_date": "2026-04-27T16:08:33+00:00",
-      "category": "Economy"
+      "title": "Baden-Württemberg: Grüne und CDU einigen sich auf Koalitionsvertrag in Baden-Württemberg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/gruene-cdu-baden-wuerttemberg-cem-oezdemir-manuel-hagel",
+      "published_date": "2026-04-30T22:00:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Everything that changes in Germany in May 2026",
+      "title": "Deutsche Eishockey Liga: Eisbären Berlin verpassen vorzeitigen Meistertitel",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-04/berliner-eisbaeren-adler-mannheim-del-eishockey-viertes-finalspiel",
+      "published_date": "2026-04-30T21:43:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oscar belonging to co-director of Putin film missing after TSA makes him ship it",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/oscar-missing-pavel-talankin-putin-documentary",
+      "published_date": "2026-04-30T21:04:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo to hold snap elections in June",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T19:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo to hold snap elections in June",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-30T19:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Serbia's government dominates the country's media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T18:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Serbia's government dominates the country's media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-04-30T18:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georg Baselitz obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/30/georg-baselitz-obituary",
+      "published_date": "2026-04-30T17:44:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK raises terror threat level following antisemitic attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-raises-terror-threat-level-following-antisemitic-attack/a-77005386?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T17:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four rescued from Seine after bus plunges into river near Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/bus-crash-seine-river-juvisy-sur-orge-paris",
+      "published_date": "2026-04-30T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Are these the best seven parks in Berlin?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260427/everything-that-changes-in-germany-in-may-2026",
-      "published_date": "2026-04-27T15:09:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Venice opera house fires government-linked music director after months of protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/apr/27/venice-opera-house-fires-incoming-music-director-who-made-nepotism-claims",
-      "published_date": "2026-04-27T12:19:15+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260430/are-these-the-best-seven-parks-in-berlin",
+      "published_date": "2026-04-30T14:14:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "India news: Exit polls out in key state elections",
@@ -624,83 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/firetrucks-swarm-cologne-cathedral-after-smell-of-smoke/a-76984432?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-29T14:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghanistan: Shiite and other minorities living in fear",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afghanistan-shiite-and-other-minorities-living-in-fear/a-76980856?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T13:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: 2 people stabbed in north London, suspect arrested",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-2-people-stabbed-in-north-london-suspect-arrested/a-76980651?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: 2 people stabbed in north London, suspect arrested",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-2-people-stabbed-in-north-london-suspect-arrested/a-76980651?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-29T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: London stabbing being treated as 'terrorist incident'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-london-stabbing-being-treated-as-terrorist-incident/a-76980651?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: London stabbing being treated as 'terrorist incident'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-london-stabbing-being-treated-as-terrorist-incident/a-76980651?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-29T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Timmy the whale rescue attempt begins off coast of Germany – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/gallery/2026/apr/29/timmy-the-whale-rescue-attempt-begins-germany-in-pictures",
-      "published_date": "2026-04-29T11:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alcohol ban at two Berlin train stations begins on May 1st",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/alcohol-ban-at-two-berlin-train-stations-begins-on-may-1st",
-      "published_date": "2026-04-29T09:40:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Final West Bengal poll phase begins amid violence, rigging claims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-final-west-bengal-poll-phase-begins-amid-violence-rigging-claims/live-76975161?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T07:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gestrandeter Wal: Wal-Transport fährt auf Ostsee weiter Richtung Fehmarn",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/29/wal-transport-faehrt-auf-ostsee-weiter-richtung-fehmarn",
-      "published_date": "2026-04-28T22:32:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "89-year-old man arrested over Athens double shooting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/89-year-old-man-arrested-greece-athens-double-shooting",
-      "published_date": "2026-04-28T18:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the politics of central Europe: in search of a new left | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/the-guardian-view-on-the-politics-of-central-europe-in-search-of-a-new-left-",
-      "published_date": "2026-04-28T18:05:46+00:00",
       "category": "Local Events"
     }
   ]
