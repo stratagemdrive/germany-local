@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-04-30T23:43:47.180482+00:00",
-  "story_count": 100,
+  "last_updated": "2026-05-01T11:54:44.885991+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Irankrieg: Klingbeil kontert Trumps Kritik gegen Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/friedrich-merz-lars-klinggbeil-donald-trump-irankrieg",
+      "published_date": "2026-05-01T11:32:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens to withdraw troops from Italy and Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
+      "published_date": "2026-05-01T11:32:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Blockbuster EU-Mercosur trade deal enters into force",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260501/blockbuster-eu-mercosur-trade-deal-enters-into-force",
+      "published_date": "2026-05-01T07:52:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel navy to release six Australians in Greece after intercepting Gaza flotilla",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/01/israel-intercepted-gaza-flotilla-navy-release-australians-greece-ntwnfb",
+      "published_date": "2026-05-01T07:35:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany says 'prepared' for any US troop reduction",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260501/germany-says-prepared-for-any-us-troop-reduction",
+      "published_date": "2026-05-01T06:46:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "First direct US-Venezuela flight in 7 years lands in Caracas",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/first-direct-us-venezuela-flight-in-7-years-lands-in-caracas/a-77006846?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T04:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Danish treatment of Greenlandic mother may be ‘ethnic discrimination’, says UN",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/01/un-denmark-greenlandic-mother-ethnic-discrimination",
+      "published_date": "2026-05-01T04:00:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Welthandel: EU startet riesige Freihandelszone mit Mercosur-Staaten",
       "source": "ZEIT Online",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine asks Israel to seize vessel it claims is carrying grain stolen by Russia",
+      "title": "Abschiedsbrief: Mit 82 erfährt sie, wer ihr Vater wirklich war. Und liest seinen Brief",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/19/abschiedsbrief-lorenz-fruehschuetz-ns-regime-muenchen-stadelheim",
+      "published_date": "2026-05-01T11:33:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/29/ukraine-asks-israel-to-seize-vessel-it-claims-is-carrying-grain-stolen-by-russia",
-      "published_date": "2026-04-29T17:46:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
+      "published_date": "2026-05-01T11:26:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Merz hails 'historic' health care reform",
+      "title": "Is Myanmar's military winning the civil war?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-merz-hails-historic-health-care-reform/a-76984736?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-29T15:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T10:56:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Merz hails 'historic' health care reform",
+      "title": "Iran war expands press crackdown, leaving information vacuum",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-merz-hails-historic-health-care-reform/a-76984736?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T15:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-expands-press-crackdown-leaving-information-vacuum/a-77008882?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T10:40:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why Ghana walked away from a US health deal",
+      "title": "Myanmar: Ex-leader Aung San Suu Kyi moved to house arrest",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-ghana-walked-away-from-a-us-health-deal/a-76982515?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T15:07:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/myanmar-ex-leader-aung-san-suu-kyi-moved-to-house-arrest/a-77008296?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T08:49:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/germany/an-interview-with-german-chancellor-friedrich-merz-i-am-dissatisfied-with-the-prevailing-atmosphere-in-germany-a-1d4346f0-4635-4925-bab0-dc9b057bc25c#ref=rss",
-      "published_date": "2026-04-29T14:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Germany wants a seat at the UN Security Council",
+      "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-germany-wants-a-seat-at-the-un-security-council/a-76979443?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-29T12:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T07:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – Europe live",
+      "title": "Iran war: Truce stops clock on Congress approval, says Trump's White House",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-truce-stops-clock-on-congress-approval-says-trump-s-white-house/live-77007473?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T06:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany’s climate U-turn is the worst possible response to the oil shock",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/29/europe-iran-hungary-russia-ukraine-eu-latest-news-updates",
-      "published_date": "2026-04-29T11:47:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/01/germanys-climate-u-turn-is-the-worst-possible-response-to-the-oil-shock",
+      "published_date": "2026-05-01T04:00:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv claims victory over ‘shadow grain fleet’ shipment to Israel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/01/ukraine-war-briefing-kyiv-claims-victory-over-shadow-grain-fleet-shipment-to-israel",
+      "published_date": "2026-05-01T01:05:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump tells Merz to ‘fix his broken country’ in new attack on German chancellor",
@@ -218,69 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-04/ukraine-russland-krieg-wladimir-putin-trump-telefonat-waffenruhe",
       "published_date": "2026-04-29T22:29:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali: France urges citizens to leave amid Tuareg advance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mali-france-urges-citizens-to-leave-amid-tuareg-advance/a-76986837?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T18:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Teenage bullying increases in Ukrainian schools",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T18:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Teenage bullying increases in Ukrainian schools",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-29T18:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chornobyl, 40 years on: inside the 1 May Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/apr/29/chornobyl-40-years-on-inside-the-1-may-guardian-weekly",
-      "published_date": "2026-04-29T17:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why do some US citizens seek asylum in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/why-do-some-us-citizens-seek-asylum-in-germany",
-      "published_date": "2026-04-29T14:21:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The missing Ukrainian reporter, the Russian prison – and a vital lesson learned about journalism in a dangerous age | Laurent Richard",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/29/missing-ukrainian-reporter-russian-prison-journalism-investigative",
-      "published_date": "2026-04-29T13:50:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German prosecutors call for 15 years in jail for far-left militant",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/german-prosecutors-call-for-15-years-in-jail-for-far-left-militant",
-      "published_date": "2026-04-29T13:06:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war squeezes India's pharma supply chain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-squeezes-india-s-pharma-supply-chain/a-76980858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T12:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: UN rights chief 'appalled' by arrests, executions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-un-rights-chief-appalled-by-arrests-executions/live-76979799?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T11:42:00+00:00",
       "category": "Military"
     },
     {
@@ -410,18 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "How frustration at Cop stalemates has inspired first global talks to ditch fossil fuels",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "published_date": "2026-04-24T11:01:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany news: Lawmakers vote to lower fuel tax amid high gas prices",
+      "title": "Gender investment gap — Are women catching up with men?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lawmakers-vote-to-lower-fuel-tax-amid-high-gas-prices/live-76921522?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-24T10:50:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T05:13:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia's public fund to withdraw LIV Golf funding",
@@ -557,11 +550,46 @@
       "category": "Economy"
     },
     {
-      "title": "Rechtsstreitigkeiten: Glyphosat-Klagen: Bayer begrüßt Prüfung durch US-Gerichtshof",
+      "title": "Tag der Arbeit: Klingbeil: SPD wird 1. Mai als Feiertag verteidigen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/27/glyphosat-klagen-bayer-begruesst-pruefung-durch-us-gerichtshof",
-      "published_date": "2026-04-27T20:34:45+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-05/01/klingbeil-spd-wird-1-mai-als-feiertag-verteidigen",
+      "published_date": "2026-05-01T11:36:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Golders Green suspect charged in stabbings of Jewish men",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-golders-green-suspect-charged-in-stabbings-of-jewish-men/a-77008394?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T09:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Greens and CDU agree Baden-Württemberg deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-greens-and-cdu-agree-baden-württemberg-deal/live-77008112?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T08:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: What will become of Orban and his system?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-what-will-become-of-orban-and-his-system/a-77000968?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T06:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: What will become of Orban and his system?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-what-will-become-of-orban-and-his-system/a-77000968?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-01T06:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US prosecutors release new footage of Trump shooting suspect",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-prosecutors-release-new-footage-of-trump-shooting-suspect/a-77006783?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-01T02:44:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Baden-Württemberg: Grüne und CDU einigen sich auf Koalitionsvertrag in Baden-Württemberg",
@@ -659,48 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/north-korea-faces-food-shortages-as-drought-threatens-crops/a-76990431?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-30T06:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/i-took-an-algorithm-to-court-in-sweden-the-algorithm-won",
-      "published_date": "2026-04-30T04:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US charges Mexico’s Sinaloa state governor with drug trafficking",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-charges-mexico-s-sinaloa-state-governor-with-drug-trafficking/a-76989747?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-30T03:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US top court mulls scrapping Syrians', Haitians' protection",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-top-court-mulls-scrapping-syrians-haitians-protection/a-76987440?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T19:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA: Ex-FBI chief Comey appears in court over Trump threat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/usa-ex-fbi-chief-comey-appears-in-court-over-trump-threat/a-76987435?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T19:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firetrucks swarm Cologne Cathedral after smell of smoke",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/firetrucks-swarm-cologne-cathedral-after-smell-of-smoke/a-76984432?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-29T14:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firetrucks swarm Cologne Cathedral after smell of smoke",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/firetrucks-swarm-cologne-cathedral-after-smell-of-smoke/a-76984432?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T14:47:00+00:00",
       "category": "Local Events"
     }
   ]
