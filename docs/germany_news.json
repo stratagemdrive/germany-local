@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-02T11:40:17.721066+00:00",
+  "last_updated": "2026-05-02T23:35:15.025369+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "published_date": "2026-05-02T17:52:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-Zölle: Was über Trumps Zollandrohung bekannt ist",
       "source": "ZEIT Online",
@@ -15,6 +22,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics",
       "published_date": "2026-05-02T04:00:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why does the US have military bases in Germany?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
+      "published_date": "2026-05-01T22:55:17+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Welthandel: EU startet riesige Freihandelszone mit Mercosur-Staaten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/01/eu-startet-riesige-freihandelszone-mit-mercosur-staaten",
-      "published_date": "2026-04-30T22:15:06+00:00",
-      "category": "Diplomacy"
+      "title": "Trump vows to cut US troops stationed in Germany 'way down'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-vows-to-cut-us-troops-stationed-in-germany-way-down/live-77018194?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-02T19:54:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump launches fresh attack on Merz after threatening US troop reduction in Germany – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
-      "published_date": "2026-04-30T15:01:04+00:00",
-      "category": "Diplomacy"
+      "title": "Why Ukraine and Israel are arguing over grain",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-ukraine-and-israel-are-arguing-over-grain/a-77018771?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-02T15:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Ukraine and Israel are arguing over grain",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-ukraine-and-israel-are-arguing-over-grain/a-77018771?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-02T15:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany says withdrawal of US troops was 'expected'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260502/germany-says-withdrawal-of-us-troops-was-expected",
+      "published_date": "2026-05-02T12:42:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/myanmar-ex-leader-aung-san-suu-kyi-moved-to-house-arrest/a-77008296?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-01T08:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T07:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Truce stops clock on Congress approval, says Trump's White House",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-truce-stops-clock-on-congress-approval-says-trump-s-white-house/live-77007473?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T06:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s climate U-turn is the worst possible response to the oil shock",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/01/germanys-climate-u-turn-is-the-worst-possible-response-to-the-oil-shock",
-      "published_date": "2026-05-01T04:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv claims victory over ‘shadow grain fleet’ shipment to Israel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/01/ukraine-war-briefing-kyiv-claims-victory-over-shadow-grain-fleet-shipment-to-israel",
-      "published_date": "2026-05-01T01:05:03+00:00",
       "category": "Military"
     },
     {
@@ -401,6 +401,20 @@
       "url": "https://www.zeit.de/wissen/umwelt/2026-04/ausstieg-fossile-energie-beispiele-kolumbien-uruguay-spanien",
       "published_date": "2026-04-26T11:11:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-02T19:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-02T19:43:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Spirit Airlines says they are going out of business",
@@ -529,18 +543,46 @@
       "category": "Economy"
     },
     {
-      "title": "Haushalt: Bundesregierung will offenbar Zuckerabgabe einführen",
+      "title": "Bundesliga-Aufsteiger: Schalke kehrt in die Fußball-Bundesliga zurück",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/haushalt-zuckerabgabe-tabak-alkohol-steuer-bundesregierung",
-      "published_date": "2026-04-28T11:53:41+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/sport/2026-05/schalke-04-kehrt-in-die-fussball-bundesliga-zurueck",
+      "published_date": "2026-05-02T22:16:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What Renault's new EV reveals about the global auto industry",
+      "title": "Germany news: US troop pullout 'expected' — Pistorius",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T09:12:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-02T19:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga 32. Spieltag – Samstag: Bayer zieht an Stuttgart und Hoffenheim vorbei, HSV besiegt Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/bundesliga-32-spieltag-samstag-bremen-augsburg-bayern-heidenheim-hoffenheim-stuttgart",
+      "published_date": "2026-05-02T18:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-02T18:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-02T18:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-02T18:10:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Koalition: CDU und SPD in Rheinland-Pfalz bestätigen neues Regierungsbündnis",
@@ -638,48 +680,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-02T07:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Russian oil hub of Tuapse hit for fourth time as environmental disaster mounts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
-      "published_date": "2026-05-02T02:50:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tag der Arbeit: Polizei: Gewaltfreier und friedlicher 1. Mai in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/01/viel-los-in-kreuzberg-kein-zugang-mehr-in-goerlitzer-park",
-      "published_date": "2026-05-01T22:02:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Görlitzer Park in Berlin: »Der Zaun ist, damit die Leute sich nachts nicht boxen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-04/goerlitzer-park-berlin-zaun-kreuzberg-1-mai",
-      "published_date": "2026-05-01T19:16:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attack on French nun in Jerusalem draws widespread condemnation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/01/video-attack-french-nun-jerusalem",
-      "published_date": "2026-05-01T16:38:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CCTV captures moment man attacks nun in Jerusalem – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/01/cctv-captures-moment-man-attacks-nun-in-jerusalem-video",
-      "published_date": "2026-05-01T16:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Lufthansa apologizes for lost Oscar statuette",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-lufthansa-apologizes-for-lost-oscar-statuette/a-77014459?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-01T16:06:00+00:00",
       "category": "Local Events"
     }
   ]
