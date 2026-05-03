@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-02T23:35:15.025369+00:00",
+  "last_updated": "2026-05-03T11:37:39.979871+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T01:38:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Danish treatment of Greenlandic mother may be ‘ethnic discrimination’, says UN",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/01/un-denmark-greenlandic-mother-ethnic-discrimination",
-      "published_date": "2026-05-01T04:00:36+00:00",
-      "category": "Diplomacy"
+      "title": "Claude Monet: Die Welt in seinem Licht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/19/claude-monet-impressionismus-seerosen-giverny",
+      "published_date": "2026-05-03T09:26:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says cutting US troops in Germany 'a lot further'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-03T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says cutting US troops in Germany 'a lot further'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T07:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump vows to cut US troops stationed in Germany 'way down'",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Is Myanmar's military winning the civil war?",
+      "title": "Ukrainian drones hit Russia's Primorsk oil terminal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T10:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war expands press crackdown, leaving information vacuum",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-expands-press-crackdown-leaving-information-vacuum/a-77008882?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T10:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar: Ex-leader Aung San Suu Kyi moved to house arrest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-ex-leader-aung-san-suu-kyi-moved-to-house-arrest/a-77008296?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T08:49:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T10:49:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can Iran withstand the US naval blockade?",
@@ -396,11 +403,32 @@
       "category": "Energy"
     },
     {
-      "title": "Ausstieg aus fossiler Energie: So klappt’s mit dem Ausstieg aus Kohle, Öl und Gas",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissen/umwelt/2026-04/ausstieg-fossile-energie-beispiele-kolumbien-uruguay-spanien",
-      "published_date": "2026-04-26T11:11:53+00:00",
-      "category": "Energy"
+      "title": "Germany news: Majority thinks coalition government doomed — survey",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-03T08:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Majority thinks coalition government doomed — survey",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T08:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Where Germany's economy still excels",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-03T05:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Where Germany's economy still excels",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T05:58:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
@@ -515,32 +543,25 @@
       "category": "Economy"
     },
     {
-      "title": "Venezuela: German entrepreneurs bet on business boom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/venezuela-german-entrepreneurs-bet-on-business-boom/a-76968518?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T18:33:00+00:00",
-      "category": "Economy"
+      "title": "Extremismus: Rassistische und homophobe Attacke in U-Bahn in Berlin-Mitte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/03/rassistische-und-homophobe-attacke-in-u-bahn-in-berlin-mitte",
+      "published_date": "2026-05-03T11:06:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany's entrepreneurs betting on post-Maduro Venezuela",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-entrepreneurs-betting-on-post-maduro-venezuela/a-76968518?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T18:33:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What Renault's new EV reveals about the global auto industry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-28T15:18:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Europe’s smaller airports ‘under threat’ if fuel shortages cause many cancellations",
+      "title": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/28/europe-smaller-airports-fuel-shortages-cancellations-eu-ees",
-      "published_date": "2026-04-28T13:30:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
+      "published_date": "2026-05-03T09:02:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Russia tries for a foothold in Ukraine’s eastern ‘fortress belt’, continues attacks on civilians",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/ukraine-war-briefing-russia-tries-for-a-foothold-in-ukraines-eastern-fortress-belt-continues-attacks-on-civilians",
+      "published_date": "2026-05-03T00:56:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bundesliga-Aufsteiger: Schalke kehrt in die Fußball-Bundesliga zurück",
@@ -659,27 +680,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-jailed-nobel-winner-narges-mohammadi-hospitalized/a-77017010?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-02T08:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Such huge consequences’: pressure mounts on France to act on enslavement reparatory justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/may/02/pressure-mounts-france-enslavement-reparatory-justice-framework",
-      "published_date": "2026-05-02T08:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kosovo to hold snap elections in June",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T07:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kosovo to hold snap elections in June",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-02T07:46:00+00:00",
       "category": "Local Events"
     }
   ]
