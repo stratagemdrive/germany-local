@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-03T11:37:39.979871+00:00",
-  "story_count": 97,
+  "last_updated": "2026-05-03T23:36:14.376782+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Merz 'not giving up' on Germany's relationship with US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T23:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat",
+      "published_date": "2026-05-03T20:27:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "published_date": "2026-05-03T14:57:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Republicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-threats-withdraw-troops-from-germany",
+      "published_date": "2026-05-03T13:39:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nigeria summons South Africa envoy over xenophobic incidents",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-summons-south-africa-envoy-over-xenophobic-incidents/a-77023858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T13:32:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
       "source": "Deutsche Welle",
@@ -109,45 +144,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump threatens to withdraw troops from Italy and Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
-      "published_date": "2026-05-01T11:32:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Blockbuster EU-Mercosur trade deal enters into force",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260501/blockbuster-eu-mercosur-trade-deal-enters-into-force",
-      "published_date": "2026-05-01T07:52:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel navy to release six Australians in Greece after intercepting Gaza flotilla",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/01/israel-intercepted-gaza-flotilla-navy-release-australians-greece-ntwnfb",
-      "published_date": "2026-05-01T07:35:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany says 'prepared' for any US troop reduction",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260501/germany-says-prepared-for-any-us-troop-reduction",
-      "published_date": "2026-05-01T06:46:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "First direct US-Venezuela flight in 7 years lands in Caracas",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/first-direct-us-venezuela-flight-in-7-years-lands-in-caracas/a-77006846?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T04:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Claude Monet: Die Welt in seinem Licht",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/19/claude-monet-impressionismus-seerosen-giverny",
       "published_date": "2026-05-03T09:26:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German fertiliser makers and farmers struggle with Iran war fallout",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260503/german-fertiliser-makers-and-farmers-struggle-with-iran-war-fallout",
+      "published_date": "2026-05-03T07:38:53+00:00",
       "category": "Military"
     },
     {
@@ -162,6 +169,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-03T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says US to 'guide ships safely' out of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T01:38:00+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-01T15:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Abschiedsbrief: Mit 82 erfährt sie, wer ihr Vater wirklich war. Und liest seinen Brief",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/19/abschiedsbrief-lorenz-fruehschuetz-ns-regime-muenchen-stadelheim",
-      "published_date": "2026-05-01T11:33:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
-      "published_date": "2026-05-01T11:26:57+00:00",
       "category": "Military"
     },
     {
@@ -396,11 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
-      "published_date": "2026-04-26T23:01:26+00:00",
-      "category": "Energy"
+      "title": "Donald Trump: Unzufriedenheit mit Trump erreicht laut Umfrage neuen Höchstwert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/usa-donald-trump-midterms-umfrage-irankrieg-wirtschaft",
+      "published_date": "2026-05-03T22:41:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany news: Majority thinks coalition government doomed — survey",
@@ -441,6 +441,20 @@
       "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-02T19:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Russia's Northern Sea Route is a risk for global trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-02T19:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Russia's Northern Sea Route is a risk for global trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-02T19:43:00+00:00",
       "category": "Economy"
     },
@@ -522,31 +536,59 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's federal cabinet approves health reform package",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/germanys-federal-cabinet-approves-health-reform-package",
-      "published_date": "2026-04-29T11:26:23+00:00",
-      "category": "Economy"
+      "title": "Gestrandeter Buckelwal: Schlepper kommt nach Wal-Transport in Cuxhaven an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/04/schlepper-kommt-nach-wal-transport-in-cuxhaven-an",
+      "published_date": "2026-05-03T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "More debt, new taxes: What is in Germany's budget plan for 2027?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/more-debt-new-taxes-what-is-in-germanys-budget-plan-for-2027",
-      "published_date": "2026-04-29T08:41:14+00:00",
-      "category": "Economy"
+      "title": "Migration: Innenminister Dobrindt will an Grenzkontrollen festhalten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/migration-grenzkontrollen-alexander-dobrindt-afghanistan",
+      "published_date": "2026-05-03T18:43:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-118",
-      "published_date": "2026-04-29T06:43:02+00:00",
-      "category": "Economy"
+      "title": "Jens Spahn: Kann man wirklich schwul sein, ohne queer zu sein?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/2026-04/cdu-fraktionsvorsitzender-jens-spahn-queerness-bewegung-identitaetspolitik",
+      "published_date": "2026-05-03T18:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heathrow in talks with airlines to end row that could delay third runway",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
+      "published_date": "2026-05-03T14:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Serbia's government dominates the country's media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T11:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Serbia's government dominates the country's media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-03T11:52:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Extremismus: Rassistische und homophobe Attacke in U-Bahn in Berlin-Mitte",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/03/rassistische-und-homophobe-attacke-in-u-bahn-in-berlin-mitte",
       "published_date": "2026-05-03T11:06:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marco Rubio to visit Rome, reportedly to ‘thaw’ US relations with Pope and Meloni",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/marco-rubio-visits-rome-pope-leo-us-italy-relations",
+      "published_date": "2026-05-03T10:43:13+00:00",
       "category": "Local Events"
     },
     {
@@ -631,55 +673,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/02/riesen-vase-mit-ueber-800-blumen-fuer-stunden-in-duesseldorf",
       "published_date": "2026-05-02T11:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Rund 1,6 Millionen Menschen seit Ende 2024 nach Syrien zurückgekehrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/syrien-gefluechtete-migration-rueckkehrer",
-      "published_date": "2026-05-02T11:06:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troops",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops",
-      "published_date": "2026-05-02T11:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: US troop pullout 'expected' — Pistorius",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T10:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
-      "published_date": "2026-05-02T10:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters and photos from Beatles’ early days to go on show in Hamburg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/02/beatles-early-days-letters-photos-hamburg-exhibition",
-      "published_date": "2026-05-02T09:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
-      "published_date": "2026-05-02T09:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran: Jailed Nobel winner Narges Mohammadi hospitalized",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-jailed-nobel-winner-narges-mohammadi-hospitalized/a-77017010?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T08:18:00+00:00",
       "category": "Local Events"
     }
   ]
