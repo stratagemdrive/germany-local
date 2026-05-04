@@ -1,12 +1,54 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-03T23:36:14.376782+00:00",
+  "last_updated": "2026-05-04T12:18:47.190444+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "EU-Grenzpolitik: Polizei findet vier tote Migranten nahe kroatisch-slowenischer Grenze",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-05/migration-lebensgefahr-eu-grenze-slowenien-kroatien",
+      "published_date": "2026-05-04T11:54:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EPC summit: Europe has 'gotten the message' from Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/epc-summit-europe-has-gotten-the-message-from-trump/live-77030273?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T10:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz plays down US military withdrawal plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-plays-down-us-military-withdrawal-plans/live-77030293?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T09:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz says not 'giving up on working with Donald Trump'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/germanys-merz-says-not-giving-up-on-working-with-donald-trump",
+      "published_date": "2026-05-04T06:49:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
+      "published_date": "2026-05-04T04:00:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Merz 'not giving up' on Germany's relationship with US",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-03T23:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz 'not giving up' on Germany's relationship with US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-03T23:02:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US-Zollpolitik: US-Präsident Trump kündigt Zollerhöhung für Autos aus der EU an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/donald-trump-will-zoelle-auf-autos-aus-der-eu-auf-25-prozent-erhoehen",
-      "published_date": "2026-05-01T19:01:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
+      "title": "Iran war: US to escort ships through the Strait of Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T16:25:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-to-escort-ships-through-the-strait-of-hormuz/live-77026618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T07:29:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany needs no tips from Donald Trump, says Merz's deputy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-01T15:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany needs no tips from Donald Trump, says Merz's deputy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T15:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany needs no tips from Donald Trump, says Merz's deputy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-01T15:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Irankrieg: Klingbeil kontert Trumps Kritik gegen Merz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/friedrich-merz-lars-klinggbeil-donald-trump-irankrieg",
-      "published_date": "2026-05-01T11:32:57+00:00",
-      "category": "Diplomacy"
+      "title": "Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition",
+      "published_date": "2026-05-04T05:00:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Claude Monet: Die Welt in seinem Licht",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "May Day marked by protests, celebrations, arrests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/may-day-marked-by-protests-celebrations-arrests/a-77013669?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T15:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon inks deals with AI giants, but not Anthropic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T15:20:00+00:00",
-      "category": "Military"
+      "title": "Germany's 'fuel discount' tax cuts haven't fully reached drivers",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/germanys-fuel-discount-tax-cuts-havent-fully-reached-drivers",
+      "published_date": "2026-05-04T10:44:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainian drones hit Russia's Primorsk oil terminal",
@@ -389,11 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "Deutsche Bahn announces 12 month ticket price freeze for long-distance travel",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260427/deutsche-bahn-announces-12-month-ticket-price-freeze-for-long-distance-travel",
-      "published_date": "2026-04-27T08:40:02+00:00",
-      "category": "Energy"
+      "title": "Unicredit und Commerzbank: UniCredit-Aktionäre machen Weg für Commerzbank-Übernahme frei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/unicredit-commerzbank-uebernahme-angebot-kapitalerhoehung-andrea-orcel",
+      "published_date": "2026-05-04T11:26:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tankrabatt: Spritpreise steigen wieder, Tagesschnitt weiter über zwei Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/tankrabatt-spritpreise-benzin-diesel-tagesschnitt-zwei-euro-gxe",
+      "published_date": "2026-05-04T10:50:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Donald Trump: Unzufriedenheit mit Trump erreicht laut Umfrage neuen Höchstwert",
@@ -522,18 +536,88 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's plan to crack down on high rents for furnished, short-term flats",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260429/germanys-plan-to-crack-down-on-high-rents-for-furnished-short-term-flats",
-      "published_date": "2026-04-29T14:10:34+00:00",
-      "category": "Economy"
+      "title": "Personalstellen: SPD: Staatsmodernisierung nicht auf Kosten des Personals",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/04/spd-staatsmodernisierung-nicht-auf-kosten-des-personals",
+      "published_date": "2026-05-04T12:05:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Preise: Inflation steigt mit Iran-Krieg auf 2,9 Prozent im April",
+      "title": "Tiere: Neues Koala-Männchen aus NRW zieht in Dresdner Zoo ein",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-04/29/inflation-steigt-mit-iran-krieg-auf-2-9-prozent-im-april",
-      "published_date": "2026-04-29T12:01:57+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-05/04/neues-koala-maennchen-aus-nrw-zieht-in-dresdner-zoo-ein",
+      "published_date": "2026-05-04T11:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+      "published_date": "2026-05-04T11:46:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meal-Prep-Plan: 30 Pflanzen auf fünf Tellern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-04/meal-prep-wochenplan-30-pflanzen",
+      "published_date": "2026-05-04T11:43:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georg Baselitz, artist renowned for his upside-down paintings, dies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/georg-baselitz-artist-renowned-for-his-upside-down-paintings-dies/a-77037122?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T11:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women's Champions League: Bayern fall to Barcelona in semis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-04T09:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women's Champions League: Bayern fall to Barcelona in semis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T09:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/today-in-germany-a-roundup-of-the-latest-news-on-monday-121",
+      "published_date": "2026-05-04T06:41:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: State polls test Modi's political might",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-state-polls-test-modi-s-political-might/live-77026483?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T05:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The centre left is not dead. A progressive new counter-Trumpian movement is on the way | Florian Ranft",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/centre-left-not-dead-new-counter-trumpian-movemen",
+      "published_date": "2026-05-04T04:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-New York Mayor Giuliani in hospital, condition 'critical'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ex-new-york-mayor-giuliani-in-hospital-condition-critical/a-77026193?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T02:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Strikes on Russia’s Primorsk oil port and ships",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/ukraine-war-briefing-strikes-on-russias-primorsk-oil-port-and-ships",
+      "published_date": "2026-05-04T01:45:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gestrandeter Buckelwal: Schlepper kommt nach Wal-Transport in Cuxhaven an",
@@ -589,90 +673,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/may/03/marco-rubio-visits-rome-pope-leo-us-italy-relations",
       "published_date": "2026-05-03T10:43:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
-      "published_date": "2026-05-03T09:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Russia tries for a foothold in Ukraine’s eastern ‘fortress belt’, continues attacks on civilians",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/ukraine-war-briefing-russia-tries-for-a-foothold-in-ukraines-eastern-fortress-belt-continues-attacks-on-civilians",
-      "published_date": "2026-05-03T00:56:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga-Aufsteiger: Schalke kehrt in die Fußball-Bundesliga zurück",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/schalke-04-kehrt-in-die-fussball-bundesliga-zurueck",
-      "published_date": "2026-05-02T22:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: US troop pullout 'expected' — Pistorius",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-02T19:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga 32. Spieltag – Samstag: Bayer zieht an Stuttgart und Hoffenheim vorbei, HSV besiegt Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/bundesliga-32-spieltag-samstag-bremen-augsburg-bayern-heidenheim-hoffenheim-stuttgart",
-      "published_date": "2026-05-02T18:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-02T18:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T18:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-02T18:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Koalition: CDU und SPD in Rheinland-Pfalz bestätigen neues Regierungsbündnis",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/rheinland-pfalz-cdu-spd-koalition",
-      "published_date": "2026-05-02T11:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parteitag: SPD nimmt Koalitionsvertrag mit CDU an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/02/spd-nimmt-koalitionsvertrag-mit-cdu-an",
-      "published_date": "2026-05-02T11:30:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frauenfußball: Anweisungen von Fußballtrainerin werden erstmals live übertragen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/frauenfussball-trainerin-live-zuhoeren-funkmikrofon",
-      "published_date": "2026-05-02T11:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Einmalige Werbeaktion: Riesen-Vase mit über 800 Blumen für Stunden in Düsseldorf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/02/riesen-vase-mit-ueber-800-blumen-fuer-stunden-in-duesseldorf",
-      "published_date": "2026-05-02T11:23:00+00:00",
       "category": "Local Events"
     }
   ]
