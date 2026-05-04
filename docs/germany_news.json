@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-04T12:18:47.190444+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-04T23:44:27.894690+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
+      "published_date": "2026-05-04T18:37:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A year into Merz government, German far right stronger than ever",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/a-year-into-merz-government-german-far-right-stronger-than-ever",
+      "published_date": "2026-05-04T14:47:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Austria expels three Russian embassy staff after ‘forest of antennae’ discovered",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying",
+      "published_date": "2026-05-04T14:40:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How many US troops serve in Germany and what happens if they go",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/how-many-us-troops-serve-in-germany-and-what-happens-if-they-go",
+      "published_date": "2026-05-04T12:42:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-Grenzpolitik: Polizei findet vier tote Migranten nahe kroatisch-slowenischer Grenze",
       "source": "ZEIT Online",
@@ -21,6 +49,13 @@
       "title": "Germany news: Merz plays down US military withdrawal plans",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-merz-plays-down-us-military-withdrawal-plans/live-77030293?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T09:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz plays down US military withdrawal plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-plays-down-us-military-withdrawal-plans/live-77030293?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-04T09:34:00+00:00",
       "category": "Diplomacy"
     },
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why does the US have military bases in Germany?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
-      "published_date": "2026-05-01T22:55:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US to withdraw thousands of troops from Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-01T22:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US to withdraw thousands of troops from Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T22:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deutsch-amerikanisches Verhältnis: USA kündigen Abzug von 5.000 Soldaten aus Deutschland an",
+      "title": "Mutmaßliche Amokfahrt in Leipzig: Tatverdächtiger von Leipzig war der Polizei wohl bekannt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/usa-kuendigen-abzug-von-5-000-soldaten-aus-deutschland-an",
-      "published_date": "2026-05-01T21:45:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/leipzig-tatverdaechtiger-polizei-bekannt-tote",
+      "published_date": "2026-05-04T22:22:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump tears up part of EU tariff deal to raise import duties on cars and lorries",
+      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T19:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-04T19:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: UAE reports first Iranian missile and drone attacks in weeks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-uae-reports-first-iranian-missile-and-drone-attacks-in-weeks/live-77026618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T17:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on Trump, Merz and Europe’s security: EU countries cannot go it alone | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
-      "published_date": "2026-05-01T19:08:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-trump-merz-and-europes-security-eu-countries-cannot-go-it-alone",
+      "published_date": "2026-05-04T17:31:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dubai's image as a financial hub faces its biggest test yet",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T16:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Central Europe is a laboratory for political trends | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/central-europe-is-a-laboratory-for-political-trends",
+      "published_date": "2026-05-04T15:54:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Weather tracker: Cold spells in Greece and Turkey, and storms in Bangladesh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/04/weather-tracker-greece-winds-turkey-rain-bangladesh-storms-central-europe-heat",
+      "published_date": "2026-05-04T15:01:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany’s military power is on the rise. This time it must be firmly embedded in Europe | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/germany-military-power-rise-embedded-europe-us-trump",
+      "published_date": "2026-05-04T14:39:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: US to escort ships through the Strait of Hormuz",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
+      "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "published_date": "2026-05-02T11:31:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO says 'working' with US to 'understand' decision to cut troops in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260502/nato-says-working-with-us-to-understand-decision-to-cut-troops-in-germany",
-      "published_date": "2026-05-02T11:13:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Buckelwal-Rettung: Der Wal ist frei – was bleibt von ihm?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissen/2026-05/buckelwal-rettung-helfer-aussetzung-nordsee",
-      "published_date": "2026-05-02T10:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Iran war is hurting travelers, airline industry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T07:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Iran war is hurting travelers, airline industry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-02T07:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The significance of US military bases in Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-significance-of-us-military-bases-in-germany/a-77015428?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-02T07:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The significance of US military bases in Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-significance-of-us-military-bases-in-germany/a-77015428?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T07:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine plans army pay hikes, phased discharge — Zelenskyy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T17:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine plans army pay hikes, phased discharge — Zelenskyy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-01T17:26:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
+      "published_date": "2026-05-04T22:01:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany's 'fuel discount' tax cuts haven't fully reached drivers",
@@ -316,6 +323,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/belgium-seeks-nationalization-of-nuclear-power-plants/a-76993170?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-30T12:29:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "A new climate club, minus the fossil fuel lobby",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/a-new-climate-club-minus-the-fossil-fuel-lobby/a-76992981?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T10:52:00+00:00",
       "category": "Energy"
     },
     {
@@ -394,6 +408,20 @@
       "url": "https://www.dw.com/en/fact-check-cloud-seeding-didn-t-make-it-rain-in-iran/a-76924780?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-28T09:53:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "How a Google Maps update exposes manipulated ratings in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/how-a-google-maps-update-exposes-manipulated-ratings-in-germany",
+      "published_date": "2026-05-04T14:59:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Saudi Arabia is withdrawing from sport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T14:56:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Unicredit und Commerzbank: UniCredit-Aktionäre machen Weg für Commerzbank-Übernahme frei",
@@ -522,18 +550,67 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Economy shows surprise growth despite Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-economy-shows-surprise-growth-despite-iran-war/live-76991183?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-04-30T08:43:00+00:00",
-      "category": "Economy"
+      "title": "Leipzig: Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/leipzig-auto-innenstadt-amokfahrt-tote-verletzte-polizei-sachsen-faq",
+      "published_date": "2026-05-04T22:15:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say",
+      "title": "Verbrechen in Leipzig: Mutmaßlicher Amokfahrer tötet und verletzt mehrere Menschen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/04/auto-faehrt-in-leipzig-in-menschengruppe-mehrere-verletzte",
+      "published_date": "2026-05-04T21:53:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schwangerschaftsabbruch: Oberstes Gericht erlaubt Versand von Pille zum Schwangerschaftsabbruch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/usa-schwangerschaftsabbruch-louisiana-mifepriston",
+      "published_date": "2026-05-04T21:53:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Deeply shocked': Leipzig mayor reacts after car rams crowd in Germany – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/29/reliance-on-chinese-green-tech-poses-serious-risk-europe-economy-security-experts-say",
-      "published_date": "2026-04-29T14:49:48+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/may/04/leipzig-mayor-reacts-car-rams-crowd-germany-video",
+      "published_date": "2026-05-04T18:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig: 2 killed after car drives into crowd",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-04T17:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig: 2 killed after car drives into crowd",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T17:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two killed and several hurt after car ploughs into crowds in German city of Leipzig",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported",
+      "published_date": "2026-05-04T17:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LATEST: Two dead in Leipzig after car ploughs into pedestrians",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260504/driver-arrested-after-car-ploughs-into-people-in-leipzig",
+      "published_date": "2026-05-04T16:22:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Modi claims victory in West Bengal election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-modi-claims-victory-in-west-bengal-election/live-77026483?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-04T13:07:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Personalstellen: SPD: Staatsmodernisierung nicht auf Kosten des Personals",
@@ -610,69 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ex-new-york-mayor-giuliani-in-hospital-condition-critical/a-77026193?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-04T02:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Strikes on Russia’s Primorsk oil port and ships",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/ukraine-war-briefing-strikes-on-russias-primorsk-oil-port-and-ships",
-      "published_date": "2026-05-04T01:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gestrandeter Buckelwal: Schlepper kommt nach Wal-Transport in Cuxhaven an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/04/schlepper-kommt-nach-wal-transport-in-cuxhaven-an",
-      "published_date": "2026-05-03T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Innenminister Dobrindt will an Grenzkontrollen festhalten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/migration-grenzkontrollen-alexander-dobrindt-afghanistan",
-      "published_date": "2026-05-03T18:43:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jens Spahn: Kann man wirklich schwul sein, ohne queer zu sein?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/2026-04/cdu-fraktionsvorsitzender-jens-spahn-queerness-bewegung-identitaetspolitik",
-      "published_date": "2026-05-03T18:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heathrow in talks with airlines to end row that could delay third runway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
-      "published_date": "2026-05-03T14:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Serbia's government dominates the country's media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T11:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Serbia's government dominates the country's media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-03T11:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extremismus: Rassistische und homophobe Attacke in U-Bahn in Berlin-Mitte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/03/rassistische-und-homophobe-attacke-in-u-bahn-in-berlin-mitte",
-      "published_date": "2026-05-03T11:06:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marco Rubio to visit Rome, reportedly to ‘thaw’ US relations with Pope and Meloni",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/marco-rubio-visits-rome-pope-leo-us-italy-relations",
-      "published_date": "2026-05-03T10:43:13+00:00",
       "category": "Local Events"
     }
   ]
