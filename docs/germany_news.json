@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-05T11:56:08.426923+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-05T23:41:00.939511+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Armenia balances on the tightrope between Russia and the EU",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T15:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia balances on the tightrope between Russia and the EU",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-05T15:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz faces mounting doubts as he marks one year as German leader",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260505/merz-faces-mounting-doubts-as-he-marks-one-year-as-german-leader",
+      "published_date": "2026-05-05T12:35:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Difficult first year for Chancellor Friedrich Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-05T12:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Difficult first year for Chancellor Friedrich Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T12:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Friedrich Merz decided to risk Donald Trump’s wrath | Jörg Lau",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/05/friedrich-merz-risk-donald-trump-germany-nato-europe",
+      "published_date": "2026-05-05T12:00:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
       "source": "The Guardian",
@@ -102,46 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Republicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-threats-withdraw-troops-from-germany",
-      "published_date": "2026-05-03T13:39:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nigeria summons South Africa envoy over xenophobic incidents",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-summons-south-africa-envoy-over-xenophobic-incidents/a-77023858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T13:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T01:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
-      "published_date": "2026-05-02T17:52:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Zölle: Was über Trumps Zollandrohung bekannt ist",
+      "title": "Internet: Zahlreiche deutsche Websites vorübergehend gestört",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/trump-zoelle-autos-eu-usa",
-      "published_date": "2026-05-02T10:48:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/digital/internet/2026-05/deutsche-webseiten-stoerung-fehlermeldung-dns-service",
+      "published_date": "2026-05-05T23:32:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hope out of chaos: how the dark era of Trump is creating a new approach to global politics",
+      "title": "Iran war: Operation Epic Fury is 'over,' Rubio says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-operation-epic-fury-is-over-rubio-says/live-77059422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T22:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump accuses pope of ‘endangering a lot of Catholics’ with Iran stance",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics",
-      "published_date": "2026-05-02T04:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/05/donald-trump-accuses-pope-leo-of-endangering-a-lot-of-catholics-with-iran-stance",
+      "published_date": "2026-05-05T20:34:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Will tensions escalate in the Strait of Hormuz?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T18:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Strategic neutrality: How Syria is winning in the Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T18:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow shuts down airports and mobile signals as Victory Day parade looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/moscow-russia-shuts-down-airports-mobile-signals-may-9-victory-day-parade-security",
+      "published_date": "2026-05-05T16:29:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Boko Haram militants kill at least 23 troops in Chad attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T16:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany prepares for mission in the Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-05T14:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany prepares for mission in the Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T14:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US says ceasefire still holds despite clashes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-says-ceasefire-still-holds-despite-clashes/live-77045752?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T14:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Rumänien: Rumäniens Regierung droht nach verlorenem Misstrauensvotum das Aus",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Central Europe is a laboratory for political trends | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/central-europe-is-a-laboratory-for-political-trends",
-      "published_date": "2026-05-04T15:54:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weather tracker: Cold spells in Greece and Turkey, and storms in Bangladesh",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/04/weather-tracker-greece-winds-turkey-rain-bangladesh-storms-central-europe-heat",
-      "published_date": "2026-05-04T15:01:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s military power is on the rise. This time it must be firmly embedded in Europe | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/germany-military-power-rise-embedded-europe-us-trump",
-      "published_date": "2026-05-04T14:39:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US to escort ships through the Strait of Hormuz",
+      "title": "Here's why Amsterdam banned fossil fuel and meat advertising",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-to-escort-ships-through-the-strait-of-hormuz/live-77026618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T07:29:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/here-s-why-amsterdam-banned-fossil-fuel-and-meat-advertising/a-77054187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T15:09:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition",
-      "published_date": "2026-05-04T05:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Claude Monet: Die Welt in seinem Licht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/19/claude-monet-impressionismus-seerosen-giverny",
-      "published_date": "2026-05-03T09:26:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German fertiliser makers and farmers struggle with Iran war fallout",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260503/german-fertiliser-makers-and-farmers-struggle-with-iran-war-fallout",
-      "published_date": "2026-05-03T07:38:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says cutting US troops in Germany 'a lot further'",
+      "title": "Japan pivots Indo-Pacific strategy toward Southeast Asia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-03T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says cutting US troops in Germany 'a lot further'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says US to 'guide ships safely' out of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T01:38:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T13:45:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Colombia says nine miners dead after explosion",
@@ -389,32 +403,25 @@
       "category": "Energy"
     },
     {
-      "title": "How a controversial gas pipeline deal could further stall Bosnia's EU accession",
+      "title": "Germany: BioNTech shutting down COVID vaccine production entirely, 1,860 jobs at risk",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T19:26:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-05T13:58:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How a controversial gas pipeline deal could further stall Bosnia's EU accession",
+      "title": "Germany: BioNTech shutting down COVID vaccine production entirely, 1,860 jobs at risk",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-28T19:26:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T13:58:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "One year after Spain’s blackout, its shift to renewables and grid evolution power on",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
-      "published_date": "2026-04-28T13:47:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UAE quits OPEC in shock move amid energy turmoil",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uae-quits-opec-in-shock-move-amid-energy-turmoil/a-76968579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T12:58:00+00:00",
-      "category": "Energy"
+      "title": "Germany's BioNTech to cut up to 1,860 jobs as Covid jab sales drop",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260505/germanys-biontech-to-cut-up-to-1860-jobs-as-covid-jab-sales-drop",
+      "published_date": "2026-05-05T12:33:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pharmaindustrie: BioNTech plant Schließung mehrerer Standorte",
@@ -536,25 +543,53 @@
       "category": "Economy"
     },
     {
-      "title": "Germany was largest exporter of plastic waste in 2025, sending 810,000 tonnes overseas, analysis finds",
+      "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/30/germany-largest-exporter-plastic-waste-2025",
-      "published_date": "2026-04-30T14:38:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
+      "published_date": "2026-05-05T18:02:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
-      "published_date": "2026-04-30T10:36:50+00:00",
-      "category": "Economy"
+      "title": "India: West Bengal election win boosts Modi's BJP",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T16:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German auto giant Volkswagen warns of more cost cuts as profits plunge",
+      "title": "Political row as report calls for sweeping cuts to French public broadcasting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
+      "published_date": "2026-05-05T16:44:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romania’s pro-Europe government collapses unleashing fresh turmoil",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/romania-pro-europe-government-collapses",
+      "published_date": "2026-05-05T16:01:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Who is CDU parliamentary leader Jens Spahn?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-05T15:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Who is CDU parliamentary leader Jens Spahn?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T15:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to talk about working out like a German",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260430/german-auto-giant-volkswagen-warns-of-more-cost-cuts-as-profits-plunge",
-      "published_date": "2026-04-30T09:17:28+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260505/how-to-talk-about-working-out-like-a-german",
+      "published_date": "2026-05-05T12:24:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Romania: Prime Minister Ilie Bolojan loss confidence vote in parliament after largest party, PSD, quit his coalition",
@@ -567,6 +602,20 @@
       "title": "Romania: Prime Minister Ilie Bolojan loss confidence vote in parliament after largest party, PSD, quit his coalition",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/romania-prime-minister-ilie-bolojan-loss-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-05T11:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romania's government collapses after Prime Minister Ilie Bolojan loses confidence vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T11:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romania's government collapses after Prime Minister Ilie Bolojan loses confidence vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-05T11:48:00+00:00",
       "category": "Local Events"
     },
@@ -606,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Leipzig ramming suspect ordered to psych ward",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-leipzig-ramming-suspect-ordered-to-psych-ward/live-77046961?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-05T08:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "What we know so far about suspected car-ramming attack in Leipzig",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260505/what-we-know-so-far-about-suspected-car-ramming-attack-in-leipzig",
@@ -624,76 +680,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-05T07:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260505/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-122",
-      "published_date": "2026-05-05T06:37:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig: Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/leipzig-auto-innenstadt-amokfahrt-tote-verletzte-polizei-sachsen-faq",
-      "published_date": "2026-05-04T22:15:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verbrechen in Leipzig: Mutmaßlicher Amokfahrer tötet und verletzt mehrere Menschen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/04/auto-faehrt-in-leipzig-in-menschengruppe-mehrere-verletzte",
-      "published_date": "2026-05-04T21:53:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schwangerschaftsabbruch: Oberstes Gericht erlaubt Versand von Pille zum Schwangerschaftsabbruch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/usa-schwangerschaftsabbruch-louisiana-mifepriston",
-      "published_date": "2026-05-04T21:53:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Deeply shocked': Leipzig mayor reacts after car rams crowd in Germany – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/04/leipzig-mayor-reacts-car-rams-crowd-germany-video",
-      "published_date": "2026-05-04T18:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig: 2 killed after car drives into crowd",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-04T17:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig: 2 killed after car drives into crowd",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T17:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two killed and several hurt after car ploughs into crowds in German city of Leipzig",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported",
-      "published_date": "2026-05-04T17:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LATEST: Two dead in Leipzig after car ploughs into pedestrians",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260504/driver-arrested-after-car-ploughs-into-people-in-leipzig",
-      "published_date": "2026-05-04T16:22:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Modi claims victory in West Bengal election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-modi-claims-victory-in-west-bengal-election/live-77026483?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T13:07:00+00:00",
       "category": "Local Events"
     }
   ]
