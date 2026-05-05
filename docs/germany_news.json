@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-04T23:44:27.894690+00:00",
-  "story_count": 98,
+  "last_updated": "2026-05-05T11:56:08.426923+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Rumänien: Rumäniens Regierung droht nach verlorenem Misstrauensvotum das Aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/rumaenien-regierung-ilie-bolojan-misstrauensvotum-psd-aur",
+      "published_date": "2026-05-05T11:45:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as attack kills five",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
+      "published_date": "2026-05-05T11:05:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainische Drohnenangriffe: »Russland ist einfach zu groß, um flächendeckend verteidigt zu werden«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/ukrainische-drohnenangriffe-russland-hinterland-krieg",
+      "published_date": "2026-05-05T10:18:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Duelling ceasefires as Zelenskyy floats open-ended truce",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/ukraine-war-briefing-duelling-ceasefires-as-zelenskyy-floats-open-ended-truce",
+      "published_date": "2026-05-05T00:30:37+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Mutmaßliche Amokfahrt in Leipzig: Tatverdächtiger von Leipzig war der Polizei wohl bekannt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/leipzig-tatverdaechtiger-polizei-bekannt-tote",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Trump vows to cut US troops stationed in Germany 'way down'",
+      "title": "Colombia says nine miners dead after explosion",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-vows-to-cut-us-troops-stationed-in-germany-way-down/live-77018194?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T19:54:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/colombia-says-nine-miners-dead-after-explosion/a-77046739?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T08:57:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Why Ukraine and Israel are arguing over grain",
+      "title": "Malawi fuel crisis deepens as oil shortages spread",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-ukraine-and-israel-are-arguing-over-grain/a-77018771?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T15:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Ukraine and Israel are arguing over grain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-ukraine-and-israel-are-arguing-over-grain/a-77018771?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-02T15:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany says withdrawal of US troops was 'expected'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260502/germany-says-withdrawal-of-us-troops-was-expected",
-      "published_date": "2026-05-02T12:42:06+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/malawi-fuel-crisis-deepens-as-oil-shortages-spread/a-77000372?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T08:18:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
@@ -403,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "Fact check: Cloud seeding didn't make it rain in Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-cloud-seeding-didn-t-make-it-rain-in-iran/a-76924780?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-28T09:53:00+00:00",
-      "category": "Energy"
+      "title": "Pharmaindustrie: BioNTech plant Schließung mehrerer Standorte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/biontech-standortschliessungen-corona-impfstoff-produktion-pfizer",
+      "published_date": "2026-05-05T11:01:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "How a Google Maps update exposes manipulated ratings in Germany",
@@ -543,11 +557,81 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Economy shows surprise growth despite Iran war",
+      "title": "Romania: Prime Minister Ilie Bolojan loss confidence vote in parliament after largest party, PSD, quit his coalition",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-economy-shows-surprise-growth-despite-iran-war/live-76991183?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-30T08:43:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/romania-prime-minister-ilie-bolojan-loss-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T11:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romania: Prime Minister Ilie Bolojan loss confidence vote in parliament after largest party, PSD, quit his coalition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/romania-prime-minister-ilie-bolojan-loss-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-05T11:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Extremismus: Hessens AfD warnt Parteinachwuchs vor Treffen mit Aktion 451",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/05/hessens-afd-warnt-parteinachwuchs-vor-treffen-mit-aktion-451",
+      "published_date": "2026-05-05T11:36:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romanian government collapses after losing no confidence vote – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
+      "published_date": "2026-05-05T11:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Couple admits €1.9 million parking meter thefts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-05T11:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Couple admits €1.9 million parking meter thefts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T11:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Leipzig ramming suspect to appear in court",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-leipzig-ramming-suspect-to-appear-in-court/live-77046961?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T08:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know so far about suspected car-ramming attack in Leipzig",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260505/what-we-know-so-far-about-suspected-car-ramming-attack-in-leipzig",
+      "published_date": "2026-05-05T08:14:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is Germany's 'migration turnaround' actually achieving?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260505/what-is-germanys-migration-turnaround-actually-achieving",
+      "published_date": "2026-05-05T08:02:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: West Bengal wakes to a new political reality",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T07:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260505/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-122",
+      "published_date": "2026-05-05T06:37:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Leipzig: Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
@@ -610,83 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-modi-claims-victory-in-west-bengal-election/live-77026483?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-04T13:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Personalstellen: SPD: Staatsmodernisierung nicht auf Kosten des Personals",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/04/spd-staatsmodernisierung-nicht-auf-kosten-des-personals",
-      "published_date": "2026-05-04T12:05:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiere: Neues Koala-Männchen aus NRW zieht in Dresdner Zoo ein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/04/neues-koala-maennchen-aus-nrw-zieht-in-dresdner-zoo-ein",
-      "published_date": "2026-05-04T11:58:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-      "published_date": "2026-05-04T11:46:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meal-Prep-Plan: 30 Pflanzen auf fünf Tellern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-04/meal-prep-wochenplan-30-pflanzen",
-      "published_date": "2026-05-04T11:43:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georg Baselitz, artist renowned for his upside-down paintings, dies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/georg-baselitz-artist-renowned-for-his-upside-down-paintings-dies/a-77037122?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T11:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women's Champions League: Bayern fall to Barcelona in semis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-04T09:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women's Champions League: Bayern fall to Barcelona in semis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T09:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260504/today-in-germany-a-roundup-of-the-latest-news-on-monday-121",
-      "published_date": "2026-05-04T06:41:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: State polls test Modi's political might",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-state-polls-test-modi-s-political-might/live-77026483?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T05:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The centre left is not dead. A progressive new counter-Trumpian movement is on the way | Florian Ranft",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/centre-left-not-dead-new-counter-trumpian-movemen",
-      "published_date": "2026-05-04T04:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-New York Mayor Giuliani in hospital, condition 'critical'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-new-york-mayor-giuliani-in-hospital-condition-critical/a-77026193?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T02:22:00+00:00",
       "category": "Local Events"
     }
   ]
