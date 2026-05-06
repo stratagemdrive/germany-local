@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-05T23:41:00.939511+00:00",
-  "story_count": 97,
+  "last_updated": "2026-05-06T12:24:53.991904+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Armut in Europa: Europäische Union will Armut mit neuer Strategie bekämpfen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/armut-europaeische-union-kommisssion-bruessel-armutsgefaehrdete-kinder",
+      "published_date": "2026-05-06T12:11:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "LISTED: The major airlines in Germany cancelling flights and adding extra charges",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/listed-the-major-airlines-in-germany-cancelling-flights-and-adding-extra-charges",
+      "published_date": "2026-05-06T11:20:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US threatens to scrap EU visa waivers over data sharing demands",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/us-threatens-to-scrap-eu-visa-waivers-over-data-sharing-demands",
+      "published_date": "2026-05-06T10:42:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Far-right youth groups raided by police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-06T08:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Far-right youth groups raided by police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T08:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Far-right youth groups raided by police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-06T08:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Twin explosions put Punjab on edge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-twin-explosions-put-punjab-on-edge/live-77060808?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T06:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
+      "published_date": "2026-05-06T05:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
+      "published_date": "2026-05-06T04:00:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia balances on the tightrope between Russia and the EU",
       "source": "Deutsche Welle",
@@ -81,67 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EPC summit: Europe has 'gotten the message' from Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/epc-summit-europe-has-gotten-the-message-from-trump/live-77030273?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T10:05:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz plays down US military withdrawal plans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-plays-down-us-military-withdrawal-plans/live-77030293?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T09:34:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz plays down US military withdrawal plans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-plays-down-us-military-withdrawal-plans/live-77030293?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-04T09:34:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz says not 'giving up on working with Donald Trump'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260504/germanys-merz-says-not-giving-up-on-working-with-donald-trump",
-      "published_date": "2026-05-04T06:49:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
+      "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
-      "published_date": "2026-05-04T04:00:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
+      "published_date": "2026-05-06T12:03:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Merz 'not giving up' on Germany's relationship with US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T23:02:00+00:00",
-      "category": "Diplomacy"
+      "title": "Unifil-Mission: Kabinett verlängert Libanoneinsatz der Bundeswehr zum letzten Mal",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/kabinett-beschluss-bundeswehr-libanon-unifil-mission-ende-gxe",
+      "published_date": "2026-05-06T11:51:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Merz 'not giving up' on Germany's relationship with US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-03T23:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
+      "title": "From V2 rocket-scarred London to Ukraine: how nature thrives in bomb craters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat",
-      "published_date": "2026-05-03T20:27:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/environment/2026/may/06/london-to-ukraine-how-nature-is-thriving-in-bomb-craters",
+      "published_date": "2026-05-06T10:00:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "title": "‘Putin only cares about parades’: fury as Russia rains missiles on Ukraine during 24-hour truce",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
-      "published_date": "2026-05-03T14:57:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
+      "published_date": "2026-05-06T09:32:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens killed as Ukraine accuses Russia of breaking unilateral ceasefire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dozens-killed-as-ukraine-accuses-russia-of-breaking-unilateral-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T09:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran War: How the jet fuel shortage affects air travel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-how-the-jet-fuel-shortage-affects-air-travel/a-77047977?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T08:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says 'Project Freedom' paused",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T07:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump and his oil-and-coal oligarchy should face sanctions for their war on the environment | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
+      "published_date": "2026-05-06T04:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/ukraine-drone-supply-chain-taiwan",
+      "published_date": "2026-05-06T00:00:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Internet: Zahlreiche deutsche Websites vorübergehend gestört",
@@ -221,72 +284,23 @@
       "category": "Military"
     },
     {
-      "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as attack kills five",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
-      "published_date": "2026-05-05T11:05:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainische Drohnenangriffe: »Russland ist einfach zu groß, um flächendeckend verteidigt zu werden«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/ukrainische-drohnenangriffe-russland-hinterland-krieg",
-      "published_date": "2026-05-05T10:18:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Duelling ceasefires as Zelenskyy floats open-ended truce",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/ukraine-war-briefing-duelling-ceasefires-as-zelenskyy-floats-open-ended-truce",
-      "published_date": "2026-05-05T00:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mutmaßliche Amokfahrt in Leipzig: Tatverdächtiger von Leipzig war der Polizei wohl bekannt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/leipzig-tatverdaechtiger-polizei-bekannt-tote",
-      "published_date": "2026-05-04T22:22:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T19:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-04T19:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: UAE reports first Iranian missile and drone attacks in weeks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-uae-reports-first-iranian-missile-and-drone-attacks-in-weeks/live-77026618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T17:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on Trump, Merz and Europe’s security: EU countries cannot go it alone | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-trump-merz-and-europes-security-eu-countries-cannot-go-it-alone",
-      "published_date": "2026-05-04T17:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dubai's image as a financial hub faces its biggest test yet",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T16:25:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Here's why Amsterdam banned fossil fuel and meat advertising",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/here-s-why-amsterdam-banned-fossil-fuel-and-meat-advertising/a-77054187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T15:09:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Here's why some cities are banning fossil fuel and meat ads",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-05T15:09:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Here's why some cities are banning fossil fuel and meat ads",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-05T15:09:00+00:00",
       "category": "Energy"
     },
@@ -382,25 +396,39 @@
       "category": "Energy"
     },
     {
-      "title": "Why UAE's OPEC exit is a blow to Saudi Arabia",
+      "title": "Romania's government falls, far-right firewall crumbles",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T10:36:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T11:07:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Extreme weather and green energy on the rise in Europe",
+      "title": "Romania's government falls, far-right firewall crumbles",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/extreme-weather-and-green-energy-on-the-rise-in-europe/a-76962870?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-29T02:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-06T11:07:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Extreme weather and green energy on the rise in Europe",
+      "title": "Ghana debates ban on 'sex for jobs' practices",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/extreme-weather-and-green-energy-on-the-rise-in-europe/a-76962870?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-04-29T02:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/ghana-debates-ban-on-sex-for-jobs-practices/a-77062838?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T11:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hungary's new government pushes for euro by 2030",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T08:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hungary's new government pushes for euro by 2030",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-06T08:34:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany: BioNTech shutting down COVID vaccine production entirely, 1,860 jobs at risk",
@@ -508,39 +536,81 @@
       "category": "Economy"
     },
     {
-      "title": "Why Russia's Northern Sea Route is a risk for global trade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T19:43:00+00:00",
-      "category": "Economy"
+      "title": "Borussia Dortmund: Saison für BVB-Verteidiger Bensebaini beendet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/06/saison-fuer-bvb-verteidiger-bensebaini-beendet",
+      "published_date": "2026-05-06T12:01:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Russia's Northern Sea Route is a risk for global trade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-02T19:43:00+00:00",
-      "category": "Economy"
+      "title": "Grün-schwarze Landesregierung: Grüne und CDU in Baden-Württemberg wollen Wirtschaft stärken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/koalitionsvertrag-baden-wuerttemberg-gruene-cdu-wirtschaft-bildung-sicherheit",
+      "published_date": "2026-05-06T11:49:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Spirit Airlines says they are going out of business",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spirit-airlines-says-they-are-going-out-of-business/a-77016867?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T06:43:00+00:00",
-      "category": "Economy"
+      "title": "How Berlin's Olympics bid would reshape the city",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/how-berlins-olympics-bid-would-reshape-the-city",
+      "published_date": "2026-05-06T11:26:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gender investment gap — Are women catching up with men?",
+      "title": "How Rosalia became a global pop force",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T05:13:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/how-rosalia-became-a-global-pop-force/a-77052783?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T08:04:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia's public fund to withdraw LIV Golf funding",
+      "title": "Here's what happens when cities ban cars",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-s-public-fund-to-withdraw-liv-golf-funding/a-77005158?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-30T17:58:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/here-s-what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T07:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here's what happens when cities ban cars",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/here-s-what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-06T07:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-119",
+      "published_date": "2026-05-06T06:31:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia: Suspect in Bondi massacre to face more charges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T06:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia says 13 IS-linked citizens to fly back from Syria",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-says-13-is-linked-citizens-to-fly-back-from-syria/a-77060174?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T04:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
+      "published_date": "2026-05-06T04:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Europe ready for a future without the US? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/may/06/is-europe-ready-for-a-future-without-the-us-podcast",
+      "published_date": "2026-05-06T02:00:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
@@ -603,83 +673,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/romania-prime-minister-ilie-bolojan-loss-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-05T11:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania's government collapses after Prime Minister Ilie Bolojan loses confidence vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T11:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania's government collapses after Prime Minister Ilie Bolojan loses confidence vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-05T11:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extremismus: Hessens AfD warnt Parteinachwuchs vor Treffen mit Aktion 451",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/05/hessens-afd-warnt-parteinachwuchs-vor-treffen-mit-aktion-451",
-      "published_date": "2026-05-05T11:36:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romanian government collapses after losing no confidence vote – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
-      "published_date": "2026-05-05T11:31:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Couple admits €1.9 million parking meter thefts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-05T11:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Couple admits €1.9 million parking meter thefts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T11:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Leipzig ramming suspect to appear in court",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-leipzig-ramming-suspect-to-appear-in-court/live-77046961?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T08:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Leipzig ramming suspect ordered to psych ward",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-leipzig-ramming-suspect-ordered-to-psych-ward/live-77046961?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-05T08:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know so far about suspected car-ramming attack in Leipzig",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260505/what-we-know-so-far-about-suspected-car-ramming-attack-in-leipzig",
-      "published_date": "2026-05-05T08:14:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is Germany's 'migration turnaround' actually achieving?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260505/what-is-germanys-migration-turnaround-actually-achieving",
-      "published_date": "2026-05-05T08:02:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: West Bengal wakes to a new political reality",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T07:10:00+00:00",
       "category": "Local Events"
     }
   ]
