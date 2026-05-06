@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-06T12:24:53.991904+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-06T23:42:02.017008+00:00",
+  "story_count": 98,
   "stories": [
     {
       "title": "Armut in Europa: Europäische Union will Armut mit neuer Strategie bekämpfen",
@@ -144,6 +144,48 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ukraine-Krieg: Selenskyj beklagt Verstöße, gibt Feuerpause zweite Chance",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/06/weniger-angriffe-nach-beginn-von-selenskyjs-waffenruhe",
+      "published_date": "2026-05-06T21:03:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Eurovision to the Venice Biennale, culture contests are being overshadowed by politics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/from-eurovision-to-the-venice-biennale-culture-contests-are-struggling-to-channel-globalised-politics",
+      "published_date": "2026-05-06T14:43:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-what-s-behind-suu-kyi-s-transfer-to-house-arrest/a-77066625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T14:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Historic Lebanon-Israel talks: A no-win situation?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/historic-lebanon-israel-talks-a-no-win-situation/a-77067522?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T14:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Factory of lies’: what will Péter Magyar do about Hungary’s state media?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/factory-of-lies-peter-magyar-hungary-state-media",
+      "published_date": "2026-05-06T14:01:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How India uses remote island to show strength against China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-india-uses-remote-island-to-show-strength-against-china/a-77064418?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T12:38:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
@@ -182,6 +224,13 @@
       "title": "Iran War: How the jet fuel shortage affects air travel",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-how-the-jet-fuel-shortage-affects-air-travel/a-77047977?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T08:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What the Strait of Hormuz fuel crisis means for air travel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-the-strait-of-hormuz-fuel-crisis-means-for-air-travel/a-77047977?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-06T08:28:00+00:00",
       "category": "Military"
     },
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Strategic neutrality: How Syria is winning in the Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T18:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow shuts down airports and mobile signals as Victory Day parade looms",
+      "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/moscow-russia-shuts-down-airports-mobile-signals-may-9-victory-day-parade-security",
-      "published_date": "2026-05-05T16:29:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Boko Haram militants kill at least 23 troops in Chad attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany prepares for mission in the Strait of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-05T14:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany prepares for mission in the Strait of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T14:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US says ceasefire still holds despite clashes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-says-ceasefire-still-holds-despite-clashes/live-77045752?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T14:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rumänien: Rumäniens Regierung droht nach verlorenem Misstrauensvotum das Aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/rumaenien-regierung-ilie-bolojan-misstrauensvotum-psd-aur",
-      "published_date": "2026-05-05T11:45:17+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
+      "published_date": "2026-05-06T15:25:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Here's why Amsterdam banned fossil fuel and meat advertising",
@@ -389,11 +396,39 @@
       "category": "Energy"
     },
     {
+      "title": "Why UAE's OPEC exit is a blow to Saudi Arabia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-04-30T07:02:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Ecuador starts fracking in Amazon rainforest",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ecuador-starts-fracking-in-amazon-rainforest/a-76990028?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-04-30T03:54:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "CNN founder Ted Turner has died at 87",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cnn-founder-ted-turner-has-died-at-87/a-77069817?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T14:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's Lufthansa warns of hefty fuel costs and prepares for shortages",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/germanys-lufthansa-warns-of-hefty-fuel-costs-and-prepares-for-shortages",
+      "published_date": "2026-05-06T13:47:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "German automaker BMW optimistic despite Trump's latest tariff threat",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/german-automaker-bmw-optimistic-despite-trumps-latest-tariff-threat",
+      "published_date": "2026-05-06T13:03:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Romania's government falls, far-right firewall crumbles",
@@ -413,6 +448,13 @@
       "title": "Ghana debates ban on 'sex for jobs' practices",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ghana-debates-ban-on-sex-for-jobs-practices/a-77062838?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T11:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Could Ghana outlaw 'sex for jobs' demands?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-ghana-outlaw-sex-for-jobs-demands/a-77062838?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-06T11:06:00+00:00",
       "category": "Economy"
     },
@@ -508,32 +550,67 @@
       "category": "Economy"
     },
     {
-      "title": "Where Germany's economy still excels",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-03T05:58:00+00:00",
-      "category": "Economy"
+      "title": "Hantavirus: Deutsche Passagierin von Hantavirus-Schiff wird in NRW untersucht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/hantavirus-kreuzfahrtschiff-hondius-passagiere-kapverden-niederlande-duesseldorf-who",
+      "published_date": "2026-05-06T23:33:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Where Germany's economy still excels",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-03T05:58:00+00:00",
-      "category": "Economy"
+      "title": "Todesfälle bei Kreuzfahrt: Hantavirus-Kontaktperson am Klinikum Düsseldorf eingetroffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/06/hantavirus-kontaktperson-am-klinikum-duesseldorf-eingetroffen",
+      "published_date": "2026-05-06T21:55:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
+      "title": "Bayern Munich exit Champions League in semifinal to PSG",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-02T19:43:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-06T20:55:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
+      "title": "Bayern Munich exit Champions League in semifinal to PSG",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-02T19:43:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T20:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany cracks down on neo-Nazi networks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-06T16:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany cracks down on neo-Nazi networks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T16:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close",
+      "published_date": "2026-05-06T16:35:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vienna’s public transport is the envy of the world – so why can’t it ditch cars?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/06/vienna-public-transport-tram-network-ditch-cars",
+      "published_date": "2026-05-06T15:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Person from hantavirus-hit ship heading to German hospital",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260506/person-from-hantavirus-hit-ship-heading-to-german-hospital",
+      "published_date": "2026-05-06T13:17:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Borussia Dortmund: Saison für BVB-Verteidiger Bensebaini beendet",
@@ -564,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Israel strikes Beirut for first time since Lebanon ceasefire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-strikes-beirut-for-first-time-since-lebanon-ceasefire/live-77059422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T07:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Here's what happens when cities ban cars",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/here-s-what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-all-1573-rdf",
@@ -574,6 +658,20 @@
       "title": "Here's what happens when cities ban cars",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/here-s-what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-06T07:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What happens when cities ban cars?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T07:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What happens when cities ban cars?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-06T07:02:00+00:00",
       "category": "Local Events"
     },
@@ -589,90 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-06T06:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia says 13 IS-linked citizens to fly back from Syria",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-says-13-is-linked-citizens-to-fly-back-from-syria/a-77060174?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T04:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
-      "published_date": "2026-05-06T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Europe ready for a future without the US? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/may/06/is-europe-ready-for-a-future-without-the-us-podcast",
-      "published_date": "2026-05-06T02:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
-      "published_date": "2026-05-05T18:02:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: West Bengal election win boosts Modi's BJP",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T16:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political row as report calls for sweeping cuts to French public broadcasting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
-      "published_date": "2026-05-05T16:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania’s pro-Europe government collapses unleashing fresh turmoil",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/romania-pro-europe-government-collapses",
-      "published_date": "2026-05-05T16:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Who is CDU parliamentary leader Jens Spahn?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-05T15:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Who is CDU parliamentary leader Jens Spahn?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T15:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to talk about working out like a German",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260505/how-to-talk-about-working-out-like-a-german",
-      "published_date": "2026-05-05T12:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania: Prime Minister Ilie Bolojan loss confidence vote in parliament after largest party, PSD, quit his coalition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-prime-minister-ilie-bolojan-loss-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T11:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania: Prime Minister Ilie Bolojan loss confidence vote in parliament after largest party, PSD, quit his coalition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-prime-minister-ilie-bolojan-loss-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-05T11:48:00+00:00",
       "category": "Local Events"
     }
   ]
