@@ -1,13 +1,55 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-07T12:26:18.703092+00:00",
+  "last_updated": "2026-05-07T23:44:39.431211+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
+      "published_date": "2026-05-07T22:04:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US trade court rules against Trump’s 10% global tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling",
+      "published_date": "2026-05-07T21:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zollstreit mit den USA: Trump setzt EU neue Frist zur Umsetzung der Handelsvereinbarung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/usa-eu-drohung-zoelle-handelsvereinbarung-donald-trump",
+      "published_date": "2026-05-07T19:45:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump gives EU until Jul 4 to implement trade deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-gives-eu-until-jul-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T19:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Regierungsbilanz: Ein Jahr Friedrich Merz – Kommt der Kanzler aus der Krise?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/friedrich-merz-regierung-ein-jahr-unbeliebt-bilanz-mariam-lau-was-jetzt-videopodcast",
+      "published_date": "2026-05-07T18:50:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Klimafreundlichere Industrie: EU genehmigt Milliardenförderung für deutsche Industrie",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-05/deutschland-industrie-umbau-foerderung-eu-kommission-gxe",
       "published_date": "2026-05-07T10:52:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'The threat is real.' Why the EU is treating Chinese solar tech like a security threat.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-threat-is-real-why-the-eu-is-treating-chinese-solar-tech-like-a-security-threat/a-77066865?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T10:49:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia balances on the tightrope between Russia and the EU",
+      "title": "US says it struck targets in Iran after attack on warships",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T15:38:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T22:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia balances on the tightrope between Russia and the EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-05T15:38:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine-Krieg: Zeit von Moskauer Waffenruhe läuft",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/08/zeit-von-moskauer-waffenruhe-laeuft",
+      "published_date": "2026-05-07T22:00:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Merz faces mounting doubts as he marks one year as German leader",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260505/merz-faces-mounting-doubts-as-he-marks-one-year-as-german-leader",
-      "published_date": "2026-05-05T12:35:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Difficult first year for Chancellor Friedrich Merz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-05T12:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Difficult first year for Chancellor Friedrich Merz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T12:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Friedrich Merz decided to risk Donald Trump’s wrath | Jörg Lau",
+      "title": "The Guardian view on ceasefires that aren’t: Israel never stopped killing in Gaza – allies must reject any escalation | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/friedrich-merz-risk-donald-trump-germany-nato-europe",
-      "published_date": "2026-05-05T12:00:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-ceasefires-that-arent-israel-never-stopped-killing-in-gaza-allies-must-reject-any-escalation",
+      "published_date": "2026-05-07T17:36:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Navy tracks Russian frigate for one month off UK coast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/07/royal-navy-tracks-russian-frigate-one-month-uk-coast",
+      "published_date": "2026-05-07T17:09:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War and peace: key themes of Pope Leo's first year in office",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T17:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Translation firm DeepL cuts quarter of staff in Germany citing AI",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260507/translation-firm-deepl-cuts-quarter-of-staff-in-germany-citing-ai",
+      "published_date": "2026-05-07T14:42:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain awards UN legal expert Francesca Albanese one of its highest civilian honours",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/spain-awards-un-legal-expert-francesca-albanese-one-of-highest-civilian-honours",
+      "published_date": "2026-05-07T14:17:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Marco Rubio meets Pope Leo at the Vatican",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T12:31:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Moskau meldet ukrainische Angriffe - was ist mit Waffenruhe?",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Historic Lebanon-Israel talks: A no-win situation?",
+      "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/historic-lebanon-israel-talks-a-no-win-situation/a-77067522?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T14:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Factory of lies’: what will Péter Magyar do about Hungary’s state media?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/factory-of-lies-peter-magyar-hungary-state-media",
-      "published_date": "2026-05-06T14:01:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How India uses remote island to show strength against China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-india-uses-remote-island-to-show-strength-against-china/a-77064418?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T12:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
-      "published_date": "2026-05-06T12:03:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unifil-Mission: Kabinett verlängert Libanoneinsatz der Bundeswehr zum letzten Mal",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-05/kabinett-beschluss-bundeswehr-libanon-unifil-mission-ende-gxe",
-      "published_date": "2026-05-06T11:51:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From V2 rocket-scarred London to Ukraine: how nature thrives in bomb craters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/06/london-to-ukraine-how-nature-is-thriving-in-bomb-craters",
-      "published_date": "2026-05-06T10:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Putin only cares about parades’: fury as Russia rains missiles on Ukraine during 24-hour truce",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
-      "published_date": "2026-05-06T09:32:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens killed as Ukraine accuses Russia of breaking unilateral ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dozens-killed-as-ukraine-accuses-russia-of-breaking-unilateral-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T09:09:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T13:17:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Solar sabotage: Why Europe sees security risks in solar power",
@@ -386,13 +393,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
       "published_date": "2026-05-01T16:02:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Belgium seeks nationalization of nuclear power plants",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belgium-seeks-nationalization-of-nuclear-power-plants/a-76993170?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-04-30T12:29:00+00:00",
       "category": "Energy"
     },
     {
@@ -536,6 +536,83 @@
       "category": "Economy"
     },
     {
+      "title": "Bonnie Tyler in induced coma after emergency intestinal surgery",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/07/bonnie-tyler-induced-coma-intestinal-surgery",
+      "published_date": "2026-05-07T19:27:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "published_date": "2026-05-07T19:20:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-07T15:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T15:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa: A timeline of recurring waves of xenophobic violence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-a-timeline-of-recurring-waves-of-xenophobic-violence/a-77077874?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T14:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settler to go on trial over attack on French nun in Jerusalem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/israeli-settler-trial-attack-french-nun-jerusalem",
+      "published_date": "2026-05-07T14:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia: 3 women with IS links arrested on return home",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-3-women-with-is-links-arrested-on-return-home/a-77079473?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T14:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German tourist wins damages after sun lounger court battle",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260507/german-tourist-wins-damages-after-sun-lounger-court-battle",
+      "published_date": "2026-05-07T13:51:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police report 3 dead in shooting in Linz, say no further danger to public",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T13:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria: Police report 3 dead in shooting in Linz, say no further danger to public",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-07T13:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Wanke nicht, mein Vaterland': Germany's state anthems explained",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260507/wanke-nicht-mein-vaterland-germanys-state-anthems-explained",
+      "published_date": "2026-05-07T13:25:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Landgericht München: «Hitlergruß»-Collage? AfD-Mann Bystron freigesprochen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/07/hitlergruss-collage-afd-mann-bystron-freigesprochen",
@@ -596,83 +673,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260507/today-in-germany-a-roundup-of-the-latest-news-on-thursday-118",
       "published_date": "2026-05-07T06:42:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump may be toxic and Orbán is gone, but Europe’s far right is not in decline | Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/07/trump-orban-hungary-liability-europe-far-right-decline",
-      "published_date": "2026-05-07T04:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus: Deutsche Passagierin von Hantavirus-Schiff wird in NRW untersucht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/hantavirus-kreuzfahrtschiff-hondius-passagiere-kapverden-niederlande-duesseldorf-who",
-      "published_date": "2026-05-06T23:33:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Todesfälle bei Kreuzfahrt: Hantavirus-Kontaktperson am Klinikum Düsseldorf eingetroffen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/06/hantavirus-kontaktperson-am-klinikum-duesseldorf-eingetroffen",
-      "published_date": "2026-05-06T21:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich exit Champions League in semifinal to PSG",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-06T20:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich exit Champions League in semifinal to PSG",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T20:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany cracks down on neo-Nazi networks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-06T16:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany cracks down on neo-Nazi networks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T16:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close",
-      "published_date": "2026-05-06T16:35:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vienna’s public transport is the envy of the world – so why can’t it ditch cars?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/06/vienna-public-transport-tram-network-ditch-cars",
-      "published_date": "2026-05-06T15:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Person from hantavirus-hit ship heading to German hospital",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260506/person-from-hantavirus-hit-ship-heading-to-german-hospital",
-      "published_date": "2026-05-06T13:17:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Borussia Dortmund: Saison für BVB-Verteidiger Bensebaini beendet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/06/saison-fuer-bvb-verteidiger-bensebaini-beendet",
-      "published_date": "2026-05-06T12:01:25+00:00",
       "category": "Local Events"
     }
   ]
