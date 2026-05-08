@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-07T23:44:39.431211+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-08T12:06:26.901954+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/08/future-of-uk-lies-eu-brexit-failure-european-greens-vula-tsetsi",
+      "published_date": "2026-05-08T10:46:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: AfD benefits from discontent with Merz's government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-afd-benefits-from-discontent-with-merz-s-government/a-77094216?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-08T10:40:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: AfD benefits from discontent with Merz's government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-afd-benefits-from-discontent-with-merz-s-government/a-77094216?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T10:40:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
       "source": "The Guardian",
@@ -32,6 +53,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Trump gives EU until July 4 to implement trade deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-gives-eu-until-july-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T19:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Regierungsbilanz: Ein Jahr Friedrich Merz – Kommt der Kanzler aus der Krise?",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/2026-05/friedrich-merz-regierung-ein-jahr-unbeliebt-bilanz-mariam-lau-was-jetzt-videopodcast",
@@ -49,6 +77,13 @@
       "title": "'The threat is real.' Why the EU is treating Chinese solar tech like a security threat.",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/the-threat-is-real-why-the-eu-is-treating-chinese-solar-tech-like-a-security-threat/a-77066865?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-07T10:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why the EU sees Chinese solar tech as a major security risk",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-the-eu-sees-chinese-solar-tech-as-a-major-security-risk/a-77066865?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-07T10:49:00+00:00",
       "category": "Diplomacy"
     },
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Far-right youth groups raided by police",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T08:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Far-right youth groups raided by police",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-06T08:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: Twin explosions put Punjab on edge",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-twin-explosions-put-punjab-on-edge/live-77060808?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T06:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
+      "title": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-      "published_date": "2026-05-06T05:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
+      "published_date": "2026-05-08T11:21:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
+      "title": "Why Russia has scaled back May 9 Victory Parade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T10:43:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Russia has scaled back May 9 Victory Parade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-08T10:43:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, Russia trade attacks despite 'ceasefire'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-attacks-despite-ceasefire/live-77091251?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T09:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ASEAN leaders meet to discuss plans to ease Iran war impacts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T07:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
-      "published_date": "2026-05-06T04:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/08/madyar-robert-brovdi-ukraine-military-vladimir-putin",
+      "published_date": "2026-05-08T07:00:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Experience: I am the best lightsaber fighter in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/08/experience-i-am-the-best-lightsaber-fighter-in-europe",
+      "published_date": "2026-05-08T04:00:37+00:00",
+      "category": "Military"
     },
     {
       "title": "US says it struck targets in Iran after attack on warships",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Reopening strait of Hormuz would have limited impact on cargo flows, says Maersk",
+      "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/07/reopening-strait-of-hormuz-would-have-limited-impact-on-cargo-flows-says-maersk",
-      "published_date": "2026-05-07T10:36:50+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
+      "published_date": "2026-05-08T10:30:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "JD Sports says Iran war could hit consumer spending and raise prices",
+      "title": "Our cities are choked by cars – here’s how experts would fix them",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/07/jd-sports-warns-iran-war-could-hit-consumer-spending-and-raise-prices",
-      "published_date": "2026-05-07T09:02:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One year after India-Pakistan conflict, rival narratives persist",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/one-year-after-india-pakistan-conflict-rival-narratives-persist/live-77073167?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T07:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump optimistic for deal as Tehran yet to respond",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-optimistic-for-deal-as-tehran-yet-to-respond/live-77072632?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T00:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Selenskyj beklagt Verstöße, gibt Feuerpause zweite Chance",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/06/weniger-angriffe-nach-beginn-von-selenskyjs-waffenruhe",
-      "published_date": "2026-05-06T21:03:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Eurovision to the Venice Biennale, culture contests are being overshadowed by politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/from-eurovision-to-the-venice-biennale-culture-contests-are-struggling-to-channel-globalised-politics",
-      "published_date": "2026-05-06T14:43:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-what-s-behind-suu-kyi-s-transfer-to-house-arrest/a-77066625?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T14:23:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/08/cities-cars-experts-green-spaces-cyclists",
+      "published_date": "2026-05-08T10:00:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
@@ -396,6 +410,41 @@
       "category": "Energy"
     },
     {
+      "title": "Pioneer in the fight against AIDS: Botswana's ex-President Festus Mogae died",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pioneer-in-the-fight-against-aids-botswana-s-ex-president-festus-mogae-died/a-77095797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T11:44:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Exports jump higher than expected",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-exports-jump-higher-than-expected/live-77092745?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-08T10:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Exports jump higher than expected",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-exports-jump-higher-than-expected/live-77092745?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T10:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+      "published_date": "2026-05-08T04:00:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US court deals fresh blow to Trump's 10% global tariff policy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T01:49:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Deutsche Bahn: Zustand des Schienennetzes bleibt trotz Investitionen schlecht",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/mobilitaet/2026-05/deutsche-bahn-uenpuenktlich-chefin-evelyn-palla-schienennetz-sanierung-investitionen",
@@ -501,39 +550,60 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's BioNTech to cut up to 1,860 jobs as Covid jab sales drop",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260505/germanys-biontech-to-cut-up-to-1860-jobs-as-covid-jab-sales-drop",
-      "published_date": "2026-05-05T12:33:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pharmaindustrie: BioNTech plant Schließung mehrerer Standorte",
+      "title": "Entlastungsprämie: Grüne sehen in Bundesratablehnung Schwäche des Kanzlers",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-05/biontech-standortschliessungen-corona-impfstoff-produktion-pfizer",
-      "published_date": "2026-05-05T11:01:37+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/entlastungspraemie-ablehnung-reaktionen-droege-dressel-esdar-roloff-steiger",
+      "published_date": "2026-05-08T10:59:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How a Google Maps update exposes manipulated ratings in Germany",
+      "title": "Sparkassen-Einbruch: »Als wären wir alle Hartz-IV-Empfänger, die Schwarzgeld lagern«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/geld/2026-05/sparkasse-einbruch-demonstration-bank-afd-gelsenkirchen-gxe",
+      "published_date": "2026-05-08T10:51:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Hausratversicherung': What is Germany's household contents insurance?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260504/how-a-google-maps-update-exposes-manipulated-ratings-in-germany",
-      "published_date": "2026-05-04T14:59:04+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260508/hausratversicherung-what-is-germanys-household-contents-insurance",
+      "published_date": "2026-05-08T10:28:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Saudi Arabia is withdrawing from sport",
+      "title": "BREAKING: Hostages taken at bank in western Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260508/breaking-hostages-taken-at-bank-in-western-germany",
+      "published_date": "2026-05-08T09:38:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hostage situation unfolds at German bank",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-04T14:56:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/hostage-situation-unfolds-at-german-bank/a-77092718?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-08T09:22:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Unicredit und Commerzbank: UniCredit-Aktionäre machen Weg für Commerzbank-Übernahme frei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-05/unicredit-commerzbank-uebernahme-angebot-kapitalerhoehung-andrea-orcel",
-      "published_date": "2026-05-04T11:26:56+00:00",
-      "category": "Economy"
+      "title": "Hostage situation unfolds at German bank",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hostage-situation-unfolds-at-german-bank/a-77092718?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T09:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa Constitutional Court orders Parliament to revisit Ramaphosa impeachment proceedings",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T08:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260508/today-in-germany-a-roundup-of-the-latest-news-on-friday-122",
+      "published_date": "2026-05-08T06:30:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bonnie Tyler in induced coma after emergency intestinal surgery",
@@ -617,62 +687,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/07/hitlergruss-collage-afd-mann-bystron-freigesprochen",
       "published_date": "2026-05-07T12:17:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German tourist awarded €1,000 after losing out on sunloungers at Greek hotel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/german-tourist-awarded-after-losing-out-sunloungers-greek-hotel",
-      "published_date": "2026-05-07T12:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 50,000 pupils expected to strike over German rearmament policy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/germany-pupils-strike-rearmament-policy-protest-boycott",
-      "published_date": "2026-05-07T11:39:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When do schools across Germany start summer holidays in 2026?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/when-do-schools-across-germany-start-summer-holidays-in-2026",
-      "published_date": "2026-05-07T11:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What fans should know about the Backstreet Boys' concerts in Düsseldorf",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/what-fans-should-know-about-the-backstreet-boys-concerts-in-dusseldorf",
-      "published_date": "2026-05-07T08:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marco Rubio to meet pope at the Vatican after Trump attacks on pontiff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
-      "published_date": "2026-05-07T07:35:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK votes in key local and regional elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T07:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK votes in key local and regional elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-07T07:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/today-in-germany-a-roundup-of-the-latest-news-on-thursday-118",
-      "published_date": "2026-05-07T06:42:24+00:00",
       "category": "Local Events"
     }
   ]
