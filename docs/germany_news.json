@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-08T12:06:26.901954+00:00",
-  "story_count": 98,
+  "last_updated": "2026-05-08T23:48:41.712359+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Turning the page on Orbán’s rule: Magyar to be sworn in as Hungary PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/08/turning-page-orban-rule-magyar-to-be-sworn-in-hungary-pm",
+      "published_date": "2026-05-08T13:55:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE charts its own course across the Middle East and Africa",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T13:37:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens",
       "source": "The Guardian",
@@ -116,32 +130,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armut in Europa: Europäische Union will Armut mit neuer Strategie bekämpfen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-05/armut-europaeische-union-kommisssion-bruessel-armutsgefaehrdete-kinder",
-      "published_date": "2026-05-06T12:11:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LISTED: The major airlines in Germany cancelling flights and adding extra charges",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260506/listed-the-major-airlines-in-germany-cancelling-flights-and-adding-extra-charges",
-      "published_date": "2026-05-06T11:20:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US threatens to scrap EU visa waivers over data sharing demands",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260506/us-threatens-to-scrap-eu-visa-waivers-over-data-sharing-demands",
-      "published_date": "2026-05-06T10:42:51+00:00",
+      "title": "Germany news: Far-right youth groups raided by police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-06T13:28:00+00:00",
       "category": "Diplomacy"
     },
     {
       "title": "Germany news: Far-right youth groups raided by police",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-06T08:32:00+00:00",
+      "url": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-06T13:28:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Trump announces Russia-Ukraine three-day ceasefire from 9 May",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
+      "published_date": "2026-05-08T18:52:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Donald Trump kündigt dreitägige Waffenruhe im Ukrainekrieg an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-05-08T18:47:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T18:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-08T18:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio cites 'positive' meeting with pope after meeting Giorgia Meloni – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/video/2026/may/08/rubio-pope-meeting-meloni-video",
+      "published_date": "2026-05-08T18:02:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who would really be affected by the removal of US troops from Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260508/who-would-really-be-affected-by-the-removal-of-us-troops-from-germany",
+      "published_date": "2026-05-08T14:36:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New film portrays Thomas and Erika Mann — with an oddly twisted premise",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-08T13:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New film portrays Thomas and Erika Mann — with an oddly twisted premise",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T13:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungary: New govt intent on initiating swift systemic change",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T12:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungary: New govt intent on initiating swift systemic change",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-08T12:33:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
@@ -211,76 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-ceasefires-that-arent-israel-never-stopped-killing-in-gaza-allies-must-reject-any-escalation",
       "published_date": "2026-05-07T17:36:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Royal Navy tracks Russian frigate for one month off UK coast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/07/royal-navy-tracks-russian-frigate-one-month-uk-coast",
-      "published_date": "2026-05-07T17:09:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War and peace: key themes of Pope Leo's first year in office",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T17:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Translation firm DeepL cuts quarter of staff in Germany citing AI",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/translation-firm-deepl-cuts-quarter-of-staff-in-germany-citing-ai",
-      "published_date": "2026-05-07T14:42:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain awards UN legal expert Francesca Albanese one of its highest civilian honours",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/spain-awards-un-legal-expert-francesca-albanese-one-of-highest-civilian-honours",
-      "published_date": "2026-05-07T14:17:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Marco Rubio meets Pope Leo at the Vatican",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T12:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Moskau meldet ukrainische Angriffe - was ist mit Waffenruhe?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/07/moskau-meldet-ukrainische-angriffe-was-ist-mit-waffenruhe",
-      "published_date": "2026-05-07T12:08:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio meets Pope Leo at the Vatican",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T11:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio meets Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
-      "published_date": "2026-05-07T11:52:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s tantrums over Nato are prompting European leaders to think the unthinkable | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/07/trump-nato-european-leaders-russia-attacks-us-allies",
-      "published_date": "2026-05-07T11:30:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland meldet Abschuss von mehr als 300 ukrainischen Drohnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/drohnenangriffe-russland-ukraine-siegesparade-9-mai-gxe",
-      "published_date": "2026-05-07T11:23:27+00:00",
       "category": "Military"
     },
     {
@@ -393,20 +393,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-03T10:49:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Iran withstand the US naval blockade?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-iran-withstand-the-us-naval-blockade/a-77014627?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-01T19:33:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Octopus Energy boss: some people would accept blackouts if bills cut",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
-      "published_date": "2026-05-01T16:02:42+00:00",
       "category": "Energy"
     },
     {
@@ -550,6 +536,69 @@
       "category": "Economy"
     },
     {
+      "title": "Gesundheitssystem : CDA lehnt Kürzung von Gesundheitsleistungen für Bürgergeldbezieher ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/cdu-arbeitnehmerfluegel-kuerzungen-gesundheitsleistungen-buergergeldbezieher-ablehnung",
+      "published_date": "2026-05-08T23:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fußball-Bundesliga: Frankfurt auch gegen Stuttgart mit Riera als Trainer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/08/frankfurt-auch-gegen-stuttgart-mit-riera-als-trainer",
+      "published_date": "2026-05-08T21:25:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 33. Spieltag – Freitag: Borussia Dortmund besiegt Frankfurt und sichert sich Vizemeisterschaft",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/bundesliga-33-spieltag-borussia-dortmund-eintracht-frankfurt",
+      "published_date": "2026-05-08T20:46:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/08/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-05-08T18:35:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vatican stresses need for peace as Rubio meets pope amid strained relations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+      "published_date": "2026-05-08T18:31:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several Venice Biennale pavilions shut in protest over inclusion of Israel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel",
+      "published_date": "2026-05-08T15:50:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greenlandic woman wins case against Danish authorities who removed her two-hour-old child",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/08/greenland-woman-wins-danish-authorities-keira-alexandra-kronvold-child",
+      "published_date": "2026-05-08T14:45:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christians decry persecution in India's heartland",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T14:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank hostage situation ends in western Germany with suspects still at large",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260508/bank-hostage-situation-ends-in-western-germany-with-suspects-still-at-large",
+      "published_date": "2026-05-08T14:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Entlastungsprämie: Grüne sehen in Bundesratablehnung Schwäche des Kanzlers",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/entlastungspraemie-ablehnung-reaktionen-droege-dressel-esdar-roloff-steiger",
@@ -592,6 +641,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany: Hostages freed at bank after suspect flees scene",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-hostages-freed-at-bank-after-suspect-flees-scene/a-77092718?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-08T09:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Hostages freed at bank after suspect flees scene",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-hostages-freed-at-bank-after-suspect-flees-scene/a-77092718?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T09:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "South Africa Constitutional Court orders Parliament to revisit Ramaphosa impeachment proceedings",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630?maca=en-rss-en-all-1573-rdf",
@@ -610,83 +673,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/music/2026/may/07/bonnie-tyler-induced-coma-intestinal-surgery",
       "published_date": "2026-05-07T19:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "published_date": "2026-05-07T19:20:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-07T15:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T15:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa: A timeline of recurring waves of xenophobic violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-a-timeline-of-recurring-waves-of-xenophobic-violence/a-77077874?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T14:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler to go on trial over attack on French nun in Jerusalem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/israeli-settler-trial-attack-french-nun-jerusalem",
-      "published_date": "2026-05-07T14:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia: 3 women with IS links arrested on return home",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-3-women-with-is-links-arrested-on-return-home/a-77079473?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T14:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German tourist wins damages after sun lounger court battle",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/german-tourist-wins-damages-after-sun-lounger-court-battle",
-      "published_date": "2026-05-07T13:51:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria: Police report 3 dead in shooting in Linz, say no further danger to public",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T13:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria: Police report 3 dead in shooting in Linz, say no further danger to public",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-07T13:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Wanke nicht, mein Vaterland': Germany's state anthems explained",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/wanke-nicht-mein-vaterland-germanys-state-anthems-explained",
-      "published_date": "2026-05-07T13:25:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landgericht München: «Hitlergruß»-Collage? AfD-Mann Bystron freigesprochen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/07/hitlergruss-collage-afd-mann-bystron-freigesprochen",
-      "published_date": "2026-05-07T12:17:55+00:00",
       "category": "Local Events"
     }
   ]
