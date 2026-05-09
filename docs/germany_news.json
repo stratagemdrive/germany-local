@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-09T11:44:11.928673+00:00",
+  "last_updated": "2026-05-09T23:38:53.352912+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Wahrzeichen: Brandenburger Tor leuchtet am Europatag in EU-Farben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/10/brandenburger-tor-leuchtet-am-europatag-in-eu-farben",
+      "published_date": "2026-05-09T22:07:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tariffs or not? How EU is dealing with US 'dealmaking'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-09T12:39:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "WHO chief heads to Tenerife as Canary Islands brace for arrival of hantavirus cruise ship – Europe live",
       "source": "The Guardian",
@@ -74,6 +88,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany's far-right AfD benefits from discontent with Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-far-right-afd-benefits-from-discontent-with-merz/a-77094216?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-08T10:40:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's far-right AfD benefits from discontent with Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-far-right-afd-benefits-from-discontent-with-merz/a-77094216?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-08T10:40:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Klimafreundlichere Industrie: EU genehmigt Milliardenförderung für deutsche Industrie",
+      "title": "Greek minister says mystery drone from a 'foreign state'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-09T23:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg in der Ukraine: Putin sieht Krieg »zu einem Ende« kommen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/deutschland-industrie-umbau-foerderung-eu-kommission-gxe",
-      "published_date": "2026-05-07T10:52:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-05/wladimir-putin-krieg-ukraine-pressekonferenz-ende-wolodymyr-selenskyj",
+      "published_date": "2026-05-09T20:12:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "'The threat is real.' Why the EU is treating Chinese solar tech like a security threat.",
+      "title": "Putin says he thinks Ukraine war is 'coming to an end'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-threat-is-real-why-the-eu-is-treating-chinese-solar-tech-like-a-security-threat/a-77066865?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T10:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-09T19:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why the EU sees Chinese solar tech as a major security risk",
+      "title": "Putin says he thinks Ukraine war is 'coming to an end'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-eu-sees-chinese-solar-tech-as-a-major-security-risk/a-77066865?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T10:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-09T19:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Environmental group challenges Germany's climate plan in court",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/environmental-group-challenges-germanys-climate-plan-in-court",
-      "published_date": "2026-05-07T09:21:07+00:00",
-      "category": "Diplomacy"
+      "title": "Putin says Russia will prevail at scaled-down Victory Day parade – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/09/putin-russia-will-prevail-scaled-down-victory-day-parade-video",
+      "published_date": "2026-05-09T13:24:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
@@ -246,41 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-08T13:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New film portrays Thomas and Erika Mann — with an oddly twisted premise",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T13:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary: New govt intent on initiating swift systemic change",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T12:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary: New govt intent on initiating swift systemic change",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-08T12:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
-      "published_date": "2026-05-08T11:21:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Russia has scaled back May 9 Victory Parade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T10:43:00+00:00",
       "category": "Military"
     },
     {
@@ -550,6 +550,55 @@
       "category": "Economy"
     },
     {
+      "title": "Türkische Fußballliga: Jubelfeiern in Berlin nach Meisterschaft für Galatasaray",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/10/jubelfeiern-in-berlin-nach-meisterschaft-fuer-galatasaray",
+      "published_date": "2026-05-09T22:19:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 33. Spieltag: Wolfsburg unterliegt Bayern, Leipzig kehrt in Champions League zurück",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/bundesliga-33-spieltag-samstag-vfb-stuttgart-bayer04-leverkusen-rb-leipzig-fc-stpauli",
+      "published_date": "2026-05-09T18:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany bank robber on the run after hostage scare",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260509/germany-bank-robber-on-the-run-after-hostage-scare",
+      "published_date": "2026-05-09T14:37:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surf's up again on Munich river after choppy year",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260509/surfs-up-again-on-munich-river-after-choppy-year",
+      "published_date": "2026-05-09T14:34:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Danish rightwing leader asked to form government after Frederiksen fails to form coalition",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/danish-rightwing-leader-troeld-lund-poulsen-form-government-mette-frederiksen-fails-coalition",
+      "published_date": "2026-05-09T14:17:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Female nudity and art that stinks: key takeaways from Venice Biennale 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/09/female-nudity-art-stinks-key-takeways-venice-biennale-2026",
+      "published_date": "2026-05-09T14:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary: Peter Magyar sworn in as prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-09T13:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "SPD-Parteitag in Bremen: Bremer Regierungschef: «Performance lässt zu wünschen übrig»",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/09/bremer-regierungschef-performance-laesst-zu-wuenschen-uebrig",
@@ -606,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Surf's up again in Munich!",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-surf-s-up-again-in-munich/live-77103139?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-09T10:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Inside Germany: Freiburg’s sporting heroes, the nation's best dance clubs and a trip to the palace",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260509/inside-germany-freiburgs-sporting-heroes-the-nations-best-dance-clubs-and-a-trip-to-the-palace",
@@ -631,62 +687,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/08/frankfurt-auch-gegen-stuttgart-mit-riera-als-trainer",
       "published_date": "2026-05-08T21:25:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 33. Spieltag – Freitag: Borussia Dortmund besiegt Frankfurt und sichert sich Vizemeisterschaft",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/bundesliga-33-spieltag-borussia-dortmund-eintracht-frankfurt",
-      "published_date": "2026-05-08T20:46:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/08/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-05-08T18:35:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vatican stresses need for peace as Rubio meets pope amid strained relations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
-      "published_date": "2026-05-08T18:31:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several Venice Biennale pavilions shut in protest over inclusion of Israel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel",
-      "published_date": "2026-05-08T15:50:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greenlandic woman wins case against Danish authorities who removed her two-hour-old child",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/08/greenland-woman-wins-danish-authorities-keira-alexandra-kronvold-child",
-      "published_date": "2026-05-08T14:45:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christians decry persecution in India's heartland",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T14:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bank hostage situation ends in western Germany with suspects still at large",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260508/bank-hostage-situation-ends-in-western-germany-with-suspects-still-at-large",
-      "published_date": "2026-05-08T14:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Entlastungsprämie: Grüne sehen in Bundesratablehnung Schwäche des Kanzlers",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/entlastungspraemie-ablehnung-reaktionen-droege-dressel-esdar-roloff-steiger",
-      "published_date": "2026-05-08T10:59:53+00:00",
       "category": "Local Events"
     }
   ]
