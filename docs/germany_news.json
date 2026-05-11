@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-11T13:42:25.553847+00:00",
+  "last_updated": "2026-05-11T23:50:53.470087+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Poland says it expects US to extradite ex-minister who fled from Hungary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa",
+      "published_date": "2026-05-11T17:28:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU preparing to offer key concession to UK in new post-Brexit agricultural deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/brussels-eu-uk-concession-agricultural-deal-live-animal-exports",
+      "published_date": "2026-05-11T15:30:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU greenlights sanctions on Israeli West Bank settlers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-11T15:12:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Architecture of remembrance and hope: Daniel Libeskind at 80",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-11T14:07:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU’s Kallas criticises Putin’s ‘very cynical’ Ukraine ceasefire calls and rejects suggestion of Schröder as mediator – Europe live",
       "source": "The Guardian",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Who is Bernd das Brot, the depressed loaf of bread loved by Germans?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260510/who-is-bernd-das-brot-the-depressed-loaf-of-bread-loved-by-germans",
-      "published_date": "2026-05-10T08:16:05+00:00",
-      "category": "Diplomacy"
+      "title": "Unfälle: Tank von Lkw aufgerissen: A2 bei Irxleben gesperrt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/12/tank-von-lkw-aufgerissen-a2-bei-irxleben-gesperrt",
+      "published_date": "2026-05-11T23:46:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "The weaponization of shipping channels",
+      "title": "Iran war: Trump says ceasefire 'on life support'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T07:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Antisemitism in Germany, and the CDU's search for answers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T05:56:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Antisemitism in Germany, and the CDU's search for answers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T05:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-11T22:21:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany news: One-in-six retailers fear for future",
@@ -154,6 +168,20 @@
       "title": "Germany news: One-in-six retailers fear for future",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-11T13:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: 1-in-6 retailers fear for future",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-11T13:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: 1-in-6 retailers fear for future",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-11T13:39:00+00:00",
       "category": "Military"
     },
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Data centers: Tech boom with downsides",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T06:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Data centers: Critical tech infrastructure under threat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/data-centers-critical-tech-infrastructure-under-threat/a-77106191?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T06:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Data centers: Critical tech infrastructure under threat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/data-centers-critical-tech-infrastructure-under-threat/a-77106191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T06:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence sovereignty: Europe races to build the low-cost weapons of future",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
-      "published_date": "2026-05-10T04:00:15+00:00",
-      "category": "Military"
+      "title": "How do I register my balcony solar panel in Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260511/how-do-i-register-my-balcony-solar-panel-in-germany",
+      "published_date": "2026-05-11T15:09:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nigeria's solar boom faces cost and policy barriers",
@@ -396,11 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
-      "published_date": "2026-05-04T22:01:34+00:00",
-      "category": "Energy"
+      "title": "Mediennutzung von Kindern: »Vielen Eltern fehlt einfach der Mut zum Nein«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/arbeit/2026-04/mediennutzung-kinder-smartphone-eltern-tech-branche",
+      "published_date": "2026-05-11T18:11:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Is Germany's planned 'relief bonus' for employees off the table?",
@@ -536,11 +543,39 @@
       "category": "Economy"
     },
     {
-      "title": "Ghana debates ban on 'sex for jobs' practices",
+      "title": "Steuerreform: Jens Spahn plädiert für pauschale Kürzung von Subventionen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/steuerreform-jens-spahn-lars-klingbeil-subventionen",
+      "published_date": "2026-05-11T23:12:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wassenberg: Großfahndung nach tödlichen Schüssen auf Mann in NRW",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/12/grossfahndung-nach-toedlichen-schuessen-auf-mann-in-nrw",
+      "published_date": "2026-05-11T23:09:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House press dinner shooting suspect pleads not guilty",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ghana-debates-ban-on-sex-for-jobs-practices/a-77062838?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T11:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-11T17:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Royal Opera House calls for release of Georgian bass singer jailed over democracy protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/may/11/royal-opera-house-release-paata-burchuladze-georgian-singer-democracy-protests-tbilisi",
+      "published_date": "2026-05-11T15:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutsche Bahn announces direct Berlin-Oslo train for 2028",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260511/deutsche-bahn-announces-direct-berlin-oslo-train-for-2028",
+      "published_date": "2026-05-11T13:47:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hamburg: Spezialkräfte nehmen 17-Jährigen wegen Anschlagsplänen fest",
@@ -645,41 +680,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/2026-05/ukraine-krieg-ende-putin-schroeder-bundesregierung-gxe",
       "published_date": "2026-05-10T11:17:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran war: Ceasefire tested by ship fire, drone attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T10:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Fighting the city's young far-right scene",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T10:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Fighting the city's young far-right scene",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T10:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prague derby abandoned after fans storm pitch with Slavia seconds from title",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/may/10/slavia-sparta-prague-derby-abandoned-fans-storm-pitch-title",
-      "published_date": "2026-05-10T06:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Car bomb attack at checkpoint kills 15",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-15/a-77108185?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T06:09:00+00:00",
       "category": "Local Events"
     }
   ]
