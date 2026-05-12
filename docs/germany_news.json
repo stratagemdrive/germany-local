@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-11T23:50:53.470087+00:00",
-  "story_count": 97,
+  "last_updated": "2026-05-12T13:02:20.737290+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "European ministers to discuss sending rejected asylum seekers to third-country hubs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/may/12/european-ministers-moldova-asylum-seekers-third-country-hubs",
+      "published_date": "2026-05-12T11:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Youth mobility scheme disagreement hampering reset of UK-EU relations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/12/youth-mobility-scheme-disagreement-hampering-reset-uk-eu-relations",
+      "published_date": "2026-05-12T10:28:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz booed as he advocates economic reform",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-12T09:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz booed as he advocates economic reform",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T09:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What now for the role of high representative in Bosnia?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T08:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What now for the role of high representative in Bosnia?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-12T08:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU negotiators agree new rules on vital medicines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T06:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU negotiators agree new rules on vital medicines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-12T06:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yes, Europe’s leaders are finally standing up to Trump. Here’s why | Mujtaba Rahman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/friedrich-merz-europe-leaders-standing-up-to-trump",
+      "published_date": "2026-05-12T04:00:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Poland says it expects US to extradite ex-minister who fled from Hungary",
       "source": "The Guardian",
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe should behave more like China does if it wants to survive this age of chaos",
+      "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/europe-should-behave-more-like-china-does-if-it-wants-to-survive-this-age-of-chaos",
-      "published_date": "2026-05-11T04:00:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
+      "published_date": "2026-05-12T12:42:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Mixed reaction to Putin proposal of Schröder as peace mediator",
+      "title": "Ukraine: Russia breaks ceasefire overnight, Zelenskyy says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T08:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/ukraine-war-briefing-berlin-reaction-gerhard-schroder-peace-mediator-putin",
-      "published_date": "2026-05-11T00:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
+      "published_date": "2026-05-12T05:00:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rhythm nation: politician’s viral dance moves mark new, optimistic era for Hungary",
+      "title": "Zelenskyy’s ex-chief of staff accused in Ukraine corruption investigation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/rhythm-nation-politicians-viral-dance-moves-mark-new-optimistic-era-for-hungary",
-      "published_date": "2026-05-10T16:42:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Could German ex-leader really negotiate Ukraine peace?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T16:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Could German ex-leader really negotiate Ukraine peace?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T16:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Africa summit in Kenya: France seeks new partners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T13:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'No comment' after Schröder named by Putin for Ukraine talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T11:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'No comment' after Schröder named by Putin for Ukraine talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T11:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'No comment' after Schröder named by Putin for Ukraine talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-10T11:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation",
+      "published_date": "2026-05-12T04:46:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Unfälle: Tank von Lkw aufgerissen: A2 bei Irxleben gesperrt",
@@ -214,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Somali piracy disrupts global shipping and trade routes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/somali-piracy-disrupts-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-11T09:19:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "India news: Cut fuel use, gold buys and foreign trips, says Modi, as no end in sight to Iran war",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany: 'Ulm 5' on trial after attack on Israeli arms firm",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T16:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "RSF urges Niger to ditch 'abusive' French media ban",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T15:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "First plane carrying passengers evacuated from hantavirus-hit cruise ship has left Tenerife – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
-      "published_date": "2026-05-10T11:34:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end",
-      "published_date": "2026-05-10T10:56:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Data centers: Tech boom with downsides",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T06:40:00+00:00",
-      "category": "Military"
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260512/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-123",
+      "published_date": "2026-05-12T06:36:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "How do I register my balcony solar panel in Germany?",
@@ -386,20 +393,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-05T13:45:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Colombia says nine miners dead after explosion",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-says-nine-miners-dead-after-explosion/a-77046739?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T08:57:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Malawi fuel crisis deepens as oil shortages spread",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/malawi-fuel-crisis-deepens-as-oil-shortages-spread/a-77000372?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T08:18:00+00:00",
       "category": "Energy"
     },
     {
@@ -543,6 +536,90 @@
       "category": "Economy"
     },
     {
+      "title": "Minister der CDU: CSU-Abgeordnete wird Bildungsministerin in Rheinland-Pfalz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/12/bildungspolitikerin-aus-bayern-wird-ministerin",
+      "published_date": "2026-05-12T12:50:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Integrationskurse: Koalition einigt sich im Streit über Integrationskurse",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/integrationskurse-asylbewerber-geduldete-einsparungen-alexander-dobrindt-gxe",
+      "published_date": "2026-05-12T12:30:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Workers in Germany's big cities plagued by lack of affordable housing",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260512/workers-in-germanys-big-cities-plagued-by-lack-of-affordable-housing",
+      "published_date": "2026-05-12T12:15:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sicily police investigate illegal race with horse-drawn carts and Kalashnikovs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/12/sicily-illegal-horse-race-carts-kalashnikovs-video",
+      "published_date": "2026-05-12T10:34:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as two junior ministers quit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-two-junior-ministers-quit/a-77129695?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T09:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as two junior ministers quit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-two-junior-ministers-quit/a-77129695?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-12T09:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I shared a single bed with my mother for three years’: Sung Tieu on her monument to immigrant workers in Venice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/12/sung-tieu-interview-german-pavilion-venice-biennale",
+      "published_date": "2026-05-12T09:36:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is there a major tofu shortage in German supermarkets?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260512/why-is-there-a-major-tofu-shortage-in-german-supermarkets",
+      "published_date": "2026-05-12T09:13:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young hijab-wearing German beauty contestant takes on the AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-12T08:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young hijab-wearing German beauty contestant takes on the AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T08:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: New Tamil Nadu Chief Minister Vijay cracks down on state-run TASMAC liquor shops",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-new-tamil-nadu-chief-minister-vijay-cracks-down-on-state-run-tasmac-liquor-shops/a-77128244?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T08:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: LA area mayor to plead guilty to acting as Chinese agent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T05:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Steuerreform: Jens Spahn plädiert für pauschale Kürzung von Subventionen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/steuerreform-jens-spahn-lars-klingbeil-subventionen",
@@ -596,90 +673,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/11/spd-stellt-regierungsmannschaft-fuer-die-grosse-koalition-vor",
       "published_date": "2026-05-11T13:29:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motto: «Building Bridges»: Wulff zur Festivalpremiere in Leipzig: «Chöre bauen Brücken»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/11/wulff-zur-festivalpremiere-in-leipzig-choere-bauen-bruecken",
-      "published_date": "2026-05-11T13:29:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T10:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-11T10:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right AfD wins first ever mayoral election in Brandenburg",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260511/far-right-afd-wins-first-ever-mayoral-election-in-brandenburg",
-      "published_date": "2026-05-11T10:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus",
-      "published_date": "2026-05-11T09:23:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Nobel winner Mohammadi moved to Tehran hospital",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T23:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus: Deutsche »Hondius«-Passagiere sind auf dem Weg nach Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-05/hantavirus-hondius-kreuzfahrtschiff-passagiere-frankfurt",
-      "published_date": "2026-05-10T23:05:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus-Ausbruch: Deutsche «Hondius»-Passagiere auf dem Weg nach Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/10/hantavirus-ausbruch-schiffsreisende-auf-teneriffa-erwartet",
-      "published_date": "2026-05-10T21:31:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of people from cruise ship struck by hantavirus leave Tenerife",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
-      "published_date": "2026-05-10T20:30:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s new PM apologises to those wronged under Orbán in first speech",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/hungary-peter-magyar-apologises-to-those-wronged-under-orban-in-first-speech-pm",
-      "published_date": "2026-05-10T18:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
-      "published_date": "2026-05-10T11:18:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainekrieg: Bundesregierung hält Putins Äußerungen für unglaubwürdig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-05/ukraine-krieg-ende-putin-schroeder-bundesregierung-gxe",
-      "published_date": "2026-05-10T11:17:31+00:00",
       "category": "Local Events"
     }
   ]
