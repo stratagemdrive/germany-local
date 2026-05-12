@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-12T13:02:20.737290+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-12T23:52:36.518644+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Seenotrettung: EU-Kommission verlangt Aufklärung nach Schüssen auf Sea-Watch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/sea-watch-5-libysche-kuestenwache-eu-schuesse",
+      "published_date": "2026-05-12T22:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU invites Taliban members to discuss Afghan migrant returns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T18:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU invites Taliban members to discuss Afghan migrant returns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-12T18:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump-Xi summit: High stakes for the US, China and the world",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T14:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German trade unions give Merz's reform push a frosty reception",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260512/german-trade-unions-give-merzs-reform-push-a-frosty-reception",
+      "published_date": "2026-05-12T13:42:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "European ministers to discuss sending rejected asylum seekers to third-country hubs",
       "source": "The Guardian",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine: EU sanctions Russians over 'systematic unlawful deportation' of children",
+      "title": "Ukraine-Krieg: Mindestens zwei Tote nach russischem Angriff in der Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/13/mindestens-zwei-tote-nach-russischem-angriff-in-der-ukraine",
+      "published_date": "2026-05-12T23:24:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Ukraine meldet Angriff auf russische Gasanlagen weit hinter der Grenze",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-05-12T23:07:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: Surge of political prisoners amid US-Israel war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-eu-sanctions-russians-over-systematic-unlawful-deportation-of-children/live-77121806?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-11T13:19:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T18:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU rejects Putin call for Gerhard Schröder role in Ukraine peace talks",
+      "title": "War in Iran: Despite Iranian attacks, Doha steps up mediation efforts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T17:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/eu-rejects-putin-call-gerhard-schroder-role-ukraine-peace-talks",
-      "published_date": "2026-05-11T12:02:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks",
-      "published_date": "2026-05-11T11:20:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Berlin sceptical as Putin floats ex-German chancellor as Ukraine mediator",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260511/berlin-sceptical-as-putin-floats-ex-german-chancellor-as-ukraine-mediator",
-      "published_date": "2026-05-11T06:39:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260511/today-in-germany-a-roundup-of-the-latest-news-on-monday-122",
-      "published_date": "2026-05-11T06:23:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/12/russian-ship-ursa-major-sank-spain-nuclear-reactors-north-korea",
+      "published_date": "2026-05-12T16:44:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "India news: Cut fuel use, gold buys and foreign trips, says Modi, as no end in sight to Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T08:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "My Father’s Diaries review – haunting home-video excavates trauma of Srebrenica massacre",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/11/my-fathers-diaries-review-ado-hasanovic-bosnian-war-srebrenica",
-      "published_date": "2026-05-11T06:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump rejects proposal to end conflict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T20:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-10T17:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: 'Ulm 5' on trial after attack on Israeli arms firm",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-10T16:27:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Today in Germany: A roundup of the latest news on Tuesday",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260512/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-123",
@@ -354,46 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "Here's why Amsterdam banned fossil fuel and meat advertising",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/here-s-why-amsterdam-banned-fossil-fuel-and-meat-advertising/a-77054187?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T15:09:00+00:00",
-      "category": "Energy"
+      "title": "Unfälle: Vorfahrt missachtet: 25.000 Euro Schaden nach Unfall",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/13/vorfahrt-missachtet-25-000-euro-schaden-nach-unfall",
+      "published_date": "2026-05-12T23:25:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Here's why some cities are banning fossil fuel and meat ads",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T15:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Here's why some cities are banning fossil fuel and meat ads",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-05T15:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why is Amsterdam banning ads for meat?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T15:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why is Amsterdam banning ads for meat?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-05T15:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Japan pivots Indo-Pacific strategy toward Southeast Asia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-05T13:45:00+00:00",
-      "category": "Energy"
+      "title": "French film industry at risk from the far right, say actors and directors",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors",
+      "published_date": "2026-05-12T15:17:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mediennutzung von Kindern: »Vielen Eltern fehlt einfach der Mut zum Nein«",
@@ -522,18 +494,46 @@
       "category": "Economy"
     },
     {
-      "title": "Romania's government falls, far-right firewall crumbles",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T11:07:00+00:00",
-      "category": "Economy"
+      "title": "Bundesregierung: Koalitionsausschuss endet nach sechs Stunden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/bundesregierung-koalitionsausschuss-ende-cdu-spd-csu",
+      "published_date": "2026-05-12T23:13:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Romania's government falls, far-right firewall crumbles",
+      "title": "Bosnia and Herzegovina left vulnerable by policy clash with US, representative says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
+      "published_date": "2026-05-12T16:40:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria airstrike kills 100 at market, Amnesty says",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-06T11:07:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/nigeria-airstrike-kills-100-at-market-amnesty-says/a-77135993?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T16:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga: Kathleen Krüger appointed Hamburg's head of sport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-12T14:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga: Kathleen Krüger appointed Hamburg's head of sport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T14:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irish TV to air Father Ted instead of Eurovision final in protest against Israel’s inclusion",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
+      "published_date": "2026-05-12T13:31:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Minister der CDU: CSU-Abgeordnete wird Bildungsministerin in Rheinland-Pfalz",
@@ -578,6 +578,20 @@
       "category": "Local Events"
     },
     {
+      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as four junior ministers quit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-four-junior-ministers-quit/a-77129695?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-12T09:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as four junior ministers quit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-four-junior-ministers-quit/a-77129695?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-12T09:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘I shared a single bed with my mother for three years’: Sung Tieu on her monument to immigrant workers in Venice",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/may/12/sung-tieu-interview-german-pavilion-venice-biennale",
@@ -617,62 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-12T05:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Steuerreform: Jens Spahn plädiert für pauschale Kürzung von Subventionen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/steuerreform-jens-spahn-lars-klingbeil-subventionen",
-      "published_date": "2026-05-11T23:12:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wassenberg: Großfahndung nach tödlichen Schüssen auf Mann in NRW",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/12/grossfahndung-nach-toedlichen-schuessen-auf-mann-in-nrw",
-      "published_date": "2026-05-11T23:09:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House press dinner shooting suspect pleads not guilty",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T17:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royal Opera House calls for release of Georgian bass singer jailed over democracy protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/may/11/royal-opera-house-release-paata-burchuladze-georgian-singer-democracy-protests-tbilisi",
-      "published_date": "2026-05-11T15:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn announces direct Berlin-Oslo train for 2028",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260511/deutsche-bahn-announces-direct-berlin-oslo-train-for-2028",
-      "published_date": "2026-05-11T13:47:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamburg: Spezialkräfte nehmen 17-Jährigen wegen Anschlagsplänen fest",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/hamburg-17-jaehriger-festnahme-anschlag-verdacht",
-      "published_date": "2026-05-11T13:33:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Anschlag in Hamburg geplant? 17-Jähriger festgenommen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/11/anschlag-in-hamburg-geplant-17-jaehriger-festgenommen",
-      "published_date": "2026-05-11T13:31:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD: SPD stellt Regierungsmannschaft für die Große Koalition vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/11/spd-stellt-regierungsmannschaft-fuer-die-grosse-koalition-vor",
-      "published_date": "2026-05-11T13:29:31+00:00",
       "category": "Local Events"
     }
   ]
