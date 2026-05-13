@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-12T23:52:36.518644+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-13T13:07:48.155641+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "EU-Gericht: Polnische Waffenfirma darf »Obelix« nicht als Markennamen verwenden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/eu-gericht-obelix-markenname-waffen-klage-gxe",
+      "published_date": "2026-05-13T12:37:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than 1,700 confined on cruise ship in Bordeaux after suspected norovirus death – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/13/ukraine-russia-war-sergei-lavrov-mark-rutte-bucharest-europe-latest-news-updates",
+      "published_date": "2026-05-13T12:26:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump arrives in China ahead of summit with Xi Jinping",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-arrives-in-china-ahead-of-summit-with-xi-jinping/live-77140304?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T12:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One trip, one ticket: New EU rules aim to ease train travel",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260513/one-trip-one-ticket-new-eu-rules-aim-to-ease-train-travel",
+      "published_date": "2026-05-13T10:59:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China’s new rules give the West a new headache",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T09:15:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Seenotrettung: EU-Kommission verlangt Aufklärung nach Schüssen auf Sea-Watch",
       "source": "ZEIT Online",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU preparing to offer key concession to UK in new post-Brexit agricultural deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/brussels-eu-uk-concession-agricultural-deal-live-animal-exports",
-      "published_date": "2026-05-11T15:30:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU greenlights sanctions on Israeli West Bank settlers",
+      "title": "Gunshots heard at Philippine Senate as ICC arrest expected",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T15:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/gunshots-heard-at-philippine-senate-as-icc-arrest-expected/a-77148502?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T12:26:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Architecture of remembrance and hope: Daniel Libeskind at 80",
+      "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T14:07:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T10:01:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU’s Kallas criticises Putin’s ‘very cynical’ Ukraine ceasefire calls and rejects suggestion of Schröder as mediator – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
-      "published_date": "2026-05-11T13:23:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine: EU sanctions Russians over 'systematic unlawful deportation' of children",
+      "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-eu-sanctions-russians-over-systematic-unlawful-deportation-of-children/live-77121806?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T13:19:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-13T10:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Oil stocks being used up at record pace, IEA warns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-oil-stocks-being-used-up-at-record-pace-iea-warns/live-77141937?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T09:47:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Mindestens zwei Tote nach russischem Angriff in der Ukraine",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "What will happen to Iran's nuclear material?",
+      "title": "Is caring about the climate unmanly?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-will-happen-to-iran-s-nuclear-material/a-77122353?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T13:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Molière Ex Machina: AI used to create ‘new work’ by beloved French playwright",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
-      "published_date": "2026-05-11T12:29:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali piracy adds new strain to global shipping and trade routes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T09:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali piracy disrupts global shipping and trade routes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/somali-piracy-disrupts-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T09:19:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T07:33:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Today in Germany: A roundup of the latest news on Tuesday",
@@ -352,6 +359,48 @@
       "url": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
       "published_date": "2026-05-06T15:25:36+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Indians growing anxious as Modi asks them to cut on fuel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T12:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fake TikTok fans and the history of 'unethical' music marketing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fake-tiktok-fans-and-the-history-of-unethical-music-marketing/a-77091563?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T12:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lab testing group Intertek to back £10.6bn takeover by Swedish firm EQT",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/13/lab-testing-group-intertek-to-back-takeover-by-swedish-firm-eqt",
+      "published_date": "2026-05-13T11:29:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Carmakers paint bleak picture on jobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T09:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India's Modi cuts size of convoy in austerity move — reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T07:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cannes is a beautiful, gruelling circus. I wouldn’t quit it for anything | Agnès Poirier",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/13/cannes-film-festival-beautiful-gruelling-circus-cinema",
+      "published_date": "2026-05-13T04:00:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Unfälle: Vorfahrt missachtet: 25.000 Euro Schaden nach Unfall",
@@ -452,46 +501,74 @@
       "category": "Economy"
     },
     {
-      "title": "What is Germany's proposed sugar tax and how would it work?",
+      "title": "Olivia Dean in Berlin: Liebe geht raus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/2026-05/olivia-dean-berlin-konzert-uber-arena",
+      "published_date": "2026-05-13T12:59:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polizeieinsatz: Hamburg: Lebensbedrohliche Verletzung nach Messerangriff",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/13/hamburg-lebensbedrohliche-verletzung-nach-messerangriff",
+      "published_date": "2026-05-13T12:57:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czech police hunt thief who stole 800-year-old skull of saint from church",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/czech-police-hunt-thief-stolen-skull-saint-zdislava-lemberk-church",
+      "published_date": "2026-05-13T11:40:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Berlin losing its appeal as a tourist destination?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260507/what-is-germanys-proposed-sugar-tax-and-how-would-it-work",
-      "published_date": "2026-05-07T08:42:13+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260513/is-berlin-losing-its-appeal-as-a-tourist-destination",
+      "published_date": "2026-05-13T11:36:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Coalition at odds over pay rises for MPs",
+      "title": "Cem Özdemir, first German state premier with Turkish roots",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T08:20:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/cem-özdemir-first-german-state-premier-with-turkish-roots/a-76252684?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-13T10:20:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Coalition at odds over pay rises for MPs",
+      "title": "Cem Özdemir, first German state premier with Turkish roots",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-07T08:20:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/cem-özdemir-first-german-state-premier-with-turkish-roots/a-76252684?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T10:20:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "CNN founder Ted Turner has died at 87",
+      "title": "Bring Me the Horizon and Eric Clapton struck by objects thrown by audience members",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/13/bring-me-the-horizon-and-eric-clapton-struck-by-objects-thrown-by-audience-members",
+      "published_date": "2026-05-13T09:26:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s toxic’: Romania reeling over claims of high-level justice system corruption",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/romania-corruption-justice-system",
+      "published_date": "2026-05-13T04:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina sees vast protests against Milei's university cuts",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cnn-founder-ted-turner-has-died-at-87/a-77069817?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-06T14:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T03:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany's Lufthansa warns of hefty fuel costs and prepares for shortages",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260506/germanys-lufthansa-warns-of-hefty-fuel-costs-and-prepares-for-shortages",
-      "published_date": "2026-05-06T13:47:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "German automaker BMW optimistic despite Trump's latest tariff threat",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260506/german-automaker-bmw-optimistic-despite-trumps-latest-tariff-threat",
-      "published_date": "2026-05-06T13:03:29+00:00",
-      "category": "Economy"
+      "title": "Ukraine war briefing: Deadly Russian bombing spree marks end of ceasefire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/ukraine-war-briefing-deadly-russian-bombing-spree-end-of-ceasefire",
+      "published_date": "2026-05-13T01:00:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bundesregierung: Koalitionsausschuss endet nach sechs Stunden",
@@ -561,76 +638,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/12/sicily-illegal-horse-race-carts-kalashnikovs-video",
       "published_date": "2026-05-12T10:34:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as two junior ministers quit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-two-junior-ministers-quit/a-77129695?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T09:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as two junior ministers quit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-two-junior-ministers-quit/a-77129695?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-12T09:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as four junior ministers quit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-four-junior-ministers-quit/a-77129695?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T09:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as four junior ministers quit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-four-junior-ministers-quit/a-77129695?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-12T09:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I shared a single bed with my mother for three years’: Sung Tieu on her monument to immigrant workers in Venice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/12/sung-tieu-interview-german-pavilion-venice-biennale",
-      "published_date": "2026-05-12T09:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is there a major tofu shortage in German supermarkets?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260512/why-is-there-a-major-tofu-shortage-in-german-supermarkets",
-      "published_date": "2026-05-12T09:13:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young hijab-wearing German beauty contestant takes on the AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-12T08:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young hijab-wearing German beauty contestant takes on the AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T08:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: New Tamil Nadu Chief Minister Vijay cracks down on state-run TASMAC liquor shops",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-new-tamil-nadu-chief-minister-vijay-cracks-down-on-state-run-tasmac-liquor-shops/a-77128244?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T08:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: LA area mayor to plead guilty to acting as Chinese agent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T05:39:00+00:00",
       "category": "Local Events"
     }
   ]
