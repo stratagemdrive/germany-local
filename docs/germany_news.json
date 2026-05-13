@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-13T13:07:48.155641+00:00",
-  "story_count": 91,
+  "last_updated": "2026-05-13T23:50:38.784884+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Ukraine war briefing: New Hungary PM signals shift away from Kremlin after massive drone attack on Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/14/ukraine-war-briefing-hungary-peter-magyar-signals-shift-from-russia-after-drone-attack",
+      "published_date": "2026-05-13T23:28:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes end to ‘five tabs, three apps and a prayer’ for cross-border train bookings",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/13/eu-proposal-cross-border-europe-train-bookings",
+      "published_date": "2026-05-13T15:49:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's shortfall in medium-range defense capabilities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-13T15:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's shortfall in medium-range defense capabilities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T15:04:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-Gericht: Polnische Waffenfirma darf »Obelix« nicht als Markennamen verwenden",
       "source": "ZEIT Online",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU negotiators agree new rules on vital medicines",
+      "title": "Russia unleashes fatal barrage of drones at Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T06:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T16:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU negotiators agree new rules on vital medicines",
+      "title": "Russia targets Ukraine with more than 800 drones in deadly daytime assault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
+      "published_date": "2026-05-13T15:23:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tigray tensions raise fears of Ethiopia-Eritrea war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-12T06:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/tigray-tensions-raise-fears-of-ethiopia-eritrea-war/a-77133464?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T14:52:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Yes, Europe’s leaders are finally standing up to Trump. Here’s why | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/12/friedrich-merz-europe-leaders-standing-up-to-trump",
-      "published_date": "2026-05-12T04:00:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poland says it expects US to extradite ex-minister who fled from Hungary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa",
-      "published_date": "2026-05-11T17:28:23+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli-Palestinian conflict: Allegations of sexual abuse",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T13:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Gunshots heard at Philippine Senate as ICC arrest expected",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: One-in-six retailers fear for future",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T13:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: 1-in-6 retailers fear for future",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-11T13:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: 1-in-6 retailers fear for future",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T13:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zeroday: Der historische KI-Angriff, der keiner war",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/internet/2026-05/cyberangriffe-kuenstliche-intelligenz-google-cybersicherheit",
-      "published_date": "2026-05-11T13:03:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Is caring about the climate unmanly?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-all-1573-rdf",
@@ -354,11 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
+      "title": "Starmer has ‘full confidence’ in Streeting despite health secretary’s allies saying he is planning to resign – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
-      "published_date": "2026-05-06T15:25:36+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
+      "published_date": "2026-05-13T17:00:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Sung by a silver robot from 1984!’ The 11 biggest bangers in Eurovision 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/best-eurovision-songs-2026-sarah-engels-delta-goodrem-jonas-lovv",
+      "published_date": "2026-05-13T14:31:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Indians growing anxious as Modi asks them to cut on fuel",
@@ -375,6 +382,13 @@
       "category": "Economy"
     },
     {
+      "title": "Fake TikTok fans and pop music's 'unethical' marketing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fake-tiktok-fans-and-pop-music-s-unethical-marketing/a-77091563?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T12:06:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Lab testing group Intertek to back £10.6bn takeover by Swedish firm EQT",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/may/13/lab-testing-group-intertek-to-back-takeover-by-swedish-firm-eqt",
@@ -385,6 +399,13 @@
       "title": "Germany news: Carmakers paint bleak picture on jobs",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T09:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Carmakers paint bleak picture on jobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-13T09:29:00+00:00",
       "category": "Economy"
     },
@@ -473,32 +494,67 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Exports jump higher than expected",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-exports-jump-higher-than-expected/live-77092745?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T10:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
-      "published_date": "2026-05-08T04:00:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US court deals fresh blow to Trump's 10% global tariff policy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T01:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deutsche Bahn: Zustand des Schienennetzes bleibt trotz Investitionen schlecht",
+      "title": "Landtag: AfD und BSW verhelfen in Sachsen Grünen-Antrag zur Mehrheit",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-05/deutsche-bahn-uenpuenktlich-chefin-evelyn-palla-schienennetz-sanierung-investitionen",
-      "published_date": "2026-05-07T12:10:53+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-05/14/afd-und-bsw-verhelfen-in-sachsen-gruenen-antrag-zur-mehrheit",
+      "published_date": "2026-05-13T23:03:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unfälle: Drei Menschen nach Unfall in Hamburg im Krankenhaus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/13/drei-menschen-nach-unfall-in-hamburg-im-krankenhaus",
+      "published_date": "2026-05-13T21:24:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milka maker milked shoppers over size of chocolate bars, German court rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/may/13/milka-maker-milked-shoppers-over-size-of-chocolate-bars-german-court-rules",
+      "published_date": "2026-05-13T18:17:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the king’s speech: an agenda for a government that lacks conviction | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/13/the-guardian-view-on-the-kings-speech-an-agenda-for-a-government-that-lacks-conviction",
+      "published_date": "2026-05-13T17:20:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnus the wandering walrus leaves Scotland for Norway",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/magnus-walrus-scotland-norway",
+      "published_date": "2026-05-13T15:39:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen’s party hits back at Kylian Mbappé comments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/marine-le-pen-party-national-rally-kylian-mbappe-criticism",
+      "published_date": "2026-05-13T15:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can South Africa's President Ramaphosa avoid impeachment again?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-south-africa-s-president-ramaphosa-avoid-impeachment-again/a-77132788?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T14:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "REVEALED: Which companies in Berlin offer jobs that don't require German?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260513/revealed-which-companies-in-berlin-offer-jobs-that-dont-require-german",
+      "published_date": "2026-05-13T14:11:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marathon world record breaker Sawe to compete in Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260513/marathon-world-record-breaker-sawe-to-compete-in-berlin",
+      "published_date": "2026-05-13T13:58:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Olivia Dean in Berlin: Liebe geht raus",
@@ -575,69 +631,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/bundesregierung-koalitionsausschuss-ende-cdu-spd-csu",
       "published_date": "2026-05-12T23:13:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia and Herzegovina left vulnerable by policy clash with US, representative says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
-      "published_date": "2026-05-12T16:40:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria airstrike kills 100 at market, Amnesty says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-airstrike-kills-100-at-market-amnesty-says/a-77135993?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T16:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga: Kathleen Krüger appointed Hamburg's head of sport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-12T14:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga: Kathleen Krüger appointed Hamburg's head of sport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T14:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irish TV to air Father Ted instead of Eurovision final in protest against Israel’s inclusion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
-      "published_date": "2026-05-12T13:31:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister der CDU: CSU-Abgeordnete wird Bildungsministerin in Rheinland-Pfalz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/12/bildungspolitikerin-aus-bayern-wird-ministerin",
-      "published_date": "2026-05-12T12:50:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Integrationskurse: Koalition einigt sich im Streit über Integrationskurse",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/integrationskurse-asylbewerber-geduldete-einsparungen-alexander-dobrindt-gxe",
-      "published_date": "2026-05-12T12:30:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Workers in Germany's big cities plagued by lack of affordable housing",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260512/workers-in-germanys-big-cities-plagued-by-lack-of-affordable-housing",
-      "published_date": "2026-05-12T12:15:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sicily police investigate illegal race with horse-drawn carts and Kalashnikovs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/sicily-illegal-horse-race-carts-kalashnikovs-video",
-      "published_date": "2026-05-12T10:34:52+00:00",
       "category": "Local Events"
     }
   ]
