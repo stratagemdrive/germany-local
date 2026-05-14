@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-13T23:50:38.784884+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-14T12:22:43.540688+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
+      "published_date": "2026-05-14T11:59:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Verleihung des Karlspreises: Friedrich Merz stellt sich gegen die Haushaltspläne der EU-Kommission",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/verleihung-karlspreis-eu-haushalt-friedrich-merz-mario-draghi",
+      "published_date": "2026-05-14T11:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Karl-Josef Laumann: »Teile der CDU könnten ein bisschen mehr Empathie üben«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/karl-josef-laumann-sozialminister-cdu-reform-friedrich-merz",
+      "published_date": "2026-05-14T11:12:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merkel urges patience for Merz's coalition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merkel-urges-patience-for-merz-s-coalition/live-77157896?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T09:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China warns Trump over Taiwan question at high-stakes summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T02:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine war briefing: New Hungary PM signals shift away from Kremlin after massive drone attack on Ukraine",
       "source": "The Guardian",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Youth mobility scheme disagreement hampering reset of UK-EU relations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/12/youth-mobility-scheme-disagreement-hampering-reset-uk-eu-relations",
-      "published_date": "2026-05-12T10:28:20+00:00",
-      "category": "Diplomacy"
+      "title": "Entführung ukrainischer Kinder: Russlands Kindesraub",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/entfuehrung-ukraine-kinder-krieg-russland-podcast",
+      "published_date": "2026-05-14T11:05:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz booed as he advocates economic reform",
+      "title": "Latvia: Prime Minister Evika Silina resigns over handling of drone incidents after coalition ally's withdrawal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-12T09:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T09:51:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz booed as he advocates economic reform",
+      "title": "Latvia: Prime Minister Evika Silina resigns over handling of drone incidents after coalition ally's withdrawal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T09:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-14T09:51:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What now for the role of high representative in Bosnia?",
+      "title": "Iran war tensions, oil shocks dominate BRICS talks in India",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-12T08:13:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-tensions-oil-shocks-dominate-brics-talks-in-india/a-77158355?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T09:33:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What now for the role of high representative in Bosnia?",
+      "title": "Ukraine court orders arrest of Zelenskyy ally Andriy Yermak",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-12T08:13:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T06:52:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia unleashes fatal barrage of drones at Ukraine",
@@ -249,44 +284,23 @@
       "category": "Military"
     },
     {
-      "title": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
-      "published_date": "2026-05-12T05:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy’s ex-chief of staff accused in Ukraine corruption investigation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation",
-      "published_date": "2026-05-12T04:46:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unfälle: Tank von Lkw aufgerissen: A2 bei Irxleben gesperrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/12/tank-von-lkw-aufgerissen-a2-bei-irxleben-gesperrt",
-      "published_date": "2026-05-11T23:46:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says ceasefire 'on life support'",
+      "title": "China goes electric, but can it get off coal?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-11T22:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: One-in-six retailers fear for future",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-11T13:39:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/china-goes-electric-but-can-it-get-off-coal/a-77147566?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T08:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is caring about the climate unmanly?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-13T07:33:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why men are less worried than women about climate change",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-men-are-less-worried-than-women-about-climate-change/a-76779473?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-13T07:33:00+00:00",
       "category": "Energy"
     },
@@ -347,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Solar sabotage: Why Europe sees security risks in solar power",
+      "title": "Who is Mario Draghi, this year's Charlemagne Prize winner?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/solar-sabotage-why-europe-sees-security-risks-in-solar-power/a-77066865?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-07T10:49:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-14T09:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who is Mario Draghi, this year's Charlemagne Prize winner?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T09:57:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Starmer has ‘full confidence’ in Streeting despite health secretary’s allies saying he is planning to resign – as it happened",
@@ -480,18 +501,18 @@
       "category": "Economy"
     },
     {
-      "title": "Pioneer in the fight against AIDS: Botswana's ex-President Festus Mogae died",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pioneer-in-the-fight-against-aids-botswana-s-ex-president-festus-mogae-died/a-77095797?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-08T11:44:00+00:00",
-      "category": "Economy"
+      "title": "German word of the day: Stau",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260514/german-word-of-the-day-stau",
+      "published_date": "2026-05-14T10:04:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Exports jump higher than expected",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-exports-jump-higher-than-expected/live-77092745?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-08T10:34:00+00:00",
-      "category": "Economy"
+      "title": "For three years I scoured the world for answers to Europe’s big problems – here’s what I found",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/14/europe-big-problems-japan-taiwan-care-systems",
+      "published_date": "2026-05-14T04:00:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Landtag: AfD und BSW verhelfen in Sachsen Grünen-Antrag zur Mehrheit",
@@ -617,20 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-13T03:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Deadly Russian bombing spree marks end of ceasefire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/ukraine-war-briefing-deadly-russian-bombing-spree-end-of-ceasefire",
-      "published_date": "2026-05-13T01:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesregierung: Koalitionsausschuss endet nach sechs Stunden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/bundesregierung-koalitionsausschuss-ende-cdu-spd-csu",
-      "published_date": "2026-05-12T23:13:21+00:00",
       "category": "Local Events"
     }
   ]
