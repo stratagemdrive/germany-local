@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-14T23:47:40.519264+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-15T12:28:10.679196+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Beziehungen zwischen USA und Deutschland: Bundeskanzler Merz telefoniert mit Donald Trump",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/friedrich-merz-donald-trump-iran-strasse-von-hormus",
+      "published_date": "2026-05-15T12:22:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany backtracks on cuts to integration courses for foreigners",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260515/germany-backtracks-on-cuts-to-integration-courses-for-foreigners",
+      "published_date": "2026-05-15T08:22:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How international student tuition fees vary across Europe",
       "source": "Deutsche Welle",
@@ -14,6 +28,20 @@
       "title": "How international student tuition fees vary across Europe",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-international-student-tuition-fees-vary-across-europe/a-77146306?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-14T19:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign student fee hikes in France trigger backlash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T19:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign student fee hikes in France trigger backlash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-14T19:52:00+00:00",
       "category": "Diplomacy"
     },
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's shortfall in medium-range defense capabilities",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T15:04:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU-Gericht: Polnische Waffenfirma darf »Obelix« nicht als Markennamen verwenden",
+      "title": "Bürokratie in der Bundeswehr: Jetzt mal was anderes",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-05/eu-gericht-obelix-markenname-waffen-klage-gxe",
-      "published_date": "2026-05-13T12:37:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/2026/22/buerokratie-bundeswehr-boris-pistorius-massnahmen-disziplin",
+      "published_date": "2026-05-15T12:22:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "More than 1,700 confined on cruise ship in Bordeaux after suspected norovirus death – Europe live",
+      "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/13/ukraine-russia-war-sergei-lavrov-mark-rutte-bucharest-europe-latest-news-updates",
-      "published_date": "2026-05-13T12:26:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
+      "published_date": "2026-05-15T12:09:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump arrives in China ahead of summit with Xi Jinping",
+      "title": "Germany news: Economic slowdown expected in 2nd quarter",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-arrives-in-china-ahead-of-summit-with-xi-jinping/live-77140304?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T12:21:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-news-economic-slowdown-expected-in-2nd-quarter/live-77168830?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-15T10:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Palestinians mark Nakba anniversary",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-palestinians-mark-nakba-anniversary/live-77167235?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-15T10:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
+      "published_date": "2026-05-15T10:21:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India hikes petrol, diesel prices as economic woes from Iran war mount",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-hikes-petrol-diesel-prices-as-economic-woes-from-iran-war-mount/a-77166898?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-15T08:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties",
+      "published_date": "2026-05-15T05:00:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Putin escalating war, not seeking an end – Merz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-war-briefing-putin-escalating-war-not-seeking-an-end-merz",
+      "published_date": "2026-05-15T01:02:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Großbritannien: Starmer ernennt James Murray zum neuen Gesundheitsminister",
@@ -179,6 +235,20 @@
       "category": "Military"
     },
     {
+      "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-14T16:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-14T16:10:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ukraine hit by second day of large-scale Russian missile and drone strikes",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/14/ukraine-second-day-large-scale-russian-missile-drone-strikes",
@@ -211,76 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-14T09:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia: Prime Minister Evika Silina resigns over handling of drone incidents after coalition ally's withdrawal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-14T09:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war tensions, oil shocks dominate BRICS talks in India",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tensions-oil-shocks-dominate-brics-talks-in-india/a-77158355?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T09:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine court orders arrest of Zelenskyy ally Andriy Yermak",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T06:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia unleashes fatal barrage of drones at Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T16:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia targets Ukraine with more than 800 drones in deadly daytime assault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
-      "published_date": "2026-05-13T15:23:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray tensions raise fears of Ethiopia-Eritrea war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tigray-tensions-raise-fears-of-ethiopia-eritrea-war/a-77133464?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T14:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli-Palestinian conflict: Allegations of sexual abuse",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T13:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunshots heard at Philippine Senate as ICC arrest expected",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gunshots-heard-at-philippine-senate-as-icc-arrest-expected/a-77148502?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T12:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T10:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-13T10:01:00+00:00",
       "category": "Military"
     },
     {
@@ -354,18 +354,32 @@
       "category": "Energy"
     },
     {
-      "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
-      "published_date": "2026-05-08T10:30:25+00:00",
-      "category": "Energy"
+      "title": "Mobilitätskosten: Spritpreise steigen - Diesel wieder über 2 Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/15/spritpreise-steigen-diesel-wieder-ueber-2-euro",
+      "published_date": "2026-05-15T12:18:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Our cities are choked by cars – here’s how experts would fix them",
+      "title": "‘Get curious’: Expert advice on how to change careers in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260515/get-curious-expert-advice-on-how-to-change-careers-in-germany",
+      "published_date": "2026-05-15T09:45:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU carmakers pave way for Chinese rivals as balance in market shifts",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/08/cities-cars-experts-green-spaces-cyclists",
-      "published_date": "2026-05-08T10:00:25+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/may/15/eu-carmakers-chinese-rivals-market-shifts",
+      "published_date": "2026-05-15T04:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump departs Beijing after whirlwind China visit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-departs-beijing-after-whirlwind-china-visit/live-77140304?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-15T03:32:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer",
@@ -480,32 +494,32 @@
       "category": "Economy"
     },
     {
-      "title": "French film industry at risk from the far right, say actors and directors",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors",
-      "published_date": "2026-05-12T15:17:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mediennutzung von Kindern: »Vielen Eltern fehlt einfach der Mut zum Nein«",
+      "title": "Museumsinsel in Berlin: Was die Sanierung des Pergamonmuseums kostet",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/arbeit/2026-04/mediennutzung-kinder-smartphone-eltern-tech-branche",
-      "published_date": "2026-05-11T18:11:03+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-05/15/was-die-sanierung-des-pergamonmuseums-kostet",
+      "published_date": "2026-05-15T12:24:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Is Germany's planned 'relief bonus' for employees off the table?",
+      "title": "Free drinks for good deeds: Berlin residents to be rewarded for cleaning up city",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260511/is-germanys-planned-relief-bonus-for-employees-off-the-table",
-      "published_date": "2026-05-11T09:11:58+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260515/free-drinks-for-good-deeds-berlin-residents-to-be-rewarded-for-cleaning-up-city",
+      "published_date": "2026-05-15T10:40:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany's businesses frustrated by economic decline",
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260515/today-in-germany-a-roundup-of-the-latest-news-on-friday-123",
+      "published_date": "2026-05-15T06:39:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivia miners clash with police, President Paz under fire",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-businesses-frustrated-by-economic-decline/a-77097307?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-11T08:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/bolivia-miners-clash-with-police-president-paz-under-fire/a-77165839?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-15T06:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "USA: Supreme Court erlaubt Versand von Abtreibungspillen weiter",
@@ -617,34 +631,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260513/marathon-world-record-breaker-sawe-to-compete-in-berlin",
       "published_date": "2026-05-13T13:58:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olivia Dean in Berlin: Liebe geht raus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/2026-05/olivia-dean-berlin-konzert-uber-arena",
-      "published_date": "2026-05-13T12:59:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polizeieinsatz: Hamburg: Lebensbedrohliche Verletzung nach Messerangriff",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/13/hamburg-lebensbedrohliche-verletzung-nach-messerangriff",
-      "published_date": "2026-05-13T12:57:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czech police hunt thief who stole 800-year-old skull of saint from church",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/czech-police-hunt-thief-stolen-skull-saint-zdislava-lemberk-church",
-      "published_date": "2026-05-13T11:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Berlin losing its appeal as a tourist destination?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260513/is-berlin-losing-its-appeal-as-a-tourist-destination",
-      "published_date": "2026-05-13T11:36:24+00:00",
       "category": "Local Events"
     }
   ]
