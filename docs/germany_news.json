@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-15T23:46:26.352140+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-16T11:44:56.316997+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Taiwan urges Trump to advance arms deal after China summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T09:22:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Krieg gegen die Ukraine: Russland erzielt Gerichtssieg über eingefrorenes Vermögen in der EU",
       "source": "ZEIT Online",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
+      "title": "Krieg gegen die Ukraine: Mehr als 500 tote Soldaten an die Ukraine übergeben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-05-16T11:15:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Angelica Domröse: Ein Blumenkranz war ihre Krone",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/film/2026-05/angelica-domroese-schauspiel-ddr-nachruf",
+      "published_date": "2026-05-16T11:08:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China, US, Israel compete in fast-growing laser weapons race",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T09:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "I’m a Eurovision superfan, but this year’s contest brings only sadness. I won’t be tuning in",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
-      "published_date": "2026-05-14T11:59:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/16/im-a-eurovision-superfan-but-this-years-contest-brings-only-sadness-i-wont-be-tuning-in",
+      "published_date": "2026-05-16T04:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy vows retribution over deadly Russian bombardments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments",
+      "published_date": "2026-05-16T03:16:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US stops Poland troop deployment after Germany pullout order",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-15T23:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US stops Poland troop deployment after Germany pullout order",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-15T23:56:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Dozens of European countries sign up to special tribunal plan to prosecute Russia",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Großbritannien: Starmer ernennt James Murray zum neuen Gesundheitsminister",
+      "title": "Wetter in NRW: Es bleibt wechselhaft mit Sonne, Regen und Wind",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/grossbritannien-gesundheitsministerium-wes-streeting-ruecktritt-nachfolge-james-murray",
-      "published_date": "2026-05-14T20:35:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali",
-      "published_date": "2026-05-14T17:22:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Over 20 dead as Russian strikes pound Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-over-20-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T17:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Corruption in Ukraine: Will this scandal reach Zelenskyy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Corruption in Ukraine: Will this scandal reach Zelenskyy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-14T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-14T16:10:00+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/news/2026-05/16/es-bleibt-wechselhaft-mit-sonne-regen-und-wind",
+      "published_date": "2026-05-16T11:15:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Eurovision 2026: Delta Goodrem sends Australia to the grand final with note-perfect performance",
@@ -340,18 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "Energiewende: Zwei Kühltürme von altem Kohlekraftwerk gesprengt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/09/zwei-kuehltuerme-von-altem-kohlekraftwerk-werden-gesprengt",
-      "published_date": "2026-05-09T11:31:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
-      "published_date": "2026-05-09T06:00:49+00:00",
-      "category": "Energy"
+      "title": "India news: PM Modi visits the Netherlands at start of Europe tour",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-pm-modi-visits-the-netherlands-at-start-of-europe-tour/live-77178271?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T06:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "All of a Sudden review – care home drama is tender, meditative and a little too precious for its own good",
@@ -487,11 +487,67 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Carmakers paint bleak picture on jobs",
+      "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
+      "published_date": "2026-05-16T11:25:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez",
+      "published_date": "2026-05-16T11:01:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indische Studierende: Bestellt, geliefert, ausgebeutet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/indische-studierende-ausbeutung-arbeit-nachrichtenpodcast",
+      "published_date": "2026-05-16T10:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: New York's Long Island railway workers go on strike",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-13T09:29:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T09:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Nearly half the country wants governing conservative coalition out",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T08:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: The eight-hour day, Eurovision drama and politicians' dreams of glory",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260516/inside-germany-the-eight-hour-day-eurovision-drama-and-politicians-dreams-of-glory",
+      "published_date": "2026-05-16T08:06:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia: Man dies after shark attack off holiday island",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-man-dies-after-shark-attack-off-holiday-island/a-77178365?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T06:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem",
+      "published_date": "2026-05-16T05:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says IS second in command killed in Nigeria",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-is-second-in-command-killed-in-nigeria/a-77178187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T03:52:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Koalitionsausschuss: Schwarz-Rot kann sich laut CSU-Politiker für Reformen Zeit nehmen",
@@ -568,69 +624,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260515/free-drinks-for-good-deeds-berlin-residents-to-be-rewarded-for-cleaning-up-city",
       "published_date": "2026-05-15T10:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260515/today-in-germany-a-roundup-of-the-latest-news-on-friday-123",
-      "published_date": "2026-05-15T06:39:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia miners clash with police, President Paz under fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bolivia-miners-clash-with-police-president-paz-under-fire/a-77165839?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T06:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA: Supreme Court erlaubt Versand von Abtreibungspillen weiter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/15/supreme-court-erlaubt-versand-von-abtreibungspillen-weiter",
-      "published_date": "2026-05-14T22:35:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK ministers accused of weakening legal protections for torture victims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/14/uk-ministers-accused-weakening-legal-protections-torture-victims-seeking-asylum",
-      "published_date": "2026-05-14T21:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demo gegen sexualisierte Gewalt: Mehr als tausend Menschen protestieren gegen Gewalt von Männern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/foto/2026-05/sexualisierte-gewalt-maenner-demo-brandenburger-tor",
-      "published_date": "2026-05-14T19:55:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran says Chinese ships passed through Hormuz overnight",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T18:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paediatrician in Germany charged with 130 counts of sexual abuse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/14/paediatrician-in-germany-charged-with-130-counts-of-sexual-abuse",
-      "published_date": "2026-05-14T13:19:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German word of the day: Stau",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260514/german-word-of-the-day-stau",
-      "published_date": "2026-05-14T10:04:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "For three years I scoured the world for answers to Europe’s big problems – here’s what I found",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/14/europe-big-problems-japan-taiwan-care-systems",
-      "published_date": "2026-05-14T04:00:16+00:00",
       "category": "Local Events"
     }
   ]
