@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-16T11:44:56.316997+00:00",
+  "last_updated": "2026-05-16T23:42:48.193634+00:00",
   "story_count": 89,
   "stories": [
     {
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany gets ahead in the new space race",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-16T19:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany gets ahead in the new space race",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T19:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany gets ahead in the new space race",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-16T19:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
+      "published_date": "2026-05-16T12:00:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maldives diver dies in operation to recover bodies of Italians from cave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
+      "published_date": "2026-05-16T11:45:36+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Mehr als 500 tote Soldaten an die Ukraine übergeben",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Middle East: Palestinians mark Nakba anniversary",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-palestinians-mark-nakba-anniversary/live-77167235?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T10:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
-      "published_date": "2026-05-15T10:21:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India hikes petrol, diesel prices as economic woes from Iran war mount",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-hikes-petrol-diesel-prices-as-economic-woes-from-iran-war-mount/a-77166898?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T08:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties",
-      "published_date": "2026-05-15T05:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin escalating war, not seeking an end – Merz",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-war-briefing-putin-escalating-war-not-seeking-an-end-merz",
-      "published_date": "2026-05-15T01:02:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Wetter in NRW: Es bleibt wechselhaft mit Sonne, Regen und Wind",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/16/es-bleibt-wechselhaft-mit-sonne-regen-und-wind",
@@ -345,6 +345,13 @@
       "url": "https://www.dw.com/en/nigeria-s-solar-boom-faces-cost-and-policy-barriers/a-77122375?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-11T13:36:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Germany's Mercedes Benz mulls diversification into defence",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260516/germanys-mercedes-benz-mulls-diversification-into-defence",
+      "published_date": "2026-05-16T12:46:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "India news: PM Modi visits the Netherlands at start of Europe tour",
@@ -480,11 +487,67 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Carmakers paint bleak picture on jobs",
+      "title": "Eight injured after car ploughs into crowd in Italy's Modena",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-13T09:29:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T21:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: 15 Festnahmen bei Demonstration zum palästinensischen Gedenktag Nakba",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/demonstration-nakba-berlin-festnahmen-verletzte",
+      "published_date": "2026-05-16T18:50:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven people injured after man drives car into pedestrians in northern Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/people-injured-car-crowd-modena-northern-italy",
+      "published_date": "2026-05-16T18:13:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK far-right group stages anti-immigration protest in London",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-far-right-group-stages-anti-immigration-protest-in-london/a-77180588?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T15:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle East updates: Big crowds at Nakba Day rally in London",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T14:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Study: Immigrants disadvantaged in German housing market",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-16T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Study: Immigrants disadvantaged in German housing market",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'From collection to connection': How museums are redefining themselves",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T12:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrest of Iraqi terror suspect with alleged links to Iran’s Quds Force is astonishing but not surprising",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/mohammad-baqer-saad-dawood-al-saadi-iran-guards-hayi",
+      "published_date": "2026-05-16T12:18:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
@@ -561,69 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
       "published_date": "2026-05-15T23:01:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsch-russische Beziehungen: Putin-Vertrauter nennt AfD «Hoffnung für die Deutschen»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/16/putin-vertrauter-nennt-afd-hoffnung-fuer-die-deutschen",
-      "published_date": "2026-05-15T22:35:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gentle Monster review – disquieting drama about two women facing the truth about the men they love",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/15/gentle-monster-review-disquieting-drama-about-two-women-facing-the-truth-about-the-men-they-love",
-      "published_date": "2026-05-15T21:56:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic feminism more widespread in Bosnia and Herzegovina",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T15:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic feminism more widespread in Bosnia and Herzegovina",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-15T15:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czech police find stolen skull of medieval saint encased in concrete",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/15/czech-police-find-stolen-skull-13th-century-saint-arrest-man",
-      "published_date": "2026-05-15T15:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erling Haaland to make film acting debut – as a Viking called Haaland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/15/erling-haaland-film-acting-debut-viqueens-viking",
-      "published_date": "2026-05-15T15:04:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Prost!': A short history of the German Kneipe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260515/prost-a-short-history-of-the-german-kneipe",
-      "published_date": "2026-05-15T14:01:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Museumsinsel in Berlin: Was die Sanierung des Pergamonmuseums kostet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/15/was-die-sanierung-des-pergamonmuseums-kostet",
-      "published_date": "2026-05-15T12:24:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free drinks for good deeds: Berlin residents to be rewarded for cleaning up city",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260515/free-drinks-for-good-deeds-berlin-residents-to-be-rewarded-for-cleaning-up-city",
-      "published_date": "2026-05-15T10:40:28+00:00",
       "category": "Local Events"
     }
   ]
