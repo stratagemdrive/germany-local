@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-16T23:42:48.193634+00:00",
-  "story_count": 89,
+  "last_updated": "2026-05-17T11:57:26.333973+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Internationaler Tag gegen Homophobie: Regenbogenflagge am Reichstagsgebäude gehisst",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-05/regenbogenflagge-reichstag-gehisst-kloeckner-gxe",
+      "published_date": "2026-05-17T10:40:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Taiwan urges Trump to advance arms deal after China summit",
       "source": "Deutsche Welle",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran war tests India's multi-alignment diplomacy",
+      "title": "Ukrainian drones hit Russia in massive overnight attack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-tests-india-s-multi-alignment-diplomacy/a-77161358?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T13:19:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukrainian-drones-hit-russia-in-massive-overnight-attack/a-77188685?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-17T11:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
+      "published_date": "2026-05-17T09:48:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: CNG gas price hiked in Delhi NCR amid Iran war fallout",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-17T06:06:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany gets ahead in the new space race",
@@ -162,6 +183,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-05-16T19:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Drone strike sparks fire at UAE nuclear plant",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-16T14:50:00+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Bürokratie in der Bundeswehr: Jetzt mal was anderes",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/22/buerokratie-bundeswehr-boris-pistorius-massnahmen-disziplin",
-      "published_date": "2026-05-15T12:22:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
-      "published_date": "2026-05-15T12:09:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli-Palestinian conflict: Allegations of sexual abuse",
+      "title": "German transport minister promotes green hydrogen in Japan",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T11:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Economic slowdown expected in 2nd quarter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-economic-slowdown-expected-in-2nd-quarter/live-77168830?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T10:52:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-17T08:25:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wetter in NRW: Es bleibt wechselhaft mit Sonne, Regen und Wind",
@@ -487,6 +494,48 @@
       "category": "Economy"
     },
     {
+      "title": "Berlin-Neukölln: Autofahrer fährt Jugendliche an und flüchtet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/17/autofahrer-faehrt-jugendliche-an-und-fluechtet",
+      "published_date": "2026-05-17T11:49:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schusswaffen-Kriminalität: Wieder Schüsse in Berlin - Auch Waffe und Kokain gefunden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/17/wieder-schuesse-in-berlin-auch-waffe-und-kokain-gefunden",
+      "published_date": "2026-05-17T11:34:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bärbel Bas: Ihr fehlt der Mut zur Wahrheit",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/baerbel-bas-spd-krise-sozialdemokratie-bundesregierung",
+      "published_date": "2026-05-17T11:28:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
+      "published_date": "2026-05-17T10:50:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: more than 500 drones strike at Russia, killing 3; US allows Russian oil sanctions waiver to lapse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/ukraine-war-briefing-us-allows-russian-oil-sanctions-waiver-to-lapse",
+      "published_date": "2026-05-17T05:56:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A place for everybody’: Stockholm to open its first publicly run sauna",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/a-place-for-everybody-stockholm-to-open-its-first-publicly-run-sauna",
+      "published_date": "2026-05-17T04:00:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Eight injured after car ploughs into crowd in Italy's Modena",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-rdf",
@@ -582,48 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-16T08:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: The eight-hour day, Eurovision drama and politicians' dreams of glory",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260516/inside-germany-the-eight-hour-day-eurovision-drama-and-politicians-dreams-of-glory",
-      "published_date": "2026-05-16T08:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia: Man dies after shark attack off holiday island",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-man-dies-after-shark-attack-off-holiday-island/a-77178365?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem",
-      "published_date": "2026-05-16T05:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says IS second in command killed in Nigeria",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-is-second-in-command-killed-in-nigeria/a-77178187?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T03:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Koalitionsausschuss: Schwarz-Rot kann sich laut CSU-Politiker für Reformen Zeit nehmen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/koalitionsausschuss-reformen-zeitrahmen-csu",
-      "published_date": "2026-05-15T23:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK joins European deal to send rejected asylum seekers to third-country hubs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
-      "published_date": "2026-05-15T23:01:36+00:00",
       "category": "Local Events"
     }
   ]
