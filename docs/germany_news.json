@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-18T23:57:55.701011+00:00",
-  "story_count": 91,
+  "last_updated": "2026-05-19T13:52:23.439729+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "SPD und Union: Friedrich Merz spricht sich gegen »rote Linien« in Zusammenarbeit aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/friedrich-merz-spd-bundestagsfraktion-cdu-koalition",
+      "published_date": "2026-05-19T13:40:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia",
+      "published_date": "2026-05-19T13:24:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How much do members of Germany's Bundestag really earn?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260519/how-much-do-members-of-germanys-bundestag-really-earn",
+      "published_date": "2026-05-19T12:04:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Petrol, diesel prices hiked again as Iran crisis deepens",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-petrol-diesel-prices-hiked-again-as-iran-crisis-deepens/live-77207303?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T06:25:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
       "source": "The Guardian",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany and Japan test hydrogen future with BMW, Toyota cars",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-and-japan-test-hydrogen-future-with-bmw-toyota-cars/a-77182456?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-17T08:25:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Taiwan urges Trump to advance arms deal after China summit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T09:22:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland erzielt Gerichtssieg über eingefrorenes Vermögen in der EU",
+      "title": "Neue Verteidigungsstrukturen: Söder: Ukraine militärisch an Europa binden",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/russland-zentralbank-euroclear-urteil-gericht-eingefrorenes-vermoegen",
-      "published_date": "2026-05-15T22:59:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-05/19/soeder-ukraine-militaerisch-an-europa-binden",
+      "published_date": "2026-05-19T13:36:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Chancellor Merz says he wouldn't advise his kids to go to the US",
+      "title": "Nato jet shot down reported stray Ukrainian drone over Estonia, defence minister says – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
+      "published_date": "2026-05-19T13:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-15T17:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T11:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-19T11:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sweden orders 4 frigates from French company Naval Group",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-orders-4-frigates-from-french-company-naval-group/a-77208762?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T08:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sweden orders 4 frigates from French company Naval Group",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-orders-4-frigates-from-french-company-naval-group/a-77208762?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-19T08:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Top European Parliament honor to be awarded for first time",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/top-european-parliament-honor-to-be-awarded-for-first-time/a-77208111?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T07:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow begins nuclear drills as Russia-Ukraine drone strikes intensify",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T07:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260519/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-124",
+      "published_date": "2026-05-19T06:22:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From sanctioned cars to beauty clinics, Russian rubles have flowed into China’s border towns since Ukraine war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/russia-china-border-increase-trade-ukraine-war",
+      "published_date": "2026-05-19T01:14:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Chinese ship hit on way in to Odesa port, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/ukraine-war-briefing-chinese-ship-hit-odesa-port-zelenskyy",
+      "published_date": "2026-05-19T00:22:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Außenpolitik: Deutschland unterstützt Annäherung von Türkei an die EU",
@@ -207,81 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "US: Two jets collide midair at Idaho air show",
+      "title": "South Korea, Japan agree to boost energy cooperation",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-two-jets-collide-midair-at-idaho-air-show/a-77191396?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-17T19:59:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/south-korea-japan-agree-to-boost-energy-cooperation/a-77209237?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T10:03:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Moulin review – László Nemes’s resistance hero drama is chilling, stirring and surprisingly conventional",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/17/moulin-review-laszlo-nemes-jean-moulin-rfrench-resistance-klaus-barbie",
-      "published_date": "2026-05-17T15:55:57+00:00",
-      "category": "Military"
+      "title": "Thousands of gas stations in Germany flout fuel pricing rule",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260519/thousands-of-gas-stations-in-germany-flout-fuel-pricing-rule",
+      "published_date": "2026-05-19T09:00:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukrainian drones hit Russia in massive overnight attack",
+      "title": "Germany news: 3 missing after Görlitz house collapse",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-drones-hit-russia-in-massive-overnight-attack/a-77188685?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-17T11:12:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-news-3-missing-after-görlitz-house-collapse/live-77208112?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T07:54:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
-      "published_date": "2026-05-17T09:48:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: CNG gas price hiked in Delhi NCR amid Iran war fallout",
+      "title": "Bolivia: Clashes in La Paz as protesters demand President Paz's ouster",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-17T06:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany gets ahead in the new space race",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-16T19:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany gets ahead in the new space race",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T19:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany gets ahead in the new space race",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-16T19:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany stakes claim in new space race",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-stakes-claim-in-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T19:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany stakes claim in new space race",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-stakes-claim-in-new-space-race/a-77177359?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-16T19:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Drone strike sparks fire at UAE nuclear plant",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T14:50:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/bolivia-clashes-in-la-paz-as-protesters-demand-president-paz-s-ouster/a-77206922?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T05:16:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany set to miss 2030 climate goal",
@@ -354,11 +382,46 @@
       "category": "Energy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260512/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-123",
-      "published_date": "2026-05-12T06:36:32+00:00",
-      "category": "Energy"
+      "title": "Why more US women are moving abroad: ‘It’s because of Trump, right? Yes and no’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/us-women-migrating-europe-politics",
+      "published_date": "2026-05-19T10:00:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Freiburg's Europa League final proof another way can work",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-19T09:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Freiburg's Europa League final proof another way can work",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T09:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fears of new China shock as EU industry’s reliance on imports grows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports",
+      "published_date": "2026-05-19T06:00:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How China became Russia's economic lifeline",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-china-became-russia-s-economic-lifeline/a-77193402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T04:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Belfast harbour operator to invest £1.3bn as NI economy grows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/19/belfast-harbour-invest-ni-economy-port-ferry-cruise-ship",
+      "published_date": "2026-05-19T04:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Zambia's media freedom under scrutiny ahead of 2026 elections",
@@ -459,51 +522,58 @@
       "category": "Economy"
     },
     {
-      "title": "Trump says no change in Taiwan policy as China visit wraps",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-no-change-in-taiwan-policy-as-china-visit-wraps/live-77140304?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T03:32:00+00:00",
-      "category": "Economy"
+      "title": "Einladung nach St. Petersburg: AfD-Politiker Frohnmaier überlegt wegen Russland-Reise noch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/19/afd-politiker-frohnmaier-ueberlegt-wegen-russland-reise-noch",
+      "published_date": "2026-05-19T13:33:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T15:06:00+00:00",
-      "category": "Economy"
+      "title": "Son of Mango fashion chain founder arrested in Spain over death of father",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/jonathan-andic-son-mango-isak-andic-arrested-death-father-spain",
+      "published_date": "2026-05-19T12:35:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer",
+      "title": "Spanish ex-PM Zapatero investigated over airline bailout",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-14T15:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/spanish-ex-pm-zapatero-investigated-over-airline-bailout/a-77211823?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T11:58:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Who is Mario Draghi, this year's Charlemagne Prize winner?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-14T14:25:00+00:00",
-      "category": "Economy"
+      "title": "'Faire Integration': Where foreign workers in Germany can get free workplace advice",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260519/faire-integration-where-foreign-workers-in-germany-can-get-free-workplace-advice",
+      "published_date": "2026-05-19T08:38:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Who is Mario Draghi, this year's Charlemagne Prize winner?",
+      "title": "San Diego mosque shooting to be investigated as hate crime",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-14T09:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/san-diego-mosque-shooting-to-be-investigated-as-hate-crime/a-77206906?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T05:51:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Who is Mario Draghi, this year's Charlemagne Prize winner?",
+      "title": "Trump says he paused attack on Iran at Gulf leaders' request",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T09:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/trump-says-he-paused-attack-on-iran-at-gulf-leaders-request/a-77206834?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T03:01:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Live updates: 3 killed in shooting at San Diego mosque",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/live-updates-3-killed-in-shooting-at-san-diego-mosque/live-77205503?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-18T22:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Updates: 3 killed in shooting at San Diego's largest mosque",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/updates-3-killed-in-shooting-at-san-diego-s-largest-mosque/live-77205503?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-18T22:10:00+00:00",
       "category": "Local Events"
     },
@@ -589,55 +659,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260518/tiger-queen-under-scrutiny-after-police-kill-big-cat-near-leipzig",
       "published_date": "2026-05-18T08:33:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260518/today-in-germany-a-roundup-of-the-latest-news-on-monday-123",
-      "published_date": "2026-05-18T06:31:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Still collapsing after all these years: Einstürzende Neubauten on their fifth decade as a Berlin legend",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/18/einsturzende-neubauten-berlin-blixa-bargeld-josefine-lukschy-josefine-lukschy",
-      "published_date": "2026-05-18T04:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cuba buys more than 300 drones from Russia and Iran — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-buys-more-than-300-drones-from-russia-and-iran-report/a-77191599?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-17T22:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reformdebatte: Markus Söder dringt auf Beschluss von Reformpaket vor der Sommerpause",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/reformdebatte-markus-soeder-beschluss-reformpaket-sommerpause",
-      "published_date": "2026-05-17T22:38:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abgeordnetengehälter: Spahn spricht sich für Verzicht auf Diätenerhöhung aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/jens-spahn-bundestagdiaeten-nullrunde-cdu",
-      "published_date": "2026-05-17T18:56:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s top film producer says it will blacklist figures who petitioned against rightwing billionaire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire",
-      "published_date": "2026-05-17T18:37:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German singer Heino pushes back against the far-right AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-singer-heino-pushes-back-against-the-far-right-afd/a-77173665?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-17T14:44:00+00:00",
       "category": "Local Events"
     }
   ]
