@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-19T13:52:23.439729+00:00",
+  "last_updated": "2026-05-19T23:55:59.952039+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Russian jamming blamed after Nato jet downs Ukrainian drone over Estonia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/russian-jamming-blamed-nato-jet-downs-ukrainian-drone-estonia",
+      "published_date": "2026-05-19T15:57:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SPD und Union: Friedrich Merz spricht sich gegen »rote Linien« in Zusammenarbeit aus",
       "source": "ZEIT Online",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Internationaler Tag gegen Homophobie: Regenbogenflagge am Reichstagsgebäude gehisst",
+      "title": "Argentinien: Biologen fangen Nagetiere, um Hantavirus-Ursprung zu erforschen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-05/regenbogenflagge-reichstag-gehisst-kloeckner-gxe",
-      "published_date": "2026-05-17T10:40:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/gesundheit/2026-05/hantavirus-ursprung-forscher-argentinien-nagetier-wald",
+      "published_date": "2026-05-19T22:33:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US troop withdrawal from Europe to take 'years' — general",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T19:43:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Minotaur review – Andrei Zvyagintsev’s scorching noir intrigue amid the Ukraine war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/19/minotaur-review-cannes-film-festival-andrei-zvyagintsev-ukraine-russia",
+      "published_date": "2026-05-19T15:50:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany beefs up civil defense",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-beefs-up-civil-defense/a-77220071?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-19T15:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany beefs up civil defense",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-beefs-up-civil-defense/a-77220071?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T15:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO planes down suspected Ukrainian drone over Estonia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-planes-down-suspected-ukrainian-drone-over-estonia/a-77215424?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T14:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO planes down suspected Ukrainian drone over Estonia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-planes-down-suspected-ukrainian-drone-over-estonia/a-77215424?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-19T14:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Why is Trump blaming the Kurds?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-why-is-trump-blaming-the-kurds/a-77216394?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T14:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Neue Verteidigungsstrukturen: Söder: Ukraine militärisch an Europa binden",
@@ -225,62 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/bundesregierung-unterstuetzung-eu-beitritt-tuerkei-patriot-verlegung",
       "published_date": "2026-05-18T23:14:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Belarus launches drills involving Russian nuclear weapons",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belarus-launches-drills-involving-russian-nuclear-weapons/a-77204498?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T18:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenya fuel protests turn deadly amid Iran war disruptions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-fuel-protests-turn-deadly-amid-iran-war-disruptions/a-77202954?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T16:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How China became the new master of Russia's economy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-china-became-the-new-master-of-russia-s-economy/a-77193402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T15:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
-      "published_date": "2026-05-18T13:54:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ryanair has ‘near-zero concerns’ on fuel shortages but warns of future price rises",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
-      "published_date": "2026-05-18T11:45:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea's new constitution deepens split with Seoul",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-s-new-constitution-deepens-split-with-seoul/a-77195733?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T11:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Dnipro and Odesa targeted in Russian strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-dnipro-and-odesa-targeted-in-russian-strikes/a-77192579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T06:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fußballbundesliga: Eintracht Frankfurt trennt sich von Trainer Albert Riera",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/eintracht-frankfurt-albert-riera-trainer-entlassen",
-      "published_date": "2026-05-17T20:42:22+00:00",
       "category": "Military"
     },
     {
@@ -380,6 +380,13 @@
       "url": "https://www.dw.com/en/why-men-are-less-worried-than-women-about-climate-change/a-76779473?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-13T07:33:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "What happens if you make a mistake on your German tax return?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260519/what-happens-if-you-make-a-mistake-on-your-german-tax-return",
+      "published_date": "2026-05-19T14:09:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why more US women are moving abroad: ‘It’s because of Trump, right? Yes and no’",
@@ -515,11 +522,46 @@
       "category": "Economy"
     },
     {
-      "title": "Trump departs Beijing after whirlwind China visit",
+      "title": "Premier League: City patzt - Havertz mit Arsenal englischer Fußballmeister",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/19/city-patzt-havertz-mit-arsenal-englischer-fussballmeister",
+      "published_date": "2026-05-19T21:39:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vance hails 'good progress' in Iran talks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-departs-beijing-after-whirlwind-china-visit/live-77140304?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T03:32:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/vance-hails-good-progress-in-iran-talks/a-77222349?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T20:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary's new Prime Minister Magyar seeks to fix Poland ties",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-new-prime-minister-magyar-seeks-to-fix-poland-ties/a-77215714?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T17:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary's new Prime Minister Magyar seeks to fix Poland ties",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-new-prime-minister-magyar-seeks-to-fix-poland-ties/a-77215714?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-19T17:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
+      "published_date": "2026-05-19T17:13:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rising Cuba-US tensions amid talk of drones, emergency plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rising-cuba-us-tensions-amid-talk-of-drones-emergency-plans/a-77216507?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-19T16:16:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Einladung nach St. Petersburg: AfD-Politiker Frohnmaier überlegt wegen Russland-Reise noch",
@@ -617,48 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-18T13:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Atlas of Civil Society' downgrades Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/atlas-of-civil-society-downgrades-germany/a-77193686?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-18T10:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Atlas of Civil Society' downgrades Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/atlas-of-civil-society-downgrades-germany/a-77193686?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T10:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elversberg: Bundesliga newcomers from tiny town make history",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-history/a-77194483?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-18T09:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elversberg: Bundesliga newcomers from tiny town make history",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-history/a-77194483?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T09:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s conservatives forced to rely on far-right Vox party after losing majority in Andalucía",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/18/spain-conservative-peoples-party-far-right-vox-andalucia-election",
-      "published_date": "2026-05-18T08:48:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Tiger Queen' under scrutiny after police kill big cat near Leipzig",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260518/tiger-queen-under-scrutiny-after-police-kill-big-cat-near-leipzig",
-      "published_date": "2026-05-18T08:33:26+00:00",
       "category": "Local Events"
     }
   ]
