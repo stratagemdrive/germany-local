@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-21T00:01:25.180185+00:00",
+  "last_updated": "2026-05-21T14:01:27.589777+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Gaza: Italien fordert EU-Sanktionen gegen Israels Polizeiminister Ben-Gvir",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published_date": "2026-05-21T13:20:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz pitches 'associate' EU membership for Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-pitches-associate-eu-membership-for-ukraine/a-77236052?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-21T11:39:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz pitches 'associate' EU membership for Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-pitches-associate-eu-membership-for-ukraine/a-77236052?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T11:39:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German chancellor pitches making Ukraine EU 'associate member'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260521/german-chancellor-pitches-making-ukraine-eu-associate-member",
+      "published_date": "2026-05-21T08:47:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Govt reportedly mulls change to retirement age",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-govt-reportedly-mulls-change-to-retirement-age/live-77237513?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T08:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260521/today-in-germany-a-roundup-of-the-latest-news-on-thursday-119",
+      "published_date": "2026-05-21T06:34:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Fresh threat of attack from Belarus front, warns Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
+      "published_date": "2026-05-21T01:11:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe’s nul-point politicians: inside the 22 May Guardian Weekly",
       "source": "The Guardian",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian President Vladimir Putin in Beijing for talks with Chinese leader Xi Jinping",
+      "title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "published_date": "2026-05-21T13:21:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T05:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T12:49:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russian President Vladimir Putin in Beijing for talks with Chinese leader Xi Jinping",
+      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-20T05:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-21T12:49:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "The die isn’t cast: France is pessimistic, but not doomed to far-right rule | Joseph de Weck",
+      "title": "Is the US deepening its military involvement in Nigeria?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-the-us-deepening-its-military-involvement-in-nigeria/a-77236534?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T12:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EasyJet summer holiday bookings down on last year amid Iran war uncertainty",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/20/france-pessimistic-doomed-far-right-rule-national-rally-president-2027",
-      "published_date": "2026-05-20T04:00:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/may/21/easyjet-summer-holiday-bookings-down-on-last-year-amid-iran-war-uncertainty",
+      "published_date": "2026-05-21T10:49:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russian jamming blamed after Nato jet downs Ukrainian drone over Estonia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/russian-jamming-blamed-nato-jet-downs-ukrainian-drone-estonia",
-      "published_date": "2026-05-19T15:57:54+00:00",
-      "category": "Diplomacy"
+      "title": "Taiwan: Trump prods China with offer of direct Taipei talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/taiwan-trump-prods-china-with-offer-of-direct-taipei-talks/a-77238712?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T09:57:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "SPD und Union: Friedrich Merz spricht sich gegen »rote Linien« in Zusammenarbeit aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/friedrich-merz-spd-bundestagsfraktion-cdu-koalition",
-      "published_date": "2026-05-19T13:40:24+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war updates: Pakistan's army chief to visit Tehran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-updates-pakistan-s-army-chief-to-visit-tehran/live-77237954?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T09:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia",
-      "published_date": "2026-05-19T13:24:43+00:00",
-      "category": "Diplomacy"
+      "title": "Philippines orders arrest of senator over ICC 'war on drugs' charges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/philippines-orders-arrest-of-senator-over-icc-war-on-drugs-charges/a-77236603?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T06:56:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "How much do members of Germany's Bundestag really earn?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260519/how-much-do-members-of-germanys-bundestag-really-earn",
-      "published_date": "2026-05-19T12:04:44+00:00",
-      "category": "Diplomacy"
+      "title": "Colombia: Presidential race overshadowed by rising violence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/colombia-presidential-race-overshadowed-by-rising-violence/a-77236018?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T04:50:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Europa League : SC Freiburg verliert Finale der Europa League gegen Aston Villa",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US to reduce troops in Europe to 2021 levels, Pentagon says",
+      "title": "Worst-case climate scenario off the table, but warming is not",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-to-reduce-troops-in-europe-to-2021-levels-pentagon-says/a-77222971?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T03:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Britain to buy diesel and jet fuel made from Russian crude oil",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/20/ukraine-war-briefing-britain-to-buy-diesel-and-jet-fuel-made-from-russian-crude-oil",
-      "published_date": "2026-05-20T00:44:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Senate advances measure to limit Trump's Iran war powers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-senate-advances-measure-to-limit-trump-s-iran-war-powers/a-77222612?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T00:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Argentinien: Biologen fangen Nagetiere, um Hantavirus-Ursprung zu erforschen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesundheit/2026-05/hantavirus-ursprung-forscher-argentinien-nagetier-wald",
-      "published_date": "2026-05-19T22:33:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US troop withdrawal from Europe to take 'years' — general",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T19:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minotaur review – Andrei Zvyagintsev’s scorching noir intrigue amid the Ukraine war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/19/minotaur-review-cannes-film-festival-andrei-zvyagintsev-ukraine-russia",
-      "published_date": "2026-05-19T15:50:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany beefs up civil defense",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-beefs-up-civil-defense/a-77220071?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-19T15:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany beefs up civil defense",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-beefs-up-civil-defense/a-77220071?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T15:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO planes down suspected Ukrainian drone over Estonia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nato-planes-down-suspected-ukrainian-drone-over-estonia/a-77215424?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T14:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/worst-case-climate-scenario-off-the-table-but-warming-is-not/a-77238401?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T09:51:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Today in Germany: A roundup of the latest news on Wednesday",
@@ -375,11 +382,32 @@
       "category": "Energy"
     },
     {
-      "title": "China goes electric, but can it get off coal?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-goes-electric-but-can-it-get-off-coal/a-77147566?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-14T08:30:00+00:00",
-      "category": "Energy"
+      "title": "Everything that changes in Germany in June 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260521/everything-that-changes-in-germany-in-june-2026",
+      "published_date": "2026-05-21T11:06:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Girl, two, dies after being left in car as extreme heat sweeps Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/21/girl-dies-car-extreme-heat-spain",
+      "published_date": "2026-05-21T10:39:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Eurowings to take over routes from Berlin as Ryanair pulls out",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260521/eurowings-to-takes-over-routes-from-berlin-as-ryanair-pulls-out",
+      "published_date": "2026-05-21T09:17:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail",
+      "published_date": "2026-05-21T05:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Relief for low earners: What we know so far about Germany's tax shake-up",
@@ -494,32 +522,81 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's Mercedes Benz mulls diversification into defence",
+      "title": "Germany's housing crunch is driving away skilled foreign workers",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260516/germanys-mercedes-benz-mulls-diversification-into-defence",
-      "published_date": "2026-05-16T12:46:18+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260521/germanys-housing-crunch-is-driving-away-skilled-foreign-workers",
+      "published_date": "2026-05-21T13:53:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "India news: PM Modi visits the Netherlands at start of Europe tour",
+      "title": "Relegation: Essen-Trainer Koschinat: «Wucht des Stadions mitnehmen»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/21/essen-trainer-koschinat-wucht-des-stadions-mitnehmen",
+      "published_date": "2026-05-21T13:48:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: DW's Alican Uludag released, but trial continues",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-pm-modi-visits-the-netherlands-at-start-of-europe-tour/live-77178271?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-16T06:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T13:45:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "All of a Sudden review – care home drama is tender, meditative and a little too precious for its own good",
+      "title": "Fußballbundesliga: Mauro Lustrinelli wird neuer Trainer bei Union Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/mauro-lustrinelli-union-berlin-trainer-fc-thun-gxe",
+      "published_date": "2026-05-21T12:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola patient in Berlin: Why Germany's helping",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-21T12:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola patient in Berlin: Why Germany's helping",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T12:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air France and Airbus guilty of corporate manslaughter for 2009 plane crash",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/15/all-of-a-sudden-review-care-home-ryusuke-hamaguchi-cannes",
-      "published_date": "2026-05-15T15:16:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-corporate-manslaughter-2009-plane-crash",
+      "published_date": "2026-05-21T12:38:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Uganda at a crossroads as Museveni begins new term",
+      "title": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/21/record-number-of-dams-dismantled-in-europe-in-effort-to-help-wildlife-thrive",
+      "published_date": "2026-05-21T12:14:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court finds Airbus, Air France guilty in 2009 crash",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uganda-at-a-crossroads-as-museveni-begins-new-term/a-77152718?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-15T13:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T12:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dublin gangland figure brings extremist views to Irish mainstream on campaign trail",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/21/gerry-hutch-dublin-byelection-campaign-extremist-views-irish-mainstream",
+      "published_date": "2026-05-21T06:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedro Sánchez is loved everywhere – but not so much in Spain. Here’s why | María Ramírez",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/21/pedro-sanchez-loved-everywhere-not-so-much-spain-andalusia-voters-another-comeback",
+      "published_date": "2026-05-21T04:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Viruserkrankung: Familie des Ebola-Patienten nun auch in Berlin",
@@ -564,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Freiburg loses Europa League final",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-freiburg-loses-europa-league-final/live-77225377?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-20T15:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'Welcome culture to farewell culture': The AfD's plans for Saxony-Anhalt",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260520/welcome-culture-to-farewell-culture-the-afds-plans-for-saxony-anhalt",
@@ -575,90 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-records-high-numbers-of-online-child-abuse-cases/a-77231457?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-20T14:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany records high numbers of online child abuse cases",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-records-high-numbers-of-online-child-abuse-cases/a-77231457?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T14:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gutachten im AfD-Auftrag: «Textbetrug» - Neue Vorwürfe gegen Thüringer Regierungschef",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/20/neue-plagiatsvorwuerfe-gegen-thueringer-regierungschef-voigt",
-      "published_date": "2026-05-20T13:28:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verfassungsschutz: Streit um AfD-Einstufung: Gericht weist Beweisanträge zurück",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/20/streit-um-afd-einstufung-gericht-weist-beweisantraege-zurueck",
-      "published_date": "2026-05-20T13:22:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jüdisches Leben in Deutschland: Berlin verzeichnet etwa sechs antisemitische Vorfälle am Tag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/antisemitismus-rias-hessen-berlin-antisemitische-vorfaelle-gewalt",
-      "published_date": "2026-05-20T13:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mario Voigt: Gutachten enthält neue Plagiatsvorwürfe gegen Thüringer Regierungschef",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/mario-voigt-thueringen-ministerpaesident-plagiatsvorwuerfe-stefan-weber",
-      "published_date": "2026-05-20T12:55:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey targets press freedom in trial of DW's Alican Uludag",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-targets-press-freedom-in-trial-of-dw-s-alican-uludag/a-77221711?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T12:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey targets press freedom in trial of DW's Alican Uludag",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-targets-press-freedom-in-trial-of-dw-s-alican-uludag/a-77221711?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-20T12:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Klimaforschung: Schlimm genug wird es auch ohne Worst Case",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/2026-05/klimaforschung-prognosen-szenarien-zukunft-kohleindustrie",
-      "published_date": "2026-05-20T12:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The lesson from John Travolta’s dramatic new look: always dress for the job you want | Morwenna Ferrier",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look",
-      "published_date": "2026-05-20T12:15:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blinded and broken, Sunny the owl becomes another casualty of Russia’s war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/20/owl-casualty-of-russia-war-ukraine-birds",
-      "published_date": "2026-05-20T10:49:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Record number of departures from Berlin reveals a city in flux",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260520/record-number-of-departures-from-berlin-reveals-a-city-in-flux",
-      "published_date": "2026-05-20T09:15:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TELL US: Have you faced discrimination in Germany's rental market?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260520/tell-us-have-you-faced-discrimination-in-germanys-rental-market",
-      "published_date": "2026-05-20T08:31:33+00:00",
       "category": "Local Events"
     }
   ]
