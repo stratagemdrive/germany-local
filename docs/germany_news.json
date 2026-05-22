@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-22T13:26:44.548098+00:00",
+  "last_updated": "2026-05-22T23:58:42.947867+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Strategische Handelsbeziehung: EU und Mexiko stärken Partnerschaft mit neuem Abkommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/23/eu-und-mexiko-staerken-partnerschaft-mit-neuem-abkommen",
+      "published_date": "2026-05-22T23:47:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU, Mexico sign expanded trade deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-mexico-sign-expanded-trade-deal/a-77270446?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T23:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Freihandel: Europäische Union und Mexiko unterzeichnen Handelsabkommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/mexiko-europaeische-union-handelsabkommen",
+      "published_date": "2026-05-22T22:04:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Czech president urges Nato to ‘show its teeth’ over Russia’s provocations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/22/czech-president-petr-pavel-nato-show-teeth-russia-provocations",
+      "published_date": "2026-05-22T19:25:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
       "source": "The Guardian",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Govt reportedly mulls change to retirement age",
+      "title": "Krieg gegen die Ukraine: UN verurteilen Angriff auf Berufsschule und Wohnheim in Luhansk",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-05-22T22:30:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US: Tulsi Gabbard resigns as Trump's intelligence chief",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-govt-reportedly-mulls-change-to-retirement-age/live-77237513?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T08:07:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T18:02:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Govt reportedly mulls change to retirement age",
+      "title": "Iran war: 'Slight progress' in peace talks, Rubio says",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-govt-reportedly-mulls-change-to-retirement-age/live-77237513?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T08:07:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260521/today-in-germany-a-roundup-of-the-latest-news-on-thursday-119",
-      "published_date": "2026-05-21T06:34:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine war briefing: Fresh threat of attack from Belarus front, warns Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
-      "published_date": "2026-05-21T01:11:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T15:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Standard Chartered boss apologises for ‘lower-value human capital’ comments amid job cuts",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Is the US deepening its military involvement in Nigeria?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-the-us-deepening-its-military-involvement-in-nigeria/a-77236534?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T12:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EasyJet summer holiday bookings down on last year amid Iran war uncertainty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/21/easyjet-summer-holiday-bookings-down-on-last-year-amid-iran-war-uncertainty",
-      "published_date": "2026-05-21T10:49:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan: Trump prods China with offer of direct Taipei talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taiwan-trump-prods-china-with-offer-of-direct-taipei-talks/a-77238712?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T09:57:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Giant wind turbine rises in Brandenburg, taking on far-right headwinds",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260522/giant-wind-turbine-rises-in-brandenburg-taking-on-far-right-headwinds",
@@ -380,6 +380,48 @@
       "url": "https://www.zeit.de/news/2026-05/16/es-bleibt-wechselhaft-mit-sonne-regen-und-wind",
       "published_date": "2026-05-16T11:15:41+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
+      "published_date": "2026-05-22T21:51:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Belinda Pyke obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/22/belinda-pyke-obituary",
+      "published_date": "2026-05-22T16:55:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cancoillotte’s comeback is no surprise | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/may/22/cancoillottes-comeback-is-no-surprise",
+      "published_date": "2026-05-22T16:55:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
+      "published_date": "2026-05-22T16:25:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US or Iran: Who will win the Hormuz endurance game?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T15:38:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US bourbon bets big on India's growing market",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-bourbon-bets-big-on-india-s-growing-market/a-77265868?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T14:03:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Will passengers really benefit after Germany cut its air travel tax?",
@@ -480,46 +522,60 @@
       "category": "Economy"
     },
     {
-      "title": "Freiburg's Europa League final proof another way can work",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-19T09:15:00+00:00",
-      "category": "Economy"
+      "title": "Sozialreformen: Spahn schließt höheres Elterngeld und Bafög aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/jens-spahn-elterngeld-reformen-bafoeg-koalition-sparen",
+      "published_date": "2026-05-22T23:50:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Freiburg's Europa League final proof another way can work",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T09:15:00+00:00",
-      "category": "Economy"
+      "title": "Brandmauer: Ex-Landeschef Albig empfiehlt SPD Zusammenarbeit mit AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/23/ex-landeschef-albig-empfiehlt-spd-zusammenarbeit-mit-afd",
+      "published_date": "2026-05-22T23:00:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fears of new China shock as EU industry’s reliance on imports grows",
+      "title": "Zweite Bundesliga: Essen gewinnt mit Freistoß gegen Fürth im Relegationshinspiel",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/zweite-bundesliga-relegationshinspiel-essen-fuerth",
+      "published_date": "2026-05-22T20:56:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Birthday Party review – grimly compulsive unhappy occasion in deepest France",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports",
-      "published_date": "2026-05-19T06:00:02+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/may/22/the-birthday-party-review-grimly-compulsive-unhappy-occasion-in-deepest-france",
+      "published_date": "2026-05-22T18:34:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How China became Russia's economic lifeline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-china-became-russia-s-economic-lifeline/a-77193402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T04:43:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Belfast harbour operator to invest £1.3bn as NI economy grows",
+      "title": "The Dreamed Adventure review – beautiful but opaque Bulgarian tale of digging up the past",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/19/belfast-harbour-invest-ni-economy-port-ferry-cruise-ship",
-      "published_date": "2026-05-19T04:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/may/22/the-dreamed-adventure-review-beautiful-but-opaque-bulgarian-tale-of-digging-up-the-past",
+      "published_date": "2026-05-22T15:47:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Zambia's media freedom under scrutiny ahead of 2026 elections",
+      "title": "Germany news: Parliament approves reforms giving pharmacies more autonomy on vaccinations, prescriptions, tests",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-s-media-freedom-under-scrutiny-ahead-of-2026-elections/a-77195263?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T12:22:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-22T14:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Parliament approves reforms giving pharmacies more autonomy on vaccinations, prescriptions, tests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T14:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa xenophobia response under fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-22T14:28:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wetter in NRW: Sonne pur zum langen Wochenende",
@@ -603,62 +659,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/may/22/france-pro-palestinian-solidarity-silenced-criminalised",
       "published_date": "2026-05-22T04:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Honduras: Gunmen open fire in 2 deadly armed attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/honduras-gunmen-open-fire-in-2-deadly-armed-attacks/a-77255909?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T01:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish court ousts opposition leader in boost to Erdogan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T18:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian police stop party attended by Mick Jagger over music ban",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/21/police-stop-mick-jagger-party-stromboli-italy",
-      "published_date": "2026-05-21T17:58:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DW Exclusive: Germany’s far-right AfD vows to 'make history'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dw-exclusive-germany-s-far-right-afd-vows-to-make-history/a-77252189?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T15:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DW Exclusive: Germany’s far-right AfD vows to 'make history'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dw-exclusive-germany-s-far-right-afd-vows-to-make-history/a-77252189?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T15:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INTERVIEW: How being hit by a car in Berlin revealed the 'scariness' of German bureaucracy",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260521/interview-how-being-hit-by-a-car-in-berlin-revealed-the-scariness-of-german-bureaucracy",
-      "published_date": "2026-05-21T14:32:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's housing crunch is driving away skilled foreign workers",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260521/germanys-housing-crunch-is-driving-away-skilled-foreign-workers",
-      "published_date": "2026-05-21T13:53:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relegation: Essen-Trainer Koschinat: «Wucht des Stadions mitnehmen»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/21/essen-trainer-koschinat-wucht-des-stadions-mitnehmen",
-      "published_date": "2026-05-21T13:48:04+00:00",
       "category": "Local Events"
     }
   ]
