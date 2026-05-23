@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-22T23:58:42.947867+00:00",
+  "last_updated": "2026-05-23T11:56:49.186831+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
+      "published_date": "2026-05-23T10:26:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europäische Wirtschaft: Großbritannien strebt laut Berichten Waren-Binnenmarkt mit der EU an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/europaeische-wirtschaft-grossbritannien-eu-waren-binnenmakrt-gxe",
+      "published_date": "2026-05-23T10:02:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Marco Rubio visits to repair ties, boost QUAD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-marco-rubio-visits-to-repair-ties-boost-quad/live-77271153?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T07:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This is how to defeat Vladimir Putin | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu",
+      "published_date": "2026-05-23T05:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French stars are rightly worried by billionaire Vincent Bolloré. Here’s how to rein him in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/23/french-stars-are-rightly-worried-by-billionaire-vincent-bollore-heres-how-to-rein-him-in",
+      "published_date": "2026-05-23T04:00:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Strategische Handelsbeziehung: EU und Mexiko stärken Partnerschaft mit neuem Abkommen",
       "source": "ZEIT Online",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ebola: Experts warn of scale and spread of deadly virus",
+      "title": "Ukrainian strike in Russian-controlled area leaves 10 dead",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ebola-experts-warn-of-scale-and-spread-of-deadly-virus/a-77248583?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T14:58:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukrainian-strike-in-russian-controlled-area-leaves-10-dead/a-77273161?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T11:42:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Gaza: Italien fordert EU-Sanktionen gegen Israels Polizeiminister Ben-Gvir",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published_date": "2026-05-21T13:20:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz pitches 'associate' EU membership for Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-pitches-associate-eu-membership-for-ukraine/a-77236052?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T11:39:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz pitches 'associate' EU membership for Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-pitches-associate-eu-membership-for-ukraine/a-77236052?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T11:39:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German chancellor pitches making Ukraine EU 'associate member'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260521/german-chancellor-pitches-making-ukraine-eu-associate-member",
-      "published_date": "2026-05-21T08:47:30+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/23/ukraine-war-briefing-putin-promises-revenge-after-blaming-kyiv-for-luhansk-attack-he-says-killed-six",
+      "published_date": "2026-05-23T01:49:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: UN verurteilen Angriff auf Berufsschule und Wohnheim in Luhansk",
@@ -249,6 +263,20 @@
       "category": "Military"
     },
     {
+      "title": "Germany reaches out to Gulf states over Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-over-iran-war/a-77249238?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-21T15:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany reaches out to Gulf states over Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-over-iran-war/a-77249238?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-21T15:05:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Czechia: Uproar over Sudeten German gathering in Brno",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
+      "title": "China: Dozens dead in coal mine blast — state media",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-21T14:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
-      "published_date": "2026-05-21T13:21:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T12:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-21T12:49:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/china-dozens-dead-in-coal-mine-blast-state-media/a-77270811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T03:17:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Giant wind turbine rises in Brandenburg, taking on far-right headwinds",
@@ -375,11 +382,18 @@
       "category": "Energy"
     },
     {
-      "title": "Wetter in NRW: Es bleibt wechselhaft mit Sonne, Regen und Wind",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/16/es-bleibt-wechselhaft-mit-sonne-regen-und-wind",
-      "published_date": "2026-05-16T11:15:41+00:00",
-      "category": "Energy"
+      "title": "Pope meets families whose loved ones’ deaths were linked to mafia toxic waste",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/23/pope-families-children-toxic-waste-italy-land-of-fires-cancer-naples",
+      "published_date": "2026-05-23T10:11:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK, German and French aid cuts will take ‘devastating toll’ on most vulnerable, says study",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/23/uk-german-and-french-aid-cuts-will-take-devastating-toll-on-most-vulnerable-says-study",
+      "published_date": "2026-05-23T10:00:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
@@ -487,6 +501,13 @@
       "category": "Economy"
     },
     {
+      "title": "Freiburg's Europa League final proof another way can work",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-20T14:48:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Relief for low earners: What we know so far about Germany's tax shake-up",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260520/relief-for-low-earners-what-we-know-so-far-about-germanys-tax-shake-up",
@@ -501,25 +522,39 @@
       "category": "Economy"
     },
     {
-      "title": "EU strikes deal on US trade pact ahead of Trump tariff deadline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T01:46:00+00:00",
-      "category": "Economy"
+      "title": "AfD: Ministerpräsident Mario Voigt wirft AfD Religionsfeindlichkeit vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/afd-kirche-mario-voigt",
+      "published_date": "2026-05-23T11:35:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What happens if you make a mistake on your German tax return?",
+      "title": "Brandmauer zur AfD: SPD-Politiker weisen Albig-Aussagen zu Zusammenarbeit mit AfD zurück",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/spd-torsten-albig-julian-barlen-stefan-krach-afd-brandmauer",
+      "published_date": "2026-05-23T10:52:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: The perks (and pains) of Deutsche Bahn's rewards program",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260519/what-happens-if-you-make-a-mistake-on-your-german-tax-return",
-      "published_date": "2026-05-19T14:09:58+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260523/inside-germany-the-perks-and-pains-of-deutsche-bahns-rewards-program",
+      "published_date": "2026-05-23T07:03:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why more US women are moving abroad: ‘It’s because of Trump, right? Yes and no’",
+      "title": "Germany's Flixtrain to double train services",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260523/germanys-flixtrain-to-double-train-services",
+      "published_date": "2026-05-23T06:23:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can hybrid village stores answer rural Germany’s ‘cry for help’ and fend off far right?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/us-women-migrating-europe-politics",
-      "published_date": "2026-05-19T10:00:03+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/23/hybrid-village-stores-rural-germany-fend-off-far-right",
+      "published_date": "2026-05-23T05:00:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sozialreformen: Spahn schließt höheres Elterngeld und Bafög aus",
@@ -624,41 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-22T10:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyprus election expected to shake up national politics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-22T10:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
-      "published_date": "2026-05-22T10:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayer Uerdingen’s ‘miracle of Berlin’ bewildered Bayern Munich before slow fade to obscurity",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/may/22/bayer-uerdingen-miracle-berlin-bayern-munich-dfb-pokal",
-      "published_date": "2026-05-22T07:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Escape of big cat belonging to Germany’s ‘Tiger Queen’ shatters peace of small town",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/tiger-escape-germany-tiger-queen-keeper-injured",
-      "published_date": "2026-05-22T06:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In France, pro-Palestinian solidarity is being silenced and criminalised | Rokhaya Diallo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/france-pro-palestinian-solidarity-silenced-criminalised",
-      "published_date": "2026-05-22T04:00:49+00:00",
       "category": "Local Events"
     }
   ]
