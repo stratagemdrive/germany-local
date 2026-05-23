@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-23T11:56:49.186831+00:00",
+  "last_updated": "2026-05-23T23:50:45.801509+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
+      "published_date": "2026-05-23T14:10:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
       "source": "The Guardian",
@@ -137,17 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Everest: Record 274 climbers summit from Nepal in single day",
+      "title": "Krieg in der Ukraine: Großer russischer Angriff auf Kiew mit Raketen und Drohnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/24/neuer-russischer-angriff-auf-kiew-mit-raketen-und-drohnen",
+      "published_date": "2026-05-23T23:33:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cheap attack drones break through Israel's Iron Dome",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/everest-record-274-climbers-summit-from-nepal-in-single-day/a-77252231?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T16:35:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T17:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran strike upbeat tone as Hormuz deal takes shape",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T16:28:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainian strike in Russian-controlled area leaves 10 dead",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukrainian-strike-in-russian-controlled-area-leaves-10-dead/a-77273161?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-23T11:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-23T06:38:00+00:00",
       "category": "Military"
     },
     {
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-about-iran-war/a-77249238?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-21T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany reaches out to Gulf states about Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-about-iran-war/a-77249238?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany reaches out to Gulf states over Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-over-iran-war/a-77249238?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany reaches out to Gulf states over Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-over-iran-war/a-77249238?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T14:32:00+00:00",
       "category": "Military"
     },
     {
@@ -522,6 +522,97 @@
       "category": "Economy"
     },
     {
+      "title": "Großeinsatz in Hamburg: Mann stürzt und ertrinkt in Elbe",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/24/mann-stuerzt-und-ertrinkt-in-elbe",
+      "published_date": "2026-05-23T23:37:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: White House locked down after shots fired",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-white-house-locked-down-after-shots-fired/a-77276529?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T22:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brandmauer zur AfD: Ex-Bundeskanzler Olaf Scholz rät von Zusammenarbeit mit AfD ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/brandmauer-afd-ex-bundeskanzler-olaf-scholz-keine-zusammenarbeit",
+      "published_date": "2026-05-23T22:40:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kane's hat trick seals Bayern Munich's 21st German Cup win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-23T22:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kane's hat trick seals Bayern Munich's 21st German Cup win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T22:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia: Police clash with protesters urging early elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T20:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia: Police clash with protesters urging early elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-23T20:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFB-Pokal: FC Bayern München gewinnt den DFB-Pokal",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/fc-bayern-muenchen-gewinnt-den-dfb-pokal",
+      "published_date": "2026-05-23T20:01:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola-Virus: Zahl der Ebolaverdachtsfälle steigt auf mehr als 800",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesundheit/2026-05/ebola-ausbruch-zentralafrika-kongo-uganda",
+      "published_date": "2026-05-23T19:50:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands rally in Madrid to demand Sanchez's resignation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T19:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyprus election expected to shake up national politics",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-23T19:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court convicts three over plot to overthrow govt",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260523/german-court-convicts-three-over-plot-to-overthrow-govt",
+      "published_date": "2026-05-23T12:32:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former F1 world champion Alain Prost reportedly injured in robbery at Swiss home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/may/23/f1-world-champion-alain-prost-injured-robbery-switzerland",
+      "published_date": "2026-05-23T12:11:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "AfD: Ministerpräsident Mario Voigt wirft AfD Religionsfeindlichkeit vor",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/afd-kirche-mario-voigt",
@@ -533,6 +624,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/spd-torsten-albig-julian-barlen-stefan-krach-afd-brandmauer",
       "published_date": "2026-05-23T10:52:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa's response to xenophobia is under fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-s-response-to-xenophobia-is-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-23T09:41:00+00:00",
       "category": "Local Events"
     },
     {
@@ -561,104 +659,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/jens-spahn-elterngeld-reformen-bafoeg-koalition-sparen",
       "published_date": "2026-05-22T23:50:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandmauer: Ex-Landeschef Albig empfiehlt SPD Zusammenarbeit mit AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/23/ex-landeschef-albig-empfiehlt-spd-zusammenarbeit-mit-afd",
-      "published_date": "2026-05-22T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zweite Bundesliga: Essen gewinnt mit Freistoß gegen Fürth im Relegationshinspiel",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/zweite-bundesliga-relegationshinspiel-essen-fuerth",
-      "published_date": "2026-05-22T20:56:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Birthday Party review – grimly compulsive unhappy occasion in deepest France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/22/the-birthday-party-review-grimly-compulsive-unhappy-occasion-in-deepest-france",
-      "published_date": "2026-05-22T18:34:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Dreamed Adventure review – beautiful but opaque Bulgarian tale of digging up the past",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/22/the-dreamed-adventure-review-beautiful-but-opaque-bulgarian-tale-of-digging-up-the-past",
-      "published_date": "2026-05-22T15:47:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Parliament approves reforms giving pharmacies more autonomy on vaccinations, prescriptions, tests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-22T14:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Parliament approves reforms giving pharmacies more autonomy on vaccinations, prescriptions, tests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T14:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa xenophobia response under fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T14:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wetter in NRW: Sonne pur zum langen Wochenende",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/22/sonne-pur-zum-langen-wochenende",
-      "published_date": "2026-05-22T13:13:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds protest over Ireland's 'George Floyd moment' after death of Congolese-born man – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/22/hundreds-protest-over-irelands-george-floyd-moment-after-death-of-congolese-born-man-video",
-      "published_date": "2026-05-22T12:55:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manuel Neuer: Manuel Neuer fehlt wegen Verletzung im DFB-Pokalfinale",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/manuel-neuer-ausfall-dfb-pokalfinale-fc-bayern-muenchen",
-      "published_date": "2026-05-22T12:19:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flixtrain: Flix will sein Angebot bei Zügen ausbauen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-05/zugverkehr-ausbau-schiene-flix-hamburg-berlin",
-      "published_date": "2026-05-22T11:32:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlo Petrini, Slow Food movement founder, dies aged 76",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/carlo-petrini-slow-food-movement-founder-dies-aged-76",
-      "published_date": "2026-05-22T11:14:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: Pep Guardiola verlässt Manchester City",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/trainer-pep-guardiola-verlaesst-manchester-city-gxe",
-      "published_date": "2026-05-22T11:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyprus election expected to shake up national politics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T10:33:00+00:00",
       "category": "Local Events"
     }
   ]
