@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-24T11:58:38.691792+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-24T23:53:00.492182+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "David Miliband: Europe and US need ‘separate bedrooms’ but not divorce",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/24/europe-and-us-need-separate-bedrooms-but-not-divorce-says-david-miliband",
+      "published_date": "2026-05-24T14:25:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany ready for NATO leadership role, minister says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ready-for-nato-leadership-role-minister-says/a-77252507?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T16:56:00+00:00",
-      "category": "Diplomacy"
+      "title": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/gps-jammed-on-raf-jet-carrying-uk-defence-secretary-close-to-russian-border",
+      "published_date": "2026-05-24T22:40:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
+      "published_date": "2026-05-24T16:02:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia strikes Kyiv with hypersonic Oreshnik ballistic missile – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/24/russia-strikes-kyiv-hypersonic-oreshnik-ballistic-missile-video",
+      "published_date": "2026-05-24T12:43:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia uses hypersonic Oreshnik missile in Kyiv attack",
@@ -189,6 +210,13 @@
       "title": "Iran war: Donald Trump says deal 'largely negotiated'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-donald-trump-says-deal-largely-negotiated/live-77276381?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-24T01:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says US won't 'rush into' deal with Tehran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-24T01:51:00+00:00",
       "category": "Military"
     },
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: 'Slight progress' in peace talks, Rubio says",
+      "title": "Cuba receives China rice shipment amid US threats, blackouts",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T15:10:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-24T20:59:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Standard Chartered boss apologises for ‘lower-value human capital’ comments amid job cuts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
-      "published_date": "2026-05-22T11:39:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New alliances emerge in Middle East — which one will 'win'?",
+      "title": "China mine blast: Search and investigation continue",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T11:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We needed a Hitler who really vibed with the dog’: meet Lexie, the world’s first cinemadographer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/22/blondi-dog-fuhrer-hitler-film-pablo-alvarez-hornia-jack-salvadori",
-      "published_date": "2026-05-22T09:29:54+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/china-mine-blast-search-and-investigation-continue/a-77280984?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-24T18:24:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "China: Dozens dead in coal mine blast — state media",
@@ -373,6 +387,20 @@
       "url": "https://www.dw.com/en/germany-s-crisis-hit-chemical-industry-seeks-revival/a-77166282?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-18T10:20:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Madrid protesters decry rising rents and housing shortage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-24T16:33:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Madrid protesters decry rising rents and housing shortage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-24T16:33:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
@@ -501,18 +529,39 @@
       "category": "Economy"
     },
     {
-      "title": "Freiburg's Europa League final proof another way can work",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-20T14:48:00+00:00",
-      "category": "Economy"
+      "title": "Hamburg: Mann an Hamburger Sternschanze mit Glasflasche attackiert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/24/mann-an-hamburger-sternschanze-mit-glasflasche-attackiert",
+      "published_date": "2026-05-24T21:47:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Relief for low earners: What we know so far about Germany's tax shake-up",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260520/relief-for-low-earners-what-we-know-so-far-about-germanys-tax-shake-up",
-      "published_date": "2026-05-20T10:08:05+00:00",
-      "category": "Economy"
+      "title": "Worst-Case-Klimaszenario: »Ich würde so ein extremes Klimaszenario weiter nicht ausschließen«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissenschaft/2026-05/worst-case-klimaszenario-klimawandel-nebojsa-nakicenovic-afd",
+      "published_date": "2026-05-24T18:22:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanien: Zehntausende protestieren in Madrid gegen Wohnkrise",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/madrid-protest-mieten-wohnungsmangel",
+      "published_date": "2026-05-24T18:08:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Erdoğan’s tightening grip on Turkey: the next election is already being decided | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/24/the-guardian-view-on-erdogans-tightening-grip-on-turkey-the-next-election-is-already-being-decided",
+      "published_date": "2026-05-24T16:30:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police evict ousted CHP leaders from party HQ",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-24T15:46:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kriminalität: Häftlinge greifen in Hamburg drei Gefängnismitarbeiter an",
@@ -525,6 +574,13 @@
       "title": "Cyprus votes amid resentment over corruption, living costs",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-24T11:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyprus: Voters boost far right in parliamentary election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyprus-voters-boost-far-right-in-parliamentary-election/a-77279514?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-24T11:46:00+00:00",
       "category": "Local Events"
     },
@@ -610,48 +666,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-23T20:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia: Police clash with protesters urging early elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-23T20:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFB-Pokal: FC Bayern München gewinnt den DFB-Pokal",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/fc-bayern-muenchen-gewinnt-den-dfb-pokal",
-      "published_date": "2026-05-23T20:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola-Virus: Zahl der Ebolaverdachtsfälle steigt auf mehr als 800",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesundheit/2026-05/ebola-ausbruch-zentralafrika-kongo-uganda",
-      "published_date": "2026-05-23T19:50:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands rally in Madrid to demand Sanchez's resignation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T19:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyprus election expected to shake up national politics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-23T19:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyprus election expected to shake up national politics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T19:22:00+00:00",
       "category": "Local Events"
     }
   ]
