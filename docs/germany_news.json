@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-24T23:53:00.492182+00:00",
-  "story_count": 95,
+  "last_updated": "2026-05-25T13:56:34.152491+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
+      "published_date": "2026-05-25T12:00:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese human rights cases in limbo after Trump-Xi summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/chinese-human-rights-cases-in-limbo-after-trump-xi-summit/a-77285479?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T11:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peacekeeping missions at risk due to cuts, tensions — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/peacekeeping-missions-at-risk-due-to-cuts-tensions-report/a-77282510?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T00:26:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "David Miliband: Europe and US need ‘separate bedrooms’ but not divorce",
       "source": "The Guardian",
@@ -123,25 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Deutsche Bahn: Bundestag gibt Planungen für milliardenteure Bahnprojekte frei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-05/bahn-bauprojekte-streckennetz-bundestag-genehmigung",
-      "published_date": "2026-05-21T18:45:00+00:00",
-      "category": "Diplomacy"
+      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+      "published_date": "2026-05-25T12:43:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany ready for bigger leadership role in NATO",
+      "title": "Iran war: No deal close despite some progress — Tehran",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ready-for-bigger-leadership-role-in-nato/a-77252507?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T16:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-no-deal-close-despite-some-progress-tehran/live-77284965?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T11:06:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany ready for bigger leadership role in NATO",
+      "title": "Germany news: More than 1,900 missing children",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ready-for-bigger-leadership-role-in-nato/a-77252507?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T16:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-news-more-than-1-900-missing-children/live-77272115?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-25T10:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: More than 1,900 missing children",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-more-than-1-900-missing-children/live-77272115?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T10:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
+      "published_date": "2026-05-25T07:40:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's Dr. Wolff cosmetics company is going all in on AI",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-25T07:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's Dr. Wolff cosmetics company is going all in on AI",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T07:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why are Europe's biggest defense projects in trouble?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T04:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why are Europe's biggest defense projects in trouble?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-25T04:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘I had poked the bear right in the eye’: my fight to renounce my Russian citizenship – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/may/25/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship-podcast",
+      "published_date": "2026-05-25T04:00:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Angela Merkel won’t be negotiating with Putin – but the rumour reflects a truth about the Ukraine war | Nathalie Tocci",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv",
+      "published_date": "2026-05-25T04:00:16+00:00",
+      "category": "Military"
     },
     {
       "title": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
@@ -204,83 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin",
       "published_date": "2026-05-24T05:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Donald Trump says deal 'largely negotiated'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-donald-trump-says-deal-largely-negotiated/live-77276381?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T01:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says US won't 'rush into' deal with Tehran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T01:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg in der Ukraine: Großer russischer Angriff auf Kiew mit Raketen und Drohnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/24/neuer-russischer-angriff-auf-kiew-mit-raketen-und-drohnen",
-      "published_date": "2026-05-23T23:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cheap attack drones break through Israel's Iron Dome",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T17:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran strike upbeat tone as Hormuz deal takes shape",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T16:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian strike in Russian-controlled area leaves 10 dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-strike-in-russian-controlled-area-leaves-10-dead/a-77273161?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T11:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-23T06:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T06:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/23/ukraine-war-briefing-putin-promises-revenge-after-blaming-kyiv-for-luhansk-attack-he-says-killed-six",
-      "published_date": "2026-05-23T01:49:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: UN verurteilen Angriff auf Berufsschule und Wohnheim in Luhansk",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-05-22T22:30:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Tulsi Gabbard resigns as Trump's intelligence chief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T18:02:00+00:00",
       "category": "Military"
     },
     {
@@ -372,20 +372,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260518/germany-set-to-miss-2030-climate-goal",
       "published_date": "2026-05-18T14:39:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany's crisis-hit chemical industry seeks revival",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-crisis-hit-chemical-industry-seeks-revival/a-77166282?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-18T10:20:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany's crisis-hit chemical industry seeks revival",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-crisis-hit-chemical-industry-seeks-revival/a-77166282?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-18T10:20:00+00:00",
       "category": "Energy"
     },
     {
@@ -529,6 +515,76 @@
       "category": "Economy"
     },
     {
+      "title": "Irankrieg: Trump fordert Beitritt weiterer Staaten zu Abraham-Abkommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published_date": "2026-05-25T13:44:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hidden femicide risk grows in Afghanistan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hidden-femicide-risk-grows-in-afghanistan/a-77285438?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T11:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
+      "published_date": "2026-05-25T10:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds evacuated from train in Bavaria after power outage",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260525/hundreds-evacuated-from-train-in-bavaria-after-power-outage",
+      "published_date": "2026-05-25T08:32:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Zealand: Surfing contest halted after suspected shark attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-zealand-surfing-contest-halted-after-suspected-shark-attack/a-77283882?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T08:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
+      "published_date": "2026-05-25T08:08:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kraken review – fjord-based rampage is monster movie with environmental message",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message",
+      "published_date": "2026-05-25T06:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate",
+      "published_date": "2026-05-25T05:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
+      "published_date": "2026-05-25T05:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The real danger of Islamophobia? It rarely announces itself as hatred yet shapes how millions think | Kenneth Mohammed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/25/danger-islamophobia-antisemitism-hatred-anti-muslim-abuse",
+      "published_date": "2026-05-25T05:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hamburg: Mann an Hamburger Sternschanze mit Glasflasche attackiert",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/24/mann-an-hamburger-sternschanze-mit-glasflasche-attackiert",
@@ -596,76 +652,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-05/brandmauer-afd-joschka-fischer-gruene-gxe",
       "published_date": "2026-05-24T11:19:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Many injured in head-on German tram collision",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260524/many-injured-in-head-on-german-tram-collision",
-      "published_date": "2026-05-24T09:24:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministerpräsident: Söder fordert mehr Einfluss der Länder bei Regierungsentscheidungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/ministerpraesident-markus-soeder-bundesregierung-entscheidungen-laender-gxe",
-      "published_date": "2026-05-24T09:10:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia: Man dies of shark attack on eastern coast",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-man-dies-of-shark-attack-on-eastern-coast/a-77277961?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T07:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Suspect dies after gunfire near White House",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-suspect-dies-after-gunfire-near-white-house/a-77276529?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T01:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Großeinsatz in Hamburg: Mann stürzt und ertrinkt in Elbe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/24/mann-stuerzt-und-ertrinkt-in-elbe",
-      "published_date": "2026-05-23T23:37:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: White House locked down after shots fired",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-white-house-locked-down-after-shots-fired/a-77276529?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T22:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandmauer zur AfD: Ex-Bundeskanzler Olaf Scholz rät von Zusammenarbeit mit AfD ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/brandmauer-afd-ex-bundeskanzler-olaf-scholz-keine-zusammenarbeit",
-      "published_date": "2026-05-23T22:40:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kane's hat trick seals Bayern Munich's 21st German Cup win",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-23T22:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kane's hat trick seals Bayern Munich's 21st German Cup win",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T22:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia: Police clash with protesters urging early elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T20:22:00+00:00",
       "category": "Local Events"
     }
   ]
