@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-25T13:56:34.152491+00:00",
+  "last_updated": "2026-05-25T23:57:55.008515+00:00",
   "story_count": 93,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T17:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope urges 'disarming' of AI in major manifesto",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-urges-disarming-of-ai-in-major-manifesto/a-77288369?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T15:22:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
@@ -190,6 +204,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-25T07:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says US won't 'rush into' deal with Tehran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T06:18:00+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Most doubt Bundeswehr military readiness — poll",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-most-doubt-bundeswehr-military-readiness-poll/live-77272115?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T08:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv",
+      "title": "UK records its hottest ever day in May as temperature hits 34.8C",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile",
-      "published_date": "2026-05-24T05:42:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘There is profound disappointment in him’: mood in Russia turns against Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin",
-      "published_date": "2026-05-24T05:00:47+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
+      "published_date": "2026-05-25T16:31:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba receives China rice shipment amid US threats, blackouts",
@@ -365,13 +372,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/bolivia-clashes-in-la-paz-as-protesters-demand-president-paz-s-ouster/a-77206922?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-19T05:16:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany set to miss 2030 climate goal",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260518/germany-set-to-miss-2030-climate-goal",
-      "published_date": "2026-05-18T14:39:32+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +515,27 @@
       "category": "Economy"
     },
     {
+      "title": "Afghanistan's crisis deepens hidden violence against women",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghanistan-s-crisis-deepens-hidden-violence-against-women/a-77285438?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-25T16:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
+      "published_date": "2026-05-25T15:50:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British Council is a strategic asset in post-Brexit era | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/25/british-council-is-a-strategic-asset-in-post-brexit-era",
+      "published_date": "2026-05-25T15:23:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Irankrieg: Trump fordert Beitritt weiterer Staaten zu Abraham-Abkommen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
@@ -631,27 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-24T11:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyprus: Voters boost far right in parliamentary election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-voters-boost-far-right-in-parliamentary-election/a-77279514?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T11:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unfälle: Fußgängerin auf Autobahn in Richtung Hamburg erfasst",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/24/fussgaengerin-auf-autobahn-in-richtung-hamburg-erfasst",
-      "published_date": "2026-05-24T11:30:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandmauer zur AfD: Ex-Außenminister Joschka Fischer warnt CDU vor Zusammenarbeit mit AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/brandmauer-afd-joschka-fischer-gruene-gxe",
-      "published_date": "2026-05-24T11:19:08+00:00",
       "category": "Local Events"
     }
   ]
