@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-26T13:50:29.051250+00:00",
+  "last_updated": "2026-05-26T23:58:06.521018+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Georgien: Tausende demonstrieren in Tiflis gegen die Regierung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/georgien-demonstration-unabhaengigkeitstag-tiflis-eu-kurs",
+      "published_date": "2026-05-26T22:04:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ex-Kanzler: Scholz zu AfD-Ambitionen: Wir müssen dagegen halten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/26/scholz-zu-afd-ambitionen-wir-muessen-dagegen-halten",
+      "published_date": "2026-05-26T21:04:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Moscow wants to ‘destabilise’ Europe, EU chief warns, as countries summon Russian ambassadors over Kyiv threats – Europe live",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
-      "published_date": "2026-05-22T12:51:49+00:00",
-      "category": "Diplomacy"
+      "title": "Chemieunfall in Verpackungsfirma: Feuerwehr meldet Tote nach Explosion eines Chemikalientanks in den USA",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/usa-explosion-chemietank-tote-verpackungsfirma",
+      "published_date": "2026-05-26T22:53:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Apothekenreform: Bundestag beschließt Apothekenreform",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/apothekengesetz-bundestag-schwarz-rot-versorgung",
-      "published_date": "2026-05-22T11:50:26+00:00",
-      "category": "Diplomacy"
+      "title": "How did Berlin's Jewish Hospital and hundreds of its patients survive the Holocaust?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-26T16:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How did Berlin's Jewish Hospital and hundreds of its patients survive the Holocaust?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T16:49:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin offers debt relief to new recruits for Ukraine war",
@@ -260,27 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
       "published_date": "2026-05-25T07:40:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's Dr. Wolff cosmetics company is going all in on AI",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-25T07:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's Dr. Wolff cosmetics company is going all in on AI",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T07:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says US won't 'rush into' deal with Tehran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T06:18:00+00:00",
       "category": "Military"
     },
     {
@@ -494,6 +494,83 @@
       "category": "Economy"
     },
     {
+      "title": "Zweite Bundesliga: Greuther Fürth übersteht Relegation und bleibt in zweiter Liga",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/zweite-bundesliga-greuther-fuerth-essen-relegation",
+      "published_date": "2026-05-26T21:27:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relegation um 2. Bundesliga: Dank Futkeu und Hrgota: Fürth wendet gegen Essen Absturz ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/26/dank-futkeu-und-hrgota-fuerth-wendet-gegen-essen-absturz-ab",
+      "published_date": "2026-05-26T20:59:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police fire water cannon at protesters after opposition leader ousted – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/26/turkish-police-fire-water-cannon-at-protesters-after-opposition-leader-ousted-video",
+      "published_date": "2026-05-26T19:56:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police fire water cannons at protesters in Izmir",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkish-police-fire-water-cannons-at-protesters-in-izmir/a-77305388?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T19:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
+      "published_date": "2026-05-26T17:40:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine: EU, Germany summon Russian envoys after Moscow tells diplomats to leave Kyiv",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T16:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine: EU, Germany summon Russian envoys after Moscow tells diplomats to leave Kyiv",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-26T16:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy’s top court rules against tourist refused tap water in Dolomites hotel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/italy-court-tourist-tap-water-dolomites-hotel",
+      "published_date": "2026-05-26T15:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czech police release Russian bishop after ‘white powder’ found in his car",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/czech-police-release-russian-bishop-after-white-powder-found-in-his-car",
+      "published_date": "2026-05-26T14:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuel hikes: Is ride-hailing becoming a luxury in Lagos?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T14:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-husband of German star in deepfake porn case faces new probe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260526/ex-husband-of-german-star-in-deepfake-porn-case-faces-new-probe",
+      "published_date": "2026-05-26T14:11:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Kritik aus Brüssel: Weber fordert CSU zu mehr Ernsthaftigkeit auf",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/26/weber-fordert-csu-zu-mehr-ernsthaftigkeit-auf",
@@ -554,83 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/afghanistan-s-crisis-deepens-hidden-violence-against-women/a-77285438?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-25T16:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
-      "published_date": "2026-05-25T15:50:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Council is a strategic asset in post-Brexit era | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/25/british-council-is-a-strategic-asset-in-post-brexit-era",
-      "published_date": "2026-05-25T15:23:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irankrieg: Trump fordert Beitritt weiterer Staaten zu Abraham-Abkommen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published_date": "2026-05-25T13:44:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hidden femicide risk grows in Afghanistan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hidden-femicide-risk-grows-in-afghanistan/a-77285438?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T11:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
-      "published_date": "2026-05-25T10:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds evacuated from train in Bavaria after power outage",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260525/hundreds-evacuated-from-train-in-bavaria-after-power-outage",
-      "published_date": "2026-05-25T08:32:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Zealand: Surfing contest halted after suspected shark attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-zealand-surfing-contest-halted-after-suspected-shark-attack/a-77283882?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T08:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
-      "published_date": "2026-05-25T08:08:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kraken review – fjord-based rampage is monster movie with environmental message",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message",
-      "published_date": "2026-05-25T06:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate",
-      "published_date": "2026-05-25T05:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
-      "published_date": "2026-05-25T05:00:18+00:00",
       "category": "Local Events"
     }
   ]
