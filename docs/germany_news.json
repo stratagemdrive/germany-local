@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-25T23:57:55.008515+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-26T13:50:29.051250+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Moscow wants to ‘destabilise’ Europe, EU chief warns, as countries summon Russian ambassadors over Kyiv threats – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
+      "published_date": "2026-05-26T13:34:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Bundesregierung bestellt russischen Botschafter ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-05-26T13:27:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU could deny new member states veto rights as bloc pushes for enlargement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/eu-could-deny-new-member-states-veto-rights-as-bloc-pushes-for-enlargement",
+      "published_date": "2026-05-26T10:27:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/ukraine-war-briefing-russia-pressures-us-embassy-evacuate-attacks-kyiv",
+      "published_date": "2026-05-26T00:53:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
       "source": "The Guardian",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can the Quad stay relevant to boost Indo-Pacific security?",
+      "title": "Putin offers debt relief to new recruits for Ukraine war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-22T11:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T11:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Electoral reform and reversing Brexit: they’re more connected than you might think | Tom Baldwin",
+      "title": "Putin offers debt relief to new recruits for Ukraine war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-26T11:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran medicine shortages worsened by war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T11:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Berlin's Jewish Hospital survived the Holocaust",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-26T10:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Berlin's Jewish Hospital survived the Holocaust",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T10:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Where are US forces stationed in Europe?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T10:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Where are US forces stationed in Europe?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-26T10:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leonora in the Morning Light review – pioneering British artist who fled convention for the surrealists",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/electoral-reform-reverse-brexit-labour-leadership-eu-debate",
-      "published_date": "2026-05-22T10:33:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/may/26/leonora-in-the-morning-light-review-olivia-vinall",
+      "published_date": "2026-05-26T10:00:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260522/today-in-germany-a-roundup-of-the-latest-news-of-friday-2",
-      "published_date": "2026-05-22T06:35:52+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East: Rubio says Iran deal 'could take days'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-rubio-says-iran-deal-could-take-days/live-77292206?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T08:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Protests at new US consulate after Trump envoy says time for US ‘to put its footprint back’ on Greenland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/21/greenland-trump-us-envoy-jeff-landry-visit",
-      "published_date": "2026-05-21T19:29:26+00:00",
-      "category": "Diplomacy"
+      "title": "US military says it launched new strikes on southern Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-military-says-it-launched-new-strikes-on-southern-iran/live-77284965?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T07:11:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Why are Europe's biggest defense projects in trouble?",
+      "title": "Marco Rubio's India visit signals effort to steady ties",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T04:46:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/marco-rubio-s-india-visit-signals-effort-to-steady-ties/a-77297978?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T12:17:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Why are Europe's biggest defense projects in trouble?",
+      "title": "Even Trump can't stop the advance of wind power",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-25T04:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I had poked the bear right in the eye’: my fight to renounce my Russian citizenship – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/may/25/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship-podcast",
-      "published_date": "2026-05-25T04:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Angela Merkel won’t be negotiating with Putin – but the rumour reflects a truth about the Ukraine war | Nathalie Tocci",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv",
-      "published_date": "2026-05-25T04:00:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/gps-jammed-on-raf-jet-carrying-uk-defence-secretary-close-to-russian-border",
-      "published_date": "2026-05-24T22:40:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
-      "published_date": "2026-05-24T16:02:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes Kyiv with hypersonic Oreshnik ballistic missile – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/24/russia-strikes-kyiv-hypersonic-oreshnik-ballistic-missile-video",
-      "published_date": "2026-05-24T12:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia uses hypersonic Oreshnik missile in Kyiv attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-uses-hypersonic-oreshnik-missile-in-kyiv-attack/a-77277443?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T09:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly blast hits train in Pakistan's Balochistan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deadly-blast-hits-train-in-pakistan-s-balochistan/a-77278584?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T09:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Most doubt Bundeswehr military readiness — poll",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-most-doubt-bundeswehr-military-readiness-poll/live-77272115?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-24T08:24:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/even-trump-can-t-stop-the-advance-of-wind-power/a-77248308?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T09:34:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK records its hottest ever day in May as temperature hits 34.8C",
@@ -340,39 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "South Korea, Japan agree to boost energy cooperation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-japan-agree-to-boost-energy-cooperation/a-77209237?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T10:03:00+00:00",
-      "category": "Energy"
+      "title": "Tuesday briefing: With unease at home spreading, what next for Russia’s isolated leader?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/tuesday-briefing-with-unease-at-home-spreading-what-next-for-russias-isolated-leader",
+      "published_date": "2026-05-26T05:47:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Thousands of gas stations in Germany flout fuel pricing rule",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260519/thousands-of-gas-stations-in-germany-flout-fuel-pricing-rule",
-      "published_date": "2026-05-19T09:00:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany news: 3 missing after Görlitz house collapse",
+      "title": "Senegal appoints economist as new PM after Sonko's sacking",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-3-missing-after-görlitz-house-collapse/live-77208112?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T07:54:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany news: 3 missing after Görlitz house collapse",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-3-missing-after-görlitz-house-collapse/live-77208112?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-19T07:54:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bolivia: Clashes in La Paz as protesters demand President Paz's ouster",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bolivia-clashes-in-la-paz-as-protesters-demand-president-paz-s-ouster/a-77206922?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-19T05:16:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/senegal-appoints-economist-as-new-pm-after-sonko-s-sacking/a-77290692?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T00:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Madrid protesters decry rising rents and housing shortage",
@@ -501,18 +494,60 @@
       "category": "Economy"
     },
     {
-      "title": "Eurowings to take over routes from Berlin as Ryanair pulls out",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260521/eurowings-to-takes-over-routes-from-berlin-as-ryanair-pulls-out",
-      "published_date": "2026-05-21T09:17:59+00:00",
-      "category": "Economy"
+      "title": "Kritik aus Brüssel: Weber fordert CSU zu mehr Ernsthaftigkeit auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/26/weber-fordert-csu-zu-mehr-ernsthaftigkeit-auf",
+      "published_date": "2026-05-26T13:30:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion",
+      "title": "Four people killed in Belgium in train and school bus collision",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail",
-      "published_date": "2026-05-21T05:00:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/26/investigation-belgium-train-school-bus-collision-buggenhout-flanders",
+      "published_date": "2026-05-26T12:39:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No Place for Football review – battling ice and snow to play the beautiful game in Greenland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/26/no-place-for-football-review-greenland",
+      "published_date": "2026-05-26T12:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgium: Train collides with school bus, several dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/belgium-train-collides-with-school-bus-several-dead/a-77296681?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T10:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgium: Train collides with school bus, several dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/belgium-train-collides-with-school-bus-several-dead/a-77296681?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-26T10:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin Hauptbahnhof at 20: A rail hub with symbolic power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-hauptbahnhof-at-20-a-rail-hub-with-symbolic-power/a-77248293?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-26T06:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin Hauptbahnhof at 20: A rail hub with symbolic power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-hauptbahnhof-at-20-a-rail-hub-with-symbolic-power/a-77248293?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-26T06:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260526/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-125",
+      "published_date": "2026-05-26T06:39:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Afghanistan's crisis deepens hidden violence against women",
@@ -596,62 +631,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
       "published_date": "2026-05-25T05:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The real danger of Islamophobia? It rarely announces itself as hatred yet shapes how millions think | Kenneth Mohammed",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/may/25/danger-islamophobia-antisemitism-hatred-anti-muslim-abuse",
-      "published_date": "2026-05-25T05:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamburg: Mann an Hamburger Sternschanze mit Glasflasche attackiert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/24/mann-an-hamburger-sternschanze-mit-glasflasche-attackiert",
-      "published_date": "2026-05-24T21:47:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Worst-Case-Klimaszenario: »Ich würde so ein extremes Klimaszenario weiter nicht ausschließen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/2026-05/worst-case-klimaszenario-klimawandel-nebojsa-nakicenovic-afd",
-      "published_date": "2026-05-24T18:22:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanien: Zehntausende protestieren in Madrid gegen Wohnkrise",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/madrid-protest-mieten-wohnungsmangel",
-      "published_date": "2026-05-24T18:08:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Erdoğan’s tightening grip on Turkey: the next election is already being decided | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/24/the-guardian-view-on-erdogans-tightening-grip-on-turkey-the-next-election-is-already-being-decided",
-      "published_date": "2026-05-24T16:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police evict ousted CHP leaders from party HQ",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T15:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Häftlinge greifen in Hamburg drei Gefängnismitarbeiter an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/24/auseinandersetzung-in-gefaengnis-in-hamburg-zwei-verletzte",
-      "published_date": "2026-05-24T11:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyprus votes amid resentment over corruption, living costs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T11:46:00+00:00",
       "category": "Local Events"
     }
   ]
