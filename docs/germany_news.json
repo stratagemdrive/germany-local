@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-27T14:23:28.005575+00:00",
-  "story_count": 97,
+  "last_updated": "2026-05-27T23:55:24.145129+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "UK will get no special treatment from EU, European ministers say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/uk-will-get-no-special-treatment-eu-european-ministers-say",
+      "published_date": "2026-05-27T16:08:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU enlargement: Is the bloc ready to welcome new members?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-enlargement-is-the-bloc-ready-to-welcome-new-members/a-77319025?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T15:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU enlargement: Is the bloc ready to welcome new members?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-enlargement-is-the-bloc-ready-to-welcome-new-members/a-77319025?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-27T15:36:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Satellitendienste: EU-Kommission will Abhängigkeit von USA beim Mobilfunk reduzieren",
       "source": "ZEIT Online",
@@ -14,6 +35,13 @@
       "title": "Germany news: Economy minister eyes resources in China visit",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-economy-minister-eyes-resources-in-china-visit/live-77308383?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T09:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Economy minister eyes resources in China visit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-economy-minister-eyes-resources-in-china-visit/live-77308383?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-27T09:03:00+00:00",
       "category": "Diplomacy"
     },
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
-      "published_date": "2026-05-23T10:26:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europäische Wirtschaft: Großbritannien strebt laut Berichten Waren-Binnenmarkt mit der EU an",
+      "title": "Riesiger Tank schlägt Leck: Feuerwehr: Wohl keine Überlebenden nach Chemie-Unfall in USA",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/europaeische-wirtschaft-grossbritannien-eu-waren-binnenmakrt-gxe",
-      "published_date": "2026-05-23T10:02:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-05/28/feuerwehr-wohl-keine-ueberlebenden-nach-chemie-unfall-in-usa",
+      "published_date": "2026-05-27T22:59:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "India news: Marco Rubio visits to repair ties, boost QUAD",
+      "title": "Canada to buy Swedish surveillance plane over US models",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-marco-rubio-visits-to-repair-ties-boost-quad/live-77271153?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T07:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/canada-to-buy-swedish-surveillance-plane-over-us-models/a-77321014?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T22:34:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "This is how to defeat Vladimir Putin | Timothy Garton Ash",
+      "title": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu",
-      "published_date": "2026-05-23T05:00:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
+      "published_date": "2026-05-27T19:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump says US will 'watch over' Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T18:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly half a million Russians killed in Ukraine war, UK spy chief says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/nearly-half-a-million-russians-killed-in-ukraine-war-uk-spy-chief-says",
+      "published_date": "2026-05-27T17:09:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "All by himself: Inside the 29 May Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/may/27/all-by-himself-inside-the-29-may-guardian-weekly",
+      "published_date": "2026-05-27T17:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Put an end to this war’: Russian director Andrey Zvyagintsev makes new plea to Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/27/russian-director-andrey-zvyagintsev-makes-appeal-to-putin",
+      "published_date": "2026-05-27T16:13:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Philippines: New inquiry launched into Duterte-era drug war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/philippines-new-inquiry-launched-into-duterte-era-drug-war/a-77317760?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T15:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "India's drug lifeline to Africa disrupted by Iran war",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "How Berlin's Jewish Hospital survived the Holocaust",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-26T10:20:00+00:00",
-      "category": "Military"
+      "title": "Brasilien: Brasilien plant Wiederaufnahme von Ölbohrungen im Amazonas",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/brasiliens-amazonasgebiet-wiederaufnahme-oelbohrungen",
+      "published_date": "2026-05-27T22:05:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How Berlin's Jewish Hospital survived the Holocaust",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T10:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Where are US forces stationed in Europe?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T10:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Where are US forces stationed in Europe?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-26T10:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Leonora in the Morning Light review – pioneering British artist who fled convention for the surrealists",
+      "title": "Why is Ferrari facing such a backlash to its first electric car?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/26/leonora-in-the-morning-light-review-olivia-vinall",
-      "published_date": "2026-05-26T10:00:48+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/27/why-ferrari-backlash-electric-car-luce",
+      "published_date": "2026-05-27T17:16:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East: Rubio says Iran deal 'could take days'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-rubio-says-iran-deal-could-take-days/live-77292206?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T08:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says it launched new strikes on southern Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-military-says-it-launched-new-strikes-on-southern-iran/live-77284965?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T07:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T17:32:00+00:00",
-      "category": "Military"
+      "title": "Extreme heat in Europe ‘a brutal reminder’ of climate crisis, UN chief says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/27/extreme-heat-in-europe-a-brutal-reminder-of-climate-crisis-un-chief-says",
+      "published_date": "2026-05-27T14:50:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe's energy problem isn't green power — it's storage",
@@ -401,6 +422,20 @@
       "url": "https://www.dw.com/en/extreme-climate-scenario-fades-but-warming-continues/a-77238401?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-21T09:51:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Germany: No recovery in sight for the economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-27T16:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany: No recovery in sight for the economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T16:19:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
@@ -529,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Macron says France must address issue of reparations for its role in slave trade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
-      "published_date": "2026-05-21T15:05:15+00:00",
-      "category": "Economy"
+      "title": "Autobahn betroffen: Unfall auf A3 bei Eppenrod – Sperrung Richtung Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/28/unfall-auf-a3-bei-eppenrod-sperrung-richtung-frankfurt",
+      "published_date": "2026-05-27T23:29:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Everything that changes in Germany in June 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260521/everything-that-changes-in-germany-in-june-2026",
-      "published_date": "2026-05-21T11:06:30+00:00",
-      "category": "Economy"
+      "title": "Essen auf Herd: Angebranntes Essen löst Feuerwehreinsatz in Ludwigshafen aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/28/angebranntes-essen-loest-feuerwehreinsatz-in-ludwigshafen-aus",
+      "published_date": "2026-05-27T22:28:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa: 300 Ghanaians leave amid xenophobic tensions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T17:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: Leadership dispute engulfs opposition CHP",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-leadership-dispute-engulfs-opposition-chp/a-77317144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T15:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: Leadership dispute engulfs opposition CHP",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-leadership-dispute-engulfs-opposition-chp/a-77317144?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-27T15:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thirty-five people want to be the next president of France. What could possibly go wrong?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/thirty-five-people-want-to-be-the-next-president-of-france-what-could-possibly-go-wrong",
+      "published_date": "2026-05-27T14:30:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "India news: Modi warns of heat wave dangers",
@@ -638,48 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-27T04:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zweite Bundesliga: Greuther Fürth übersteht Relegation und bleibt in zweiter Liga",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/zweite-bundesliga-greuther-fuerth-essen-relegation",
-      "published_date": "2026-05-26T21:27:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relegation um 2. Bundesliga: Dank Futkeu und Hrgota: Fürth wendet gegen Essen Absturz ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/26/dank-futkeu-und-hrgota-fuerth-wendet-gegen-essen-absturz-ab",
-      "published_date": "2026-05-26T20:59:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police fire water cannon at protesters after opposition leader ousted – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/26/turkish-police-fire-water-cannon-at-protesters-after-opposition-leader-ousted-video",
-      "published_date": "2026-05-26T19:56:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police fire water cannons at protesters in Izmir",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkish-police-fire-water-cannons-at-protesters-in-izmir/a-77305388?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T19:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
-      "published_date": "2026-05-26T17:40:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine: EU, Germany summon Russian envoys after Moscow tells diplomats to leave Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T16:07:00+00:00",
       "category": "Local Events"
     }
   ]
