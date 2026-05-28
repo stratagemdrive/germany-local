@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-27T23:55:24.145129+00:00",
+  "last_updated": "2026-05-28T14:33:35.389409+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "New food exports deal signals end to Brexit ‘sausage wars’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/28/brexit-red-tape-food-exports-scrapped-uk-eu-reset-deal",
+      "published_date": "2026-05-28T14:18:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Temu for failing to stop sale of illegal and dangerous products",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/28/eu-fines-temu-sale-illegal-dangerous-products",
+      "published_date": "2026-05-28T12:27:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine: EU's Kallas warns against Russian mediator 'trap'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-eu-s-kallas-warns-against-russian-mediator-trap/live-77326509?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-28T10:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine: EU's Kallas warns against Russian mediator 'trap'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-eu-s-kallas-warns-against-russian-mediator-trap/live-77326509?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T10:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260528/today-in-germany-a-roundup-of-the-latest-news-on-thursday-120",
+      "published_date": "2026-05-28T06:37:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK will get no special treatment from EU, European ministers say",
       "source": "The Guardian",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
+      "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
-      "published_date": "2026-05-25T12:00:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
+      "published_date": "2026-05-28T14:28:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Chinese human rights cases in limbo after Trump-Xi summit",
+      "title": "North Korea: New report sheds light on chemical weapons",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/chinese-human-rights-cases-in-limbo-after-trump-xi-summit/a-77285479?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T11:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/north-korea-new-report-sheds-light-on-chemical-weapons/a-77329770?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T12:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Peacekeeping missions at risk due to cuts, tensions — report",
+      "title": "Germany news: Health care staff protest plan for major cuts",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peacekeeping-missions-at-risk-due-to-cuts-tensions-report/a-77282510?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-25T00:26:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-news-health-care-staff-protest-plan-for-major-cuts/live-77322235?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-28T06:23:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "David Miliband: Europe and US need ‘separate bedrooms’ but not divorce",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/24/europe-and-us-need-separate-bedrooms-but-not-divorce-says-david-miliband",
-      "published_date": "2026-05-24T14:25:18+00:00",
-      "category": "Diplomacy"
+      "title": "Germany news: Health care staff protest plan for major cuts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-health-care-staff-protest-plan-for-major-cuts/live-77322235?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T06:23:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
-      "published_date": "2026-05-23T14:10:54+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: US downs Iranian drones, Tehran retaliates",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-downs-iranian-drones-tehran-retaliates/live-77321432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T02:05:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Riesiger Tank schlägt Leck: Feuerwehr: Wohl keine Überlebenden nach Chemie-Unfall in USA",
@@ -249,39 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "How did Berlin's Jewish Hospital and hundreds of its patients survive the Holocaust?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-26T16:49:00+00:00",
-      "category": "Military"
+      "title": "‘Hidden datacentre tax’ costing Irish households millions, report says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity",
+      "published_date": "2026-05-28T13:01:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How did Berlin's Jewish Hospital and hundreds of its patients survive the Holocaust?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T16:49:00+00:00",
-      "category": "Military"
+      "title": "‘Saaz is our gold’: the Czech scientists breeding hops that can survive a hotter Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/28/saaz-is-our-gold-the-czech-scientists-breeding-hops-that-can-survive-a-hotter-europe",
+      "published_date": "2026-05-28T12:00:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Putin offers debt relief to new recruits for Ukraine war",
+      "title": "Iran war: Oil shortages threaten global energy security",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T11:58:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/iran-war-oil-shortages-threaten-global-energy-security/a-77313462?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T09:02:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Putin offers debt relief to new recruits for Ukraine war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-26T11:58:00+00:00",
-      "category": "Military"
+      "title": "To reverse the ‘greenlash’, Europe’s Green parties should embrace Polanski’s boldness | Tarik Abou-Chadi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/28/greenlash-green-parties-europe-uk-zack-polanski",
+      "published_date": "2026-05-28T04:00:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran medicine shortages worsened by war",
+      "title": "Brazil to revive highway project through Amazon amid concerns",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T11:05:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/brazil-to-revive-highway-project-through-amazon-amid-concerns/a-77321412?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T01:59:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Brasilien: Brasilien plant Wiederaufnahme von Ölbohrungen im Amazonas",
@@ -340,6 +375,20 @@
       "category": "Energy"
     },
     {
+      "title": "Germany eyes heat pumps as Iran war drives energy costs up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-eyes-heat-pumps-as-iran-war-drives-energy-costs-up/a-77310083?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-27T13:11:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany eyes heat pumps as Iran war drives energy costs up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-eyes-heat-pumps-as-iran-war-drives-energy-costs-up/a-77310083?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T13:11:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "‘Mind-bogglingly crazy’: climate experts alarmed by deadly spring heatwaves searing Europe",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/may/27/mind-bogglingly-crazy-climate-experts-alarmed-by-deadly-spring-heatwaves-searing-europe",
@@ -375,53 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "UK records its hottest ever day in May as temperature hits 34.8C",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
-      "published_date": "2026-05-25T16:31:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba receives China rice shipment amid US threats, blackouts",
+      "title": "Iran turns internet back on, but old restrictions remain",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T20:59:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "China mine blast: Search and investigation continue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-mine-blast-search-and-investigation-continue/a-77280984?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T18:24:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "China: Dozens dead in coal mine blast — state media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-dozens-dead-in-coal-mine-blast-state-media/a-77270811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-23T03:17:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Giant wind turbine rises in Brandenburg, taking on far-right headwinds",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260522/giant-wind-turbine-rises-in-brandenburg-taking-on-far-right-headwinds",
-      "published_date": "2026-05-22T09:21:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Worst-case climate scenario off the table, but warming is not",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/worst-case-climate-scenario-off-the-table-but-warming-is-not/a-77238401?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T09:51:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Extreme climate scenario fades, but warming continues",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/extreme-climate-scenario-fades-but-warming-continues/a-77238401?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T09:51:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/iran-turns-internet-back-on-but-old-restrictions-remain/a-77331981?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T13:09:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany: No recovery in sight for the economy",
@@ -557,11 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Will Germany's aviation tax cut lower ticket prices?",
+      "title": "Einsatz in Dresden: Schäferhund aus Rohr gerettet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/28/schaeferhund-aus-rohr-gerettet",
+      "published_date": "2026-05-28T14:22:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-germany-s-aviation-tax-cut-lower-ticket-prices/a-75022175?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-21T15:46:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/crises-in-amhara-tigray-cloud-ethiopia-s-election-2026/a-77233448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T14:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why hundreds of Indian university students were made to leave Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260528/why-hundreds-of-indian-university-students-were-made-to-leave-berlin",
+      "published_date": "2026-05-28T13:58:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austrian man who admitted plotting attack at Taylor Swift Vienna concert says he is sorry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/28/austrian-man-beran-a-admitted-plotting-attack-taylor-swift-vienna-concert-says-sorry",
+      "published_date": "2026-05-28T12:44:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia votes amid geopolitical rivalries in Horn of Africa",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ethiopia-votes-amid-geopolitical-rivalries-in-horn-of-africa/a-77326271?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T12:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Left Party calls for voting rights for foreigners in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260528/left-party-calls-for-voting-rights-for-foreigners-in-germany",
+      "published_date": "2026-05-28T10:40:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Siddaramaiah steps down as Karnataka CM",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-siddaramaiah-steps-down-as-karnataka-cm/live-77322597?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T10:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What's on in Germany: Eight unmissable events in June 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260528/whats-on-in-germany-eight-unmissable-events-in-june-2026",
+      "published_date": "2026-05-28T09:23:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya: Deadly fire breaks out at girls' boarding school",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kenya-deadly-fire-breaks-out-at-girls-boarding-school/a-77322221?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T06:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We’re waiting for the plan to find us’: Mouse on Mars on working with Lee ‘Scratch’ Perry and 30 years of oblique adventures in sound",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/28/mouse-on-mars",
+      "published_date": "2026-05-28T04:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Concerns grow over conditions at ICE facility in New Jersey",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/concerns-grow-over-conditions-at-ice-facility-in-new-jersey/a-77321018?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-27T23:56:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Autobahn betroffen: Unfall auf A3 bei Eppenrod – Sperrung Richtung Frankfurt",
@@ -624,83 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260527/how-germanys-politicians-are-trying-to-afd-proof-the-country",
       "published_date": "2026-05-27T13:07:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungarian MPs vote to remain member of ICC, overturning decision made by Orbán",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/hungary-mps-vote-remain-member-icc-overturn-decision-viktor-orban-peter-magyar",
-      "published_date": "2026-05-27T13:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s most wanted woman jailed after three decades evading police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/daniela-klette-red-army-faction-jailed-armed-robberies-on-the-run",
-      "published_date": "2026-05-27T12:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Police raid HQ of ruling PSOE Socialist party in graft probe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-police-raid-hq-of-ruling-psoe-socialist-party-in-graft-probe/a-77312442?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Police raid HQ of ruling PSOE Socialist party in graft probe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-police-raid-hq-of-ruling-psoe-socialist-party-in-graft-probe/a-77312442?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-27T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When can you swim in Berlin's Spree River this summer?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260527/when-can-you-swim-in-berlins-spree-river-this-summer",
-      "published_date": "2026-05-27T07:54:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The German gym fighting the far right with MMA",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-german-gym-fighting-the-far-right-with-mma/a-77291434?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-27T07:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The German gym fighting the far right with MMA",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-german-gym-fighting-the-far-right-with-mma/a-77291434?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T07:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/27/its-getting-hotter-and-its-not-stopping-dealing-with-the-heat-in-five-of-europes-capitals",
-      "published_date": "2026-05-27T07:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US planning to halt immigration at 'sanctuary city' airports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-planning-to-halt-immigration-at-sanctuary-city-airports/a-77307771?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T06:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260527/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-122",
-      "published_date": "2026-05-27T06:28:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Samsung avoids strike as workers approve massive bonus deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T04:26:00+00:00",
       "category": "Local Events"
     }
   ]
