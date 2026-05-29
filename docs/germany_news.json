@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-28T14:33:35.389409+00:00",
+  "last_updated": "2026-05-29T00:04:22.661023+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bundestag: CSU macht Druck bei Wahlrechtsreform",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/29/csu-macht-druck-bei-wahlrechtsreform",
+      "published_date": "2026-05-29T00:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Koalition: Roland Koch: Merz ist der richtige Kanzler",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-05/29/roland-koch-merz-ist-der-richtige-kanzler",
+      "published_date": "2026-05-28T22:46:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Temu €200M over unsafe toys, non-compliant products",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-fines-temu-€200m-over-unsafe-toys-non-compliant-products/a-77336877?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T16:52:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New food exports deal signals end to Brexit ‘sausage wars’",
       "source": "The Guardian",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Krieg gegen die Ukraine: Bundesregierung bestellt russischen Botschafter ein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-05-26T13:27:28+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: Vance says deal close but 'not there yet'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-vance-says-deal-close-but-not-there-yet/live-77338255?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T23:01:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU could deny new member states veto rights as bloc pushes for enlargement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/eu-could-deny-new-member-states-veto-rights-as-bloc-pushes-for-enlargement",
-      "published_date": "2026-05-26T10:27:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/ukraine-war-briefing-russia-pressures-us-embassy-evacuate-attacks-kyiv",
-      "published_date": "2026-05-26T00:53:29+00:00",
-      "category": "Diplomacy"
+      "title": "Iran, US reportedly agree to deal, pending Trump approval",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T17:27:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – Europe live",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "North Korea tests new missile launch system — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-tests-new-missile-launch-system-report/a-77306896?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T02:12:00+00:00",
-      "category": "Military"
+      "title": "Burberry boss could earn up to £12.2m under new bonus scheme as company rolls back climate goals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/28/burberry-boss-joshua-schulman-could-earn-up-to-122m-new-bonus-scheme",
+      "published_date": "2026-05-28T15:24:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Chemieunfall in Verpackungsfirma: Feuerwehr meldet Tote nach Explosion eines Chemikalientanks in den USA",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/usa-explosion-chemietank-tote-verpackungsfirma",
-      "published_date": "2026-05-26T22:53:33+00:00",
-      "category": "Military"
+      "title": "Germany: Who is Economy Minister Katherina Reiche?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-who-is-economy-minister-katherina-reiche/a-77334326?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-28T14:59:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany: Who is Economy Minister Katherina Reiche?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-who-is-economy-minister-katherina-reiche/a-77334326?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T14:59:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Hidden datacentre tax’ costing Irish households millions, report says",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Marco Rubio's India visit signals effort to steady ties",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/marco-rubio-s-india-visit-signals-effort-to-steady-ties/a-77297978?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T12:17:00+00:00",
-      "category": "Energy"
+      "title": "Much of what Blair said in essay criticising Labour was wrong, says Starmer – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/28/alan-milburn-neets-review-labour-youth-unemployment-uk-politics-live-latest-news",
+      "published_date": "2026-05-28T17:06:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Even Trump can't stop the advance of wind power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/even-trump-can-t-stop-the-advance-of-wind-power/a-77248308?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T09:34:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The wind boom Trump couldn't stop",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-wind-boom-trump-couldn-t-stop/a-77248308?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-26T09:34:00+00:00",
-      "category": "Energy"
+      "title": "EU to discuss potential restrictions on Chinese imports amid fears of overreliance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
+      "published_date": "2026-05-28T16:29:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran turns internet back on, but old restrictions remain",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Starmer says he will campaign for Burnham in Makerfield byelection – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
-      "published_date": "2026-05-21T16:02:24+00:00",
-      "category": "Economy"
+      "title": "Schwarz-rote Koalition: SPD kritisiert Vorschlag der Union zur Finanzierung der Pflege",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/spd-union-vorschlag-pflegekosten-eigenheim",
+      "published_date": "2026-05-28T22:14:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Will Germany's aviation tax cut lower ticket prices?",
+      "title": "Austria: Taylor Swift concert plot suspect sentenced to 15 years",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-germany-s-aviation-tax-cut-lower-ticket-prices/a-75022175?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-21T15:46:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/austria-taylor-swift-concert-plot-suspect-sentenced-to-15-years/a-77338187?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-28T20:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milan restores bull mosaic’s testicles worn down by pirouetting tourists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/28/bull-mosaic-testicles-milan-italy-restoration",
+      "published_date": "2026-05-28T17:17:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Einsatz in Dresden: Schäferhund aus Rohr gerettet",
@@ -680,27 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/27/thirty-five-people-want-to-be-the-next-president-of-france-what-could-possibly-go-wrong",
       "published_date": "2026-05-27T14:30:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Modi warns of heat wave dangers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-modi-warns-of-heat-wave-dangers/live-77307758?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T14:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German far-left militant jailed for 13 years for robberies",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260527/german-far-left-militant-jailed-for-13-years-for-robberies",
-      "published_date": "2026-05-27T13:41:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Germany’s politicians are trying to 'AfD-proof' the country",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260527/how-germanys-politicians-are-trying-to-afd-proof-the-country",
-      "published_date": "2026-05-27T13:07:59+00:00",
       "category": "Local Events"
     }
   ]
