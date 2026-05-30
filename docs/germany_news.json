@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-30T12:02:01.296515+00:00",
+  "last_updated": "2026-05-30T23:54:30.887712+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Film funding bill to support blockbusters made in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-30T14:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Film funding bill to support blockbusters made in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T14:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Biggest EU economies agree on steps for financial integration",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260530/biggest-eu-economies-agree-on-steps-for-financial-integration",
+      "published_date": "2026-05-30T14:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What Hungary must do to receive EU funds frozen under Orban",
       "source": "Deutsche Welle",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Koalition: Roland Koch: Merz ist der richtige Kanzler",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/29/roland-koch-merz-ist-der-richtige-kanzler",
-      "published_date": "2026-05-28T22:46:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fines Temu €200M over unsafe toys, non-compliant products",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-fines-temu-€200m-over-unsafe-toys-non-compliant-products/a-77336877?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-28T16:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New food exports deal signals end to Brexit ‘sausage wars’",
+      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/28/brexit-red-tape-food-exports-scrapped-uk-eu-reset-deal",
-      "published_date": "2026-05-28T14:18:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+      "published_date": "2026-05-30T13:00:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Frankreich: Französischer Philosoph Edgar Morin gestorben",
@@ -154,6 +161,13 @@
       "title": "Iran war: US says ready to resume war if no deal reached",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T06:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US says ready to resume hostilities, Hegseth warns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-hostilities-hegseth-warns/live-77353339?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-30T06:35:00+00:00",
       "category": "Military"
     },
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel, Russia included in UN sexual violence blacklist for first time",
+      "title": "PSG's team of talents retain Champions League title",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-russia-included-in-un-sexual-violence-blacklist-for-first-time/a-77338549?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T02:42:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T21:17:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Gripen fighter jet deal ramps up after Zelenskyy visit to Sweden",
+      "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/ukraine-war-briefing-gripen-jet-deal-sweden-zelenskyy",
-      "published_date": "2026-05-29T01:24:23+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump",
+      "published_date": "2026-05-30T12:00:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Experts: Germany's progress on climate goals insufficient",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Germany hopes for heat pump boom amid Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-hopes-for-heat-pump-boom-amid-iran-war/a-77310083?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-27T13:11:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany hopes for heat pump boom amid Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-hopes-for-heat-pump-boom-amid-iran-war/a-77310083?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T13:11:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "International aid cuts complicate Congo's Ebola epidemic",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf",
@@ -522,6 +522,48 @@
       "category": "Economy"
     },
     {
+      "title": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
+      "published_date": "2026-05-30T22:37:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Police detain many after PSG Champions League win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-police-detain-many-after-psg-champions-league-win/a-77360699?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T22:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kanye West concert in Italy cancelled over ‘public order and safety issues’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/30/kanye-west-concert-italy-cancelled-public-order-and-safety-issues",
+      "published_date": "2026-05-30T19:01:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: Ousted CHP leader draws thousands for Ankara rally",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T18:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Vaping becoming more popular among young people",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-30T12:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Vaping becoming more popular among young people",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T12:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wahlkampf: AfD will «Neuanfang» für Berlin",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/30/brinker-sagt-fuer-berliner-afd-wahlsieg-voraus",
@@ -571,6 +613,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Alpine pass reopened after large protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-30T08:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Alpine pass reopened after large protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-30T08:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "CSU: Weber legt nach: Debatte in CSU ist notwendig",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-05/30/weber-legt-nach-debatte-in-csu-ist-notwendig",
@@ -603,62 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-29T15:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuel hikes: Is ride-hailing becoming a luxury in Lagos?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform der Einkommensteuer: Warum die Steuerreform so schwierig ist",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/reform-einkommensteuer-entlastung-spitzenverdiener-bundesregierung",
-      "published_date": "2026-05-29T13:27:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Die Toten Hosen: Rowdys gehen in Rente",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/musik/2026-05/toten-hosen-trink-aus-wir-muessen-gehen-album",
-      "published_date": "2026-05-29T13:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German ex-minister faces perjury charges over failed car toll plan",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260529/german-ex-minister-faces-perjury-charges-over-failed-car-toll-plan",
-      "published_date": "2026-05-29T12:27:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya court blocks US plan for Ebola quarantine facility",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-court-blocks-us-plan-for-ebola-quarantine-facility/a-77341442?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T11:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: deadly May heatwave shatters records across Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
-      "published_date": "2026-05-29T09:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
-      "published_date": "2026-05-29T09:11:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Top court allows Vinesh Phogat's Asiad entry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-top-court-allows-vinesh-phogat-s-asiad-entry/live-77339242?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T08:39:00+00:00",
       "category": "Local Events"
     }
   ]
