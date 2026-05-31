@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-30T23:54:30.887712+00:00",
+  "last_updated": "2026-05-31T12:07:18.591222+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "When will the EU punch its weight in a perilous world? That’s the question countries eager to join should be asking | Simon Tisdall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/eu-perilous-world-countries-join",
+      "published_date": "2026-05-31T05:00:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany’s embattled nightlife scene welcomes plan to reclassify clubs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/31/germany-nightlife-scene-reclassify-clubs-berlin",
+      "published_date": "2026-05-31T04:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Film funding bill to support blockbusters made in Germany",
       "source": "Deutsche Welle",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260529/today-in-germany-a-roundup-of-the-latest-news-on-friday-124",
-      "published_date": "2026-05-29T06:30:05+00:00",
-      "category": "Diplomacy"
+      "title": "Japan and China trade accusations at Shangri-La Dialogue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-and-china-trade-accusations-at-shangri-la-dialogue/a-77362050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T09:07:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bundestag: CSU macht Druck bei Wahlrechtsreform",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/29/csu-macht-druck-bei-wahlrechtsreform",
-      "published_date": "2026-05-29T00:00:04+00:00",
-      "category": "Diplomacy"
+      "title": "India news: BrahMos missile deal signed with Vietnam",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T07:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump toughens terms for potential deal — reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-toughens-terms-for-potential-deal-reports/live-77353339?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T05:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T03:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-05-31T03:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv denies its drone ‘deliberately’ hit Zaporizhzhia nuclear plant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
+      "published_date": "2026-05-31T00:38:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-29T13:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin's cabal must be brought to trial for crimes in Ukraine. With this plan, the world can do that | Gordon Brown",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown",
-      "published_date": "2026-05-29T13:33:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Oman stuck between Trump and Tehran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-oman-stuck-between-trump-and-tehran/a-77345795?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T12:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Climate activists target tank factory",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-climate-activists-target-tank-factory/live-77340490?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T08:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Climate activists target tank factory",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-climate-activists-target-tank-factory/live-77340490?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-29T08:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Civilians in Lebanon hit hardest as Israel targets Hezbollah",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/civilians-in-lebanon-hit-hardest-as-israel-targets-hezbollah/a-77332295?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T05:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US wants regime change in Cuba. But Havana’s European friends have deserted it too | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/cuba-us-blockade-europe-spain",
-      "published_date": "2026-05-29T04:00:40+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Malta's Labour Party wins historic fourth term: preliminary results",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/malta-s-labour-party-wins-historic-fourth-term-preliminary-results/a-77362880?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T10:51:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "International aid cuts complicate Congo's Ebola epidemic",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf",
@@ -515,11 +522,46 @@
       "category": "Economy"
     },
     {
-      "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
+      "title": "Bafög-Reform : SPD weist Einschätzung von Dorothee Bär zur Bafög-Reform zurück",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/bafoeg-reform-spd-dorothee-baer-koalitionsvertrag-gxe",
+      "published_date": "2026-05-31T11:30:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clashes in Paris after PSG win Champions League final – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament",
-      "published_date": "2026-05-24T09:41:21+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/may/31/clashes-in-paris-after-psg-win-champions-league-final-video",
+      "published_date": "2026-05-31T11:26:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga: Adi Hütter wird erneut Trainer von Eintracht Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/bundesliga-eintracht-frankfurt-adi-huetter-trainer-gxe",
+      "published_date": "2026-05-31T11:10:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metallica in Berlin: Verwüstungsfreude für die ganze Familie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/musik/2026-05/metallica-berlin-olympiastadion-konzert",
+      "published_date": "2026-05-31T11:01:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Most expect AfD state premier after elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meteor explodes over United States, triggering sonic boom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T05:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
@@ -617,48 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-05-30T08:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Alpine pass reopened after large protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-30T08:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSU: Weber legt nach: Debatte in CSU ist notwendig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/30/weber-legt-nach-debatte-in-csu-ist-notwendig",
-      "published_date": "2026-05-29T23:05:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania's political crisis deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T18:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania's political crisis deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-29T18:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lone children held at UK-run detention centres in France 284 times last year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
-      "published_date": "2026-05-29T16:55:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia election 2026: Tigray excluded and on edge",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T15:31:00+00:00",
       "category": "Local Events"
     }
   ]
