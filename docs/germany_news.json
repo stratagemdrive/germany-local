@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-05-31T12:07:18.591222+00:00",
-  "story_count": 94,
+  "last_updated": "2026-05-31T23:59:00.833162+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Geschlechtergerechtigkeit: SPD kritisiert Verzögerung des Gesetzes für Entgelttransparenz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/spd-union-richtlinie-entgelttransparenz-umsetzung",
+      "published_date": "2026-05-31T23:33:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Union und Merz im Umfragetief: Knappe Umfrage-Mehrheit: Kanzlertausch hilft Union nicht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/01/knappe-umfrage-mehrheit-kanzlertausch-hilft-union-nicht",
+      "published_date": "2026-05-31T22:01:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "When will the EU punch its weight in a perilous world? That’s the question countries eager to join should be asking | Simon Tisdall",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hungarian police approve Budapest Pride in break from Orbán era",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/hungarian-police-approve-budapest-pride-despite-previous-ban",
-      "published_date": "2026-05-29T11:56:34+00:00",
-      "category": "Diplomacy"
+      "title": "Technologieexport: US-Regierung schließt Schlupfloch beim Export von KI-Chips",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/technologie-export-beschraenkungen-ki-chips-nvidia-china-usa",
+      "published_date": "2026-05-31T23:10:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Romania: Russian drone strikes Galati apartment building",
+      "title": "Shangri-La conference: Asia-Pacific on path to rearmament",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T07:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T16:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Israel captures key fortress amid Lebanon push",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-israel-captures-key-fortress-amid-lebanon-push/live-77353339?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T13:14:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Japan and China trade accusations at Shangri-La Dialogue",
@@ -260,27 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/audio/2026/may/29/could-nato-join-russia-ukraine-war-after-romania-strike-the-latest",
       "published_date": "2026-05-29T16:19:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US to lift naval blockade of ports, Trump says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T15:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kriseneinsatz in Kiew: Deutsche wird Chefin von Sicherheitsmission in der Ukraine",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/29/deutsche-wird-chefin-von-sicherheitsmission-in-der-ukraine",
-      "published_date": "2026-05-29T13:36:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea pushes nuclear-powered submarine plan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T13:34:00+00:00",
       "category": "Military"
     },
     {
@@ -508,18 +508,60 @@
       "category": "Economy"
     },
     {
-      "title": "Madrid protesters decry rising rents and housing shortage",
+      "title": "Colombia set for runoff vote after tight presidential poll",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-24T16:33:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/colombia-set-for-runoff-vote-after-tight-presidential-poll/a-77365446?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Madrid protesters decry rising rents and housing shortage",
+      "title": "Germany news: Most expect AfD state premier after elections",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-24T16:33:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-31T22:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York: Mayor Mamdani skips annual Israel Day Parade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-york-mayor-mamdani-skips-annual-israel-day-parade/a-77368652?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T22:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olympia-Referendum in Hamburg: Wenigstens haben sie es versucht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-05/olympia-referendum-hamburg-abstimmung-politik",
+      "published_date": "2026-05-31T19:19:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany’s thriving Alevi community",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-thriving-alevi-community/a-77337130?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-05-31T18:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany’s thriving Alevi community",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-thriving-alevi-community/a-77337130?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-05-31T18:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anna Rothe: Bouquets aus dem Jenseits",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/zeit-verbrechen/2026/38/anna-rothe-geister-medium-berlin-betrug",
+      "published_date": "2026-05-31T18:15:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+      "published_date": "2026-05-31T13:59:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bafög-Reform : SPD weist Einschätzung von Dorothee Bär zur Bafög-Reform zurück",
@@ -603,62 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-30T12:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlkampf: AfD will «Neuanfang» für Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/30/brinker-sagt-fuer-berliner-afd-wahlsieg-voraus",
-      "published_date": "2026-05-30T11:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kreis Steinfurt: 800 Einsätze: Weitere Unwetter in NRW möglich - Bahnverkehr gestört",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-05/30/weitere-unwetter-in-nrw-moeglich-bahnverkehr-gestoert",
-      "published_date": "2026-05-30T11:43:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Look at how Germany defeated the Red Army Faction. The lessons about how to fight terrorism are all there | Jason Burke",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/30/germany-defeat-red-army-faction-lessons-fight-terrorism",
-      "published_date": "2026-05-30T11:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ofenpfannkuchen: Der muss in den Ofen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/2026/24/ofenpfannkuchen-dutch-baby-blaubeeren-rezept-wochenmarkt",
-      "published_date": "2026-05-30T10:51:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malta votes in snap parliamentary election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-30T08:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malta votes in snap parliamentary election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-05-30T08:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Munich airport briefly halts flights after drone alert",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260530/flights-suspended-at-munich-airport-due-to-drone-sighting",
-      "published_date": "2026-05-30T08:26:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Alpine pass reopened after large protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-30T08:04:00+00:00",
       "category": "Local Events"
     }
   ]
