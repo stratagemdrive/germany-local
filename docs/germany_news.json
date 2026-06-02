@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-01T16:33:38.419205+00:00",
-  "story_count": 95,
+  "last_updated": "2026-06-02T00:07:33.858219+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "EU reaches deal on 'return hubs' for rejected asylum seekers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-reaches-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-01T23:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU reaches deal on 'return hubs' for rejected asylum seekers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-reaches-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-01T23:16:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Catastrophic for creative industries’: Brexit barriers shut UK actors out of EU jobs",
       "source": "The Guardian",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine war briefing: Russia preparing ‘massive new strike’, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/ukraine-war-briefing-russia-preparing-massive-new-strike-zelenskyy-says",
-      "published_date": "2026-05-30T01:36:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU unblocks €16 billion in Hungary assistance as Magyar promises reforms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T16:20:00+00:00",
-      "category": "Diplomacy"
+      "title": "Deutsche Bahn: Mehr als jeder dritter Fernzug im Mai zu spät am Ziel",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-06/deutsche-bahn-unpuenktlichkeit-unpuenktlichkeitsquote-mai",
+      "published_date": "2026-06-01T23:44:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Tomi Reichental: Holocaustüberlebender Tomi Reichental ist tot",
@@ -274,13 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-05-30T02:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top US and Cuban generals meet at Guantanamo Bay",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/top-us-and-cuban-generals-meet-at-guantanamo-bay/a-77352669?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-30T00:28:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Alphabet plans $80 billion stock sale as AI spending surges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/alphabet-plans-80-billion-stock-sale-as-ai-spending-surges/a-77383080?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-01T22:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EasyJet is an obvious takeover target, but US approach may not be a flyer | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/01/easyjet-takeover-target-castlelake-nils-pratley-may-not-be-a-flyer",
+      "published_date": "2026-06-01T17:27:42+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Can Iran rebuild trust with its Gulf neighbors?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/can-iran-rebuild-trust-with-its-gulf-neighbors/a-77378445?maca=en-rss-en-all-1573-rdf",
@@ -529,6 +543,62 @@
       "category": "Economy"
     },
     {
+      "title": "Bärbel Bas: Bas beklagt Anfeindungen und Hass gegen Politikerinnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/baerbel-bas-hass-hetze-frauen-friedrich-merz-bundesregierung",
+      "published_date": "2026-06-01T22:13:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London Tube workers go on two-day strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/london-tube-workers-go-on-two-day-strike/a-77382746?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-01T21:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denmark’s Mette Frederiksen agrees centre-left coalition after months of uncertainty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty",
+      "published_date": "2026-06-01T20:47:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serena Williams confirms return to professional tennis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-01T18:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosion at Malta fireworks factory sends plumes of smoke into air – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/01/explosion-malta-fireworks-factory-plumes-smoke-video",
+      "published_date": "2026-06-01T18:02:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refugees and migration: Is Europe closing its doors?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-01T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refugees and migration: Is Europe closing its doors?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-01T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refugees and migration: Is Europe closing its doors?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-01T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gerüchte über »Kanzlertausch«: Merz und Wüst demonstrieren bei CDU-Treffen Geschlossenheit",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-06/kanzlertausch-cdu-friedrich-merz-hendrik-wuest",
@@ -610,62 +680,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-migration-to-germany-falls-sharply-in-2025/live-77373791?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-01T09:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baden-Wurttemberg expands smoking bans in public spaces",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260601/baden-wurttemberg-expands-smoking-bans-in-public-spaces",
-      "published_date": "2026-06-01T08:34:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a German town uses currency to promote emission cutting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-german-town-uses-currency-to-promote-emission-cutting/a-77167075?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-01T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a German town uses currency to promote emission cutting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-german-town-uses-currency-to-promote-emission-cutting/a-77167075?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260601/today-in-germany-a-roundup-of-the-latest-news-on-monday-124",
-      "published_date": "2026-06-01T06:30:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guest review – the risks of protecting refugees in the Poland-Belarus danger zone",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone",
-      "published_date": "2026-06-01T06:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yves Sakila’s death has echoes of George Floyd. When will we in Ireland confront our own racism?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/yves-sakilas-death-has-echoes-of-george-floyd-when-will-we-in-ireland-confront-our-own-racism",
-      "published_date": "2026-06-01T04:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Newark mayor orders curfew after Delaney Hall protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-newark-mayor-orders-curfew-after-delaney-hall-protests/a-77368968?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia set for runoff vote after tight presidential poll",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-set-for-runoff-vote-after-tight-presidential-poll/a-77365446?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-31T23:01:00+00:00",
       "category": "Local Events"
     }
   ]
