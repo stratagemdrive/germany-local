@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-03T00:23:48.788971+00:00",
-  "story_count": 98,
+  "last_updated": "2026-06-03T15:25:13.582519+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "How companies in Europe are struggling to recruit workers from outside the EU",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260603/how-companies-in-europe-are-struggling-to-recruit-workers-from-outside-the-eu",
+      "published_date": "2026-06-03T12:49:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
+      "published_date": "2026-06-03T10:41:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "David Cameron offered Boris Johnson senior cabinet role if he agreed not to push for Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/03/david-cameron-boris-johnson-senior-cabinet-role-agreed-not-to-push-brexit",
+      "published_date": "2026-06-03T09:10:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia's election offers a choice between Russia and EU",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T08:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia's election offers a choice between Russia and EU",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-03T08:36:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj warnt vor nächstem russischen Großangriff",
       "source": "ZEIT Online",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Poverty rises to new high, charity group says",
+      "title": "Taliban and Russia cozy up to each other — why?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-poverty-rises-to-new-high-charity-group-says/live-77386205?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T08:38:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/taliban-and-russia-cozy-up-to-each-other-why/a-77409479?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T14:28:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Poverty rises to new high, charity group says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-poverty-rises-to-new-high-charity-group-says/live-77386205?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-02T08:38:00+00:00",
-      "category": "Diplomacy"
+      "title": "Robert Koch-Institut: Mehr als jeder dritte Erwachsene hat Schlafprobleme",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesundheit/2026-06/rki-schlafprobleme-erwachsene-pandemie",
+      "published_date": "2026-06-03T14:13:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU reaches deal on 'return hubs' for rejected asylum seekers",
+      "title": "Google mosquito army: Scientists say 'we must take action'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-reaches-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-01T23:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/google-mosquito-army-scientists-say-we-must-take-action/a-77390494?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T13:26:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU reaches deal on 'return hubs' for rejected asylum seekers",
+      "title": "Ukraine drones hit Saint Petersburg as economic forum starts",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-reaches-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T23:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-drones-hit-saint-petersburg-as-economic-forum-starts/a-77400574?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T09:54:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "REVEALED: How many Americans are moving to Germany and how many are leaving?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260601/more-americans-are-moving-to-germany-than-the-reverse-for-the-first-time-in-years",
-      "published_date": "2026-06-01T14:58:06+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine strikes St Petersburg oil refinery – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/03/ukraine-strikes-st-petersburg-oil-refinery-video",
+      "published_date": "2026-06-03T08:58:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The EU should fast-track Ukraine’s membership of the club – it has the most to gain | Mujtaba Rahman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/commentisfree/2026/jun/03/eu-ukraine-membership-peace-deal",
+      "published_date": "2026-06-03T04:00:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Kraftstoffausgabe im russisch besetzten Luhansk begrenzt",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Deutsche Bahn: Mehr als jeder dritter Fernzug im Mai zu spät am Ziel",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-06/deutsche-bahn-unpuenktlichkeit-unpuenktlichkeitsquote-mai",
-      "published_date": "2026-06-01T23:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tomi Reichental: Holocaustüberlebender Tomi Reichental ist tot",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-06/tomi-reichental-holocaust-bergen-belsen-irland",
-      "published_date": "2026-06-01T16:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mozart the idol: Searching for beauty in times of crisis",
+      "title": "Saudi Arabia and Russia draw closer amid OPEC upheaval",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mozart-the-idol-searching-for-beauty-in-times-of-crisis/a-77374393?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-01T13:32:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/saudi-arabia-and-russia-draw-closer-amid-opec-upheaval/a-77387950?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T13:03:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Mozart the idol: Searching for beauty in times of crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mozart-the-idol-searching-for-beauty-in-times-of-crisis/a-77374393?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T13:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Family’s 90-year search for answers after father vanished in Francoist uprising – photo essay",
+      "title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/01/spain-family-answers-search-franco-uprising-disappeared-photo-essay",
-      "published_date": "2026-06-01T06:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Technologieexport: US-Regierung schließt Schlupfloch beim Export von KI-Chips",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-05/technologie-export-beschraenkungen-ki-chips-nvidia-china-usa",
-      "published_date": "2026-05-31T23:10:05+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
+      "published_date": "2026-06-03T09:19:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ethiopia goes electric following gas car ban",
@@ -410,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Why is Ferrari facing such a backlash to its first electric car?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/27/why-ferrari-backlash-electric-car-luce",
-      "published_date": "2026-05-27T17:16:30+00:00",
-      "category": "Energy"
+      "title": "Backrooms: The creepy internet phenomenon, explained",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/backrooms-the-creepy-internet-phenomenon-explained/a-77404540?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T13:03:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Extreme heat in Europe ‘a brutal reminder’ of climate crisis, UN chief says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/27/extreme-heat-in-europe-a-brutal-reminder-of-climate-crisis-un-chief-says",
-      "published_date": "2026-05-27T14:50:32+00:00",
-      "category": "Energy"
+      "title": "Germany news: Naturalizations reach record high in 2025",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-naturalizations-reach-record-high-in-2025/live-77400790?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T09:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US plans extra tariffs for 60 countries over forced labor",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-plans-extra-tariffs-for-60-countries-over-forced-labor/a-77400171?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T07:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Middle East: US and Iran trade fire amid stalled talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-us-and-iran-trade-fire-amid-stalled-talks/live-77398874?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T01:36:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Albanien: Tausende protestieren gegen Bauprojekt von Trumps Schwiegersohn",
@@ -536,18 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Germany: No recovery in sight for the economy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-27T16:19:00+00:00",
-      "category": "Economy"
+      "title": "Reformen: Länder-Einwände gegen Sparpaket - Protest von Hausärzten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/03/hausaerzte-machen-gegen-spargesetz-mobil",
+      "published_date": "2026-06-03T15:22:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
+      "title": "How the death of Yves Sakila exposes Ireland’s deeply rooted racism problem",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/27/flying-tiger-acquisition-modella-capital-private-equity-tg-jones",
-      "published_date": "2026-05-27T11:19:21+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/news/2026/jun/03/yves-sakila-death-ireland-deeply-rooted-racism-problem",
+      "published_date": "2026-06-03T12:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four migrant workers reportedly burned alive in their car in attack in Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
+      "published_date": "2026-06-03T12:18:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cologne Cathedral to charge tourists €12 for entry",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260603/cologne-cathedral-to-charge-tourists-e12-for-entry",
+      "published_date": "2026-06-03T10:02:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portugal: General strike causes disruption to services",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T09:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portugal: General strike causes disruption to services",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-03T09:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy votes to become a republic – archive, 1946",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/03/italy-votes-to-become-a-republic-1946",
+      "published_date": "2026-06-03T09:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Several killed in New Delhi fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-several-killed-in-new-delhi-fire/live-77399912?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T08:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Protest erupts over student murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-protest-erupts-over-student-murder/a-77399817?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T07:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Protest erupts over student murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-protest-erupts-over-student-murder/a-77399817?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-03T07:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democracy in Africa: Coups, crises and foregone conclusions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/democracy-in-africa-coups-crises-and-foregone-conclusions/a-77328510?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T06:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260603/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-123",
+      "published_date": "2026-06-03T06:27:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kriminalität: Polizist in Dortmund angeschossen - Kinder als Geiseln?",
@@ -603,90 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener",
       "published_date": "2026-06-02T13:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU accused of creating ICE-style immigration enforcement system",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/eu-accused-creating-ice-style-immigration-enforcement-system",
-      "published_date": "2026-06-02T11:56:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nightclub promoter, 21, stabbed to death after brawl in Dublin’s tourism district",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/qayyum-balogun-nightclub-promoter-stabbed-to-death-dublin",
-      "published_date": "2026-06-02T11:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's the German version of Craigslist?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260602/whats-the-german-version-of-craigslist",
-      "published_date": "2026-06-02T09:04:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Mamata Banerjee vows to 'fight or die' at protest in Kolkata",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-mamata-banerjee-vows-to-fight-or-die-at-protest-in-kolkata/live-77385100?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T07:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Köln 75 review – how a legendary jazz-improv show was cajoled into being by a German teenager",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/02/koln-75-review-keith-jarrett",
-      "published_date": "2026-06-02T06:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark's Frederiksen secures third term as prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/denmark-s-frederiksen-secures-third-term-as-prime-minister/a-77383696?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T02:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bärbel Bas: Bas beklagt Anfeindungen und Hass gegen Politikerinnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/baerbel-bas-hass-hetze-frauen-friedrich-merz-bundesregierung",
-      "published_date": "2026-06-01T22:13:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London Tube workers go on two-day strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/london-tube-workers-go-on-two-day-strike/a-77382746?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T21:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark’s Mette Frederiksen agrees centre-left coalition after months of uncertainty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty",
-      "published_date": "2026-06-01T20:47:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serena Williams confirms return to professional tennis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T18:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion at Malta fireworks factory sends plumes of smoke into air – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/01/explosion-malta-fireworks-factory-plumes-smoke-video",
-      "published_date": "2026-06-01T18:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refugees and migration: Is Europe closing its doors?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-01T16:59:00+00:00",
       "category": "Local Events"
     }
   ]
