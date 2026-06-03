@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-02T14:46:49.570071+00:00",
-  "story_count": 97,
+  "last_updated": "2026-06-03T00:23:48.788971+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj warnt vor nächstem russischen Großangriff",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-06-02T23:35:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Klimawandel: EU plant bisher größten Einsatz gegen Waldbrände",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-06/waldbraende-europa-eu-groesster-einsatz-feuerwehr",
+      "published_date": "2026-06-02T20:56:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz backs Hungary's new pro-EU course",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-backs-hungary-s-new-pro-eu-course/a-77395755?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-02T16:44:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Orban-Nachfolger in Berlin: Merz will Ungarn «zurück in die Mitte Europas» helfen",
       "source": "ZEIT Online",
@@ -60,6 +81,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Unpacking Germany's campaign for a UN Security Council seat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/unpacking-germany-s-campaign-for-a-un-security-council-seat/a-77386458?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-02T11:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Unpacking Germany's campaign for a UN Security Council seat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/unpacking-germany-s-campaign-for-a-un-security-council-seat/a-77386458?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-02T11:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Taiwan's Lai: Status quo is key to secure tech supply chains",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/taiwan-s-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453?maca=en-rss-en-all-1573-rdf",
@@ -77,6 +112,13 @@
       "title": "Germany news: Poverty rises to new high, charity group says",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-poverty-rises-to-new-high-charity-group-says/live-77386205?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-02T08:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Poverty rises to new high, charity group says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-poverty-rises-to-new-high-charity-group-says/live-77386205?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-02T08:38:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Catastrophic for creative industries’: Brexit barriers shut UK actors out of EU jobs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/01/creative-industries-brexit-barriers-uk-actors-eu-jobs",
-      "published_date": "2026-06-01T13:00:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
-      "published_date": "2026-06-01T12:57:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French navy seizes Russia-linked oil tanker in Atlantic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic",
-      "published_date": "2026-06-01T11:34:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Iran trade strikes as diplomatic efforts continue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-and-iran-trade-strikes-as-diplomatic-efforts-continue/live-77369317?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T06:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Geschlechtergerechtigkeit: SPD kritisiert Verzögerung des Gesetzes für Entgelttransparenz",
+      "title": "Ukraine-Krieg: Kraftstoffausgabe im russisch besetzten Luhansk begrenzt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/spd-union-richtlinie-entgelttransparenz-umsetzung",
-      "published_date": "2026-05-31T23:33:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-06/03/kraftstoffausgabe-im-russisch-besetzten-luhansk-begrenzt",
+      "published_date": "2026-06-02T22:01:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Union und Merz im Umfragetief: Knappe Umfrage-Mehrheit: Kanzlertausch hilft Union nicht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/01/knappe-umfrage-mehrheit-kanzlertausch-hilft-union-nicht",
-      "published_date": "2026-05-31T22:01:04+00:00",
-      "category": "Diplomacy"
+      "title": "Kyiv picks up the pieces after another attack by Russia – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/02/kyiv-picks-up-the-pieces-after-another-attack-by-russia-photo-essay",
+      "published_date": "2026-06-02T17:48:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump appoints Bill Pulte as acting intelligence chief",
@@ -267,20 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/wirtschaft/2026-05/technologie-export-beschraenkungen-ki-chips-nvidia-china-usa",
       "published_date": "2026-05-31T23:10:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shangri-La conference: Asia-Pacific on path to rearmament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-31T16:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Israel captures key fortress amid Lebanon push",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-israel-captures-key-fortress-amid-lebanon-push/live-77353339?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-31T13:14:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Albanien: Tausende protestieren gegen Bauprojekt von Trumps Schwiegersohn",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/albanien-jared-kushner-bauprojekt-proteste",
+      "published_date": "2026-06-02T23:38:08+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Alternative for Germany members attend Russia meeting despite criticism",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260602/alternative-for-germany-members-attend-russia-meeting-despite-criticism",
@@ -543,6 +550,34 @@
       "category": "Economy"
     },
     {
+      "title": "Kriminalität: Polizist in Dortmund angeschossen - Kinder als Geiseln?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/02/polizist-in-dortmund-angeschossen-kinder-als-geiseln",
+      "published_date": "2026-06-02T22:32:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Cologne Cathedral to charge tourists €12 for entry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-cologne-cathedral-to-charge-tourists-€12-for-entry/a-77396216?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-02T17:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Cologne Cathedral to charge tourists €12 for entry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-cologne-cathedral-to-charge-tourists-€12-for-entry/a-77396216?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-02T17:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Are you ready to be German?': A first-hand account of the final interview for citizenship",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260602/are-you-ready-to-be-german-a-first-hand-account-of-the-final-interview-for-citizenship",
+      "published_date": "2026-06-02T14:59:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Nippon Connection: What to know about Frankfurt's Japanese film festival",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260602/nippon-connection-what-to-know-about-frankfurts-japanese-film-festival",
@@ -652,34 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-01T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refugees and migration: Is Europe closing its doors?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refugees and migration: Is Europe closing its doors?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-01T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gerüchte über »Kanzlertausch«: Merz und Wüst demonstrieren bei CDU-Treffen Geschlossenheit",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/kanzlertausch-cdu-friedrich-merz-hendrik-wuest",
-      "published_date": "2026-06-01T16:08:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baden-Württemberg restricts smoking in public spaces",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/baden-württemberg-restricts-smoking-in-public-spaces/a-77380997?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-01T16:08:00+00:00",
       "category": "Local Events"
     }
   ]
