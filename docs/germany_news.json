@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-03T15:25:13.582519+00:00",
+  "last_updated": "2026-06-04T00:25:29.145618+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Nach langem Stillstand: EU bereitet Beitrittsgespräche mit Ukraine und Moldau vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/04/eu-bereitet-beitrittsgespraeche-mit-ukraine-und-moldau-vor",
+      "published_date": "2026-06-03T23:30:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europäische Union: EU will Beitrittsgespräche mit der Ukraine und Moldau beginnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-moldau-eu-ungarn-beitritt-gespraeche",
+      "published_date": "2026-06-03T22:56:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN-Sicherheitsrat: Grüne kritisieren Merz und Wadephul nach Scheitern bei UN-Wahl",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/un-wahl-cdu-friedrich-merz-johann-wadephul-gruene",
+      "published_date": "2026-06-03T21:50:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU aims to ensure foreign governments or firms cannot disrupt tech services with ‘kill switch’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/03/eu-commission-foreign-providers-kill-switch-disrupt-tech-europe",
+      "published_date": "2026-06-03T17:04:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How companies in Europe are struggling to recruit workers from outside the EU",
       "source": "The Local Germany",
@@ -116,37 +144,37 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Unpacking Germany's campaign for a UN Security Council seat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/unpacking-germany-s-campaign-for-a-un-security-council-seat/a-77386458?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-02T11:10:00+00:00",
-      "category": "Diplomacy"
+      "title": "War Powers Resolution: Repräsentantenhaus stimmt für Grenzen von Trumps Macht im Irankrieg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/donald-trump-usa-repraesentantenhaus-irankrieg",
+      "published_date": "2026-06-03T23:56:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Unpacking Germany's campaign for a UN Security Council seat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/unpacking-germany-s-campaign-for-a-un-security-council-seat/a-77386458?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T11:10:00+00:00",
-      "category": "Diplomacy"
+      "title": "Nachbarschaftsdisput: Magyar: Ungarn einigt sich mit Ukraine in Minderheitenfrage",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/04/magyar-ungarn-einigt-sich-mit-ukraine-in-minderheitenfrage",
+      "published_date": "2026-06-03T23:14:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Taiwan's Lai: Status quo is key to secure tech supply chains",
+      "title": "UK Royal Navy helicopter crash leaves 3 dead",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taiwan-s-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T10:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Parliament committee votes to scrap US tariffs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/european-parliament-committee-votes-to-scrap-us-tariffs/a-77387567?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T09:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/uk-royal-navy-helicopter-crash-leaves-3-dead/a-77410741?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T16:03:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Taliban and Russia cozy up to each other — why?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/taliban-and-russia-cozy-up-to-each-other-why/a-77409479?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T14:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliban, Russia are cozying up to each other — why?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-03T14:28:00+00:00",
       "category": "Military"
     },
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel-Lebanon conflict: Why military pressure isn't enough",
+      "title": "Elon Musk's SpaceX aiming to raise $75bn in record IPO",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-lebanon-conflict-why-military-pressure-isn-t-enough/a-77385437?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T08:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260602/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-126",
-      "published_date": "2026-06-02T06:29:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia launches major missile attack on Ukraine, several killed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-launches-major-missile-attack-on-ukraine-several-killed/a-77384025?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T04:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weapons are one thing, but if war breaks out, Europe’s best resource is its people | Elisabeth Braw",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/02/weapons-europe-war-people-scandinavia-baltic-citizens-non-combatants",
-      "published_date": "2026-06-02T04:00:37+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/elon-musk-s-spacex-aiming-to-raise-75bn-in-record-ipo/a-77414048?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T23:48:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia and Russia draw closer amid OPEC upheaval",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Brasilien: Brasilien plant Wiederaufnahme von Ölbohrungen im Amazonas",
+      "title": "Deutscher Aktienindex: Baukonzern Hochtief steigt in den Dax auf",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/brasiliens-amazonasgebiet-wiederaufnahme-oelbohrungen",
-      "published_date": "2026-05-27T22:05:13+00:00",
-      "category": "Energy"
+      "url": "https://www.zeit.de/wirtschaft/boerse/2026-06/dax-hochtief-aktienindex-porsche-se",
+      "published_date": "2026-06-03T23:20:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tanzania's president visits Russia amid frayed Western ties",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T16:02:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Backrooms: The creepy internet phenomenon, explained",
@@ -434,6 +448,13 @@
       "title": "Germany news: Naturalizations reach record high in 2025",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-naturalizations-reach-record-high-in-2025/live-77400790?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T09:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Naturalizations reach record high in 2025",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-naturalizations-reach-record-high-in-2025/live-77400790?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-03T09:40:00+00:00",
       "category": "Economy"
     },
@@ -543,25 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "EU to discuss potential restrictions on Chinese imports amid fears of overreliance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
-      "published_date": "2026-05-28T16:29:59+00:00",
-      "category": "Economy"
+      "title": "Jean-Pascal Hohm: Chef der AfD-Jugendorganisation kandidiert für Bundesvorstand",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/jean-pascal-hohm-afd-parteitag-bundesvorstand-kandidatur",
+      "published_date": "2026-06-03T23:55:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran turns internet back on, but old restrictions remain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-turns-internet-back-on-but-old-restrictions-remain/a-77331981?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-28T13:09:00+00:00",
-      "category": "Economy"
+      "title": "Kultur und Ausblick: Hier bekommt man überraschende Perspektiven auf Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/04/hier-bekommt-man-ueberraschende-perspektiven-auf-frankfurt",
+      "published_date": "2026-06-03T23:42:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany: No recovery in sight for the economy",
+      "title": "CSU: Manfred Weber bestreitet Führungsdebatte um CSU-Chef Markus Söder",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/manfred-weber-markus-soeder-csu-pfingstbrief",
+      "published_date": "2026-06-03T21:49:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany loses vote for UN Security Council seat",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-27T16:19:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-loses-vote-for-un-security-council-seat/a-77409955?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-03T17:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany loses vote for UN Security Council seat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-loses-vote-for-un-security-council-seat/a-77409955?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-03T17:01:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reformen: Länder-Einwände gegen Sparpaket - Protest von Hausärzten",
@@ -666,41 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-cologne-cathedral-to-charge-tourists-€12-for-entry/a-77396216?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-02T17:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Are you ready to be German?': A first-hand account of the final interview for citizenship",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260602/are-you-ready-to-be-german-a-first-hand-account-of-the-final-interview-for-citizenship",
-      "published_date": "2026-06-02T14:59:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nippon Connection: What to know about Frankfurt's Japanese film festival",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260602/nippon-connection-what-to-know-about-frankfurts-japanese-film-festival",
-      "published_date": "2026-06-02T13:51:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan: Bear rampage injures 4 in Fukushima",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-bear-rampage-injures-4-in-fukushima/a-77392803?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T13:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Kenya's president defends US site amid protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ebola-kenya-s-president-defends-us-site-amid-protests/a-77390877?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T13:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My father, the German refugee who fought the Nazis as a ‘secret listener’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener",
-      "published_date": "2026-06-02T13:00:23+00:00",
       "category": "Local Events"
     }
   ]
