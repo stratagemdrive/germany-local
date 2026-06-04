@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-04T13:55:32.842141+00:00",
-  "story_count": 97,
+  "last_updated": "2026-06-04T23:59:31.256997+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "EU seeking ways to speed up Western Balkans membership",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-seeking-ways-to-speed-up-western-balkans-membership/a-77424398?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T15:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU seeking ways to speed up Western Balkans membership",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-seeking-ways-to-speed-up-western-balkans-membership/a-77424398?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-04T15:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's UN defeat: What went wrong?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-un-defeat-what-went-wrong/a-77420221?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-04T11:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's UN defeat: What went wrong?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-un-defeat-what-went-wrong/a-77420221?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T11:51:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU concerns grow over Albania's Trump-linked megaproject",
       "source": "Deutsche Welle",
@@ -14,6 +42,20 @@
       "title": "EU concerns grow over Albania's Trump-linked megaproject",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-concerns-grow-over-albania-s-trump-linked-megaproject/a-77409540?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-04T09:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner-backed Albania resort sparks protests, EU concerns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kushner-backed-albania-resort-sparks-protests-eu-concerns/a-77409540?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T09:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner-backed Albania resort sparks protests, EU concerns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kushner-backed-albania-resort-sparks-protests-eu-concerns/a-77409540?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-06-04T09:11:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Klimawandel: EU plant bisher größten Einsatz gegen Waldbrände",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-06/waldbraende-europa-eu-groesster-einsatz-feuerwehr",
-      "published_date": "2026-06-02T20:56:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz backs Hungary's new pro-EU course",
+      "title": "Mali junta offers $3.5M reward for Sahel al-Qaeda leader",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-backs-hungary-s-new-pro-eu-course/a-77395755?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T16:44:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/mali-junta-offers-3-5m-reward-for-sahel-al-qaeda-leader/a-77427422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T23:28:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Orban-Nachfolger in Berlin: Merz will Ungarn «zurück in die Mitte Europas» helfen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/02/merz-will-ungarn-zurueck-in-die-mitte-europas-helfen",
-      "published_date": "2026-06-02T14:18:27+00:00",
-      "category": "Diplomacy"
+      "title": "Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump",
+      "published_date": "2026-06-04T22:30:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Migration: Was bedeutet die EU-Vereinbarung zu Abschiebezentren?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/migration-eu-abschiebezentren-asylpolitik-strafen-faq",
-      "published_date": "2026-06-02T14:18:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU-Entgelttransparenzrichtlinie: Was Beschäftigte jetzt über ihre Rechte beim Gehalt wissen müssen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-06/eu-entgelttransparenzgesetz-bundesministerium-arbeitsmarkt-klagen-buerokratie-faq",
-      "published_date": "2026-06-02T14:11:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kosovo general election: the cost of political polarization",
+      "title": "Ukraine's Zelenskyy proposes Putin meeting on ending war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T13:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-proposes-putin-meeting-on-ending-war/a-77427312?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T22:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Germans at Russia's SPIEF: Who's really there?",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine-Krieg: Kraftstoffausgabe im russisch besetzten Luhansk begrenzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/03/kraftstoffausgabe-im-russisch-besetzten-luhansk-begrenzt",
-      "published_date": "2026-06-02T22:01:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv picks up the pieces after another attack by Russia – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/02/kyiv-picks-up-the-pieces-after-another-attack-by-russia-photo-essay",
-      "published_date": "2026-06-02T17:48:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump appoints Bill Pulte as acting intelligence chief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-appoints-bill-pulte-as-acting-intelligence-chief/a-77394079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-02T14:32:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Stuck on oil: Can Hawaii power itself?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/stuck-on-oil-can-hawaii-power-itself/a-76967079?maca=en-rss-en-all-1573-rdf",
@@ -368,39 +368,11 @@
       "category": "Energy"
     },
     {
-      "title": "Burberry boss could earn up to £12.2m under new bonus scheme as company rolls back climate goals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/28/burberry-boss-joshua-schulman-could-earn-up-to-122m-new-bonus-scheme",
-      "published_date": "2026-05-28T15:24:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany: Who is Economy Minister Katherina Reiche?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-who-is-economy-minister-katherina-reiche/a-77334326?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-28T14:59:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany: Who is Economy Minister Katherina Reiche?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-who-is-economy-minister-katherina-reiche/a-77334326?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-28T14:59:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Reiche brings energy sector ties to German Economy Ministry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/reiche-brings-energy-sector-ties-to-german-economy-ministry/a-77334326?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-28T14:59:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Reiche brings energy sector ties to German Economy Ministry",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/reiche-brings-energy-sector-ties-to-german-economy-ministry/a-77334326?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-28T14:59:00+00:00",
-      "category": "Energy"
+      "title": "When can residents deduct the cost of German courses from taxes?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260604/when-are-german-language-courses-tax-deductible-for-residents",
+      "published_date": "2026-06-04T14:03:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Alte Militärstation: DDR-Insel «Ostervilm» für 60.000 Euro versteigert",
@@ -536,11 +508,25 @@
       "category": "Economy"
     },
     {
-      "title": "Can Iran rebuild trust with its Gulf neighbors?",
+      "title": "German asylum benefits cuts violate EU law, top court rules",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-iran-rebuild-trust-with-its-gulf-neighbors/a-77378445?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T13:48:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-04T16:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German asylum benefits cuts violate EU law, top court rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T16:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German asylum benefits cuts violate EU law, top court rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-04T16:13:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany: Lufthansa plane suffers nose gear collapse",
@@ -659,27 +645,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260603/cologne-cathedral-to-charge-tourists-e12-for-entry",
       "published_date": "2026-06-03T10:02:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal: General strike causes disruption to services",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T09:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal: General strike causes disruption to services",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-03T09:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy votes to become a republic – archive, 1946",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/italy-votes-to-become-a-republic-1946",
-      "published_date": "2026-06-03T09:30:18+00:00",
       "category": "Local Events"
     }
   ]
