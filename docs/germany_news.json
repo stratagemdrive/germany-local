@@ -1,8 +1,78 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-04T23:59:31.256997+00:00",
-  "story_count": 92,
+  "last_updated": "2026-06-05T13:50:26.604254+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/uk-eu-reset-summit-july-delay-speculation",
+      "published_date": "2026-06-05T13:35:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU-Rückführungsverordnung: Migrationsforscher warnen vor »Rückführungen um jeden Preis«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/eu-rueckfuehrungsverordnung-sachverstaendigenrat-winfried-kluth",
+      "published_date": "2026-06-05T13:19:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Iran war lessons after 100 days",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-05T12:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Iran war lessons after 100 days",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T12:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: National team won't win World Cup, fans think",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-national-team-won-t-win-world-cup-fans-think/live-77428914?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-05T11:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: National team won't win World Cup, fans think",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-national-team-won-t-win-world-cup-fans-think/live-77428914?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T11:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to advance expansion plans at Balkans summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-to-advance-expansion-plans-at-balkans-summit/a-77432224?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T09:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are Europe's alternatives to Instagram, TikTok and X?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-are-europe-s-alternatives-to-instagram-tiktok-and-x/a-77398242?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T04:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are Europe's alternatives to Instagram, TikTok and X?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-are-europe-s-alternatives-to-instagram-tiktok-and-x/a-77398242?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-05T04:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU summit with western Balkan leaders to reaffirm membership prospects",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
+      "published_date": "2026-06-05T04:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU seeking ways to speed up Western Balkans membership",
       "source": "Deutsche Welle",
@@ -74,74 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nach langem Stillstand: EU bereitet Beitrittsgespräche mit Ukraine und Moldau vor",
+      "title": "North Korea quietly ramps up its nuclear program",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T13:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran at war: Stability masks deepening crises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-at-war-stability-masks-deepening-crises/a-77436037?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T13:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Die Grenzen des Kriegs verschwimmen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/04/eu-bereitet-beitrittsgespraeche-mit-ukraine-und-moldau-vor",
-      "published_date": "2026-06-03T23:30:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-06/krieg-ukraine-russland-drohnen-angriff-rumaenien",
+      "published_date": "2026-06-05T12:31:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europäische Union: EU will Beitrittsgespräche mit der Ukraine und Moldau beginnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-moldau-eu-ungarn-beitritt-gespraeche",
-      "published_date": "2026-06-03T22:56:51+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East: UN doubles Lebanon aid appeal amid Israel war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-un-doubles-lebanon-aid-appeal-amid-israel-war/live-77434702?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T11:39:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN-Sicherheitsrat: Grüne kritisieren Merz und Wadephul nach Scheitern bei UN-Wahl",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/un-wahl-cdu-friedrich-merz-johann-wadephul-gruene",
-      "published_date": "2026-06-03T21:50:15+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine: Marine drone explodes in Romanian port",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-marine-drone-explodes-in-romanian-port/live-77428478?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T11:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU aims to ensure foreign governments or firms cannot disrupt tech services with ‘kill switch’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/eu-commission-foreign-providers-kill-switch-disrupt-tech-europe",
-      "published_date": "2026-06-03T17:04:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How companies in Europe are struggling to recruit workers from outside the EU",
+      "title": "Nazi party records released online shatter German family myths",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260603/how-companies-in-europe-are-struggling-to-recruit-workers-from-outside-the-eu",
-      "published_date": "2026-06-03T12:49:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260605/nazi-party-records-released-online-shatter-german-family-myths",
+      "published_date": "2026-06-05T06:56:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
+      "title": "‘You can stop your war’: Zelenskyy’s open letter to Putin – in full",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
-      "published_date": "2026-06-03T10:41:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/05/volodymyr-zelenskyy-open-letter-to-putin-full-text-russia-ukraine-war",
+      "published_date": "2026-06-05T01:53:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "David Cameron offered Boris Johnson senior cabinet role if he agreed not to push for Brexit",
+      "title": "Ukraine war briefing: Ukrainian men should be turned back from EU to fight, says Swedish minister",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/03/david-cameron-boris-johnson-senior-cabinet-role-agreed-not-to-push-brexit",
-      "published_date": "2026-06-03T09:10:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/05/ukraine-war-briefing-ukrainian-men-should-be-turned-back-from-eu-to-fight",
+      "published_date": "2026-06-05T01:49:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia's election offers a choice between Russia and EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T08:36:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia's election offers a choice between Russia and EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-03T08:36:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj warnt vor nächstem russischen Großangriff",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-06-02T23:35:40+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+      "published_date": "2026-06-05T00:39:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Mali junta offers $3.5M reward for Sahel al-Qaeda leader",
@@ -221,72 +284,16 @@
       "category": "Military"
     },
     {
-      "title": "Nachbarschaftsdisput: Magyar: Ungarn einigt sich mit Ukraine in Minderheitenfrage",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/04/magyar-ungarn-einigt-sich-mit-ukraine-in-minderheitenfrage",
-      "published_date": "2026-06-03T23:14:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK Royal Navy helicopter crash leaves 3 dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-royal-navy-helicopter-crash-leaves-3-dead/a-77410741?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T16:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taliban and Russia cozy up to each other — why?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taliban-and-russia-cozy-up-to-each-other-why/a-77409479?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T14:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taliban, Russia are cozying up to each other — why?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T14:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Robert Koch-Institut: Mehr als jeder dritte Erwachsene hat Schlafprobleme",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesundheit/2026-06/rki-schlafprobleme-erwachsene-pandemie",
-      "published_date": "2026-06-03T14:13:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Google mosquito army: Scientists say 'we must take action'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/google-mosquito-army-scientists-say-we-must-take-action/a-77390494?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T13:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine drones hit Saint Petersburg as economic forum starts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-drones-hit-saint-petersburg-as-economic-forum-starts/a-77400574?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T09:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes St Petersburg oil refinery – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/03/ukraine-strikes-st-petersburg-oil-refinery-video",
-      "published_date": "2026-06-03T08:58:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The EU should fast-track Ukraine’s membership of the club – it has the most to gain | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/commentisfree/2026/jun/03/eu-ukraine-membership-peace-deal",
-      "published_date": "2026-06-03T04:00:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Stuck on oil: Can Hawaii power itself?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/stuck-on-oil-can-hawaii-power-itself/a-76967079?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-04T10:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Can Hawaii wean itself of oil imports?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-hawaii-wean-itself-of-oil-imports/a-76967079?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-04T10:54:00+00:00",
       "category": "Energy"
     },
@@ -354,18 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Experts: Germany's progress on climate goals insufficient",
+      "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/experts-germany-s-progress-on-climate-goals-insufficient/a-77306041?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-05-29T11:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Experts: Germany's progress on climate goals insufficient",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/experts-germany-s-progress-on-climate-goals-insufficient/a-77306041?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-05-29T11:30:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T13:19:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "When can residents deduct the cost of German courses from taxes?",
@@ -501,11 +501,88 @@
       "category": "Economy"
     },
     {
-      "title": "EasyJet is an obvious takeover target, but US approach may not be a flyer | Nils Pratley",
+      "title": "Demonstration: Wegner mit eigenem Truck beim CSD in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/05/wegner-mit-eigenem-truck-beim-csd-in-berlin",
+      "published_date": "2026-06-05T13:39:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CDU und CSU: Gemeinsam einsam",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/25/cdu-csu-friedrich-merz-markus-soeder-autoritaet-umfragewerte",
+      "published_date": "2026-06-05T13:39:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ironman-EM: Philipp will in Hamburg erneut triumphieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/05/philipp-will-in-hamburg-erneut-triumphieren",
+      "published_date": "2026-06-05T13:38:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dua Lipa and Callum Turner wedding divides Palermo: ‘I could understand if it was for the pope’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/01/easyjet-takeover-target-castlelake-nils-pratley-may-not-be-a-flyer",
-      "published_date": "2026-06-01T17:27:42+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
+      "published_date": "2026-06-05T12:15:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slovenia's political survivor Janez Jansa is back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/slovenia-s-political-survivor-janez-jansa-is-back/a-77433779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T11:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slovenia's political survivor Janez Jansa is back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/slovenia-s-political-survivor-janez-jansa-is-back/a-77433779?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-05T11:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environment wins of the week",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/environment-wins-of-the-week/a-77433661?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Average Berlin rents up by almost 7 percent since 2024",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260605/average-berlin-rents-up-by-almost-7-percent-since-2024",
+      "published_date": "2026-06-05T09:13:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘They are disturbing the dead’: reconstructing the site of the forgotten first genocide of the 20th century",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/05/namibia-shark-island-herero-nama-genocide-fractured-lifeworlds-spore-initiative-berlin-forensic",
+      "published_date": "2026-06-05T09:03:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German serial killer found guilty of murder of French schoolboy",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260605/german-serial-killer-found-guilty-of-murder-of-french-schoolboy",
+      "published_date": "2026-06-05T06:51:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260605/today-in-germany-a-roundup-of-the-latest-news-on-friday-125",
+      "published_date": "2026-06-05T06:27:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch police arrest 4 men over drugging, rape of partners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dutch-police-arrest-4-men-over-drugging-rape-of-partners/a-77427504?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T01:36:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "German asylum benefits cuts violate EU law, top court rules",
@@ -561,90 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/grim-mood-in-berlin-after-germany-loses-security-council-bid/a-77420221?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-04T11:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s far right exploit Nowak murder with populist rhetoric on race",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/04/polish-far-right-nowak-britain-descent-depths-earth",
-      "published_date": "2026-06-04T11:10:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Delhi orders fire safety crackdown after deadly hotel fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-delhi-orders-fire-safety-crackdown-after-deadly-hotel-fire/live-77415899?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T07:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260604/today-in-germany-a-roundup-of-the-latest-news-on-thursday-121",
-      "published_date": "2026-06-04T06:16:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jean-Pascal Hohm: Chef der AfD-Jugendorganisation kandidiert für Bundesvorstand",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/jean-pascal-hohm-afd-parteitag-bundesvorstand-kandidatur",
-      "published_date": "2026-06-03T23:55:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kultur und Ausblick: Hier bekommt man überraschende Perspektiven auf Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/04/hier-bekommt-man-ueberraschende-perspektiven-auf-frankfurt",
-      "published_date": "2026-06-03T23:42:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSU: Manfred Weber bestreitet Führungsdebatte um CSU-Chef Markus Söder",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/manfred-weber-markus-soeder-csu-pfingstbrief",
-      "published_date": "2026-06-03T21:49:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany loses vote for UN Security Council seat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-loses-vote-for-un-security-council-seat/a-77409955?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-03T17:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany loses vote for UN Security Council seat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-loses-vote-for-un-security-council-seat/a-77409955?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T17:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reformen: Länder-Einwände gegen Sparpaket - Protest von Hausärzten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/03/hausaerzte-machen-gegen-spargesetz-mobil",
-      "published_date": "2026-06-03T15:22:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the death of Yves Sakila exposes Ireland’s deeply rooted racism problem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jun/03/yves-sakila-death-ireland-deeply-rooted-racism-problem",
-      "published_date": "2026-06-03T12:41:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four migrant workers reportedly burned alive in their car in attack in Italy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
-      "published_date": "2026-06-03T12:18:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cologne Cathedral to charge tourists €12 for entry",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260603/cologne-cathedral-to-charge-tourists-e12-for-entry",
-      "published_date": "2026-06-03T10:02:28+00:00",
       "category": "Local Events"
     }
   ]
