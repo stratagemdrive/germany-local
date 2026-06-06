@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-05T13:50:26.604254+00:00",
+  "last_updated": "2026-06-06T00:00:15.140173+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "Verband der Familienunternehmer: Unternehmerverband fordert von Bundestag Verzicht auf Sommerpause",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/sommerpause-bundestag-familienunternehmer-reformen-unternehmen",
+      "published_date": "2026-06-05T23:50:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bundestag: Linke kritisiert Altersbezüge von Abgeordneten als zu hoch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundestag-abgeordnete-altersversorgung-die-linke-kritik",
+      "published_date": "2026-06-05T23:07:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Beziehungen EU-Russland: Vieraugengespräch im Kreml: Schröders Rolle weiter offen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/05/kreml-putin-traf-schroeder-zu-vieraugengespraech",
+      "published_date": "2026-06-05T20:31:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders at Balkan summit optimistic about rapid expansion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-at-balkan-summit-optimistic-about-rapid-expansion/a-77432224?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T19:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU must prove it is capable and willing to take in new members, leaders say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/eu-new-members-bloc-leaders-summit-enlargement",
+      "published_date": "2026-06-05T15:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kosovo general election: the cost of political polarization",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T14:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kosovo general election: the cost of political polarization",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-05T14:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than a quarter of UK musicians lost all EU work since 2021, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jun/05/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
+      "published_date": "2026-06-05T13:52:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
       "source": "The Guardian",
@@ -88,60 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's UN defeat: What went wrong?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-un-defeat-what-went-wrong/a-77420221?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-04T11:51:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's UN defeat: What went wrong?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-un-defeat-what-went-wrong/a-77420221?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T11:51:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU concerns grow over Albania's Trump-linked megaproject",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-concerns-grow-over-albania-s-trump-linked-megaproject/a-77409540?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T09:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU concerns grow over Albania's Trump-linked megaproject",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-concerns-grow-over-albania-s-trump-linked-megaproject/a-77409540?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-04T09:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kushner-backed Albania resort sparks protests, EU concerns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kushner-backed-albania-resort-sparks-protests-eu-concerns/a-77409540?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T09:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kushner-backed Albania resort sparks protests, EU concerns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kushner-backed-albania-resort-sparks-protests-eu-concerns/a-77409540?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-04T09:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany shut out of UN Security Council in diplomatic blow",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260604/germany-shut-out-of-un-security-council-in-diplomatic-blow",
-      "published_date": "2026-06-04T07:55:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine moves closer to EU accession after Hungary deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-moves-closer-to-eu-accession-after-hungary-deal/a-77414375?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T06:23:00+00:00",
-      "category": "Diplomacy"
+      "title": "Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
+      "published_date": "2026-06-05T17:59:01+00:00",
+      "category": "Military"
     },
     {
       "title": "North Korea quietly ramps up its nuclear program",
@@ -274,13 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/04/ukraine-war-briefing-russia-losing-on-the-ground-so-pivots-to-air-war-say-analysts",
       "published_date": "2026-06-04T01:00:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War Powers Resolution: Repräsentantenhaus stimmt für Grenzen von Trumps Macht im Irankrieg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/donald-trump-usa-repraesentantenhaus-irankrieg",
-      "published_date": "2026-06-03T23:56:23+00:00",
       "category": "Military"
     },
     {
@@ -501,6 +501,27 @@
       "category": "Economy"
     },
     {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/05/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-06-05T18:49:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finland: 4 suspects in sabotage of undersea cable link with Estonia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/finland-4-suspects-in-sabotage-of-undersea-cable-link-with-estonia/a-77440069?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T17:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia: An election without a real challenge?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ethiopia-an-election-without-a-real-challenge/a-77435414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-05T15:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Demonstration: Wegner mit eigenem Truck beim CSD in Berlin",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/05/wegner-mit-eigenem-truck-beim-csd-in-berlin",
@@ -617,27 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-lufthansa-plane-suffers-nose-gear-collapse/a-77423104?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-04T13:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Failure to win seat on UN security council prompts German soul-searching",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/04/failure-to-win-seat-un-security-council-germany-friedrich-merz",
-      "published_date": "2026-06-04T13:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grim mood in Berlin after Germany loses Security Council bid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/grim-mood-in-berlin-after-germany-loses-security-council-bid/a-77420221?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-04T11:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grim mood in Berlin after Germany loses Security Council bid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/grim-mood-in-berlin-after-germany-loses-security-council-bid/a-77420221?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T11:51:00+00:00",
       "category": "Local Events"
     }
   ]
