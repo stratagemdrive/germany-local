@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-06T23:57:12.396411+00:00",
+  "last_updated": "2026-06-07T12:17:41.014359+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "More than a million people join Pope Leo for outdoor mass in Madrid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+      "published_date": "2026-06-07T10:20:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+      "published_date": "2026-06-07T09:56:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Far-right AfD makes push in district elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T07:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: CJP demands minister's removal in seven days",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cjp-demands-minister-s-removal-in-seven-days/live-77447573?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T07:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, once Russia's reliable ally, considers an EU future",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-once-russia-s-reliable-ally-considers-an-eu-future/a-77400608?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T06:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, once Russia's reliable ally, considers an EU future",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-once-russia-s-reliable-ally-considers-an-eu-future/a-77400608?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-07T06:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia goes to polls, with Russia and EU looking on",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-goes-to-polls-with-russia-and-eu-looking-on/a-77447079?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T06:10:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gender Pay Gap: Deutschland bricht bei Entgelttransparenz EU-Recht",
       "source": "ZEIT Online",
@@ -88,60 +137,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU must prove it is capable and willing to take in new members, leaders say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/eu-new-members-bloc-leaders-summit-enlargement",
-      "published_date": "2026-06-05T15:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kosovo general election: the cost of political polarization",
+      "title": "Germany's Iran war lessons after 100 days",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T14:55:00+00:00",
+      "url": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-05T18:15:00+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Kosovo general election: the cost of political polarization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-05T14:55:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Successive elections take a hit on Kosovo's coffers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/successive-elections-take-a-hit-on-kosovo-s-coffers/a-77390725?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T14:55:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Successive elections take a hit on Kosovo's coffers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/successive-elections-take-a-hit-on-kosovo-s-coffers/a-77390725?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-05T14:55:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "More than a quarter of UK musicians lost all EU work since 2021, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/05/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
-      "published_date": "2026-06-05T13:52:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/uk-eu-reset-summit-july-delay-speculation",
-      "published_date": "2026-06-05T13:35:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU-Rückführungsverordnung: Migrationsforscher warnen vor »Rückführungen um jeden Preis«",
+      "title": "Krieg in der Ukraine: Russische Drohne trifft Atommülllager nahe Tschernobyl",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/eu-rueckfuehrungsverordnung-sachverstaendigenrat-winfried-kluth",
-      "published_date": "2026-06-05T13:19:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-06/russland-ukraine-krieg-tschernobyl-drohnenangriff-kernenergie",
+      "published_date": "2026-06-07T12:03:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russian drone hits nuclear-fuel storage facility",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russian-drone-hits-nuclear-fuel-storage-facility/a-77448846?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T10:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air-raid alerts and frontline memoirs: Kyiv hosts literary festival amid war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/kyiv-hosts-literary-festival-amid-ukraine-war-book-arsenal",
+      "published_date": "2026-06-07T09:00:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Shaky Israel-Hezbollah ceasefire tested",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-shaky-israel-hezbollah-ceasefire-tested/live-77442602?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T07:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea says nuclear program 'absolutely nonnegotiable'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-says-nuclear-program-absolutely-nonnegotiable/a-77446889?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T01:16:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Ukraine setzt Drohnenangriffe auf Sankt Petersburg fort",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Marine drone explodes in Romanian port",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-marine-drone-explodes-in-romanian-port/live-77428478?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T11:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nazi party records released online shatter German family myths",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260605/nazi-party-records-released-online-shatter-german-family-myths",
-      "published_date": "2026-06-05T06:56:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘You can stop your war’: Zelenskyy’s open letter to Putin – in full",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/volodymyr-zelenskyy-open-letter-to-putin-full-text-russia-ukraine-war",
-      "published_date": "2026-06-05T01:53:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Ukrainian men should be turned back from EU to fight, says Swedish minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/ukraine-war-briefing-ukrainian-men-should-be-turned-back-from-eu-to-fight",
-      "published_date": "2026-06-05T01:49:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
-      "published_date": "2026-06-05T00:39:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gaza: Robert Habeck kritisiert israelische Kriegsführung deutlich",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-06/robert-habeck-israel-gaza-siedlergewalt-netanjahu-das-politikteil",
@@ -359,6 +359,13 @@
       "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
       "published_date": "2026-06-01T07:17:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
+      "published_date": "2026-06-07T06:00:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
@@ -494,11 +501,116 @@
       "category": "Economy"
     },
     {
-      "title": "Alphabet plans $80 billion stock sale as AI spending surges",
+      "title": "City Chicken: Fast wie die Aldi-Brüder, nur mit Chicken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/25/city-chicken-berlin-sonnenallee",
+      "published_date": "2026-06-07T12:07:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angriff auf Polizisten: Wirbel um Festnahme in Berlin-Friedrichshain",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/07/wirbel-um-festnahme-in-berlin-kreuzberg",
+      "published_date": "2026-06-07T11:58:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Auslosung: DFB-Pokal: Frankfurt in Tönis - SVWW gegen Leverkusen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/07/dfb-pokal-frankfurt-in-toenis-svww-gegen-leverkusen",
+      "published_date": "2026-06-07T11:47:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Streit eskaliert: Mann schießt mit scharfer Waffe in Hamburg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/07/mann-schiesst-mit-scharfer-waffe-in-hamburg",
+      "published_date": "2026-06-07T11:46:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Görli is our garden’: Berliners fight to stop mayor locking their park at night",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/gorlitzer-park-berlin-fight-germany-mayor",
+      "published_date": "2026-06-07T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru votes for new president — for ninth time in 10 years",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/alphabet-plans-80-billion-stock-sale-as-ai-spending-surges/a-77383080?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-01T22:05:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/peru-votes-for-new-president-for-ninth-time-in-10-years/a-77448140?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T08:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo holds third election in 16 months",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo holds third election in 16 months",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-07T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Racist mindsets’: Congolese in Ireland feel fear in wake of Yves Sakila’s death",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/ireland-yves-sakila-death-africans-fear",
+      "published_date": "2026-06-07T08:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German hospital discharges US doctor who contracted Ebola",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260607/german-hospital-discharges-us-doctor-who-contracted-ebola",
+      "published_date": "2026-06-07T06:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia's election results will likely confirm status quo",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ethiopia-s-election-results-will-likely-confirm-status-quo/a-77435414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T06:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Potsdam bans smart glasses at swimming pools amid privacy fears in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260607/potsdam-bans-smart-glasses-at-swimming-pools-amid-privacy-fears-in-germany",
+      "published_date": "2026-06-07T06:27:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris frozen in time in May 1970 – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/07/paris-frozen-in-time-in-may-1970-in-pictures",
+      "published_date": "2026-06-07T06:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milo Rau turned tribunals into theatre. Now his own moral judgement is on trial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/jun/07/milo-rau-turned-tribunals-into-theatre-now-his-own-moral-judgement-is-on-trial",
+      "published_date": "2026-06-07T04:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: 12 injured after shooting near festival in Ohio, police hunt suspects",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-12-injured-after-shooting-near-festival-in-ohio-police-hunt-suspects/a-77447036?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T03:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
+      "published_date": "2026-06-07T01:11:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bernadette Chirac, formidable former first lady of France, dies aged 93",
@@ -526,118 +638,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/06/peters-als-cdu-chef-in-mv-bestaetigt",
       "published_date": "2026-06-06T11:44:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ärger am Frühstücksbuffet: Aktivisten servieren der AfD Hakenkreuz aus veganem Hack",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/06/aktivisten-servieren-der-afd-hakenkreuz-aus-veganem-hack",
-      "published_date": "2026-06-06T11:40:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Teen Karl to miss World Cup through injury",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-teen-karl-to-miss-world-cup-through-injury/live-77443232?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T11:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Africa exception: the slavery reparations debate was once ‘unthinkable’. Now it is unavoidable",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jun/06/africa-exception-slavery-reparations-african-union-justice",
-      "published_date": "2026-06-06T11:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the adult Swedish prison preparing to house children as young as 13",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/sweden-prisons-children-gang-crime",
-      "published_date": "2026-06-06T09:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man killed in shark attack off Western Australia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/man-killed-in-shark-attack-off-western-australia/a-77443832?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T08:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Getting ready for the World Cup and the foreigners choosing to leave",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260606/inside-germany-getting-ready-for-the-world-cup-and-the-foreigners-choosing-to-leave",
-      "published_date": "2026-06-06T07:45:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 'Cockroach' party holds protest at Jantar Mantar",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroach-party-holds-protest-at-jantar-mantar/live-77443229?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fujimori or Sanchez? Peru vote marks 10 years of turmoil",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fujimori-or-sanchez-peru-vote-marks-10-years-of-turmoil/a-77420777?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T06:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How campaigners beat industrial farming in Denmark’s ‘pig election’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/industrial-farming-denmark-pig-election",
-      "published_date": "2026-06-06T04:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/05/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-06-05T18:49:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finland: 4 suspects in sabotage of undersea cable link with Estonia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/finland-4-suspects-in-sabotage-of-undersea-cable-link-with-estonia/a-77440069?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T17:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia: An election without a real challenge?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-an-election-without-a-real-challenge/a-77435414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T15:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demonstration: Wegner mit eigenem Truck beim CSD in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/05/wegner-mit-eigenem-truck-beim-csd-in-berlin",
-      "published_date": "2026-06-05T13:39:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU und CSU: Gemeinsam einsam",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/25/cdu-csu-friedrich-merz-markus-soeder-autoritaet-umfragewerte",
-      "published_date": "2026-06-05T13:39:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ironman-EM: Philipp will in Hamburg erneut triumphieren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/05/philipp-will-in-hamburg-erneut-triumphieren",
-      "published_date": "2026-06-05T13:38:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua Lipa and Callum Turner wedding divides Palermo: ‘I could understand if it was for the pope’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
-      "published_date": "2026-06-05T12:15:08+00:00",
       "category": "Local Events"
     }
   ]
