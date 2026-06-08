@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-07T12:17:41.014359+00:00",
+  "last_updated": "2026-06-08T00:00:24.304049+00:00",
   "story_count": 91,
   "stories": [
     {
@@ -21,6 +21,13 @@
       "title": "Germany news: Far-right AfD makes push in district elections",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T07:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Munich airport briefly suspends flights due to smell of smoke",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-munich-airport-briefly-suspends-flights-due-to-smell-of-smoke/live-77443232?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-07T07:57:00+00:00",
       "category": "Diplomacy"
     },
@@ -137,11 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Iran war lessons after 100 days",
+      "title": "Ukraine-Gipfel in London: Europäer und Ukraine fordern Putin zu Verhandlungen auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/07/ukraine-krieg-europaeer-draengen-an-den-verhandlungstisch",
+      "published_date": "2026-06-07T23:01:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "SIPRI: With peace elusive, nuclear weapons make a comeback",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-05T18:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T22:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Festival: Von Moshpits bis «Wattwanderung» – so war Rock am Ring 2026",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/07/fans-schimpfen-ueber-toiletten-und-duschen-bei-rock-am-ring",
+      "published_date": "2026-06-07T21:58:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy discusses ‘urgent need to scale up’ air defences with key allies in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+      "published_date": "2026-06-07T21:50:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flughafen München: Münchner Flughafen nimmt Betrieb nach Feueralarm wieder auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/flughafen-muenchen-betrieb-eingestellt-feuer-polizei",
+      "published_date": "2026-06-07T20:10:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has Zelenskyy forfeited an honor — and Poland's sympathy?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T19:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has Zelenskyy forfeited an honor — and Poland's sympathy?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-07T19:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reports: Iran uses war as cover for increased executions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/reports-iran-uses-war-as-cover-for-increased-executions/a-77451822?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T19:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+      "published_date": "2026-06-07T19:01:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria: 360 people freed from Boko Haram mountain hideout",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T15:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/pete-hegseth-d-day-speech-immigration-grotesque-stupidity",
+      "published_date": "2026-06-07T12:22:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg in der Ukraine: Russische Drohne trifft Atommülllager nahe Tschernobyl",
@@ -204,83 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/hunger-in-oleshky-ukraine-asks-for-evacuation/a-77395744?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-06T13:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hunger in Oleshky: Ukraine asks for evacuation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hunger-in-oleshky-ukraine-asks-for-evacuation/a-77395744?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-06T13:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drohnenangriffe auf St. Petersburg: Ukraine greift St. Petersburg mit Kampfdrohnen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/drohnenangriffe-sankt-petersburg-ukraine-russland-gxe",
-      "published_date": "2026-06-06T11:52:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France: Veterans mark 82th anniversary of D-Day in Normandy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-veterans-mark-82th-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France: Veterans mark 82nd anniversary of D-Day in Normandy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-veterans-mark-82nd-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehrtag: Pistorius lobt Bürgerinteresse bei Bundeswehr-Tag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/06/pistorius-lobt-buergerinteresse-bei-bundeswehr-tag",
-      "published_date": "2026-06-06T11:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin says ‘no point’ meeting Zelenskyy, insists Russia will win the war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ukraine-war-briefing-putin-says-no-point-meeting-zelenskyy-insists-russia-will-win-the-war",
-      "published_date": "2026-06-06T01:33:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
-      "published_date": "2026-06-05T17:59:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea quietly ramps up its nuclear program",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T13:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran at war: Stability masks deepening crises",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-at-war-stability-masks-deepening-crises/a-77436037?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T13:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Die Grenzen des Kriegs verschwimmen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/krieg-ukraine-russland-drohnen-angriff-rumaenien",
-      "published_date": "2026-06-05T12:31:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: UN doubles Lebanon aid appeal amid Israel war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-un-doubles-lebanon-aid-appeal-amid-israel-war/live-77434702?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T11:39:00+00:00",
       "category": "Military"
     },
     {
@@ -359,6 +359,20 @@
       "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
       "published_date": "2026-06-01T07:17:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Kosovo PM wins snap vote, but with no majority",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-pm-wins-snap-vote-but-with-no-majority/a-77447536?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T23:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Kosovo PM wins snap vote, but with no majority",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-pm-wins-snap-vote-but-with-no-majority/a-77447536?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-07T23:45:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
@@ -487,18 +501,74 @@
       "category": "Economy"
     },
     {
-      "title": "Alternative for Germany members attend Russia meeting despite criticism",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260602/alternative-for-germany-members-attend-russia-meeting-despite-criticism",
-      "published_date": "2026-06-02T14:41:36+00:00",
-      "category": "Economy"
+      "title": "Rentenreform: Abgeordnete sollten laut Miersch in die Rentenversicherung einzahlen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/reformplaene-rente-miersch-bas",
+      "published_date": "2026-06-07T23:48:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
+      "title": "Armenia election: Prime Minister Pashinyan declares victory",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-election-prime-minister-pashinyan-declares-victory/a-77447079?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T23:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenbahnstraße: Ein Schwerverletzter auf Eisenbahnstraße in Leipzig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/07/ein-schwerverletzter-auf-eisenbahnstrasse-in-leipzig",
+      "published_date": "2026-06-07T23:29:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saalekreis in Sachsen-Anhalt: AfD-Politiker zieht als Sieger in Stichwahl um Landratsposten ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/saalekreis-landratswahlen-afd-stichwahl-saalfeld-rudolstadt-ostprignitz-ruppin",
+      "published_date": "2026-06-07T21:36:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German political rivals revive 'pizza connection'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-political-rivals-revive-pizza-connection/a-77395073?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-07T17:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German political rivals revive 'pizza connection'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-political-rivals-revive-pizza-connection/a-77395073?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T17:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the French presidential election campaign: only the far right will profit from division | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
-      "published_date": "2026-06-02T05:00:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/07/the-guardian-view-on-the-french-presidential-election-campaign-only-the-far-right-will-profit-from-division",
+      "published_date": "2026-06-07T16:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+      "published_date": "2026-06-07T15:48:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden mulls prison for young teens as violent crime rises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-mulls-prison-for-young-teens-as-violent-crime-rises/a-77435410?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-07T13:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden mulls prison for young teens as violent crime rises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-mulls-prison-for-young-teens-as-violent-crime-rises/a-77435410?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-07T13:50:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "City Chicken: Fast wie die Aldi-Brüder, nur mit Chicken",
@@ -568,76 +638,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260607/german-hospital-discharges-us-doctor-who-contracted-ebola",
       "published_date": "2026-06-07T06:49:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia's election results will likely confirm status quo",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-s-election-results-will-likely-confirm-status-quo/a-77435414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T06:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Potsdam bans smart glasses at swimming pools amid privacy fears in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260607/potsdam-bans-smart-glasses-at-swimming-pools-amid-privacy-fears-in-germany",
-      "published_date": "2026-06-07T06:27:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris frozen in time in May 1970 – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/07/paris-frozen-in-time-in-may-1970-in-pictures",
-      "published_date": "2026-06-07T06:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milo Rau turned tribunals into theatre. Now his own moral judgement is on trial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/jun/07/milo-rau-turned-tribunals-into-theatre-now-his-own-moral-judgement-is-on-trial",
-      "published_date": "2026-06-07T04:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: 12 injured after shooting near festival in Ohio, police hunt suspects",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-12-injured-after-shooting-near-festival-in-ohio-police-hunt-suspects/a-77447036?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T03:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
-      "published_date": "2026-06-07T01:11:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Chirac, formidable former first lady of France, dies aged 93",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/bernadette-chirac-former-first-lady-france-dies",
-      "published_date": "2026-06-06T21:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: 6 more charged after violent protest over stabbing death",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-6-more-charged-after-violent-protest-over-stabbing-death/a-77446210?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T19:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wolf that bit woman in German mall likely dead, authorities say",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260606/wolf-that-bit-woman-in-german-mall-likely-dead-authorities-say",
-      "published_date": "2026-06-06T13:17:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU im Wahlkampfmodus: Peters als CDU-Chef in MV bestätigt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/06/peters-als-cdu-chef-in-mv-bestaetigt",
-      "published_date": "2026-06-06T11:44:31+00:00",
       "category": "Local Events"
     }
   ]
