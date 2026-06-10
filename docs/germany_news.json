@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-09T13:40:39.061692+00:00",
+  "last_updated": "2026-06-10T00:05:25.576329+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T17:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-09T17:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU: Youth involvement in synthetic opioids smuggling rises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-youth-involvement-in-synthetic-opioids-smuggling-rises/a-77478901?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T17:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tourism chiefs and European ferry ports sound alarm over summer border chaos",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260609/tourism-chiefs-and-european-ferry-ports-sound-alarm-over-summer-border-chaos",
+      "published_date": "2026-06-09T15:24:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
+      "published_date": "2026-06-09T15:12:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany and France abandon joint fighter jet project",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260609/germany-and-france-abandon-joint-fighter-jet-project",
+      "published_date": "2026-06-09T08:03:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France and Germany abandon joint project to build European fighter jet",
       "source": "The Guardian",
@@ -102,51 +144,58 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Friedrich Merz: Und dann sagt Merz doch tatsächlich: »Wir schaffen das«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/cdu-mecklenburg-vorpommern-landesparteitag-wahlkampf-friedrich-merz",
-      "published_date": "2026-06-06T18:26:08+00:00",
-      "category": "Diplomacy"
+      "title": "US strikes Iran in response to helicopter shootdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-strikes-iran-in-response-to-helicopter-shootdown/live-77467866?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T22:40:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
+      "title": "Will Israel's troops take over more of southern Lebanon?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-israel-s-troops-take-over-more-of-southern-lebanon/a-77478170?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T17:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy: Putin is ‘playing games’ with Trump – podcast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-      "published_date": "2026-06-06T17:54:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/audio/2026/jun/09/zelenskyy-putin-is-playing-games-with-trump-podcast",
+      "published_date": "2026-06-09T15:50:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pope Leo calls for leaders to reject polarisation as he begins Spanish tour",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/pope-leo-xiv-spain-tour-madrid-catholic-church",
-      "published_date": "2026-06-06T15:54:05+00:00",
-      "category": "Diplomacy"
+      "title": "Peace Report: Are modern warlords in power?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/peace-report-are-modern-warlords-in-power/a-77478186?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-09T15:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Delegiertentreffen: Weidel nennt Merz erneut «Lügenkanzler»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/06/weidel-nennt-merz-erneut-luegenkanzler",
-      "published_date": "2026-06-06T11:49:35+00:00",
-      "category": "Diplomacy"
+      "title": "Peace Report: Are modern warlords in power?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/peace-report-are-modern-warlords-in-power/a-77478186?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T15:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sozialreformen: Friedrich Merz fordert Sozialpartner zu Reformvorschlägen auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/friedrich-merz-cdu-sozialreformen-kompromiss-spd",
-      "published_date": "2026-06-06T11:47:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-      "published_date": "2026-06-06T09:00:05+00:00",
-      "category": "Diplomacy"
+      "title": "US-Israel: What are the allegations of espionage all about?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-israel-what-are-the-allegations-of-espionage-all-about/a-77475139?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T15:05:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranians struggle to buy food as war drives up prices",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iranians-struggle-to-buy-food-as-war-drives-up-prices/a-77475037?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T13:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's shelves are full, but wallets are empty. As war drives prices up, Tehran residents say food is slipping out of reach.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-s-shelves-are-full-but-wallets-are-empty-as-war-drives-prices-up-tehran-residents-say-food-is-slipping-out-of-reach/a-77475037?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-09T13:11:00+00:00",
       "category": "Military"
     },
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Pro-western but populist: how Nikol Pashinyan retained power in Armenia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/pro-western-populist-nikol-pashinyan-retained-power-armenia",
-      "published_date": "2026-06-08T09:05:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK, Germany, France back ceasefire talks between Ukraine and Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-germany-france-back-ceasefire-talks-between-ukraine-and-russia/a-77448846?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T02:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East updates: Iran declares end to attacks on Israel",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-updates-iran-declares-end-to-attacks-on-israel/live-77452499?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T01:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy says he met Roman Abramovich in Kyiv in backchannel to Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/ukraine-war-briefing-zelenskyy-roman-abramovich-kyiv-meeting-putin-message",
-      "published_date": "2026-06-08T01:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Gipfel in London: Europäer und Ukraine fordern Putin zu Verhandlungen auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/07/ukraine-krieg-europaeer-draengen-an-den-verhandlungstisch",
-      "published_date": "2026-06-07T23:01:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SIPRI: With peace elusive, nuclear weapons make a comeback",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T22:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Festival: Von Moshpits bis «Wattwanderung» – so war Rock am Ring 2026",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/07/fans-schimpfen-ueber-toiletten-und-duschen-bei-rock-am-ring",
-      "published_date": "2026-06-07T21:58:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Time and Water review – Iceland’s doomed glacier tells its own story of climate disaster",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
@@ -352,6 +352,13 @@
       "url": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
       "published_date": "2026-06-03T09:19:44+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Fußball: José Mourinho kehrt als Trainer zu Real Madrid zurück",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/deutschland/2026-06/fussball-spanien-jose-mourinho-trainer-real-madrid-benfica-lissabon",
+      "published_date": "2026-06-09T23:51:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tourismusstrategie: Saar Pass startet – mehr als 100 Angebote für 69 Euro",
@@ -487,17 +494,94 @@
       "category": "Economy"
     },
     {
-      "title": "UK to challenge EU over ‘devastating’ plans to almost halve tariff-free steel import quotas",
+      "title": "Spargelfahrt der Seeheimer: Söder, Linnemann und Gewerkschaften bei Bootstour der SPD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/bundesregierung-seeheimer-kreis-reformen-lars-klingbeil-markus-soeder-carsten-linnemann",
+      "published_date": "2026-06-09T23:19:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T21:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-09T21:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghanistan: Taliban open fire during hijab protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghanistan-taliban-open-fire-during-hijab-protest/a-77480609?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T19:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawyer for murdered French girl’s family calls for more justice system funding",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas",
-      "published_date": "2026-06-04T08:27:42+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/09/lyhanna-lawyer-france-justice-system-funding",
+      "published_date": "2026-06-09T18:40:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the pope a Real Madrid fan? Leo’s admission upsets Barcelona faithful",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/09/pope-leo-real-madrid-barcelona-fans-spain",
+      "published_date": "2026-06-09T15:55:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig Bachfest 2026: Bach's music as hit parade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/leipzig-bachfest-2026-bach-s-music-as-hit-parade/a-77477113?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T15:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa migration crisis: Ramaphosa's plan faces doubt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-migration-crisis-ramaphosa-s-plan-faces-doubt/a-77474996?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T15:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jersey teenage politician congratulated by Trump says he is not a fan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/09/student-elected-jersey-parliament-congratulated-by-trump",
+      "published_date": "2026-06-09T14:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politically motivated crime hits all-time high in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260609/politically-motivated-crime-hits-all-time-high-in-germany",
+      "published_date": "2026-06-09T13:51:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dua Lipa reveals her favourite spots to visit in Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260609/dua-lipa-reveals-her-favourite-spots-to-visit-in-berlin",
+      "published_date": "2026-06-09T13:28:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Japanese city captures black bear after multi-day hunt",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/japanese-city-captures-black-bear-after-multi-day-hunt/a-77474620?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-09T13:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frankfurt airport closes Terminal 2 for major upgrade",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260609/frankfurt-airport-closes-terminal-2-for-major-upgrade",
+      "published_date": "2026-06-09T11:30:17+00:00",
       "category": "Local Events"
     },
     {
@@ -515,10 +599,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Kenya: Protester shot dead at rally against US Ebola center",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kenya-protester-shot-dead-at-rally-against-us-ebola-center/a-77469392?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T09:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘We are cheering on five teams’: how Rotterdam will turn more than orange for World Cup",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/09/rotterdam-world-cup-curacao-cape-verde-morocco-turkey-fans-dutch-city",
       "published_date": "2026-06-09T07:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260609/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-127",
+      "published_date": "2026-06-09T06:37:23+00:00",
       "category": "Local Events"
     },
     {
@@ -533,104 +631,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/09/ukraine-war-briefing-russias-peskov-admits-certain-problems-with-fuel-supplies-after-energy-sites-targeted",
       "published_date": "2026-06-09T01:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC's Karim Khan suspended over claims of sexual misconduct",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/icc-s-karim-khan-suspended-over-claims-of-sexual-misconduct/a-77467013?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T00:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rentenreform: Lars Klingbeil unterstützt verpflichtende Betriebsrente",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/arbeit/2026-06/lars-klingbeil-betriebsrente-rentenreform-deutscher-gewerkschaftsbund",
-      "published_date": "2026-06-08T23:13:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior Kinahan gang crime figure jailed for 24 years by Dublin court",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/sean-mcgovern-kinahan-crime-figure-jailed-24-years-dublin-court",
-      "published_date": "2026-06-08T14:32:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru: Presidential election too close to call",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peru-presidential-election-too-close-to-call/a-77458446?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T11:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Arson suspected in large-scale power outage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-arson-suspected-in-large-scale-power-outage/live-77453725?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T09:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Arson suspected in large-scale power outage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-arson-suspected-in-large-scale-power-outage/live-77453725?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-08T09:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is wrong with the 2026 World Cup",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-is-wrong-with-the-2026-world-cup/a-77402635?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T09:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the 2026 World Cup is so controversial",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-2026-world-cup-is-so-controversial/a-77402635?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T09:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jafar Panahi's prison sentence confirmed by Iranian court",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jafar-panahi-s-prison-sentence-confirmed-by-iranian-court/a-77456275?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T09:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungarian Premier Péter Magyar: 'Our Country Was a Hostage State'",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/europe/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
-      "published_date": "2026-06-08T08:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabotage suspected after major power outage in Reutlingen",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260608/sabotage-suspected-after-major-power-outage-in-reutlingen",
-      "published_date": "2026-06-08T08:02:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The jailing of Germany’s most wanted woman – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/08/jailing-germany-most-wanted-woman-daniela-klette-podcast",
-      "published_date": "2026-06-08T02:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East updates: Iran, Israel both declare pause in attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-updates-iran-israel-both-declare-pause-in-attacks/live-77452499?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T01:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rentenreform: Abgeordnete sollten laut Miersch in die Rentenversicherung einzahlen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/reformplaene-rente-miersch-bas",
-      "published_date": "2026-06-07T23:48:12+00:00",
       "category": "Local Events"
     }
   ]
