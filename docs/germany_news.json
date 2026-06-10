@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-10T00:05:25.576329+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-10T14:19:31.837774+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Fußballweltmeisterschaft 2026: Sportausschuss fordert Eingreifen der Fifa wegen Schiri-Abweisung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
+      "published_date": "2026-06-10T13:55:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rising cyberscam losses expose gaps in EU response",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rising-cyberscam-losses-expose-gaps-in-eu-response/a-77487321?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T11:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Only three European countries meet deadline for new pay transparency rules",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260610/only-3-countries-met-deadline-for-new-eu-pay-transparency-rules",
+      "published_date": "2026-06-10T09:12:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Only one in 10 Europeans now see US as an ally, survey suggests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
+      "published_date": "2026-06-10T04:00:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A drone alert blasted on my phone – we had to take shelter. This is the new reality on Nato’s eastern flank | Linas Kojala",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/drone-alert-blasted-phone-take-shelter-new-reality-nato",
+      "published_date": "2026-06-10T04:00:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
       "source": "Deutsche Welle",
@@ -14,6 +49,20 @@
       "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-09T17:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes entry ban for Russians who fought in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine/a-77474536?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T17:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes entry ban for Russians who fought in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine/a-77474536?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-06-09T17:14:00+00:00",
       "category": "Diplomacy"
     },
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Munich airport briefly suspends flights due to smell of smoke",
+      "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-munich-airport-briefly-suspends-flights-due-to-smell-of-smoke/live-77443232?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T07:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T08:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Munich airport briefly suspends flights due to smell of smoke",
+      "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-munich-airport-briefly-suspends-flights-due-to-smell-of-smoke/live-77443232?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-07T07:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-10T08:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "India news: CJP demands minister's removal in seven days",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cjp-demands-minister-s-removal-in-seven-days/live-77447573?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T07:13:00+00:00",
-      "category": "Diplomacy"
+      "title": "Putin and Trump are both trapped in losing battles against reality | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
+      "published_date": "2026-06-10T05:00:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia, once Russia's reliable ally, considers an EU future",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-once-russia-s-reliable-ally-considers-an-eu-future/a-77400608?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T06:58:00+00:00",
-      "category": "Diplomacy"
+      "title": "Tears and catharsis as Kyiv premieres opera about Ukrainian children abducted by Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/mothers-of-kherson-opera-kyiv-premiere-russian-abductions-children-ukraine",
+      "published_date": "2026-06-10T04:00:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia, once Russia's reliable ally, considers an EU future",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-once-russia-s-reliable-ally-considers-an-eu-future/a-77400608?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-07T06:58:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘Grandpa in a bunker’: is Putin losing control? - podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jun/10/grandpa-in-a-bunker-putin-losing-control-podcast",
+      "published_date": "2026-06-10T02:00:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia goes to polls, with Russia and EU looking on",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-goes-to-polls-with-russia-and-eu-looking-on/a-77447079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T06:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gender Pay Gap: Deutschland bricht bei Entgelttransparenz EU-Recht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/07/deutschland-bricht-bei-entgelttransparenz-eu-recht",
-      "published_date": "2026-06-06T22:05:05+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief – reports",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports",
+      "published_date": "2026-06-10T01:01:18+00:00",
+      "category": "Military"
     },
     {
       "title": "US strikes Iran in response to helicopter shootdown",
@@ -175,6 +217,20 @@
       "title": "Peace Report: Are modern warlords in power?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/peace-report-are-modern-warlords-in-power/a-77478186?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T15:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Russia to Israel to US, 'warlords' seize power — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/from-russia-to-israel-to-us-warlords-seize-power-report/a-77478186?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-09T15:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Russia to Israel to US, 'warlords' seize power — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/from-russia-to-israel-to-us-warlords-seize-power-report/a-77478186?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-09T15:08:00+00:00",
       "category": "Military"
     },
@@ -225,62 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/jun/08/volodymyr-zelenskyy-reveals-he-wants-to-invite-king-charles-on-a-state-visit-to-ukraine-video",
       "published_date": "2026-06-09T05:00:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine",
-      "published_date": "2026-06-09T05:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy: Ukraine and UK need each other in the battle against Russia – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/08/zelenskyy-ukraine-uk-need-each-other-battle-against-russia-video",
-      "published_date": "2026-06-08T19:00:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo receives standing ovation in rare papal address to Spain’s parliament – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/08/pope-leo-standing-ovation-spain-parliament-video",
-      "published_date": "2026-06-08T17:29:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope uses Spain speech to warn of global ‘spiritual and cultural crisis’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/pope-leo-xiv-spain-speech-global-spiritual-cultural-crisis",
-      "published_date": "2026-06-08T12:54:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Teacher protests in Mexico could spoil the World Cup party",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/teacher-protests-in-mexico-could-spoil-the-world-cup-party/a-77455624?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T12:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Mexico's World Cup party be spoiled by teacher protest?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-mexico-s-world-cup-party-be-spoiled-by-teacher-protest/a-77455624?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T12:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia: NATO jet shoots down stray drone",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-nato-jet-shoots-down-stray-drone/a-77456678?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T10:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German factory orders drop in shadow of Iran war",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260608/german-factory-orders-drop-in-shadow-of-iran-war",
-      "published_date": "2026-06-08T09:43:36+00:00",
       "category": "Military"
     },
     {
@@ -340,18 +340,25 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia and Russia draw closer amid OPEC upheaval",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-and-russia-draw-closer-amid-opec-upheaval/a-77387950?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T13:03:00+00:00",
-      "category": "Energy"
+      "title": "Feuer: Über 200.000 Euro Schaden bei Scheunenbrand",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/10/scheune-brennt-feuerwehr-warnt-vor-rauch",
+      "published_date": "2026-06-10T14:12:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
-      "published_date": "2026-06-03T09:19:44+00:00",
-      "category": "Energy"
+      "title": "Corona-Masken-Streit: Textilfirma fordert vor Gericht Millionenzahlung für Corona-Masken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/corona-masken-streit-bund-pure-fashion-agency-jens-spahn",
+      "published_date": "2026-06-10T13:57:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Recession looms as Iran war chokes growth",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-recession-looms-as-iran-war-chokes-growth/live-77487978?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T11:57:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fußball: José Mourinho kehrt als Trainer zu Real Madrid zurück",
@@ -371,6 +378,13 @@
       "title": "Germany news: Smaller cities top out happiness rankings",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-smaller-cities-top-out-happiness-rankings/live-77469738?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-09T09:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Smaller cities top out happiness rankings",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-smaller-cities-top-out-happiness-rankings/live-77469738?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-09T09:41:00+00:00",
       "category": "Economy"
     },
@@ -466,32 +480,67 @@
       "category": "Economy"
     },
     {
-      "title": "Alte Militärstation: DDR-Insel «Ostervilm» für 60.000 Euro versteigert",
+      "title": "»Reichsbürger«-Prozess in Hamburg: »Odin, ich komme nach Walhall!«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/04/ddr-insel-ostervilm-fuer-60-000-euro-versteigert",
-      "published_date": "2026-06-04T13:40:02+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/hamburg/2026-06/reichsbuerger-prozess-hamburg-polizisten-schuesse-aussage",
+      "published_date": "2026-06-10T14:14:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fußball: Leverkusen trennt sich von Trainer Kasper Hjulmand",
+      "title": "Ausgrabungen: Steinkeller aus Mittelalter mitten in Berlin entdeckt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-06/bayer-leverkusen-trainer-kasper-hjulmand-carlos-martinez-novell-gxe",
-      "published_date": "2026-06-04T11:24:51+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-06/10/steinkeller-aus-mittelalter-mitten-in-berlin-entdeckt",
+      "published_date": "2026-06-10T14:13:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Disney racks up $4.2bn deficit on Paris parks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/04/disney-paris-theme-park-deficit",
-      "published_date": "2026-06-04T11:00:06+00:00",
-      "category": "Economy"
+      "title": "Gesundheitsreform: Protest gegen Reformpläne: Ärzte lassen Praxen zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/10/protest-gegen-reformplaene-aerzte-lassen-praxen-zu",
+      "published_date": "2026-06-10T14:08:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Protesters clash with police in Albania over Jared Kushner-backed luxury resort – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/04/protesters-clash-with-police-in-albania-over-jared-kushner-backed-luxury-resort-video",
-      "published_date": "2026-06-04T09:24:03+00:00",
-      "category": "Economy"
+      "title": "Neo-Nazi lost an east German election, but extremism remains",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/neo-nazi-lost-an-east-german-election-but-extremism-remains/a-77487377?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-10T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neo-Nazi lost an east German election, but extremism remains",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/neo-nazi-lost-an-east-german-election-but-extremism-remains/a-77487377?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya: LGBTQ+ community still here, still queer despite cuts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kenya-lgbtq-community-still-here-still-queer-despite-cuts/a-77484560?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T10:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belfast stabbing suspect in court after night of protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/belfast-stabbing-suspect-in-court-after-night-of-protests/a-77485962?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T10:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa: Mass shooting kills 12 near Johannesburg",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-mass-shooting-kills-12-near-johannesburg/a-77483899?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T07:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260610/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-124",
+      "published_date": "2026-06-10T06:30:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spargelfahrt der Seeheimer: Söder, Linnemann und Gewerkschaften bei Bootstour der SPD",
@@ -550,6 +599,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Leipzig Bachfest 2026: Bach's music as hit parade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/leipzig-bachfest-2026-bach-s-music-as-hit-parade/a-77477113?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-09T15:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Jersey teenage politician congratulated by Trump says he is not a fan",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/09/student-elected-jersey-parliament-congratulated-by-trump",
@@ -561,76 +617,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260609/politically-motivated-crime-hits-all-time-high-in-germany",
       "published_date": "2026-06-09T13:51:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua Lipa reveals her favourite spots to visit in Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260609/dua-lipa-reveals-her-favourite-spots-to-visit-in-berlin",
-      "published_date": "2026-06-09T13:28:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japanese city captures black bear after multi-day hunt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japanese-city-captures-black-bear-after-multi-day-hunt/a-77474620?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T13:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frankfurt airport closes Terminal 2 for major upgrade",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260609/frankfurt-airport-closes-terminal-2-for-major-upgrade",
-      "published_date": "2026-06-09T11:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East: Israel strikes Lebanon despite Iran warning",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-israel-strikes-lebanon-despite-iran-warning/live-77467866?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T11:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya police fire tear gas at protest against US Ebola center",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-police-fire-tear-gas-at-protest-against-us-ebola-center/a-77469392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya: Protester shot dead at rally against US Ebola center",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-protester-shot-dead-at-rally-against-us-ebola-center/a-77469392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We are cheering on five teams’: how Rotterdam will turn more than orange for World Cup",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/rotterdam-world-cup-curacao-cape-verde-morocco-turkey-fans-dutch-city",
-      "published_date": "2026-06-09T07:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260609/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-127",
-      "published_date": "2026-06-09T06:37:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French star Patrick Bruel held by police investigating new sexual assault allegations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/jun/09/patrick-bruel-french-singer-actor-sexual-assault-allegations-ntwnfb",
-      "published_date": "2026-06-09T01:02:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Russia’s Peskov admits ‘certain problems’ with fuel supplies after energy sites targeted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/ukraine-war-briefing-russias-peskov-admits-certain-problems-with-fuel-supplies-after-energy-sites-targeted",
-      "published_date": "2026-06-09T01:02:25+00:00",
       "category": "Local Events"
     }
   ]
