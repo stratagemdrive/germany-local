@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-11T00:09:55.706399+00:00",
-  "story_count": 88,
+  "last_updated": "2026-06-11T14:33:02.237472+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "India news: New Delhi protests US strike that killed 3 Indian sailors, summons envoy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-new-delhi-protests-us-strike-that-killed-3-indian-sailors-summons-envoy/live-77498303?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T13:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sex doll art sparks debate at German president's residence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sex-doll-art-sparks-debate-at-german-president-s-residence/a-77493241?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-11T08:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sex doll art sparks debate at German president's residence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sex-doll-art-sparks-debate-at-german-president-s-residence/a-77493241?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T08:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary makes major deal with Ukraine, its former enemy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-makes-major-deal-with-ukraine-its-former-enemy/a-77496875?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T07:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary makes major deal with Ukraine, its former enemy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-makes-major-deal-with-ukraine-its-former-enemy/a-77496875?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-11T07:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz pushes sweeping reform agenda",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-pushes-sweeping-reform-agenda/live-77498625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T06:55:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Diskussion auf Bürgerdialog: Krebskranke Frau erhält Autogrammkarte von Merz",
       "source": "ZEIT Online",
@@ -102,46 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany and France abandon joint fighter jet project",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260609/germany-and-france-abandon-joint-fighter-jet-project",
-      "published_date": "2026-06-09T08:03:57+00:00",
-      "category": "Diplomacy"
+      "title": "UK: Defense Secretary John Healey quits in military spending dispute",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T14:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and Germany abandon joint project to build European fighter jet",
+      "title": "Iran war: Trump vows to seize Iranian oil facilities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-vows-to-seize-iranian-oil-facilities/live-77498305?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T13:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Zaporizhzhia nuclear plant's power cut off",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off/live-77498904?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T10:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thailand: 2 men sentenced to death for 2015 Bangkok bombing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thailand-2-men-sentenced-to-death-for-2015-bangkok-bombing/a-77499201?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T09:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Highway of death’: the Ukrainian drone campaign menacing Russian logistics",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/france-and-germany-abandon-joint-project-to-build-european-fighter-jet",
-      "published_date": "2026-06-08T17:32:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/11/highway-of-death-the-ukrainian-drone-campaign-menacing-russian-logistics",
+      "published_date": "2026-06-11T04:00:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nato-Ostflanke: Lettland: Nato-Kampfjets schießen Drohne ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/08/lettland-nato-kampfjets-schiessen-drohne-ab",
-      "published_date": "2026-06-08T14:36:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenia’s pro-Europe party wins election and cements shift away from Russia",
+      "title": "Ukraine war briefing: Flamingo missiles hit more far-flung Russian targets",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/armenia-europe-party-wins-election-russia-nikol-pashinyan",
-      "published_date": "2026-06-08T07:20:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260608/today-in-germany-a-roundup-of-the-latest-news-on-monday-125",
-      "published_date": "2026-06-08T06:28:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "More than a million people join Pope Leo for outdoor mass in Madrid",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
-      "published_date": "2026-06-07T10:20:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/11/ukraine-war-briefing-flamingo-missiles-hit-more-far-flung-russian-targets",
+      "published_date": "2026-06-11T01:11:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Cuba: Amid blockade, Pentagon chief issues military warning",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "From Russia to Israel to US, 'warlords' seize power — report",
+      "title": "As the world heats up, cities work to cool down",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/from-russia-to-israel-to-us-warlords-seize-power-report/a-77478186?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-09T15:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Russia to Israel to US, 'warlords' seize power — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/from-russia-to-israel-to-us-warlords-seize-power-report/a-77478186?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T15:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israel: What are the allegations of espionage all about?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-israel-what-are-the-allegations-of-espionage-all-about/a-77475139?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T15:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians struggle to buy food as war drives up prices",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iranians-struggle-to-buy-food-as-war-drives-up-prices/a-77475037?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T13:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's shelves are full, but wallets are empty. As war drives prices up, Tehran residents say food is slipping out of reach.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-s-shelves-are-full-but-wallets-are-empty-as-war-drives-prices-up-tehran-residents-say-food-is-slipping-out-of-reach/a-77475037?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T13:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jobwechsel: »Es war, als würde mein Körper schreien«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/campus/2026-05/jobwechsel-gruende-neuanfang-beruf",
-      "published_date": "2026-06-09T12:06:59+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/as-the-world-heats-up-cities-work-to-cool-down/a-77504229?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T14:05:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Our Warming Climate: A Pilot Project in Norway Raises Doubts about CCS Sustainability",
@@ -312,32 +319,53 @@
       "category": "Energy"
     },
     {
-      "title": "Stuck on oil: Can Hawaii power itself?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/stuck-on-oil-can-hawaii-power-itself/a-76967079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T10:54:00+00:00",
-      "category": "Energy"
+      "title": "FBAR: What Americans in Germany need to know about declaring bank accounts",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260611/fbar-what-americans-in-germany-need-to-know-about-declaring-bank-accounts",
+      "published_date": "2026-06-11T14:27:07+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Can Hawaii wean itself of oil imports?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-hawaii-wean-itself-of-oil-imports/a-76967079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T10:54:00+00:00",
-      "category": "Energy"
+      "title": "BGH-Entscheidung: BGH weist Klagen auf Erstattung von Schufa-Kosten ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-06/bgh-schufa-bonitaetsauskunft-kosten-erstattung-gxe",
+      "published_date": "2026-06-11T13:55:48+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Can Hawaii wean itself off oil imports?",
+      "title": "ECB raises rates to tackle inflation surge",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-hawaii-wean-itself-off-oil-imports/a-76967079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-04T10:54:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/ecb-raises-rates-to-tackle-inflation-surge/a-77505190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T12:43:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how",
+      "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how",
-      "published_date": "2026-06-04T06:00:27+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
+      "published_date": "2026-06-11T12:18:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's fuel discount will not be extended beyond end of June",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260611/germanys-fuel-discount-will-not-be-extended-beyond-end-of-june",
+      "published_date": "2026-06-11T09:06:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ryanair investigated over charging parents to sit with their children",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/11/ryanair-investigated-over-charging-parents-children-uk-cma",
+      "published_date": "2026-06-11T06:59:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260611/today-in-germany-a-roundup-of-the-latest-news-on-thursday-122",
+      "published_date": "2026-06-11T06:40:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "French star Patrick Bruel charged with rape and sexual assault",
@@ -431,53 +459,46 @@
       "category": "Economy"
     },
     {
-      "title": "Fußball: DFB erwirtschaftet Jahresüberschuss von 19,2 Millionen Euro",
+      "title": "Futuro Nazionale: Neue rechte Partei will Melonis Fratelli d'Italia Konkurrenz machen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-06/dfb-finanzbericht-2025-ueberschuss-eigenkapital",
-      "published_date": "2026-06-08T14:15:16+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/ausland/2026-06/futuro-nazionale-roberto-vannacci-giorgia-meloni-rechte-italien",
+      "published_date": "2026-06-11T14:16:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Can Xi bring North Korea closer into Beijing's orbit?",
+      "title": "India: West Bengal deportations raise human rights concerns",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-xi-bring-north-korea-closer-into-beijing-s-orbit/a-77460576?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T12:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T13:52:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Xi calls China–North Korea ties \"unbreakable,\" but Pyongyang's Russia pivot is testing Beijing's leverage.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/xi-calls-china-north-korea-ties-unbreakable-but-pyongyang-s-russia-pivot-is-testing-beijing-s-leverage/a-77460576?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T12:47:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Look at the protests Jared Kushner has caused in Albania. This could be a shining light for Europe | Lea Ypi",
+      "title": "Crans-Montana fire bereaved ask for murder charges against bar owners",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/08/albania-jared-kushner-protests-europe",
-      "published_date": "2026-06-08T10:39:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/11/crans-montana-fire-murder-charges-request-bar-owners",
+      "published_date": "2026-06-11T11:22:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France is starting to own its role in the slave trade. Now it needs to repair its Caribbean legacy | Marie-Annick Gournet",
+      "title": "Why drivers in Frankfurt need to be careful where they park",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260611/why-drivers-in-frankfurt-should-be-careful-where-they-park",
+      "published_date": "2026-06-11T10:44:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutsche Bahn releases thousands of €15 tickets for Berlin-Hamburg trips",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260611/deutsche-bahn-releases-thousands-of-e15-tickets-for-berlin-hamburg-trips",
+      "published_date": "2026-06-11T08:27:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The EU is inviting the Taliban to Brussels. Europe’s credibility lies in tatters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/08/france-slave-trade-repair-caribbean-legacy-code-noir-guadeloupe-martinique",
-      "published_date": "2026-06-08T04:00:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Kosovo PM wins snap vote, but with no majority",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-pm-wins-snap-vote-but-with-no-majority/a-77447536?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T23:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Kosovo PM wins snap vote, but with no majority",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-pm-wins-snap-vote-but-with-no-majority/a-77447536?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-07T23:45:00+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/the-eu-is-inviting-the-taliban-to-brussels-europes-credibility-lies-in-tatters",
+      "published_date": "2026-06-11T04:00:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What Albania teaches us about Kushner's real estate tactics",
@@ -490,6 +511,13 @@
       "title": "The United States says it has launched new attacks on Iran",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T22:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle East: US says it completed latest attacks on Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-us-says-it-completed-latest-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-10T22:03:00+00:00",
       "category": "Local Events"
     },
@@ -568,55 +596,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-09T21:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-09T21:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghanistan: Taliban open fire during hijab protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afghanistan-taliban-open-fire-during-hijab-protest/a-77480609?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T19:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawyer for murdered French girl’s family calls for more justice system funding",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/lyhanna-lawyer-france-justice-system-funding",
-      "published_date": "2026-06-09T18:40:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the pope a Real Madrid fan? Leo’s admission upsets Barcelona faithful",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/pope-leo-real-madrid-barcelona-fans-spain",
-      "published_date": "2026-06-09T15:55:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig Bachfest 2026: Bach's music as hit parade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/leipzig-bachfest-2026-bach-s-music-as-hit-parade/a-77477113?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T15:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa migration crisis: Ramaphosa's plan faces doubt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-migration-crisis-ramaphosa-s-plan-faces-doubt/a-77474996?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T15:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig Bachfest 2026: Bach's music as hit parade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/leipzig-bachfest-2026-bach-s-music-as-hit-parade/a-77477113?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-09T15:27:00+00:00",
       "category": "Local Events"
     }
   ]
