@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-10T14:19:31.837774+00:00",
+  "last_updated": "2026-06-11T00:09:55.706399+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Diskussion auf Bürgerdialog: Krebskranke Frau erhält Autogrammkarte von Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/11/krebskranke-frau-erhaelt-autogrammkarte-von-merz",
+      "published_date": "2026-06-10T22:07:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN snub to Germany may well prove costly | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/un-snub-to-germany-may-well-prove-costly",
+      "published_date": "2026-06-10T16:01:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fußballweltmeisterschaft 2026: Sportausschuss fordert Eingreifen der Fifa wegen Schiri-Abweisung",
       "source": "ZEIT Online",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
-      "published_date": "2026-06-07T09:56:04+00:00",
-      "category": "Diplomacy"
+      "title": "Cuba: Amid blockade, Pentagon chief issues military warning",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cuba-amid-blockade-pentagon-chief-issues-military-warning/a-77494837?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T16:43:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Far-right AfD makes push in district elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-07T07:57:00+00:00",
-      "category": "Diplomacy"
+      "title": "Letter from Kyiv: The messed-up day-to-day of living under Putin’s cruel air war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/years-on-i-still-marvel-at-the-resilience-of-day-to-day-life-under-putins-cruel-air-war",
+      "published_date": "2026-06-10T14:46:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Demonized, called hysterical’: the rise of witchcraft retreats where US women go to defy man and church",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland",
+      "published_date": "2026-06-10T14:28:25+00:00",
+      "category": "Military"
     },
     {
       "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Conflict Trends': Civil wars, international fights hit high",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/conflict-trends-civil-wars-international-fights-hit-high/a-77467842?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T06:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘They are isolated … they are alone’: Zelenskyy on Russia, Putin’s lies – and fighting back",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine",
-      "published_date": "2026-06-09T05:00:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volodymyr Zelenskyy reveals he wants to invite King Charles on a state visit to Ukraine – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/08/volodymyr-zelenskyy-reveals-he-wants-to-invite-king-charles-on-a-state-visit-to-ukraine-video",
-      "published_date": "2026-06-09T05:00:46+00:00",
-      "category": "Military"
+      "title": "Our Warming Climate: A Pilot Project in Norway Raises Doubts about CCS Sustainability",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/business/our-warming-climate-a-pilot-project-in-norway-raises-doubts-about-ccs-sustainability-a-066f9f4a-adbf-475b-b072-3015b5a370d1#ref=rss",
+      "published_date": "2026-06-10T15:51:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Time and Water review – Iceland’s doomed glacier tells its own story of climate disaster",
@@ -333,11 +340,18 @@
       "category": "Energy"
     },
     {
-      "title": "Elon Musk's SpaceX aiming to raise $75bn in record IPO",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/elon-musk-s-spacex-aiming-to-raise-75bn-in-record-ipo/a-77414048?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-03T23:48:00+00:00",
-      "category": "Energy"
+      "title": "French star Patrick Bruel charged with rape and sexual assault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/11/patrick-bruel-charged-rape-sexual-assault",
+      "published_date": "2026-06-10T23:31:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "When should couples file separate tax returns in Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260610/when-should-couples-file-separate-tax-returns-in-germany",
+      "published_date": "2026-06-10T14:22:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Feuer: Über 200.000 Euro Schaden bei Scheunenbrand",
@@ -357,6 +371,13 @@
       "title": "Germany news: Recession looms as Iran war chokes growth",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-recession-looms-as-iran-war-chokes-growth/live-77487978?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T11:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Recession looms as Iran war chokes growth",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-recession-looms-as-iran-war-chokes-growth/live-77487978?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-10T11:57:00+00:00",
       "category": "Economy"
     },
@@ -459,25 +480,18 @@
       "category": "Economy"
     },
     {
-      "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
+      "title": "What Albania teaches us about Kushner's real estate tactics",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
-      "published_date": "2026-06-07T06:00:25+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/10/jared-kushner-albania-sazan-island-real-estate-deal",
+      "published_date": "2026-06-10T22:32:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
+      "title": "The United States says it has launched new attacks on Iran",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-05T13:19:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "When can residents deduct the cost of German courses from taxes?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260604/when-are-german-language-courses-tax-deductible-for-residents",
-      "published_date": "2026-06-04T14:03:32+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T22:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "»Reichsbürger«-Prozess in Hamburg: »Odin, ich komme nach Walhall!«",
@@ -603,20 +617,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/leipzig-bachfest-2026-bach-s-music-as-hit-parade/a-77477113?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-09T15:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jersey teenage politician congratulated by Trump says he is not a fan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/student-elected-jersey-parliament-congratulated-by-trump",
-      "published_date": "2026-06-09T14:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politically motivated crime hits all-time high in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260609/politically-motivated-crime-hits-all-time-high-in-germany",
-      "published_date": "2026-06-09T13:51:33+00:00",
       "category": "Local Events"
     }
   ]
