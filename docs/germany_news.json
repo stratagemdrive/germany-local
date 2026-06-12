@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-12T00:14:56.361399+00:00",
-  "story_count": 86,
+  "last_updated": "2026-06-12T13:59:24.993376+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "What impact will the new EU asylum law CEAS really have?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-impact-will-the-new-eu-asylum-law-ceas-really-have/a-77508144?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-12T10:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What impact will the new EU asylum law CEAS really have?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-impact-will-the-new-eu-asylum-law-ceas-really-have/a-77508144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T10:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What impact will the new EU asylum law CEAS really have?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-impact-will-the-new-eu-asylum-law-ceas-really-have/a-77508144?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-12T10:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Which airlines are banned in the European Union and why?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260612/which-airlines-are-banned-in-the-european-union-and-why",
+      "published_date": "2026-06-12T10:20:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bundeswehr: Bundestag verlängert zwei Einsätze der Bundeswehr im Ausland",
       "source": "ZEIT Online",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Only three European countries meet deadline for new pay transparency rules",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260610/only-3-countries-met-deadline-for-new-eu-pay-transparency-rules",
-      "published_date": "2026-06-10T09:12:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Only one in 10 Europeans now see US as an ally, survey suggests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
-      "published_date": "2026-06-10T04:00:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A drone alert blasted on my phone – we had to take shelter. This is the new reality on Nato’s eastern flank | Linas Kojala",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/drone-alert-blasted-phone-take-shelter-new-reality-nato",
-      "published_date": "2026-06-10T04:00:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
+      "title": "Sahel juntas are 'crushing' basic freedoms",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T17:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T12:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Bulgaria banning arms supplies to Ukraine?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T12:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India bets big on domestic drones for future warfare",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T12:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Iran deal coming soon, Tehran yet to confirm",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-iran-deal-coming-soon-tehran-yet-to-confirm/live-77520654?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T09:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: France, Germany and UK make push in Moscow for peace talks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/12/ukraine-war-briefing-france-germany-and-uk-make-push-in-moscow-for-peace-talks",
+      "published_date": "2026-06-12T01:04:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Großbritannien: Ex-Fallschirmjäger wird neuer britischer Verteidigungsminister",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
+      "title": "India news: FM blasts Europe criticism of buying Russian oil",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T08:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-10T08:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin and Trump are both trapped in losing battles against reality | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
-      "published_date": "2026-06-10T05:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tears and catharsis as Kyiv premieres opera about Ukrainian children abducted by Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/10/mothers-of-kherson-opera-kyiv-premiere-russian-abductions-children-ukraine",
-      "published_date": "2026-06-10T04:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Grandpa in a bunker’: is Putin losing control? - podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/10/grandpa-in-a-bunker-putin-losing-control-podcast",
-      "published_date": "2026-06-10T02:00:07+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-news-fm-blasts-europe-criticism-of-buying-russian-oil/live-77516858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T09:34:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "As the world heats up, cities work to cool down",
@@ -324,6 +331,20 @@
       "url": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-06T06:15:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-12T08:31:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T08:31:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The UK defence minister's shock resignation is a warning for all of Europe | Paul Taylor",
@@ -452,18 +473,88 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Smaller cities top out happiness rankings",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-smaller-cities-top-out-happiness-rankings/live-77469738?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-09T09:41:00+00:00",
-      "category": "Economy"
+      "title": "Räuberische Erpressung?: Festnahmen nach Durchsuchungen in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/12/festnahmen-nach-durchsuchungen-in-berlin",
+      "published_date": "2026-06-12T13:39:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU quota system ‘could kill Ukrainian steel industry’, boss says",
+      "title": "Baustellen: Bravo! Aus Stuttgart 21 wird Stuttgart 31",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/2026-06/baustellen-stuttgart-21-bonner-nordbruecke-bauen-verkehr",
+      "published_date": "2026-06-12T13:34:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giovanni di Lorenzo: »Das ist richtig demokratiegefährdend«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-06/fussball-usa-israel-liebich",
+      "published_date": "2026-06-12T13:00:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Lost man triggers shutdown at Hamburg airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lost-man-triggers-shutdown-at-hamburg-airport/live-77523802?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France followed to World Cup by home politics after Mbappé’s swipe at far right",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/eu-quota-ukrainian-steel-industry-metinvest",
-      "published_date": "2026-06-09T06:00:47+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/football/2026/jun/12/france-followed-to-world-cup-by-home-politics-after-mbappes-swipe-at-far-right",
+      "published_date": "2026-06-12T11:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will life improve for Hungary's Roma community under Magyar?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-life-improve-for-hungary-s-roma-community-under-magyar/a-77509082?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T10:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will life improve for Hungary's Roma community under Magyar?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-life-improve-for-hungary-s-roma-community-under-magyar/a-77509082?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-12T10:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jonathan Tah's first World Cup and the long wait",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jonathan-tah-s-first-world-cup-and-the-long-wait/a-77512263?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-12T09:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jonathan Tah's first World Cup and the long wait",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jonathan-tah-s-first-world-cup-and-the-long-wait/a-77512263?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T09:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six things I miss about living in Cologne",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260612/six-things-i-miss-about-living-in-cologne",
+      "published_date": "2026-06-12T08:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environment wins of the week",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/environment-wins-of-the-week/a-77509351?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-12T07:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland, data shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/12/ireland-asylum-seekers-northern-land-border",
+      "published_date": "2026-06-12T04:00:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nach Supreme-Court-Urteil: US-Gericht: Trumps neue Zölle wahrscheinlich rechtens",
@@ -519,90 +610,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-11T13:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crans-Montana fire bereaved ask for murder charges against bar owners",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/11/crans-montana-fire-murder-charges-request-bar-owners",
-      "published_date": "2026-06-11T11:22:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why drivers in Frankfurt need to be careful where they park",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260611/why-drivers-in-frankfurt-should-be-careful-where-they-park",
-      "published_date": "2026-06-11T10:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn releases thousands of €15 tickets for Berlin-Hamburg trips",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260611/deutsche-bahn-releases-thousands-of-e15-tickets-for-berlin-hamburg-trips",
-      "published_date": "2026-06-11T08:27:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The EU is inviting the Taliban to Brussels. Europe’s credibility lies in tatters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/the-eu-is-inviting-the-taliban-to-brussels-europes-credibility-lies-in-tatters",
-      "published_date": "2026-06-11T04:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What Albania teaches us about Kushner's real estate tactics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/10/jared-kushner-albania-sazan-island-real-estate-deal",
-      "published_date": "2026-06-10T22:32:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The United States says it has launched new attacks on Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T22:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East: US says it completed latest attacks on Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-us-says-it-completed-latest-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T22:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "»Reichsbürger«-Prozess in Hamburg: »Odin, ich komme nach Walhall!«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-06/reichsbuerger-prozess-hamburg-polizisten-schuesse-aussage",
-      "published_date": "2026-06-10T14:14:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ausgrabungen: Steinkeller aus Mittelalter mitten in Berlin entdeckt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/10/steinkeller-aus-mittelalter-mitten-in-berlin-entdeckt",
-      "published_date": "2026-06-10T14:13:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gesundheitsreform: Protest gegen Reformpläne: Ärzte lassen Praxen zu",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/10/protest-gegen-reformplaene-aerzte-lassen-praxen-zu",
-      "published_date": "2026-06-10T14:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neo-Nazi lost an east German election, but extremism remains",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/neo-nazi-lost-an-east-german-election-but-extremism-remains/a-77487377?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-10T11:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neo-Nazi lost an east German election, but extremism remains",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/neo-nazi-lost-an-east-german-election-but-extremism-remains/a-77487377?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T11:18:00+00:00",
       "category": "Local Events"
     }
   ]
