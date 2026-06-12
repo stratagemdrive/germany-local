@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-11T14:33:02.237472+00:00",
-  "story_count": 85,
+  "last_updated": "2026-06-12T00:14:56.361399+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Bundeswehr: Bundestag verlängert zwei Einsätze der Bundeswehr im Ausland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundeswehr-auslandseinsaetze-kosovo-bosnien-herzegowina-verlaengert",
+      "published_date": "2026-06-11T23:30:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Migration: EU verschärft Asylregeln - Reform in Kraft",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/12/eu-verschaerft-asylregeln-reform-in-kraft",
+      "published_date": "2026-06-11T22:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK defence funding crisis has been a long time coming",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
+      "published_date": "2026-06-11T19:14:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CEAS comes into effect: How will it impact asylum seekers?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceas-comes-into-effect-how-will-it-impact-asylum-seekers/a-77508144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T15:41:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CEAS comes into effect: How will it impact asylum seekers?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceas-comes-into-effect-how-will-it-impact-asylum-seekers/a-77508144?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-11T15:41:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "India news: New Delhi protests US strike that killed 3 Indian sailors, summons envoy",
       "source": "Deutsche Welle",
@@ -42,6 +77,13 @@
       "title": "Germany news: Merz pushes sweeping reform agenda",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-merz-pushes-sweeping-reform-agenda/live-77498625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T06:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz pushes sweeping reform agenda",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-pushes-sweeping-reform-agenda/live-77498625?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-11T06:55:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,51 +144,51 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
+      "title": "Großbritannien: Ex-Fallschirmjäger wird neuer britischer Verteidigungsminister",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/grossbritannien-verteidigungsminister-john-healey-dan-jarvis",
+      "published_date": "2026-06-11T22:20:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mexiko – Südafrika: Braucht noch jemand Rot?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-06/mexiko-suedafrika-eroeffnungsspiel-fussball-wm-2026-liveblog",
+      "published_date": "2026-06-11T21:39:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Egypt's delicate balancing act in the Iran war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-09T17:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/egypt-s-delicate-balancing-act-in-the-iran-war/a-77506331?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T19:18:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU proposes entry ban for Russians who fought in Ukraine",
+      "title": "Iran war: Trump calls off threatened strikes, says deal nearly done",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine/a-77474536?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T17:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done/live-77498305?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T17:44:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU proposes entry ban for Russians who fought in Ukraine",
+      "title": "Iran: From clerical rule to military capture",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine/a-77474536?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-09T17:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU: Youth involvement in synthetic opioids smuggling rises",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-youth-involvement-in-synthetic-opioids-smuggling-rises/a-77478901?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T17:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tourism chiefs and European ferry ports sound alarm over summer border chaos",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260609/tourism-chiefs-and-european-ferry-ports-sound-alarm-over-summer-border-chaos",
-      "published_date": "2026-06-09T15:24:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
-      "published_date": "2026-06-09T15:12:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-from-clerical-rule-to-military-capture/a-77509196?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T15:43:00+00:00",
+      "category": "Military"
     },
     {
       "title": "UK: Defense Secretary John Healey quits in military spending dispute",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T14:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK: Defense Secretary John Healey quits in military spending dispute",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-06-11T14:13:00+00:00",
       "category": "Military"
     },
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief – reports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports",
-      "published_date": "2026-06-10T01:01:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes Iran in response to helicopter shootdown",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-strikes-iran-in-response-to-helicopter-shootdown/live-77467866?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T22:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Israel's troops take over more of southern Lebanon?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-israel-s-troops-take-over-more-of-southern-lebanon/a-77478170?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T17:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy: Putin is ‘playing games’ with Trump – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/audio/2026/jun/09/zelenskyy-putin-is-playing-games-with-trump-podcast",
-      "published_date": "2026-06-09T15:50:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Peace Report: Are modern warlords in power?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peace-report-are-modern-warlords-in-power/a-77478186?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-09T15:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Peace Report: Are modern warlords in power?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peace-report-are-modern-warlords-in-power/a-77478186?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T15:08:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "As the world heats up, cities work to cool down",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/as-the-world-heats-up-cities-work-to-cool-down/a-77504229?maca=en-rss-en-all-1573-rdf",
@@ -295,6 +295,13 @@
       "source": "Der Spiegel",
       "url": "https://www.spiegel.de/international/business/our-warming-climate-a-pilot-project-in-norway-raises-doubts-about-ccs-sustainability-a-066f9f4a-adbf-475b-b072-3015b5a370d1#ref=rss",
       "published_date": "2026-06-10T15:51:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why pastors hesitate to talk climate in US churches",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-pastors-hesitate-to-talk-climate-in-us-churches/a-77173938?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T07:40:00+00:00",
       "category": "Energy"
     },
     {
@@ -319,6 +326,13 @@
       "category": "Energy"
     },
     {
+      "title": "The UK defence minister's shock resignation is a warning for all of Europe | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/uk-defence-minister-shock-resignation-warning-europe",
+      "published_date": "2026-06-11T17:20:50+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "FBAR: What Americans in Germany need to know about declaring bank accounts",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260611/fbar-what-americans-in-germany-need-to-know-about-declaring-bank-accounts",
@@ -336,6 +350,13 @@
       "title": "ECB raises rates to tackle inflation surge",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ecb-raises-rates-to-tackle-inflation-surge/a-77505190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T12:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB raises interest rate to tackle inflation surge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ecb-raises-interest-rate-to-tackle-inflation-surge/a-77505190?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-11T12:43:00+00:00",
       "category": "Economy"
     },
@@ -445,18 +466,46 @@
       "category": "Economy"
     },
     {
-      "title": "Is Switzerland tired of prosperity? I can think of no other reason for our next foolish referendum | Joseph de Weck",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/switzerland-tired-prosperity-foolish-referendum-population-cap",
-      "published_date": "2026-06-09T04:00:44+00:00",
-      "category": "Economy"
+      "title": "Nach Supreme-Court-Urteil: US-Gericht: Trumps neue Zölle wahrscheinlich rechtens",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/12/us-gericht-trumps-neue-zoelle-wahrscheinlich-rechtens",
+      "published_date": "2026-06-11T23:45:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Franco-German fighter jet project collapses after industry dispute",
+      "title": "World Cup kicks off in Mexico City",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/franco-german-fighter-jet-project-collapses-after-industry-dispute/a-77466897?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-08T22:32:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T21:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Racist riots break out across United Kingdom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T20:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Racist riots break out across United Kingdom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-11T20:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo rails against migrant deaths on visit to Spain’s ‘dock of shame’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/11/pope-leo-migrant-deaths-spain-dock-of-shame",
+      "published_date": "2026-06-11T16:47:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo bows to migrants' 'dignity' in Gran Canaria",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-bows-to-migrants-dignity-in-gran-canaria/a-77510830?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T16:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Futuro Nazionale: Neue rechte Partei will Melonis Fratelli d'Italia Konkurrenz machen",
@@ -554,48 +603,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/neo-nazi-lost-an-east-german-election-but-extremism-remains/a-77487377?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-10T11:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya: LGBTQ+ community still here, still queer despite cuts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-lgbtq-community-still-here-still-queer-despite-cuts/a-77484560?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T10:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast stabbing suspect in court after night of protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belfast-stabbing-suspect-in-court-after-night-of-protests/a-77485962?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T10:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa: Mass shooting kills 12 near Johannesburg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-mass-shooting-kills-12-near-johannesburg/a-77483899?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T07:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260610/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-124",
-      "published_date": "2026-06-10T06:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spargelfahrt der Seeheimer: Söder, Linnemann und Gewerkschaften bei Bootstour der SPD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/bundesregierung-seeheimer-kreis-reformen-lars-klingbeil-markus-soeder-carsten-linnemann",
-      "published_date": "2026-06-09T23:19:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-09T21:33:00+00:00",
       "category": "Local Events"
     }
   ]
