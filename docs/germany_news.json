@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-13T00:13:45.768410+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-13T12:21:30.958372+00:00",
+  "story_count": 86,
   "stories": [
     {
       "title": "Sicherheit: Dobrindt befürchtet Drohnenangriffe auf Bundestag",
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Bundeswehr in Litauen: Sie wollen kriegstüchtig werden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundeswehr-litauen-brigade-christiand-freuding-nato",
+      "published_date": "2026-06-13T12:19:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why India wants German submarines – and what Pakistan and China have to do with it",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-india-wants-german-submarines-and-what-pakistan-and-china-have-to-do-with-it/a-77503931?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T10:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Hopes high ahead of first World Cup match",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-hopes-high-ahead-of-first-world-cup-match/live-77535533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T10:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Pakistan PM says peace deal expected in 24 hours",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T09:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T06:13:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Krieg gegen die Ukraine: E3-Botschafter treffen russischen Vizeaußenminister in Moskau",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran: From clerical rule to military capture",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-from-clerical-rule-to-military-capture/a-77509196?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T15:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK: Defense Secretary John Healey quits in military spending dispute",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T14:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK: Defense Secretary John Healey quits in military spending dispute",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-11T14:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump vows to seize Iranian oil facilities",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-vows-to-seize-iranian-oil-facilities/live-77498305?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T13:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Zaporizhzhia nuclear plant's power cut off",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off/live-77498904?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T10:11:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "India news: FM blasts Europe criticism of buying Russian oil",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-fm-blasts-europe-criticism-of-buying-russian-oil/live-77516858?maca=en-rss-en-all-1573-rdf",
@@ -326,11 +326,25 @@
       "category": "Energy"
     },
     {
-      "title": "As hot summer, blackouts loom, Iraq looks to solar power",
+      "title": "Swiss to vote on whether to cap population at 10 million",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-06T06:15:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T05:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Swiss to vote on whether to cap population at 10 million",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-13T05:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy boosts army wages and seeks foreign recruits to counter manpower shortage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/ukraine-war-briefing-zelenskyy-boosts-army-wages-foreign-seeks-foreign-recruits",
+      "published_date": "2026-06-13T01:18:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "US clears Paramount's mammoth Warner Bros merger",
@@ -452,25 +466,60 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Recession looms as Iran war chokes growth",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-recession-looms-as-iran-war-chokes-growth/live-77487978?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T11:57:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Germany news: Recession looms as Iran war chokes growth",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-recession-looms-as-iran-war-chokes-growth/live-77487978?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-10T11:57:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fußball: José Mourinho kehrt als Trainer zu Real Madrid zurück",
+      "title": "Landtagswahlen: SPD-Spitzenkandidaten in NRW und Mecklenburg-Vorpommern gekürt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/deutschland/2026-06/fussball-spanien-jose-mourinho-trainer-real-madrid-benfica-lissabon",
-      "published_date": "2026-06-09T23:51:10+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/manuela-schwesig-spd-spitzenkandidatin-landtagswahl-mecklenburg-vorpommern",
+      "published_date": "2026-06-13T12:09:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahlkampf: Aufregung um CDU/AfD-Foto aus Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/13/aufregung-um-cdu-afd-foto-aus-sachsen-anhalt",
+      "published_date": "2026-06-13T11:37:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthropic cuts top-tier AI access after US foreigner ban",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T09:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US, Venezuela say Tren de Aragua leader killed in strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T06:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman critically injured in shark attack at Sydney beach",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/woman-critically-injured-in-shark-attack-at-sydney-beach/a-77534097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T06:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swiss wait to hear result of ballot on capping population at 10 million",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million",
+      "published_date": "2026-06-13T05:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Looks like Chornobyl’: life in Kyiv’s most bombed neighbourhood as Ukraine braced for new mass strike",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/lukianivska-square-kyiv-most-bombed-neighbourhood-ukraine",
+      "published_date": "2026-06-13T04:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch far-right party pays damages to court artist after changing image with AI",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
+      "published_date": "2026-06-13T04:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
@@ -554,62 +603,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/jonathan-tah-s-first-world-cup-and-the-long-wait/a-77512263?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-12T09:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six things I miss about living in Cologne",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260612/six-things-i-miss-about-living-in-cologne",
-      "published_date": "2026-06-12T08:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Environment wins of the week",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/environment-wins-of-the-week/a-77509351?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T07:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland, data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/12/ireland-asylum-seekers-northern-land-border",
-      "published_date": "2026-06-12T04:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach Supreme-Court-Urteil: US-Gericht: Trumps neue Zölle wahrscheinlich rechtens",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/12/us-gericht-trumps-neue-zoelle-wahrscheinlich-rechtens",
-      "published_date": "2026-06-11T23:45:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup kicks off in Mexico City",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T21:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Racist riots break out across United Kingdom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T20:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Racist riots break out across United Kingdom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-11T20:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo rails against migrant deaths on visit to Spain’s ‘dock of shame’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/11/pope-leo-migrant-deaths-spain-dock-of-shame",
-      "published_date": "2026-06-11T16:47:55+00:00",
       "category": "Local Events"
     }
   ]
