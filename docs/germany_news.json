@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-13T23:59:41.926940+00:00",
-  "story_count": 85,
+  "last_updated": "2026-06-14T12:57:56.545389+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Fußball-WM 2026: Bundespräsident Steinmeier richtet sich mit Videobotschaft an DFB-Team",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
+      "published_date": "2026-06-14T12:08:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine and Moldova to enter first phase of EU membership negotiations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/ukraine-and-moldova-start-first-phase-of-eu-membership-negotiations",
+      "published_date": "2026-06-14T09:33:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: President Steinmeier heads to Asia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-president-steinmeier-heads-to-asia/live-77535533?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-14T05:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: President Steinmeier heads to Asia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-president-steinmeier-heads-to-asia/live-77535533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T05:48:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany faces EU penalty over gender pay gap directive",
       "source": "Deutsche Welle",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "CEAS comes into effect: How will it impact asylum seekers?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceas-comes-into-effect-how-will-it-impact-asylum-seekers/a-77508144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T15:41:00+00:00",
-      "category": "Diplomacy"
+      "title": "Drohnenangriffe in Russland: Ukraine greift Industrieanlagen in Russland an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-drohnenangriffe-russland-tula-chemiefabrik-jaroslawl",
+      "published_date": "2026-06-14T12:21:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "CEAS comes into effect: How will it impact asylum seekers?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceas-comes-into-effect-how-will-it-impact-asylum-seekers/a-77508144?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-11T15:41:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russia is losing the war in Ukraine, and Putin is desperate. But that’s when he’s at his most dangerous | Simon Tisdall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/vladimir-putin-ukraine-war-borders-russian-president",
+      "published_date": "2026-06-14T07:00:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "India news: New Delhi protests US strike that killed 3 Indian sailors, summons envoy",
+      "title": "Iran war: Trump, Pakistan tease deal, but doubts remain",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-new-delhi-protests-us-strike-that-killed-3-indian-sailors-summons-envoy/live-77498303?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T13:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-pakistan-tease-deal-but-doubts-remain/live-77540182?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T05:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sex doll art sparks debate at German president's residence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sex-doll-art-sparks-debate-at-german-president-s-residence/a-77493241?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-11T08:25:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘A point of resistance’: the Normandy village that said ‘non’ to Pete Hegseth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth",
+      "published_date": "2026-06-14T05:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy not on Trump’s G7 bilateral meeting list, official says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/ukraine-war-briefing-trump-g7-zelenskyy",
+      "published_date": "2026-06-14T01:29:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Gold rush atmosphere at Berlin's military air trade show",
@@ -207,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran war: Trump says deal to be signed on Sunday",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-says-deal-to-be-signed-on-sunday/live-77535647?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T09:27:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-all-1573-rdf",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "All of us are migrants, says pope as he rounds off tour of Spain in Tenerife",
+      "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/all-of-us-are-migrants-says-pope-as-he-arrives-in-tenerife",
-      "published_date": "2026-06-12T15:05:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sahel juntas are 'crushing' basic freedoms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T12:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Bulgaria banning arms supplies to Ukraine?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T12:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India bets big on domestic drones for future warfare",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T12:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Pistorius asks for time mulling next-generation jet FCAS replacement",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-pistorius-asks-for-time-mulling-next-generation-jet-fcas-replacement/live-77523802?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-12T11:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Pistorius asks for time mulling next-generation jet FCAS replacement",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-pistorius-asks-for-time-mulling-next-generation-jet-fcas-replacement/live-77523802?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T11:37:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
+      "published_date": "2026-06-14T10:00:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "India news: FM blasts Europe criticism of buying Russian oil",
@@ -317,6 +324,13 @@
       "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
       "published_date": "2026-06-08T10:00:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "How Brexit has made Britain poorer – in charts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+      "published_date": "2026-06-14T05:00:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Swiss to vote on whether to cap population at 10 million",
@@ -452,11 +466,46 @@
       "category": "Economy"
     },
     {
-      "title": "Corona-Masken-Streit: Textilfirma fordert vor Gericht Millionenzahlung für Corona-Masken",
+      "title": "Migration: Schweizer lehnen Bevölkerungsobergrenze ab",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/corona-masken-streit-bund-pure-fashion-agency-jens-spahn",
-      "published_date": "2026-06-10T13:57:32+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-06/14/nein-trend-bei-schweizer-abstimmung-ueber-bevoelkerungs-grenze",
+      "published_date": "2026-06-14T12:45:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CDU im Wahlkampfmodus: CDU-Chef Peters sieht Minderheitsregierung als Option in MV",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/14/cdu-chef-peters-sieht-minderheitsregierung-als-option-in-mv",
+      "published_date": "2026-06-14T12:42:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Generation Deutschland: Neue AfD-Jugend gründet sich in Baden-Württemberg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/14/neue-afd-jugend-gruendet-sich-in-baden-wuerttemberg",
+      "published_date": "2026-06-14T12:32:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The creatives trying to fix Germany's bureaucracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-creatives-trying-to-fix-germany-s-bureaucracy/a-77539474?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-14T05:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The creatives trying to fix Germany's bureaucracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-creatives-trying-to-fix-germany-s-bureaucracy/a-77539474?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T05:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy: Thousands attend anti- and pro-migration rallies in Rome",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-thousands-attend-anti-and-pro-migration-rallies-in-rome/a-77540136?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T01:47:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mexico: Mayor shot dead in Oaxaca state",
@@ -529,6 +578,13 @@
       "category": "Local Events"
     },
     {
+      "title": "India news: Cockroach Janta Party organizes more protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cockroach-janta-party-organizes-more-protests/live-77534404?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-13T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Inside Germany: An early World Cup mishap and a whale of a tragedy",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260613/inside-germany-an-early-world-cup-mishap-and-a-whale-of-a-tragedy",
@@ -547,55 +603,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/woman-critically-injured-in-shark-attack-at-sydney-beach/a-77534097?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-13T06:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swiss wait to hear result of ballot on capping population at 10 million",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million",
-      "published_date": "2026-06-13T05:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Looks like Chornobyl’: life in Kyiv’s most bombed neighbourhood as Ukraine braced for new mass strike",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/lukianivska-square-kyiv-most-bombed-neighbourhood-ukraine",
-      "published_date": "2026-06-13T04:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch far-right party pays damages to court artist after changing image with AI",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
-      "published_date": "2026-06-13T04:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/13/palantir-loses-legal-challenge-to-force-swiss-magazine-to-publish-rejoinders",
-      "published_date": "2026-06-12T23:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German court holds Google liable for fake AI answers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-12T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German court holds Google liable for fake AI answers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Räuberische Erpressung?: Festnahmen nach Durchsuchungen in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/12/festnahmen-nach-durchsuchungen-in-berlin",
-      "published_date": "2026-06-12T13:39:40+00:00",
       "category": "Local Events"
     }
   ]
