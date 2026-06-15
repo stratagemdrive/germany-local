@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-15T00:02:38.029948+00:00",
-  "story_count": 86,
+  "last_updated": "2026-06-15T16:13:17.953895+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Spitzentreffen am Genfersee: Hoffnungsschimmer und Herausforderungen zum G7-Auftakt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/15/worum-es-beim-g7-gipfel-geht",
+      "published_date": "2026-06-15T15:52:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Merz sieht Ukraine diplomatisch »in einer neuen Position der Stärke«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-06-15T15:33:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strait of Hormuz reopening won't restore normal prewar shipping any time soon",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-restore-normal-prewar-shipping-any-time-soon/a-77553214?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T15:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "If the UK wants to rejoin the European Union, it first needs to understand it | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/britain-rejoin-european-union-needs-to-understand-it-uk",
+      "published_date": "2026-06-15T15:00:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: 23 million tune in for World Cup win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-23-million-tune-in-for-world-cup-win/live-77557116?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-15T10:33:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: 23 million tune in for World Cup win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-23-million-tune-in-for-world-cup-win/live-77557116?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T10:33:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7: Leaders gather to grapple with wars, global economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/g7-leaders-gather-to-grapple-with-wars-global-economy/live-77556967?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T10:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission",
+      "published_date": "2026-06-15T04:00:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Police fire tear gas at anti-G7 protesters in Geneva",
       "source": "Deutsche Welle",
@@ -88,60 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What impact will the new EU asylum law CEAS really have?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-impact-will-the-new-eu-asylum-law-ceas-really-have/a-77508144?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-12T10:48:00+00:00",
-      "category": "Diplomacy"
+      "title": "Cathedral burns at Unesco-listed Kyiv Pechersk Lavra after Russian attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/15/dormiton-cathedral-burns-unesco-kyiv-pechersk-lavra-russian-attack",
+      "published_date": "2026-06-15T11:55:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "What impact will the new EU asylum law CEAS really have?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-impact-will-the-new-eu-asylum-law-ceas-really-have/a-77508144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T10:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What impact will the new EU asylum law CEAS really have?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-impact-will-the-new-eu-asylum-law-ceas-really-have/a-77508144?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-12T10:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fast-track border checks, return centers, 'mandatory solidarity': What the EU’s new asylum rules could change — and what they may not.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fast-track-border-checks-return-centers-mandatory-solidarity-what-the-eu-s-new-asylum-rules-could-change-and-what-they-may-not/a-77508144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T10:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fast-track border checks, return centers, 'mandatory solidarity': What the EU’s new asylum rules could change — and what they may not.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fast-track-border-checks-return-centers-mandatory-solidarity-what-the-eu-s-new-asylum-rules-could-change-and-what-they-may-not/a-77508144?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-12T10:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Which airlines are banned in the European Union and why?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260612/which-airlines-are-banned-in-the-european-union-and-why",
-      "published_date": "2026-06-12T10:20:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bundeswehr: Bundestag verlängert zwei Einsätze der Bundeswehr im Ausland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundeswehr-auslandseinsaetze-kosovo-bosnien-herzegowina-verlaengert",
-      "published_date": "2026-06-11T23:30:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Migration: EU verschärft Asylregeln - Reform in Kraft",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/12/eu-verschaerft-asylregeln-reform-in-kraft",
-      "published_date": "2026-06-11T22:03:04+00:00",
-      "category": "Diplomacy"
+      "title": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
+      "published_date": "2026-06-15T08:49:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Russland griff Kiew mit Raketen an",
@@ -154,6 +168,13 @@
       "title": "Iran war: Pakistan announces US-Iran peace deal reached",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-pakistan-announces-us-iran-peace-deal-reached/live-77540182?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T22:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US, Iran announce tentative peace deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-iran-announce-tentative-peace-deal/live-77540182?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-14T22:31:00+00:00",
       "category": "Military"
     },
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "A major submarine deal between India and Germany reflects New Delhi's push for military self-reliance — and Berlin's interest in the Indo-Pacific.",
+      "title": "El Nino threatens livelihoods in Southeast Asia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/a-major-submarine-deal-between-india-and-germany-reflects-new-delhi-s-push-for-military-self-reliance-and-berlin-s-interest-in-the-indo-pacific/a-77503931?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T10:18:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/el-nino-threatens-livelihoods-in-southeast-asia/a-77559356?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T13:22:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Germany news: Hopes high ahead of first World Cup match",
+      "title": "Iran war: Will the global energy crisis end soon?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-hopes-high-ahead-of-first-world-cup-match/live-77535533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T10:09:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/iran-war-will-the-global-energy-crisis-end-soon/a-77554342?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T10:45:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Germany news: Hopes high ahead of first World Cup match",
+      "title": "The potential of geothermal energy for US homes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-hopes-high-ahead-of-first-world-cup-match/live-77535533?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-13T10:09:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/the-potential-of-geothermal-energy-for-us-homes/a-77098244?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T09:02:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
@@ -305,6 +326,13 @@
       "category": "Energy"
     },
     {
+      "title": "Cities work to adapt to growing heat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cities-work-to-adapt-to-growing-heat/a-77504229?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-11T14:05:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Our Warming Climate: A Pilot Project in Norway Raises Doubts about CCS Sustainability",
       "source": "Der Spiegel",
       "url": "https://www.spiegel.de/international/business/our-warming-climate-a-pilot-project-in-norway-raises-doubts-about-ccs-sustainability-a-066f9f4a-adbf-475b-b072-3015b5a370d1#ref=rss",
@@ -319,11 +347,39 @@
       "category": "Energy"
     },
     {
-      "title": "Time and Water review – Iceland’s doomed glacier tells its own story of climate disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
-      "published_date": "2026-06-08T10:00:52+00:00",
+      "title": "The climate conversation many US pastors avoid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-climate-conversation-many-us-pastors-avoid/a-77173938?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-10T07:40:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "EU trade deficit with China reaches record €1bn a day, data shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/15/eu-trade-deficit-with-china-record-1bn-a-day",
+      "published_date": "2026-06-15T14:51:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ibrahim Maza: Algeria's 'multicultural kid' from Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ibrahim-maza-algeria-s-multicultural-kid-from-berlin/a-77435644?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T13:22:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Settler products from occupied Palestine sold to Europe as Israeli, investigation finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/settler-products-from-occupied-palestine-sold-to-europe-as-israeli-investigation-finds",
+      "published_date": "2026-06-15T13:17:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India's Modi in Slovakia, seeks to strengthen trade and investment ties",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-s-modi-in-slovakia-seeks-to-strengthen-trade-and-investment-ties/a-77553213?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T08:46:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Brexit has made Britain poorer – in charts",
@@ -438,32 +494,60 @@
       "category": "Economy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260611/today-in-germany-a-roundup-of-the-latest-news-on-thursday-122",
-      "published_date": "2026-06-11T06:40:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French star Patrick Bruel charged with rape and sexual assault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/11/patrick-bruel-charged-rape-sexual-assault",
-      "published_date": "2026-06-10T23:31:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "When should couples file separate tax returns in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260610/when-should-couples-file-separate-tax-returns-in-germany",
-      "published_date": "2026-06-10T14:22:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Feuer: Über 200.000 Euro Schaden bei Scheunenbrand",
+      "title": "Rullichstraße in Essen: Flaggenmeer in Essen - WM-Party bei «Flaggen-Achim»",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/10/scheune-brennt-feuerwehr-warnt-vor-rauch",
-      "published_date": "2026-06-10T14:12:19+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-06/15/flaggenmeer-in-essen-wm-party-bei-flaggen-achim",
+      "published_date": "2026-06-15T15:49:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wheels of justice turn (very) slowly: moped stolen in 1984 returned to owner",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/stolen-moped-returned-to-owner-italy",
+      "published_date": "2026-06-15T15:39:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy says Russia ‘deliberately’ targeted Unesco site, as 11 people confirmed dead – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
+      "published_date": "2026-06-15T15:01:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verwaltungsgericht Berlin: AfD-Politiker hat keinen Anspruch auf Verbeamtung bei Kriminalpolizei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/berliner-polizist-afd-fraktionsvorsitzender-kriminalpolizei-brandenburg-verwaltungsgericht-berlin-gxe",
+      "published_date": "2026-06-15T14:27:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Son of Norway’s crown princess convicted of rape and sentenced to four years in prison",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby",
+      "published_date": "2026-06-15T13:31:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia strikes leave historic Kyiv cathedral in flames",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-strikes-leave-historic-kyiv-cathedral-in-flames/a-77551863?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T05:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia strikes leave historic Kyiv cathedral in flames",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-strikes-leave-historic-kyiv-cathedral-in-flames/a-77551863?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-15T05:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Skydiving plane crash leaves 12 people dead in Missouri",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-skydiving-plane-crash-leaves-12-people-dead-in-missouri/a-77551574?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T02:45:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vor der Landtagswahl: Linke und Grüne kritisieren CDU/AfD-Foto aus Sachsen-Anhalt",
@@ -547,62 +631,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/13/hosen-begeistern-stuttgart-zum-auftakt-ihrer-abschiedstour",
       "published_date": "2026-06-13T21:10:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn: Verkehrspolitiker fordern mehr Transparenz bei Bahnsanierungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-06/bahn-sanierung-db-verkehr-transparenz",
-      "published_date": "2026-06-13T19:35:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parteitage vor Landtagswahlen: Auf sie kommt es jetzt an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/parteitage-landtagswahl-cdu-spd-sachsen-anhalt-mecklenburg-vorpommern-afd",
-      "published_date": "2026-06-13T19:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanians protest against another luxury development on Adriatic coast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/albania-protest-luxury-development-adriatic-coast",
-      "published_date": "2026-06-13T14:34:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahlen: SPD-Spitzenkandidaten in NRW und Mecklenburg-Vorpommern gekürt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/manuela-schwesig-spd-spitzenkandidatin-landtagswahl-mecklenburg-vorpommern",
-      "published_date": "2026-06-13T12:09:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahlkampf: Aufregung um CDU/AfD-Foto aus Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/13/aufregung-um-cdu-afd-foto-aus-sachsen-anhalt",
-      "published_date": "2026-06-13T11:37:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthropic cuts top-tier AI access after US foreigner ban",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T09:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Cockroach Janta Party organizes more protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroach-janta-party-organizes-more-protests/live-77534404?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T08:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: An early World Cup mishap and a whale of a tragedy",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260613/inside-germany-an-early-world-cup-mishap-and-a-whale-of-a-tragedy",
-      "published_date": "2026-06-13T07:08:49+00:00",
       "category": "Local Events"
     }
   ]
