@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-14T12:57:56.545389+00:00",
+  "last_updated": "2026-06-15T00:02:38.029948+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Police fire tear gas at anti-G7 protesters in Geneva",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-fire-tear-gas-at-anti-g7-protesters-in-geneva/a-77548464?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T18:14:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fußball-WM 2026: Bundespräsident Steinmeier richtet sich mit Videobotschaft an DFB-Team",
       "source": "ZEIT Online",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK defence funding crisis has been a long time coming",
+      "title": "Ukraine-Krieg: Russland griff Kiew mit Raketen an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/15/russland-griff-kiew-mit-raketen-an",
+      "published_date": "2026-06-14T23:00:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Pakistan announces US-Iran peace deal reached",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-pakistan-announces-us-iran-peace-deal-reached/live-77540182?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T22:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump reportedly tells Putin he is prepared to help end war in Ukraine",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
-      "published_date": "2026-06-11T19:14:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war",
+      "published_date": "2026-06-14T19:30:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump hosts White House cage fights to mark 80th birthday",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-hosts-white-house-cage-fights-to-mark-80th-birthday/a-77546507?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T17:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK seizes suspected Russian shadow fleet tanker",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-seizes-suspected-russian-shadow-fleet-tanker/a-77545832?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T16:17:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine targets Russia's industrial facilities in massive strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-targets-russia-s-industrial-facilities-in-massive-strike/a-77542738?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T13:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sahel juntas are 'crushing' basic freedoms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T13:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Bulgaria banning arms supplies to Ukraine?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-14T12:54:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Drohnenangriffe in Russland: Ukraine greift Industrieanlagen in Russland an",
@@ -225,62 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-hopes-high-ahead-of-first-world-cup-match/live-77535533?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-13T10:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Pakistan PM says peace deal expected in 24 hours",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T09:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says deal with Iran to be signed on Sunday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-deal-with-iran-to-be-signed-on-sunday/live-77535647?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T09:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says deal to be signed on Sunday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-deal-to-be-signed-on-sunday/live-77535647?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T09:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T06:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mercenaries and high-profile defectors abound in Sudan war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mercenaries-and-high-profile-defectors-abound-in-sudan-war/a-77530527?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T06:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: E3-Botschafter treffen russischen Vizeaußenminister in Moskau",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-06-12T23:46:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German students up in arms about funding cuts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-students-up-in-arms-about-funding-cuts/a-77528594?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-12T16:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German students up in arms about funding cuts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-students-up-in-arms-about-funding-cuts/a-77528594?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T16:03:00+00:00",
       "category": "Military"
     },
     {
@@ -466,6 +466,20 @@
       "category": "Economy"
     },
     {
+      "title": "Vor der Landtagswahl: Linke und Grüne kritisieren CDU/AfD-Foto aus Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/15/linke-und-gruene-kritisieren-cdu-afd-foto-aus-sachsen-anhalt",
+      "published_date": "2026-06-14T22:18:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police stop Tommy Robinson on his way back to London from Russian trip",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/police-stop-tommy-robinson-way-back-london-from-russia",
+      "published_date": "2026-06-14T17:24:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Migration: Schweizer lehnen Bevölkerungsobergrenze ab",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/14/nein-trend-bei-schweizer-abstimmung-ueber-bevoelkerungs-grenze",
@@ -589,20 +603,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260613/inside-germany-an-early-world-cup-mishap-and-a-whale-of-a-tragedy",
       "published_date": "2026-06-13T07:08:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US, Venezuela say Tren de Aragua leader killed in strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T06:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman critically injured in shark attack at Sydney beach",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/woman-critically-injured-in-shark-attack-at-sydney-beach/a-77534097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T06:06:00+00:00",
       "category": "Local Events"
     }
   ]
