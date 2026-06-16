@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-15T16:13:17.953895+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-16T00:23:52.939107+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
+      "published_date": "2026-06-15T21:30:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU, Ukraine start formal accession talks after Orban delay",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T19:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU, Ukraine start formal accession talks after Orban delay",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-15T19:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump declares US-Iran peace deal ‘all signed’ as G7 leaders battle to tie up loose ends",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7",
+      "published_date": "2026-06-15T19:08:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spitzentreffen am Genfersee: Hoffnungsschimmer und Herausforderungen zum G7-Auftakt",
       "source": "ZEIT Online",
@@ -21,6 +49,13 @@
       "title": "Strait of Hormuz reopening won't restore normal prewar shipping any time soon",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-restore-normal-prewar-shipping-any-time-soon/a-77553214?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T15:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strait of Hormuz reopening won't end shipping risks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-15T15:25:00+00:00",
       "category": "Diplomacy"
     },
@@ -49,6 +84,13 @@
       "title": "G7: Leaders gather to grapple with wars, global economy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/g7-leaders-gather-to-grapple-with-wars-global-economy/live-77556967?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T10:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 summit begins, with Iran and Ukraine dominating agenda",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/g7-summit-begins-with-iran-and-ukraine-dominating-agenda/live-77556967?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-15T10:04:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany faces EU penalty over gender pay gap directive",
+      "title": "8 people dead after B-52 bomber crashes at US military base",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-eu-penalty-over-gender-pay-gap-directive/a-77527802?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T15:21:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/8-people-dead-after-b-52-bomber-crashes-at-us-military-base/a-77568986?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T22:53:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany faces EU penalty over gender pay gap directive",
+      "title": "Palestinian leader Abbas announces elections",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-eu-penalty-over-gender-pay-gap-directive/a-77527802?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-13T15:21:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/palestinian-leader-abbas-announces-elections/a-77566529?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T18:33:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU to ban airlines from charging parents to sit with children",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260613/eu-to-ban-airlines-from-charging-parents-to-sit-with-children",
-      "published_date": "2026-06-13T08:06:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sicherheit: Dobrindt befürchtet Drohnenangriffe auf Bundestag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/alexander-dobrindt-julia-kloeckner-drohnenabwehr-detuscher-bundestag",
-      "published_date": "2026-06-12T23:27:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, US say deal to end war 'has never been closer'",
+      "title": "UN calls for drone regulation in conflict zones",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-us-say-deal-to-end-war-has-never-been-closer/live-77520654?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T16:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/palestinian-israeli-civil-society-groups-g7-summit-gaza",
-      "published_date": "2026-06-12T16:00:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T17:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Cathedral burns at Unesco-listed Kyiv Pechersk Lavra after Russian attack",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Gold rush atmosphere at Berlin's military air trade show",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gold-rush-atmosphere-at-berlin-s-military-air-trade-show/a-77538303?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T17:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehr in Litauen: Sie wollen kriegstüchtig werden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundeswehr-litauen-brigade-christiand-freuding-nato",
-      "published_date": "2026-06-13T12:19:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why India wants German submarines – and what Pakistan and China have to do with it",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-india-wants-german-submarines-and-what-pakistan-and-china-have-to-do-with-it/a-77503931?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T10:18:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Nino threatens livelihoods in Southeast Asia",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/el-nino-threatens-livelihoods-in-southeast-asia/a-77559356?maca=en-rss-en-all-1573-rdf",
@@ -294,6 +294,13 @@
       "title": "Iran war: Will the global energy crisis end soon?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-will-the-global-energy-crisis-end-soon/a-77554342?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-15T10:45:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "US-Iran deal: When will oil prices fall?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-iran-deal-when-will-oil-prices-fall/a-77554342?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-15T10:45:00+00:00",
       "category": "Energy"
     },
@@ -494,6 +501,20 @@
       "category": "Economy"
     },
     {
+      "title": "Bonnie Tyler now out of coma but remains in intensive care in Portugal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal",
+      "published_date": "2026-06-15T22:50:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian police dismantle illicit bank used by drug traffickers as global broker",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/italian-police-dismantle-illicit-bank-used-by-drug-traffickers-as-global-broker",
+      "published_date": "2026-06-15T18:31:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Rullichstraße in Essen: Flaggenmeer in Essen - WM-Party bei «Flaggen-Achim»",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/15/flaggenmeer-in-essen-wm-party-bei-flaggen-achim",
@@ -617,20 +638,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/14/spd-politiker-beck-sehe-parallelen-zur-weimarer-republik",
       "published_date": "2026-06-13T23:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast: Thousands denounce violence at anti-racism rally",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belfast-thousands-denounce-violence-at-anti-racism-rally/a-77539568?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-13T21:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Musik: Hosen begeistern Stuttgart zum Auftakt ihrer Abschiedstour",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/13/hosen-begeistern-stuttgart-zum-auftakt-ihrer-abschiedstour",
-      "published_date": "2026-06-13T21:10:21+00:00",
       "category": "Local Events"
     }
   ]
