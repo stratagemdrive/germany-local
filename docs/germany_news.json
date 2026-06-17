@@ -1,8 +1,78 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-17T00:10:49.336499+00:00",
-  "story_count": 94,
+  "last_updated": "2026-06-17T14:23:57.612964+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates",
+      "published_date": "2026-06-17T14:19:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Évian-les-Bains: Friedrich Merz hebt »starke« G7-Unterstützung für Ukraine hervor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/g7-evian-genf-proteste",
+      "published_date": "2026-06-17T14:06:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diplomats and abuse — chipping at the shield of immunity",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shield-of-immunity/a-77575633?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T14:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU lawmakers give final approval for deportation centres outside bloc",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260617/eu-lawmakers-approve-return-hubs-migration-reform",
+      "published_date": "2026-06-17T13:42:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7-Gipfel: Bundeskanzler Merz lobt »klare Botschaft« der G7-Staaten an Russland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-06/g7-gipfel-friedrich-merz-russland-sanktionen-ruestung",
+      "published_date": "2026-06-17T13:36:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "I’ll resume bombing if Iran acts up, Trump warns after criticism of deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/17/trump-g7-leaders-iran-missile-programme-ukraine",
+      "published_date": "2026-06-17T13:01:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO chief focuses on alliance unity after US alters pledges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-chief-focuses-on-alliance-unity-after-us-alters-pledges/a-77588556?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Ministers discuss refugee deportation rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-ministers-discuss-refugee-deportation-rules/live-77584367?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T09:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour came to power with no big idea for relations with EU, says former top diplomat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/17/labour-came-to-power-with-no-big-idea-for-relations-with-eu-says-former-top-diplomat",
+      "published_date": "2026-06-17T09:27:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 vows new Russia sanctions amid optimism for Ukraine peace",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/g7-vows-new-russia-sanctions-amid-optimism-for-ukraine-peace/a-77583434?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T03:53:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spitzentreffen in Évian: G7-Staaten kündigen neue Sanktionen gegen Russland an",
       "source": "ZEIT Online",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Zelenskyy thanks G7 leaders for ‘strong ideas on how to force Russia into peace’ – as it happened",
+      "title": "‘Very naive’: French left up in arms as Macron hosts Trump at Versailles",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/16/g7-world-leaders-ukraine-russia-war-iran-trump-zelenskyy-putin-eu-france-eu-europe-latest-news-updates",
-      "published_date": "2026-06-16T15:00:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/17/french-reaction-macron-host-trump-versailles",
+      "published_date": "2026-06-17T14:08:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Most beaches in Europe offer 'excellent' water quality, study says",
+      "title": "Labour MP pushes Burnham to launch leadership bid ‘really quickly’ after Makerfield byelection result – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates",
+      "published_date": "2026-06-17T14:02:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Faith, belonging, survival – and now destruction: a photographic account of Kyiv’s Pechersk Lavra monastery before Russia’s attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/jun/17/kyiv-pechersk-lavra-monastery-before-russia-attack-in-pictures",
+      "published_date": "2026-06-17T13:49:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We don’t want world war three’: yacht couple call for calm after Russian warning shots",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/17/british-yacht-couple-russian-warning-shots",
+      "published_date": "2026-06-17T13:45:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's hardliners fear being sidelined in US deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-s-hardliners-fear-being-sidelined-in-us-deal/a-77589196?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T12:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland and Germany to sign scaled down defence deals",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260616/most-beaches-in-europe-offer-excellent-water-quality-study-says",
-      "published_date": "2026-06-16T14:22:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German chancellor Merz gives Trump football shirt gift at G7 – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/16/german-chancellor-merz-gifts-trump-football-shirt-at-g7-video",
-      "published_date": "2026-06-16T12:18:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Germany and Poland rebooted relations 35 years ago",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-16T11:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Germany and Poland rebooted relations 35 years ago",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T11:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Germany and Poland rebooted relations 35 years ago",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-16T11:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian artist critical of Putin shot dead in Poland",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-artist-critical-of-putin-shot-dead-in-poland/a-77576814?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T11:25:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz: Who are his international allies?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-who-are-his-international-allies/a-77577111?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-16T11:24:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz: Who are his international allies?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-who-are-his-international-allies/a-77577111?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T11:24:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diplomats and abuse — chipping at the shied of immunity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shied-of-immunity/a-77575633?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T11:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260617/poland-and-germany-to-sign-scaled-down-defence-deals",
+      "published_date": "2026-06-17T07:07:49+00:00",
+      "category": "Military"
     },
     {
       "title": "US, Iran, Hezbollah spar over murky terms of ceasefire deal",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "8 people dead after B-52 bomber crashes at US military base",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/8-people-dead-after-b-52-bomber-crashes-at-us-military-base/a-77568986?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-15T22:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian leader Abbas announces elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/palestinian-leader-abbas-announces-elections/a-77566529?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-15T18:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN calls for drone regulation in conflict zones",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-15T17:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cathedral burns at Unesco-listed Kyiv Pechersk Lavra after Russian attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/15/dormiton-cathedral-burns-unesco-kyiv-pechersk-lavra-russian-attack",
-      "published_date": "2026-06-15T11:55:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
-      "published_date": "2026-06-15T08:49:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Russland griff Kiew mit Raketen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/15/russland-griff-kiew-mit-raketen-an",
-      "published_date": "2026-06-14T23:00:03+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sigh of relief in Africa as the Strait of Hormuz 'reopens'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/sigh-of-relief-in-africa-as-the-strait-of-hormuz-reopens/a-77564378?maca=en-rss-en-all-1573-rdf",
@@ -368,18 +368,32 @@
       "category": "Energy"
     },
     {
-      "title": "Why pastors hesitate to talk climate in US churches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-pastors-hesitate-to-talk-climate-in-us-churches/a-77173938?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T07:40:00+00:00",
-      "category": "Energy"
+      "title": "Senior betrogen: Betrüger erbeuten mehr als 10.000 Euro mit Schockanruf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/17/betrueger-erbeuten-mehr-als-10-000-euro-mit-schockanruf",
+      "published_date": "2026-06-17T14:01:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The climate conversation many US pastors avoid",
+      "title": "Everything that changes in Germany in July 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260617/everything-that-changes-in-germany-in-july-2026",
+      "published_date": "2026-06-17T12:08:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Your Fault: London review – British-set remake of Spanish step-sibling romance lacks passion or fizz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/17/your-fault-london-review-british-set-remake-of-spanish-step-sibling-romance-lacks-passion-or-fizz",
+      "published_date": "2026-06-17T10:00:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "G7: Leaders discuss economy, AI security risks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-climate-conversation-many-us-pastors-avoid/a-77173938?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-10T07:40:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/g7-leaders-discuss-economy-ai-security-risks/live-77556967?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T05:01:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany's economic outlook improves on promise of US-Iran peace deal",
@@ -494,32 +508,74 @@
       "category": "Economy"
     },
     {
-      "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-12T08:31:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-12T08:31:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The UK defence minister's shock resignation is a warning for all of Europe | Paul Taylor",
+      "title": "The tiny pony on the fourth floor of a Croatian flat – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/uk-defence-minister-shock-resignation-warning-europe",
-      "published_date": "2026-06-11T17:20:50+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/17/the-tiny-pony-on-the-fourth-floor-of-a-croatian-flat-video",
+      "published_date": "2026-06-17T14:14:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FBAR: What Americans in Germany need to know about declaring bank accounts",
+      "title": "Brief ans Kanzleramt: Häfen und Länder drängen Kanzleramt bei Hafenfinanzierung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/17/haefen-und-laender-draengen-kanzleramt-bei-hafenfinanzierung",
+      "published_date": "2026-06-17T14:10:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milan tram drivers ‘used WhatsApp for sexist chat about female passengers’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/17/milan-tram-drivers-used-whatsapp-for-sexist-chat-about-female-passengers",
+      "published_date": "2026-06-17T12:34:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I don’t want Europe to fail the way Turkey did’: Ece Temelkuran on fascism, death threats and life in exile",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/17/ece-temelkuran-turkey-fascism-death-threats-exile",
+      "published_date": "2026-06-17T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavarian top court rules state spy agency can monitor AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bavarian-top-court-rules-state-spy-agency-can-monitor-afd/a-77586106?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-17T09:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavarian top court rules state spy agency can monitor AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bavarian-top-court-rules-state-spy-agency-can-monitor-afd/a-77586106?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T09:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lost for years, the music of The Tiger Who Came to Tea author’s mother is heard again",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/17/julia-kerr-music-mother-tiger-who-came-to-tea-author-judith",
+      "published_date": "2026-06-17T07:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260611/fbar-what-americans-in-germany-need-to-know-about-declaring-bank-accounts",
-      "published_date": "2026-06-11T14:27:07+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260617/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-125",
+      "published_date": "2026-06-17T06:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil: Court convicts Bolsonaro's son over US lobbying",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-court-convicts-bolsonaro-s-son-over-us-lobbying/a-77583717?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T05:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 charged in plot to attack Trump's UFC event, DOJ says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/5-charged-in-plot-to-attack-trump-s-ufc-event-doj-says/a-77583097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-17T01:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kriegswaffen: Landminen verseuchen laut Uno mindestens 58 Länder und Gebiete",
@@ -589,76 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/leipzig-bach-festival-encouraging-dialog/a-77571933?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-16T09:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig Bach festival: Encouraging dialog",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/leipzig-bach-festival-encouraging-dialog/a-77571933?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T09:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia hit by 6.7 magnitude earthquake",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indonesia-hit-by-6-7-magnitude-earthquake/a-77571245?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T07:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260616/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-128",
-      "published_date": "2026-06-16T06:40:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nightwatchers review – desperate struggle of migrant crisis under surface of picture-postcard ski resort",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/16/nightwatchers-review",
-      "published_date": "2026-06-16T06:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bonnie Tyler now out of coma but remains in intensive care in Portugal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal",
-      "published_date": "2026-06-15T22:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian police dismantle illicit bank used by drug traffickers as global broker",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/italian-police-dismantle-illicit-bank-used-by-drug-traffickers-as-global-broker",
-      "published_date": "2026-06-15T18:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rullichstraße in Essen: Flaggenmeer in Essen - WM-Party bei «Flaggen-Achim»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/15/flaggenmeer-in-essen-wm-party-bei-flaggen-achim",
-      "published_date": "2026-06-15T15:49:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wheels of justice turn (very) slowly: moped stolen in 1984 returned to owner",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/stolen-moped-returned-to-owner-italy",
-      "published_date": "2026-06-15T15:39:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelenskyy says Russia ‘deliberately’ targeted Unesco site, as 11 people confirmed dead – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
-      "published_date": "2026-06-15T15:01:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verwaltungsgericht Berlin: AfD-Politiker hat keinen Anspruch auf Verbeamtung bei Kriminalpolizei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/berliner-polizist-afd-fraktionsvorsitzender-kriminalpolizei-brandenburg-verwaltungsgericht-berlin-gxe",
-      "published_date": "2026-06-15T14:27:21+00:00",
       "category": "Local Events"
     }
   ]
