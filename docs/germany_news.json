@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-16T15:49:48.390407+00:00",
+  "last_updated": "2026-06-17T00:10:49.336499+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Spitzentreffen in Évian: G7-Staaten kündigen neue Sanktionen gegen Russland an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/17/g7-staaten-kuendigen-neue-sanktionen-gegen-russland-an",
+      "published_date": "2026-06-16T23:56:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7-Gipfel in Frankreich: G7-Staaten kündigen neue Sanktionen gegen Russland an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/g7-gipfel-frankreich-sanktionen-russland-ukraine-donald-trump",
+      "published_date": "2026-06-16T23:38:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spitzentreffen in Évian: G7 wollen mit neuen Sanktionen Druck auf Russland erhöhen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/17/g7-wollen-mit-neuen-sanktionen-druck-auf-russland-erhoehen",
+      "published_date": "2026-06-16T22:53:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer’s waning influence is apparent at awkward G7 summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/16/keir-starmer-waning-influence-g7-summit",
+      "published_date": "2026-06-16T17:46:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CRISPR gene-editing for crops: Precision tool or new risk?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/crispr-gene-editing-for-crops-precision-tool-or-new-risk/a-77579053?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-16T17:44:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU and UK announce summit to discuss ‘reset’ in post-Brexit relations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/16/eu-uk-announce-summit-reset-post-brexit-relations",
+      "published_date": "2026-06-16T17:02:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7: Trump says Russia should 'make a deal' on Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/g7-trump-says-russia-should-make-a-deal-on-ukraine/live-77556967?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-16T16:06:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "G7-Gipfel: G7 will Druck auf Russland erhöhen",
       "source": "ZEIT Online",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Population shrinks for first time since COVID-induced dip in 2020",
+      "title": "US, Iran, Hezbollah spar over murky terms of ceasefire deal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-population-shrinks-for-first-time-since-covid-induced-dip-in-2020/live-77574042?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-16T11:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-16T23:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Population shrinks for first time since COVID-induced dip in 2020",
+      "title": "Russian ship fires warning shots at British yacht in Channel",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-population-shrinks-for-first-time-since-covid-induced-dip-in-2020/live-77574042?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T11:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russian-ship-fires-warning-shots-at-british-yacht-in-channel/a-77581943?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-16T18:47:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What Europe's new deal for airline passenger rights means for you",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260616/what-europes-new-deal-for-airline-passenger-rights-means-for-you",
-      "published_date": "2026-06-16T09:31:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 summit: Ukraine and Iran lead agenda",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/g7-summit-ukraine-and-iran-lead-agenda/live-77556967?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T07:06:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EV prices in UK and EU not likely to dive due to Chinese rivalry, says Xpeng boss",
+      "title": "The Guardian view on defending Europe in a new era: collaboration is the key | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/16/ev-prices-uk-eu-chinese-car-firm-xpeng",
-      "published_date": "2026-06-16T05:00:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/16/the-guardian-view-on-defending-europe-in-a-new-era-collaboration-is-key",
+      "published_date": "2026-06-16T17:49:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
+      "title": "Why did a Russian frigate fire warning shots and what can the UK do about it?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
-      "published_date": "2026-06-15T21:30:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/16/why-did-a-russian-frigate-fire-on-a-yacht-and-what-can-the-uk-do-about-it",
+      "published_date": "2026-06-16T17:47:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU, Ukraine start formal accession talks after Orban delay",
+      "title": "Can Trump be convinced to back Ukraine? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/jun/16/can-trump-be-convinced-to-back-ukraine-the-latest",
+      "published_date": "2026-06-16T17:12:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France to ditch Palantir’s AI data tools in favour of domestic provider",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+      "published_date": "2026-06-16T17:08:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The scramble to convince Trump to back Ukraine – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/audio/2026/jun/16/the-scramble-to-convince-trump-to-back-ukraine-the-latest",
+      "published_date": "2026-06-16T16:28:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Failed joint jet project highlights Europe's defense dilemma",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-15T19:42:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/failed-joint-jet-project-highlights-europe-s-defense-dilemma/a-77572732?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-16T16:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Failed joint jet project highlights Europe's defense dilemma",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/failed-joint-jet-project-highlights-europe-s-defense-dilemma/a-77572732?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-16T16:03:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan raises defense spending amid regional conflicts",
@@ -154,6 +217,13 @@
       "title": "Does the Iran war diminish US superpower status?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/does-the-iran-war-diminish-us-superpower-status/a-77577337?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-16T12:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the Iran war weakening the US' superpower status?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-the-iran-war-weakening-the-us-superpower-status/a-77577337?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-16T12:27:00+00:00",
       "category": "Military"
     },
@@ -211,76 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/15/russland-griff-kiew-mit-raketen-an",
       "published_date": "2026-06-14T23:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Pakistan announces US-Iran peace deal reached",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-pakistan-announces-us-iran-peace-deal-reached/live-77540182?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T22:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US, Iran announce tentative peace deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-iran-announce-tentative-peace-deal/live-77540182?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T22:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump reportedly tells Putin he is prepared to help end war in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war",
-      "published_date": "2026-06-14T19:30:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump hosts White House cage fights to mark 80th birthday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-hosts-white-house-cage-fights-to-mark-80th-birthday/a-77546507?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T17:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK seizes suspected Russian shadow fleet tanker",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-seizes-suspected-russian-shadow-fleet-tanker/a-77545832?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T16:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine targets Russia's industrial facilities in massive strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-targets-russia-s-industrial-facilities-in-massive-strike/a-77542738?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T13:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sahel juntas are 'crushing' basic freedoms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T13:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Bulgaria banning arms supplies to Ukraine?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-14T12:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drohnenangriffe in Russland: Ukraine greift Industrieanlagen in Russland an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-drohnenangriffe-russland-tula-chemiefabrik-jaroslawl",
-      "published_date": "2026-06-14T12:21:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia is losing the war in Ukraine, and Putin is desperate. But that’s when he’s at his most dangerous | Simon Tisdall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/vladimir-putin-ukraine-war-borders-russian-president",
-      "published_date": "2026-06-14T07:00:36+00:00",
       "category": "Military"
     },
     {
@@ -522,6 +522,34 @@
       "category": "Economy"
     },
     {
+      "title": "Kriegswaffen: Landminen verseuchen laut Uno mindestens 58 Länder und Gebiete",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/landminen-58-laender-uno-bericht",
+      "published_date": "2026-06-16T23:44:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran: Irans Justiz plant laut Bericht Strafen für regimekritische WM-Fans",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/iran-strafe-wm-fans-proteste-neuseeland",
+      "published_date": "2026-06-16T23:10:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vor Bund-Länder-Treffen: Innenminister: Hürden für Abschiebung von Straftätern senken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/17/innenminister-huerden-fuer-abschiebung-von-straftaetern-senken",
+      "published_date": "2026-06-16T22:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abdullah Ibrahim obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jun/16/abdullah-ibrahim-obituary",
+      "published_date": "2026-06-16T16:25:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Atommüll: Deutschland nimmt letzte Castoren aus dem Ausland zurück",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-06/castor-transport-atommuell-sellafield-brunsbuettel-brokdorf",
@@ -631,34 +659,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-06/berliner-polizist-afd-fraktionsvorsitzender-kriminalpolizei-brandenburg-verwaltungsgericht-berlin-gxe",
       "published_date": "2026-06-15T14:27:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son of Norway’s crown princess convicted of rape and sentenced to four years in prison",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby",
-      "published_date": "2026-06-15T13:31:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's working-age population set to shrink dramatically",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260615/germanys-working-age-population-set-to-shrink-dramatically",
-      "published_date": "2026-06-15T10:57:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cult Berlin fast food chain Burgermeister to open in Vienna",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260615/cult-berlin-fast-food-chain-burgermeister-to-open-in-vienna",
-      "published_date": "2026-06-15T08:53:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin's newest S-Bahn line launches to cut travel times to Hauptbahnhof",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260615/berlins-newest-s-bahn-line-launches-to-cut-travel-times-to-hauptbahnhof",
-      "published_date": "2026-06-15T08:39:22+00:00",
       "category": "Local Events"
     }
   ]
