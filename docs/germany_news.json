@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-18T13:59:47.581950+00:00",
-  "story_count": 91,
+  "last_updated": "2026-06-19T00:20:32.298397+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: EU verlängert Russland-Sanktionen erstmals um zwölf Monate",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/18/eu-verlaengert-russland-sanktionen-erstmals-um-zwoelf-monate",
+      "published_date": "2026-06-18T23:29:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Ärger bei EU-Gipfel um Russland-Initiative Costas",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/19/aerger-bei-eu-gipfel-um-russland-initiative-costas",
+      "published_date": "2026-06-18T23:23:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU summit: Leaders discuss Ukraine, global issues",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-summit-leaders-discuss-ukraine-global-issues/live-77613962?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T22:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainekrieg: EU-Länder wollen Russlandsanktionen um zwölf Monate verlängern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-krieg-sanktionen-eu-russland-zwoelf-monate",
+      "published_date": "2026-06-18T21:37:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Cynical to get power’: Michel Barnier on Boris Johnson, Brexit and the EU’s future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/18/michel-barnier-reflects-on-boris-brexit-and-the-eu-future",
+      "published_date": "2026-06-18T18:00:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK could keep special pre-Brexit terms if it rejoined EU, Michel Barnier says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/18/uk-could-keep-special-pre-brexit-terms-if-it-rejoined-eu-michel-barnier-says",
+      "published_date": "2026-06-18T18:00:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel says it's cutting ties to EU's Kaja Kallas",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas/a-77605930?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T15:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel says it's cutting ties to EU's Kaja Kallas",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas/a-77605930?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-18T15:08:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "India news: Telegram is 'like Frankenstein,' government says",
       "source": "Deutsche Welle",
@@ -53,6 +109,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany news: Minister weighs cuts to UN contributions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-minister-weighs-cuts-to-un-contributions/live-77599561?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-18T09:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Minister weighs cuts to UN contributions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-minister-weighs-cuts-to-un-contributions/live-77599561?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T09:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Germany's foreign minister: 'European unity is decisive'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-foreign-minister-european-unity-is-decisive/a-77594952?maca=en-rss-en-ger-1023-rdf",
@@ -74,74 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron hails US alignment with G7’s ‘shared commitment’ on Ukraine",
+      "title": "Pete Hegseth accuses Nato countries of ‘free riding’ in combative address",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/17/macron-hails-us-alignment-with-g7s-shared-commitment-on-ukraine",
-      "published_date": "2026-06-17T17:26:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/pete-hegseth-accuses-nato-countries-free-riding-europe",
+      "published_date": "2026-06-18T18:23:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer warns against ‘looking backwards’ to Brexit after rivals back UK’s return to EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/starmer-brexit-return-to-eu-g7-summit-labour-manifesto",
-      "published_date": "2026-06-17T16:00:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU, G7 pledge support amid DRC Ebola outbreak",
+      "title": "Strait of Hormuz: German military prepares for possible deployment",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-g7-pledge-support-amid-drc-ebola-outbreak/a-77588901?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T15:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/strait-of-hormuz-german-military-prepares-for-possible-deployment/a-77613999?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-18T15:27:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "CRISPR gene-editing for crops: Precision tool or new risk?",
+      "title": "Strait of Hormuz: German military prepares for possible deployment",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/crispr-gene-editing-for-crops-precision-tool-or-new-risk/a-77579053?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T14:29:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates",
-      "published_date": "2026-06-17T14:19:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Évian-les-Bains: Friedrich Merz hebt »starke« G7-Unterstützung für Ukraine hervor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/g7-evian-genf-proteste",
-      "published_date": "2026-06-17T14:06:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diplomats and abuse — chipping at the shield of immunity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shield-of-immunity/a-77575633?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T14:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU lawmakers give final approval for deportation centres outside bloc",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260617/eu-lawmakers-approve-return-hubs-migration-reform",
-      "published_date": "2026-06-17T13:42:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7-Gipfel: Bundeskanzler Merz lobt »klare Botschaft« der G7-Staaten an Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-06/g7-gipfel-friedrich-merz-russland-sanktionen-ruestung",
-      "published_date": "2026-06-17T13:36:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "I’ll resume bombing if Iran acts up, Trump warns after criticism of deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/17/trump-g7-leaders-iran-missile-programme-ukraine",
-      "published_date": "2026-06-17T13:01:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/strait-of-hormuz-german-military-prepares-for-possible-deployment/a-77613999?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T15:27:00+00:00",
+      "category": "Military"
     },
     {
       "title": "‘If Ukraine burns, your Moscow will burn,’ Zelenskyy warns after overnight strikes in Russia – Europe live",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "‘We don’t want world war three’: yacht couple call for calm after Russian warning shots",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/17/british-yacht-couple-russian-warning-shots",
-      "published_date": "2026-06-17T13:45:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's hardliners fear being sidelined in US deal",
+      "title": "Oil nations on edge in the face of new climate coalition",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-s-hardliners-fear-being-sidelined-in-us-deal/a-77589196?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T12:36:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-18T14:42:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Poland and Germany to sign scaled down defence deals",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260617/poland-and-germany-to-sign-scaled-down-defence-deals",
-      "published_date": "2026-06-17T07:07:49+00:00",
-      "category": "Military"
+      "title": "Oil nations on edge in the face of new climate coalition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T14:42:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "US-Iran talks: Hope and skepticism in the Swiss alps",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-iran-talks-hope-and-skepticism-in-the-swiss-alps/a-77610766?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T14:12:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sigh of relief in Africa as the Strait of Hormuz 'reopens'",
@@ -347,18 +368,11 @@
       "category": "Energy"
     },
     {
-      "title": "As the world heats up, cities work to cool down",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-the-world-heats-up-cities-work-to-cool-down/a-77504229?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T14:05:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cities work to adapt to growing heat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cities-work-to-adapt-to-growing-heat/a-77504229?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-11T14:05:00+00:00",
-      "category": "Energy"
+      "title": "Americans in Germany: Immigration numbers, the World Cup and finding a tax advisor",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260618/americans-in-germany-immigration-numbers-the-world-cup-and-finding-a-tax-advisor",
+      "published_date": "2026-06-18T15:09:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Senior betrogen: Betrüger erbeuten mehr als 10.000 Euro mit Schockanruf",
@@ -494,11 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "Spain’s former PM faces tax fraud inquiry as police find €1.3m of jewellery",
+      "title": "What did Ukraine target in Moscow and how significant was the drone attack?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/former-spain-pm-zapatero-faces-tax-fraud-inquiry",
-      "published_date": "2026-06-12T14:12:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/18/what-did-ukraine-target-in-moscow-and-how-significant-was-the-drone-attack",
+      "published_date": "2026-06-18T16:34:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Ivory Coast's Elye Wahi denied entry to Canada",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/world-cup-ivory-coast-s-elye-wahi-denied-entry-to-canada/a-77611710?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-18T15:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger at ‘send them back’ chants by rightwing MEPs after EU migration law vote",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/18/anger-send-them-back-chants-rightwing-meps-eu-migration-law-vote",
+      "published_date": "2026-06-18T14:41:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rightwing MEPs chant 'send them back' after controversial deportation plans are passed – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/18/rightwing-meps-chant-send-them-back-deportation-plans-passed-video",
+      "published_date": "2026-06-18T14:33:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Schusswaffen in Berlin: Erneut Razzia gegen türkische Erpresser-Mafia in Berlin",
@@ -610,34 +645,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-06/wm-2026-england-kroatien",
       "published_date": "2026-06-17T22:43:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl: Pantisano zu Kooperation mit CDU in Sachsen-Anhalt bereit",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/18/pantisano-zu-kooperation-mit-cdu-in-sachsen-anhalt-bereit",
-      "published_date": "2026-06-17T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU lawmakers approve new tougher migrant policy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-lawmakers-approve-new-tougher-migrant-policy/a-77595342?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T19:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
-      "published_date": "2026-06-17T18:27:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Reports of antisemitism in 2025 remain high",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-reports-of-antisemitism-in-2025-remain-high/a-77593695?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-17T17:41:00+00:00",
       "category": "Local Events"
     }
   ]
