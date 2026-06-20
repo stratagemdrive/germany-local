@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-19T13:58:35.412603+00:00",
+  "last_updated": "2026-06-20T00:01:48.179095+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Poland's president strips Zelenskyy of top honor",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-s-president-strips-zelenskyy-of-top-honor/a-77632926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-19T21:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU ban on BPA chemical in food packaging takes effect",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-ban-on-bpa-chemical-in-food-packaging-takes-effect/a-77630680?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-19T17:09:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/19/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-06-19T17:06:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German journalist detained in Syria back home, lawyer says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-journalist-detained-in-syria-back-home-lawyer-says/a-77631412?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-19T17:06:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German journalist detained in Syria back home, lawyer says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-journalist-detained-in-syria-back-home-lawyer-says/a-77631412?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-19T17:06:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Neither I nor Italy ever beg': Giorgia Meloni rejects Trump's claim she begged for a photo – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/19/giorgia-meloni-rejects-donald-trump-claim-begged-photo-video",
+      "published_date": "2026-06-19T16:26:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy PM Meloni ‘stunned’ by Trump’s claims she begged him for a photo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo",
+      "published_date": "2026-06-19T14:10:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Italian PM Meloni says she was ‘astonished’ by Trump claims that she ‘begged’ him for a photo - Europe live",
       "source": "The Guardian",
@@ -95,53 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "India news: Telegram is 'like Frankenstein,' government says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T13:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leading figures from Eton college to attend rightwing London summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/18/leading-figures-eton-college-attend-rightwing-london-summit-alliance-for-responsible-citizenship",
-      "published_date": "2026-06-18T13:45:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Outlook is grim for Merz's coalition government amid far-right gains",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260618/outlook-is-grim-for-merzs-coalition-government-amid-far-right-gains",
-      "published_date": "2026-06-18T13:38:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Großbritannien und die EU: Dingdong! Wir sind wieder da!",
+      "title": "Ukraine: Polen entzieht Wolodymyr Selenskyj höchsten Landesorden",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/2026-06/grossbritannien-eu-beziehungen-brexit-rueckkehr",
-      "published_date": "2026-06-18T13:18:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Tough work but worth it': Merz hails success of G7 summit",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260618/tough-work-but-worth-it-merz-hails-success-of-g7-summit",
-      "published_date": "2026-06-18T13:09:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Choppy waters ahead as Iceland gets ready for its own EU referendum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/17/choppy-waters-ahead-as-iceland-gets-ready-for-eu-referendum",
-      "published_date": "2026-06-18T11:30:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: 'Germany wants to be respected' - minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-germany-wants-to-be-respected-minister/live-77599561?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T09:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-polen-weltkriegsvergangenheit-armee-upa-selenskyj-weisser-adler-orden",
+      "published_date": "2026-06-19T22:50:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Months of war fundamentally change Iran-Gulf ties",
@@ -263,24 +270,17 @@
       "category": "Military"
     },
     {
+      "title": "Burnham says he wants to ensure Makerfield byelection ‘changes British politics’, in eve-of-poll speech – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates",
+      "published_date": "2026-06-17T17:00:27+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Why did Russian warship fire warning shots in the Channel? – The Latest",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/video/2026/jun/17/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest",
       "published_date": "2026-06-17T16:47:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warship fires warning shot at British couple – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/17/russia-warship-fires-warning-shot-british-couple-the-latest",
-      "published_date": "2026-06-17T16:11:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Very naive’: French left up in arms as Macron hosts Trump at Versailles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/17/french-reaction-macron-host-trump-versailles",
-      "published_date": "2026-06-17T14:08:59+00:00",
       "category": "Military"
     },
     {
@@ -536,6 +536,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany's Left Party is dreaming big",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-19T12:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Left Party is dreaming big",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-19T12:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bologna’s niche festival of forgotten films captures the streaming generation",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/jun/19/bologna-italy-festival-forgotten-films-il-cinema-ritrovato",
@@ -631,20 +645,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-06/arbeitszeitgesetz-flexibilisierung-wochenarbeitszeit-tarifvertraege-cdu-gxe",
       "published_date": "2026-06-18T13:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
-      "published_date": "2026-06-18T13:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niger security forces battle gunmen at airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/niger-security-forces-battle-gunmen-at-airport/a-77606109?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T12:07:00+00:00",
       "category": "Local Events"
     }
   ]
