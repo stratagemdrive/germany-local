@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-20T12:24:21.753898+00:00",
+  "last_updated": "2026-06-20T23:59:55.196513+00:00",
   "story_count": 93,
   "stories": [
     {
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Are Ukraine drones really exposing gaps in Russia's defense?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-20T18:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are Ukraine drones really exposing gaps in Russia's defense?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-20T18:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy returns Poland's highest honor as row deepens",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-20T13:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy returns Poland's highest honor as row deepens",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-20T13:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says it's closing Strait of Hormuz again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-says-it-s-closing-strait-of-hormuz-again/live-77634368?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-20T11:25:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Even in this age of what Mark Carney calls global rupture, do not despair: there is still hope for international law | Nathalie Tocci",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Live updates: Trump signs interim agreement to end Iran war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/live-updates-trump-signs-interim-agreement-to-end-iran-war/live-77596195?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T23:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, Pezeshkian sign deal to end Iran war, reopen Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-pezeshkian-sign-deal-to-end-iran-war-reopen-hormuz/live-77596195?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T23:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Read: US officials release 14-point initial agreement to end war with Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/read-us-officials-release-14-point-initial-agreement-to-end-war-with-iran/a-77595563?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T21:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
-      "published_date": "2026-06-17T18:47:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Trump could restart Iran war if deal not signed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-trump-could-restart-iran-war-if-deal-not-signed/live-77593730?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T17:18:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
@@ -373,6 +373,13 @@
       "url": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
       "published_date": "2026-06-14T10:00:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
+      "published_date": "2026-06-20T18:55:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "BMW: BMW bereitet Gespräche mit Betriebsrat über Sparprogramm vor",
@@ -508,11 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "How Brexit has made Britain poorer – in charts",
+      "title": "Terror police probe suspected anti-Muslim attacks in Edinburgh",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/terror-police-probe-suspected-anti-muslim-attacks-in-edinburgh/a-77639385?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-20T18:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terror police probe suspected anti-Muslim attacks in Edinburgh",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/terror-police-probe-suspected-anti-muslim-attacks-in-edinburgh/a-77639385?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-20T18:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: PM's wife must face corruption trial, judge rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-20T17:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: PM's wife must face corruption trial, judge rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-20T17:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
-      "published_date": "2026-06-14T05:00:34+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
+      "published_date": "2026-06-20T16:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rail worker killed in German freight train collision",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260620/rail-worker-killed-in-german-freight-train-collision",
+      "published_date": "2026-06-20T14:27:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Berlin-Reinickendorf: Maskierte Räuber stehlen Mann Handy und Geld",
@@ -610,48 +652,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260619/four-reasons-to-visit-a-german-wine-fest-this-summer",
       "published_date": "2026-06-19T14:18:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Basketball-Bundesliga: Jemarl Baker Jr. erster Neuzugang bei Science City Jena",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/19/jemarl-baker-jr-erster-neuzugang-bei-science-city-jena",
-      "published_date": "2026-06-19T13:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police release man arrested in crocodile-toddler incident",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-police-release-man-arrested-in-crocodile-toddler-incident/a-77627581?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-19T13:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's post-communist Left Party is dreaming big",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-post-communist-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-19T12:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's post-communist Left Party is dreaming big",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-post-communist-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-19T12:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Left Party is dreaming big",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-19T12:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Left Party is dreaming big",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-19T12:28:00+00:00",
       "category": "Local Events"
     }
   ]
