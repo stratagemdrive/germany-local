@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-20T23:59:55.196513+00:00",
+  "last_updated": "2026-06-21T13:02:30.989594+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "‘This changes everything’: how Brexit altered Scotland’s political landscape",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/this-changes-everything-how-brexit-altered-scotland-political-landscape",
+      "published_date": "2026-06-21T11:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "published_date": "2026-06-21T05:00:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pharmaindustrie: Merz Pharma investiert mehr als 100 Millionen Euro in Dessau",
       "source": "ZEIT Online",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU summit: Merz calls for cuts to 'too high' long-term budget",
+      "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-summit-merz-calls-for-cuts-to-too-high-long-term-budget/live-77613962?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-19T10:18:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T08:50:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Baerbock: 'Germany team is an example to Germany's kids'",
+      "title": "US, Iran hold talks in Switzerland while Strait of Hormuz remains shut",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/baerbock-germany-team-is-an-example-to-germany-s-kids/a-77617935?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-19T02:34:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-iran-hold-talks-in-switzerland-while-strait-of-hormuz-remains-shut/live-77641405?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T00:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Are Ukraine drones really exposing gaps in Russia's defense?",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia, Ukraine trade strikes as Zelenskyy talks with Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-ukraine-trade-strikes-as-zelenskyy-talks-with-trump/a-77597307?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T06:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine bolsters its northern defences amid fears Belarus is being dragged into war",
+      "title": "How Europe’s EV makers shrank their product to challenge the bloated SUVs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/18/ukraine-bolsters-its-northern-defences-amid-fears-belarus-is-being-dragged-into-war",
-      "published_date": "2026-06-18T05:00:03+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/21/europe-ev-shrank-challenge-suv-smaller-china",
+      "published_date": "2026-06-21T04:00:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
@@ -368,11 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
-      "published_date": "2026-06-14T10:00:40+00:00",
-      "category": "Energy"
+      "title": "Parlamente: 5.300 Euro: Linke deckelt Diäten für ihre Abgeordneten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/21/5-300-euro-linken-deckelt-diaeten-fuer-ihre-abgeordneten",
+      "published_date": "2026-06-21T12:45:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
@@ -508,11 +515,32 @@
       "category": "Economy"
     },
     {
-      "title": "India's Modi in Slovakia, seeks to strengthen trade and investment ties",
+      "title": "Bürgermeisterwahlen in Sachsen : Rechtsextreme Freie Sachsen gehen gegen Wahlergebnis in Aue vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/sachsen-oberbuergermeister-wahlen-freie-sachsen-wahlergebnis",
+      "published_date": "2026-06-21T12:47:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan: UN warns of mass atrocities in El-Obeid",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-modi-in-slovakia-seeks-to-strengthen-trade-and-investment-ties/a-77553213?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-15T08:46:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/sudan-un-warns-of-mass-atrocities-in-el-obeid/a-77642972?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
+      "published_date": "2026-06-21T06:37:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
+      "published_date": "2026-06-21T05:00:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Terror police probe suspected anti-Muslim attacks in Edinburgh",
@@ -624,34 +652,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260620/inside-germany-doobie-scoot-canoe-and-the-joys-of-german-engineering",
       "published_date": "2026-06-20T08:59:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman killed, hundreds evacuate in Dominican Republic hotel fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/woman-killed-hundreds-evacuate-in-dominican-republic-hotel-fire/a-77634423?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T07:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A kind of massive rave’: Paris braces for 2m revellers as Fête de la Musique returns amid heatwave warnings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/20/paris-braces-tourist-influx-street-festival-fete-de-la-musique",
-      "published_date": "2026-06-20T07:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German court jails man over online 'death lists' of politicians",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260620/german-court-jails-man-over-online-death-lists-of-politicians",
-      "published_date": "2026-06-20T06:27:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four reasons to visit a German wine fest this summer",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260619/four-reasons-to-visit-a-german-wine-fest-this-summer",
-      "published_date": "2026-06-19T14:18:05+00:00",
       "category": "Local Events"
     }
   ]
