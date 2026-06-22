@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-21T13:02:30.989594+00:00",
+  "last_updated": "2026-06-22T00:04:30.434477+00:00",
   "story_count": 93,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "AI scandal rocks the German media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-21T15:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI scandal rocks the German media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T15:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
+      "published_date": "2026-06-21T15:18:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-all-1573-rdf",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US-Iran deal: Between conflict and compromise",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-deal-between-conflict-and-compromise/a-77606668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T13:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO: US lashes out, alliance head says everything's fine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nato-us-lashes-out-alliance-head-says-everything-s-fine/a-77603060?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T10:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cuba approves economic reforms amid US pressure",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-approves-economic-reforms-amid-us-pressure/a-77597635?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T09:12:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "How Europe’s EV makers shrank their product to challenge the bloated SUVs",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jun/21/europe-ev-shrank-challenge-suv-smaller-china",
@@ -373,6 +373,13 @@
       "url": "https://www.dw.com/en/how-geothermal-energy-could-power-us-homes/a-77098244?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-15T09:02:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Aufstieg: Hochtief-Aktien immer wertvoller: Baukonzern jetzt im Dax",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/22/hochtief-aktien-immer-wertvoller-baukonzern-jetzt-im-dax",
+      "published_date": "2026-06-21T22:01:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Parlamente: 5.300 Euro: Linke deckelt Diäten für ihre Abgeordneten",
@@ -508,11 +515,60 @@
       "category": "Economy"
     },
     {
-      "title": "Settler products from occupied Palestine sold to Europe as Israeli, investigation finds",
+      "title": "Colombia election: Hard-right candidate poised to win in early results",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/colombia-election-hard-right-candidate-poised-to-win-in-early-results/a-77650646?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T22:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luigi Pantisano: Daniel Günther fordert neuen Linksparteichef zum Rücktritt auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/daniel-guenther-luigi-pantisano-linksparteichef-ruecktritt-forderung",
+      "published_date": "2026-06-21T22:38:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verhandlungen in der Schweiz: Iranische Delegation protestiert gegen neue Drohungen Trumps",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/usa-iran-gespraeche-buergenstock-donald-trump-drohung-strasse-von-hormus",
+      "published_date": "2026-06-21T21:45:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish police arrest man over Edinburgh attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T16:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish police arrest man over Edinburgh attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-21T16:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Ukrainian family built a community in Cleveland. Now, they face deportation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/settler-products-from-occupied-palestine-sold-to-europe-as-israeli-investigation-finds",
-      "published_date": "2026-06-15T13:17:38+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/ohio-ukrainian-family-deportation",
+      "published_date": "2026-06-21T14:45:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-21T13:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-21T13:24:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bürgermeisterwahlen in Sachsen : Rechtsextreme Freie Sachsen gehen gegen Wahlergebnis in Aue vor",
@@ -596,62 +652,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/20/gruenen-muslima-nach-hass-video-worte-machen-angst",
       "published_date": "2026-06-20T12:06:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Hundreds attend 'Cockroach' party protest in New Delhi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-hundreds-attend-cockroach-party-protest-in-new-delhi/live-77634329?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T12:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leichtathletik: Er holte EM-Gold in Berlin: Deutscher Hochspringer hört auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/20/er-holte-em-gold-in-berlin-deutscher-hochspringer-hoert-auf",
-      "published_date": "2026-06-20T11:47:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD Bayern: AfD-Parteitag gestartet - Streit und Gegendemonstrationen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/20/bayern-afd-waehlt-neuen-vorstand-gegendemonstrationen",
-      "published_date": "2026-06-20T11:47:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Roadside bombs kill 7 in northwest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-roadside-bombs-kill-7-in-northwest/a-77636194?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T10:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inequality is elementary to Germany's school system",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/inequality-is-elementary-to-germany-s-school-system/a-77613220?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-20T09:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inequality is elementary to Germany's school system",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/inequality-is-elementary-to-germany-s-school-system/a-77613220?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T09:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia's Paz declares state of emergency over blockades",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bolivia-s-paz-declares-state-of-emergency-over-blockades/a-77635224?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T09:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: 'Doobie Scoot Canoe' and the joys of German engineering",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260620/inside-germany-doobie-scoot-canoe-and-the-joys-of-german-engineering",
-      "published_date": "2026-06-20T08:59:51+00:00",
       "category": "Local Events"
     }
   ]
