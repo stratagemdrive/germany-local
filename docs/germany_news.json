@@ -1,8 +1,113 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-23T00:00:15.229323+00:00",
-  "story_count": 88,
+  "last_updated": "2026-06-23T13:40:10.813183+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "UK could rejoin EU on ‘short’ timeline if it wanted, former Brexit negotiator says – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
+      "published_date": "2026-06-23T13:20:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato-Gipfel in Ankara: Türkische Polizei nimmt vor Nato-Gipfel mehr als 200 Personen fest",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/tuerkei-festnahmen-ankara-nato-gipfel",
+      "published_date": "2026-06-23T13:20:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reader Q&A: ask Rafael Behr your questions now",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/community/live/2026/jun/23/reader-qa-ask-rafael-behr-your-questions-now",
+      "published_date": "2026-06-23T12:32:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What Germany's planned pension reform means for you",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260623/what-germanys-planned-pension-reform-means-for-you",
+      "published_date": "2026-06-23T11:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey arrests more than 200 in crackdown before NATO summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T10:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey arrests more than 200 in crackdown before NATO summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-23T10:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU hosts Taliban for migrant return talks in Brussels",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-hosts-taliban-for-migrant-return-talks-in-brussels/a-77668214?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T09:39:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz hails pension reform proposals",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-hails-pension-reform-proposals/live-77666833?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-23T09:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz hails pension reform proposals",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-hails-pension-reform-proposals/live-77666833?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T09:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TELL US: 10 years on, how has Brexit affected your life in Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260623/tell-us-10-years-on-how-has-brexit-affected-your-life-in-germany",
+      "published_date": "2026-06-23T08:28:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: US waiver clears way for Iran oil purchase",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-us-waiver-clears-way-for-iran-oil-purchase/live-77667895?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T07:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Europeans are fully awake': Why the EU is pushing for a new 'digital euro'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260623/europeans-are-fully-awake-why-the-eu-is-pushing-for-a-new-digital-euro",
+      "published_date": "2026-06-23T07:28:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel, Lebanon to hold new round of US-hosted talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-lebanon-to-hold-new-round-of-us-hosted-talks/live-77666574?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T07:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Three in five gen Z Britons would like new vote to rejoin EU, poll finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/majority-gen-z-britons-new-vote-rejoin-eu-poll-finds",
+      "published_date": "2026-06-23T04:00:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘I remember the shock’, ‘It can still be reversed’ – what do Europeans think of Brexit now?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/commentisfree/2026/jun/23/i-remember-the-shock-it-can-still-be-reversed-what-do-europeans-think-of-brexit-now",
+      "published_date": "2026-06-23T04:00:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran-Konflikt: Trump kritisiert vor Rutte-Besuch europäische Nato-Partner",
       "source": "ZEIT Online",
@@ -39,109 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany and UK rebuilding ties 10 years after Brexit vote",
+      "title": "Großglockner-Prozess: Tod am Großglockner – Teil 2: Eine Tragödie vor Gericht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-06/grossglockner-prozess-urteil-toetung-verbrechen-podcast",
+      "published_date": "2026-06-23T13:30:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe's defense ambitions get reality check",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-and-uk-rebuilding-ties-10-years-after-brexit-vote/a-77662482?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T14:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran-US talks to end war beset by tension, mistrust",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T14:40:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran deal: Pakistan's diplomatic masterstroke?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-deal-pakistan-s-diplomatic-masterstroke/a-77660414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T14:26:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German chancellor claims cuts are the only solution as cities run out of money",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260622/german-chancellor-claims-cuts-are-the-only-solution-as-cities-run-out-of-money",
-      "published_date": "2026-06-22T13:53:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why is Bulgaria threatening to veto EU's Russia sanctions?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-bulgaria-threatening-to-veto-eu-s-russia-sanctions/a-77657628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T13:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why is Bulgaria threatening to veto EU's Russia sanctions?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-bulgaria-threatening-to-veto-eu-s-russia-sanctions/a-77657628?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-22T13:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US waives Iran oil sanctions citing progress in talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-waives-iran-oil-sanctions-citing-progress-in-talks/live-77653016?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T11:08:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Absolute nightmare’: Brexit bellwether constituencies revisited 10 years on",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/22/brexit-bellwether-constituencies-revisited-10-years-eu-referendum",
-      "published_date": "2026-06-22T11:06:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why the EU should be moving heaven and earth to get Iceland into the club | Valérie Hayer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/iceland-eu-brussels-rigid-rules",
-      "published_date": "2026-06-22T11:00:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine intensifies attacks on Crimea to raise cost of Russian occupation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/22/ukraine-intensifies-attacks-on-crimea-to-raise-cost-of-russia-occupation",
-      "published_date": "2026-06-22T10:22:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Could heatwave temperatures hit 40°C?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-could-heatwave-temperatures-hit-40°c/live-77652593?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T07:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Could heatwave temperatures hit 40°C?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-could-heatwave-temperatures-hit-40°c/live-77652593?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-22T07:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brexit: how it has hit your wallet at the supermarket and on holiday",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/22/brexit-supermarket-holiday-travel-prices-costs-eu-passports",
-      "published_date": "2026-06-22T06:00:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘This changes everything’: how Brexit altered Scotland’s political landscape",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/this-changes-everything-how-brexit-altered-scotland-political-landscape",
-      "published_date": "2026-06-21T11:00:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "published_date": "2026-06-21T05:00:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/europe-s-defense-ambitions-get-reality-check/a-77650976?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T09:50:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Strait of Hormuz: German military prepares for possible deployment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/strait-of-hormuz-german-military-prepares-for-possible-deployment/a-77613999?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-18T15:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Strait of Hormuz: German military prepares for possible deployment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/strait-of-hormuz-german-military-prepares-for-possible-deployment/a-77613999?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T15:27:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jun/22/weather-tracker-extreme-heat-in-europe-as-typhoon-strengthens-off-philippines",
@@ -333,18 +333,39 @@
       "category": "Energy"
     },
     {
-      "title": "Sigh of relief in Africa as the Strait of Hormuz 'reopens'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sigh-of-relief-in-africa-as-the-strait-of-hormuz-reopens/a-77564378?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T10:25:00+00:00",
-      "category": "Energy"
+      "title": "Fake Shops: Auf Vorkasse bestellen? Besser nicht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-06/fakeshops-onlineshopping-betrug-internet-sicherheit",
+      "published_date": "2026-06-23T13:29:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Spanish households save €10 a month thanks to renewables expansion, report finds",
+      "title": "No 10 says there will be ‘no new major policy or spending commitments’ before new PM appointed – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/16/spanish-households-save-renewables-expansion-electricity-gas-prices-iran-war",
-      "published_date": "2026-06-16T07:00:47+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
+      "published_date": "2026-06-23T13:17:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wanted: Jobs, critical minerals as Zambia's election nears",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/wanted-jobs-critical-minerals-as-zambia-s-election-nears/a-77671261?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T13:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "I stand by what I said 10 years ago. We were right to leave the European Union | Larry Elliott",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/leave-eu-european-union-brexit-10-years",
+      "published_date": "2026-06-23T10:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260623/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-129",
+      "published_date": "2026-06-23T06:38:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Hülya Iri: Genossin Iri, wo ist die Million?",
@@ -445,39 +466,53 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's economic outlook improves on promise of US-Iran peace deal",
+      "title": "Ulrich Siegmund: »Ich bin der Uli, hi!«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/27/ulrich-siegmund-afd-sachsen-anhalt-landtagswahl",
+      "published_date": "2026-06-23T13:33:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wohnungsmangel: Berlin baut 3.000 neue Wohnungen für Landesbeschäftigte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/23/berlin-baut-3-000-neue-wohnungen-fuer-landesbeschaeftigte",
+      "published_date": "2026-06-23T13:32:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migration und Integration: Integrationsbericht listet Erfolge und Nachholbedarf auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/23/integrationsbericht-listet-erfolge-und-nachholbedarf-auf",
+      "published_date": "2026-06-23T13:31:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghan Taliban clamp down on women, smartphones, protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghan-taliban-clamp-down-on-women-smartphones-protests/a-77672679?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T13:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe’s media look on in bemusement at post-Brexit ‘revolving door’ of UK prime ministers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/urope-media-bemusement-downing-street-post-brexit-revolving-door",
+      "published_date": "2026-06-23T12:33:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German word of the day: Hitzekoller",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260616/germanys-economic-outlook-improves-on-promise-of-us-iran-peace-deal",
-      "published_date": "2026-06-16T11:31:50+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260623/german-word-of-the-day-hitzekoller",
+      "published_date": "2026-06-23T11:20:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "European Parliament approves US trade deal to lower tariffs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/european-parliament-approves-us-trade-deal-to-lower-tariffs/a-77577033?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T11:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "European Parliament approves US trade deal to lower tariffs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/european-parliament-approves-us-trade-deal-to-lower-tariffs/a-77577033?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-16T11:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Key changes for drivers in Germany starting July 1st",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260616/key-changes-for-drivers-in-germany-starting-july-1st",
-      "published_date": "2026-06-16T09:15:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Charging ahead: EVs outpace growth predictions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/charging-ahead-evs-outpace-growth-predictions/a-77486417?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-16T09:08:00+00:00",
-      "category": "Economy"
+      "title": "‘Geldof started flicking Vs at Farage’: the story of the Brexit campaign, told by those with a front-row seat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
+      "published_date": "2026-06-23T07:52:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Landtagswahl: Insa-Wahlumfrage für Nordosten: AfD legt zu, SPD auch",
@@ -568,55 +603,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jun/22/aftershocks-brexit-failure-fearful-prospect-ireland",
       "published_date": "2026-06-22T04:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia election: Hard-right candidate claims victory",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-election-hard-right-candidate-claims-victory/a-77650646?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T00:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deniz Undav: Germany's 2026 World Cup supersub",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deniz-undav-germany-s-2026-world-cup-supersub/a-77650649?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-22T00:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deniz Undav: Germany's 2026 World Cup supersub",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deniz-undav-germany-s-2026-world-cup-supersub/a-77650649?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T00:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia election: Hard-right candidate poised to win in early results",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-election-hard-right-candidate-poised-to-win-in-early-results/a-77650646?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-21T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luigi Pantisano: Daniel Günther fordert neuen Linksparteichef zum Rücktritt auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/daniel-guenther-luigi-pantisano-linksparteichef-ruecktritt-forderung",
-      "published_date": "2026-06-21T22:38:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verhandlungen in der Schweiz: Iranische Delegation protestiert gegen neue Drohungen Trumps",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/usa-iran-gespraeche-buergenstock-donald-trump-drohung-strasse-von-hormus",
-      "published_date": "2026-06-21T21:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish police arrest man over Edinburgh attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-21T16:26:00+00:00",
       "category": "Local Events"
     }
   ]
