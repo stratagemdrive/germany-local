@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-22T15:48:12.005769+00:00",
+  "last_updated": "2026-06-23T00:00:15.229323+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Iran-Konflikt: Trump kritisiert vor Rutte-Besuch europäische Nato-Partner",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/22/trump-kritisiert-vor-rutte-besuch-europaeische-nato-partner",
+      "published_date": "2026-06-22T21:26:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taliban in Brüssel: Belgien erteilt Taliban Visa für EU-Abschiebungsgespräche",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/taliban-eu-gespraeche-bruessel-belgien-asylbewerber",
+      "published_date": "2026-06-22T20:53:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Forget closer EU ties if Tories can’t face up to Brexit truth | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/forget-closer-eu-ties-if-tories-cant-face-up-to-brexit-truth",
+      "published_date": "2026-06-22T16:16:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "European leaders pay tribute to Starmer as EU-UK summit is postponed",
       "source": "The Guardian",
@@ -95,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany news: Could heatwave temperatures hit 40°C?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-could-heatwave-temperatures-hit-40°c/live-77652593?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-22T07:41:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Brexit: how it has hit your wallet at the supermarket and on holiday",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/money/2026/jun/22/brexit-supermarket-holiday-travel-prices-costs-eu-passports",
@@ -113,34 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
       "published_date": "2026-06-21T05:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pharmaindustrie: Merz Pharma investiert mehr als 100 Millionen Euro in Dessau",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/20/merz-pharma-investiert-mehr-als-100-millionen-euro-in-dessau",
-      "published_date": "2026-06-20T11:57:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN rights chief troubled by new EU migrant return rules",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260620/un-rights-chief-troubled-by-new-eu-migrant-return-rules",
-      "published_date": "2026-06-20T11:42:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel's new clashes with Hezbollah loom over US-Iran deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-s-new-clashes-with-hezbollah-loom-over-us-iran-deal/live-77634368?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T11:25:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ten years on, has the Brexit vote helped or hindered the EU?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/20/ten-years-later-has-brexit-benefited-europe-more-than-uk",
-      "published_date": "2026-06-20T11:00:04+00:00",
       "category": "Diplomacy"
     },
     {
@@ -480,6 +480,48 @@
       "category": "Economy"
     },
     {
+      "title": "Landtagswahl: Insa-Wahlumfrage für Nordosten: AfD legt zu, SPD auch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/23/insa-wahlumfrage-fuer-nordosten-afd-legt-zu-spd-auch",
+      "published_date": "2026-06-22T22:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Faschismus-Zitat: Wegner: SPD und Grüne sollten auf Abstand zur Linken gehen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/23/wegner-spd-und-gruene-sollten-auf-abstand-zur-linken-gehen",
+      "published_date": "2026-06-22T22:05:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain’s likely next prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-22T18:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain’s likely next prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-22T18:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the death of Carlo Ginzburg: a historian who taught us to think about outsiders | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders",
+      "published_date": "2026-06-22T17:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish PM’s former right-hand man jailed for 24 years for corruption",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/22/spanish-pm-pedro-sanchez-former-right-hand-man-jailed-24-years-corruption",
+      "published_date": "2026-06-22T15:51:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Two children found dead in family car in France as Europe suffers under extreme heatwave",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
@@ -575,48 +617,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-21T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish police arrest man over Edinburgh attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-21T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Ukrainian family built a community in Cleveland. Now, they face deportation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/ohio-ukrainian-family-deportation",
-      "published_date": "2026-06-21T14:45:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin Open final suspended due to 'severe weather'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260621/berlin-open-final-suspended-due-to-severe-weather",
-      "published_date": "2026-06-21T13:39:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-21T13:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-21T13:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bürgermeisterwahlen in Sachsen : Rechtsextreme Freie Sachsen gehen gegen Wahlergebnis in Aue vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/sachsen-oberbuergermeister-wahlen-freie-sachsen-wahlergebnis",
-      "published_date": "2026-06-21T12:47:01+00:00",
       "category": "Local Events"
     }
   ]
