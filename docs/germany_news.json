@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-23T23:49:18.703136+00:00",
-  "story_count": 88,
+  "last_updated": "2026-06-24T13:14:19.114997+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Energielabel in der EU: EU-Kommission will Vorschriften bei Energielabeln lockern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/energielabel-eu-kommission-lockerung-digitalisierung-verbraucher",
+      "published_date": "2026-06-24T13:02:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Regierungsbefragung im Bundestag: Friedrich Merz verteidigt Konzept der Rentenkommission gegen Kritik",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/regierungsbefragung-bundeskanzler-friedrich-merz-bundestag-cdu",
+      "published_date": "2026-06-24T12:59:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260624/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-126",
+      "published_date": "2026-06-24T06:35:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmer couldn’t beat the curse of Brexit – a politics poisoned by nationalism | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/keir-starmer-brexit-nationalism-andy-burnham",
+      "published_date": "2026-06-24T05:00:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain is still stuck on its ex – but after 10 long, lonely years, does the EU feel the same way? | Katy Lee",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/britain-brexit-eu-referendum",
+      "published_date": "2026-06-24T04:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanon's lose-lose: Is there another way out of conflict?",
       "source": "Deutsche Welle",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Europeans are fully awake': Why the EU is pushing for a new 'digital euro'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260623/europeans-are-fully-awake-why-the-eu-is-pushing-for-a-new-digital-euro",
-      "published_date": "2026-06-23T07:28:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel, Lebanon to hold new round of US-hosted talks",
+      "title": "Southeast Asia boost defense ties but avoids firm alliances",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-lebanon-to-hold-new-round-of-us-hosted-talks/live-77666574?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T07:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/southeast-asia-boost-defense-ties-but-avoids-firm-alliances/a-77689233?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T13:06:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Three in five gen Z Britons would like new vote to rejoin EU, poll finds",
+      "title": "North Korean soldier crosses border to South",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korean-soldier-crosses-border-to-south/a-77687834?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T11:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Battle hardened’ Ukraine has role to play in defending Europe, says ex-Nato chief",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/majority-gen-z-britons-new-vote-rejoin-eu-poll-finds",
-      "published_date": "2026-06-23T04:00:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/24/battle-hardened-ukraine-role-defending-europe-ex-nato-chief-anders-fogh-rasmussen",
+      "published_date": "2026-06-24T10:58:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘I remember the shock’, ‘It can still be reversed’ – what do Europeans think of Brexit now?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/commentisfree/2026/jun/23/i-remember-the-shock-it-can-still-be-reversed-what-do-europeans-think-of-brexit-now",
-      "published_date": "2026-06-23T04:00:31+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian nuclear inspections 'going to happen,' IAEA head",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iranian-nuclear-inspections-going-to-happen-iaea-head/live-77685880?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T09:23:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran-Konflikt: Trump kritisiert vor Rutte-Besuch europäische Nato-Partner",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/22/trump-kritisiert-vor-rutte-besuch-europaeische-nato-partner",
-      "published_date": "2026-06-22T21:26:55+00:00",
-      "category": "Diplomacy"
+      "title": "US: Senate vote calls for an end to Trump's Iran war in rare bipartisan rebuke",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-senate-vote-calls-for-an-end-to-trump-s-iran-war-in-rare-bipartisan-rebuke/a-77684833?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T06:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Major warship project to be scrapped",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-major-warship-project-to-be-scrapped/live-77684448?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-24T06:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Major warship project to be scrapped",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-major-warship-project-to-be-scrapped/live-77684448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T06:21:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Volodymyr Zelenskyy to skip postwar conference amid tensions with Poland",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Are Ukraine drones really exposing gaps in Russia's defense?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T18:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are Ukraine drones really exposing gaps in Russia's defense?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-20T18:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy returns Poland's highest honor as row deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T13:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy returns Poland's highest honor as row deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-20T13:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it's closing Strait of Hormuz again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-says-it-s-closing-strait-of-hormuz-again/live-77634368?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T11:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Even in this age of what Mark Carney calls global rupture, do not despair: there is still hope for international law | Nathalie Tocci",
+      "title": "Europe heatwave live: estimated 94 million people to experience temperatures above 35C today",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
-      "published_date": "2026-06-20T04:00:52+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+      "published_date": "2026-06-24T12:52:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump unveils interim Air Force One, a gift from Qatar",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-unveils-interim-air-force-one-a-gift-from-qatar/a-77633683?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-20T02:13:00+00:00",
-      "category": "Military"
+      "title": "Heatwave pushes Great Britain’s grid operator to call for extra electricity from power plants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants",
+      "published_date": "2026-06-24T08:23:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe’s heatwave drives electricity prices to new highs as demand soars",
@@ -345,6 +359,27 @@
       "url": "https://www.dw.com/en/us-iran-talks-hope-and-skepticism-in-the-swiss-alps/a-77610766?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-18T14:12:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Is xenophobia in South Africa risking investment?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-xenophobia-in-south-africa-risking-investment/a-77687020?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T13:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump offers Iran an economic lifeline — with strings",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-offers-iran-an-economic-lifeline-with-strings/a-77621800?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T12:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China detains two Japanese nationals on smuggling charges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-detains-two-japanese-nationals-on-smuggling-charges/a-77687365?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T09:56:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fake Shops: Auf Vorkasse bestellen? Besser nicht",
@@ -459,25 +494,60 @@
       "category": "Economy"
     },
     {
-      "title": "Everything that changes in Germany in July 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260617/everything-that-changes-in-germany-in-july-2026",
-      "published_date": "2026-06-17T12:08:19+00:00",
-      "category": "Economy"
+      "title": "Metropolitan Police London: London will Gesichtserkennung und Drohnenüberwachung ausweiten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/datenschutz/2026-06/metropolitan-police-london-gesichtserkennung-drohnenueberwachung-mark-rowley",
+      "published_date": "2026-06-24T13:01:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Your Fault: London review – British-set remake of Spanish step-sibling romance lacks passion or fizz",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/17/your-fault-london-review-british-set-remake-of-spanish-step-sibling-romance-lacks-passion-or-fizz",
-      "published_date": "2026-06-17T10:00:28+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "published_date": "2026-06-24T12:11:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "G7: Leaders discuss economy, AI security risks",
+      "title": "‘One in, one out’ deal on Channel crossings to end in October, French reports say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/24/one-in-one-out-deal-channel-crossings-to-end-reports",
+      "published_date": "2026-06-24T11:12:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Protests in northern region Ladakh over talks with Delhi",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/g7-leaders-discuss-economy-ai-security-risks/live-77556967?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-17T05:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-protests-in-northern-region-ladakh-over-talks-with-delhi/live-77686712?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T10:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "If an AI chatbot misleads you, who is to blame? | Bruce Schneier and Nathan E Sanders",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility",
+      "published_date": "2026-06-24T10:00:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'A new low': Deutsche Bahn passengers livid at nationwide railway paralysis",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260624/a-new-low-deutsche-bahn-passengers-livid-at-nationwide-railway-paralysis",
+      "published_date": "2026-06-24T08:46:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24-hour parks and alcohol bans: what cities could learn from Paris’s ‘heatwave mode’ | Helen Massy-Beresford",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/paris-heatwave-alcohol-public-events-cities-extreme-temperatures",
+      "published_date": "2026-06-24T07:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutsche Bahn trains resume after technical glitch paralyses network",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260624/deutsche-bahn-trains-resume-after-technical-glitch-paralyses-network",
+      "published_date": "2026-06-24T06:45:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Verkehrsunfall: Tanklaster kippt auf A8 – Sperrung Richtung Stuttgart",
@@ -561,62 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/afghan-taliban-clamp-down-on-women-smartphones-protests/a-77672679?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-23T13:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s media look on in bemusement at post-Brexit ‘revolving door’ of UK prime ministers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/urope-media-bemusement-downing-street-post-brexit-revolving-door",
-      "published_date": "2026-06-23T12:33:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German word of the day: Hitzekoller",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260623/german-word-of-the-day-hitzekoller",
-      "published_date": "2026-06-23T11:20:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Geldof started flicking Vs at Farage’: the story of the Brexit campaign, told by those with a front-row seat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
-      "published_date": "2026-06-23T07:52:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl: Insa-Wahlumfrage für Nordosten: AfD legt zu, SPD auch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/23/insa-wahlumfrage-fuer-nordosten-afd-legt-zu-spd-auch",
-      "published_date": "2026-06-22T22:10:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Faschismus-Zitat: Wegner: SPD und Grüne sollten auf Abstand zur Linken gehen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/23/wegner-spd-und-gruene-sollten-auf-abstand-zur-linken-gehen",
-      "published_date": "2026-06-22T22:05:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain’s likely next prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T18:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain’s likely next prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-22T18:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the death of Carlo Ginzburg: a historian who taught us to think about outsiders | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders",
-      "published_date": "2026-06-22T17:40:53+00:00",
       "category": "Local Events"
     }
   ]
