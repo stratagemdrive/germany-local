@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-25T00:00:02.480490+00:00",
-  "story_count": 93,
+  "last_updated": "2026-06-25T13:12:51.609418+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Folgen des Klimawandels: Vorbild WM: Abkühlpausen für Arbeitnehmer in EU gefordert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/25/vorbild-wm-abkuehlpausen-fuer-arbeitnehmer-in-eu-gefordert",
+      "published_date": "2026-06-25T13:03:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MPK: Länder vor Treffen mit Merz einig bei Bund-Länder-Finanzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/25/merz-und-laenderchefs-diskutieren-ueber-finanzen",
+      "published_date": "2026-06-25T13:01:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Debatte im Bundestag: Städte gegen Hitze wappnen: Neues Baurecht soll helfen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/25/staedte-gegen-hitze-wappnen-neues-baurecht-soll-helfen",
+      "published_date": "2026-06-25T13:01:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rome airports threaten to suspend new EU passport system to avoid summer ‘disaster’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/25/rome-airports-threaten-to-suspend-new-eu-passport-system-to-avoid-summer-disaster",
+      "published_date": "2026-06-25T10:53:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Germany taking a big stake in a major tankmaker?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T09:47:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Germans don't have air conditioning",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germans-don-t-have-air-conditioning/a-77685580?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-25T07:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Germans don't have air conditioning",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germans-don-t-have-air-conditioning/a-77685580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T07:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy doing ‘pretty well’ against Russia, declares Trump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/25/ukraine-war-briefing-zelenskyy-doing-pretty-well-against-russia-declares-trump",
+      "published_date": "2026-06-25T02:15:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nato: Trump beklagt fehlende deutsche Unterstützung im Irankrieg",
       "source": "ZEIT Online",
@@ -88,60 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fact-checking Brexit's key promises 10 years on – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/jun/23/fact-checking-brexit-key-promises-10-years-on-video",
-      "published_date": "2026-06-23T16:38:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz backs plans to raise Germany’s retirement age to 70 in pension changes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/23/merz-plans-germany-retirement-age-pension-reforms",
-      "published_date": "2026-06-23T15:48:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Blue passports, Big Ben and Bpoplive: the Brexit referendum anniversary quiz",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/blue-passports-big-ben-and-bpoplive-the-brexit-referendum-anniversary-quiz",
-      "published_date": "2026-06-23T15:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK could rejoin EU on ‘short’ timeline if it wanted, former Brexit negotiator says – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
-      "published_date": "2026-06-23T13:20:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato-Gipfel in Ankara: Türkische Polizei nimmt vor Nato-Gipfel mehr als 200 Personen fest",
+      "title": "Erdbeben in Venezuela: »Beim kleinsten Knall fangen die Leute an zu rennen«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/tuerkei-festnahmen-ankara-nato-gipfel",
-      "published_date": "2026-06-23T13:20:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-06/erdbeben-venezuela-panik-caracas-anja-dargatz",
+      "published_date": "2026-06-25T12:54:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Reader Q&A: ask Rafael Behr your questions now",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/live/2026/jun/23/reader-qa-ask-rafael-behr-your-questions-now",
-      "published_date": "2026-06-23T12:32:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What Germany's planned pension reform means for you",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260623/what-germanys-planned-pension-reform-means-for-you",
-      "published_date": "2026-06-23T11:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey arrests more than 200 in crackdown before NATO summit",
+      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T10:31:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T11:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-25T11:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US: Trump feuds with Senators after rare Iran war rebuke",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-trump-feuds-with-senators-after-rare-iran-war-rebuke/a-77684833?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T09:18:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Wehrerfassung: Bundeswehr rekrutiert nur 530 Freiwillige durch Wehrdienst-Fragebogen",
@@ -161,6 +189,20 @@
       "title": "What does British PM's resignation mean for European security?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-24T19:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What Keir Starmer's resignation means for European security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-keir-starmer-s-resignation-means-for-european-security/a-77698281?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T19:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What Keir Starmer's resignation means for European security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-keir-starmer-s-resignation-means-for-european-security/a-77698281?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-06-24T19:27:00+00:00",
       "category": "Military"
     },
@@ -242,52 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine says major Crimea bridge destroyed in latest attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T16:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says major Crimea bridge destroyed in latest attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-23T16:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Großglockner-Prozess: Tod am Großglockner – Teil 2: Eine Tragödie vor Gericht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-06/grossglockner-prozess-urteil-toetung-verbrechen-podcast",
-      "published_date": "2026-06-23T13:30:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe's defense ambitions get reality check",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-s-defense-ambitions-get-reality-check/a-77650976?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T09:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe is spending billions to rearm, so why the delays?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-is-spending-billions-to-rearm-so-why-the-delays/a-77650976?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T09:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
+      "title": "‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
-      "published_date": "2026-06-22T15:15:51+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows",
+      "published_date": "2026-06-25T05:00:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Exploit last North Sea oil and gas or risk mass job losses, Andy Burnham urged",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jun/24/exploit-last-north-sea-oil-gas-or-risk-mass-job-losses-andy-burham-urged",
       "published_date": "2026-06-24T18:00:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'People are at risk': Europe urged to invest in healthcare as heatwaves intensify",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260624/people-are-at-risk-europe-urged-to-invest-in-healthcare-as-heatwaves-intensify",
+      "published_date": "2026-06-24T16:30:49+00:00",
       "category": "Energy"
     },
     {
@@ -322,6 +336,13 @@
       "title": "Experts fired by Trump resurrect mothballed climate website",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/experts-fired-by-trump-resurrect-mothballed-climate-website/a-77678690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-23T15:09:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Experts axed by Trump keep climate information flowing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/experts-axed-by-trump-keep-climate-information-flowing/a-77678690?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-23T15:09:00+00:00",
       "category": "Energy"
     },
@@ -375,6 +396,20 @@
       "category": "Energy"
     },
     {
+      "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
+      "published_date": "2026-06-25T11:53:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will Germany scrap the 'mini-job'?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260625/will-germany-scrap-the-mini-job",
+      "published_date": "2026-06-25T06:54:20+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Hitzewelle: Europäischer Gewerkschaftsbund fordert »Abkühlpausen« für Arbeitnehmer",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/hitzewelle-sommer-temperaturen-rekord-gefahr",
@@ -392,6 +427,20 @@
       "title": "Climate change: Heatwave costs the German economy billions",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/climate-change-heatwave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T13:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate change: Heat wave costs the German economy billions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/climate-change-heat-wave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-24T13:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate change: Heat wave costs the German economy billions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/climate-change-heat-wave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-24T13:27:00+00:00",
       "category": "Economy"
     },
@@ -487,32 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "BMW: BMW bereitet Gespräche mit Betriebsrat über Sparprogramm vor",
+      "title": "Gesellschaft für Freiheitsrechte: Gutachten hält Erfolg von AfD-Verbotsverfahren für realistisch",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-06/bmw-stellenabbau-betriebsrat-china-gewinnprognose",
-      "published_date": "2026-06-19T12:44:06+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/afd-gutachten-verfassungswidrigkeit-gesellschaft-freiheitsrechte",
+      "published_date": "2026-06-25T12:28:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US launches trade probe on Germany over pharma pricing",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260619/us-launches-trade-probe-on-germany-over-pharma-pricing",
-      "published_date": "2026-06-19T06:44:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US probes Germany's 'persistent underpayment' for drugs",
+      "title": "Family seeks justice after Indian sailor killed in US strike",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-probes-germany-s-persistent-underpayment-for-drugs/a-77620250?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-19T02:55:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/family-seeks-justice-after-indian-sailor-killed-in-us-strike/a-77706371?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T12:15:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US probes Germany's 'persistent underpayment' for drugs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-probes-germany-s-persistent-underpayment-for-drugs/a-77620250?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-19T02:55:00+00:00",
-      "category": "Economy"
+      "title": "Reform UK plan to target EU nationals based in Britain ‘absolutely outrageous’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
+      "published_date": "2026-06-25T12:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thursday briefing: Why EU​-Taliban talks have sparked outrage among Afghan women ​",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women",
+      "published_date": "2026-06-25T05:47:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stubborn, arrogant, a genius: France’s De Gaulle epic shows up the tepidity of our politics | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/25/france-charles-de-gaulle-film-free-france-nazi-occupation-politics",
+      "published_date": "2026-06-25T04:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hauptbahnhof Hannover: Reizgas in Regionalzug: Fünf Jugendliche verletzt",
@@ -617,41 +673,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/24/erste-zuege-der-deutschen-bahn-rollen-auch-in-nrw-wieder",
       "published_date": "2026-06-23T23:14:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Searing UK heat leaves schools, hospitals and transport networks struggling to cope",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
-      "published_date": "2026-06-23T18:18:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland, Ukraine: Dispute between two close allies deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T17:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland, Ukraine: Dispute between two close allies deepens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-23T17:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia: The 'Tiger's' victory signals a rightward shift",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/colombia-the-tiger-s-victory-signals-a-rightward-shift/a-77675571?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T16:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assault on facts and truth led to Brexit | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/assault-on-facts-and-truth-led-to-brexit",
-      "published_date": "2026-06-23T16:05:02+00:00",
       "category": "Local Events"
     }
   ]
