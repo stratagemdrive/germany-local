@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-24T13:14:19.114997+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-25T00:00:02.480490+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Nato: Trump beklagt fehlende deutsche Unterstützung im Irankrieg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/donald-trump-mark-rutte-nato-deutschland-usa",
+      "published_date": "2026-06-24T23:32:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Transatlantische Spannungen: Trump lobt Nato-Chef vor Gipfel: «großartige Führungsperson»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/24/trump-lobt-nato-chef-vor-gipfel-grossartige-fuehrungsperson",
+      "published_date": "2026-06-24T21:56:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz rallies European NATO allies ahead of summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-24T19:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz rallies European NATO allies ahead of summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T19:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on priorities for a new prime minister: foreign policy cannot be an afterthought | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/the-guardian-view-on-priorities-for-a-new-prime-minister-foreign-policy-cannot-be-an-afterthought",
+      "published_date": "2026-06-24T17:37:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France reports first Congo outbreak linked Ebola case",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-reports-first-congo-outbreak-linked-ebola-case/a-77689901?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T13:22:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Energielabel in der EU: EU-Kommission will Vorschriften bei Energielabeln lockern",
       "source": "ZEIT Online",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey arrests more than 200 in crackdown before NATO summit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-23T10:31:00+00:00",
-      "category": "Diplomacy"
+      "title": "Wehrerfassung: Bundeswehr rekrutiert nur 530 Freiwillige durch Wehrdienst-Fragebogen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/wehrerfassung-bundeswehr-fragebogen-wehrdienst-freiwillige",
+      "published_date": "2026-06-24T21:57:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU hosts Taliban for migrant return talks in Brussels",
+      "title": "What does British PM's resignation mean for European security?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-hosts-taliban-for-migrant-return-talks-in-brussels/a-77668214?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T09:39:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T19:27:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz hails pension reform proposals",
+      "title": "What does British PM's resignation mean for European security?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-hails-pension-reform-proposals/live-77666833?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-23T09:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-24T19:27:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz hails pension reform proposals",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-hails-pension-reform-proposals/live-77666833?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T09:11:00+00:00",
-      "category": "Diplomacy"
+      "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+      "published_date": "2026-06-24T15:48:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "TELL US: 10 years on, how has Brexit affected your life in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260623/tell-us-10-years-on-how-has-brexit-affected-your-life-in-germany",
-      "published_date": "2026-06-23T08:28:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: US waiver clears way for Iran oil purchase",
+      "title": "Iran after the war — fragile peace, shattered economy",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-us-waiver-clears-way-for-iran-oil-purchase/live-77667895?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T07:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-after-the-war-fragile-peace-shattered-economy/a-77690083?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T13:56:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Southeast Asia boost defense ties but avoids firm alliances",
@@ -168,6 +203,13 @@
       "title": "Iranian nuclear inspections 'going to happen,' IAEA head",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iranian-nuclear-inspections-going-to-happen-iaea-head/live-77685880?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T09:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran nuclear inspections 'going to happen,' says IAEA head",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-nuclear-inspections-going-to-happen-says-iaea-head/live-77685880?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-24T09:23:00+00:00",
       "category": "Military"
     },
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "European leaders to meet in Berlin for Ukraine talks on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260622/european-leaders-to-meet-in-berlin-for-ukraine-talks-on-wednesday",
-      "published_date": "2026-06-22T11:08:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI scandal rocks the German media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-21T15:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI scandal rocks the German media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-21T15:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
+      "title": "Exploit last North Sea oil and gas or risk mass job losses, Andy Burnham urged",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
-      "published_date": "2026-06-21T15:18:53+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jun/24/exploit-last-north-sea-oil-gas-or-risk-mass-job-losses-andy-burham-urged",
+      "published_date": "2026-06-24T18:00:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
+      "title": "European heat wave is not normal summer weather",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-21T08:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran hold talks in Switzerland while Strait of Hormuz remains shut",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-hold-talks-in-switzerland-while-strait-of-hormuz-remains-shut/live-77641405?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-21T00:10:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T14:20:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe heatwave live: estimated 94 million people to experience temperatures above 35C today",
@@ -359,6 +373,27 @@
       "url": "https://www.dw.com/en/us-iran-talks-hope-and-skepticism-in-the-swiss-alps/a-77610766?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-18T14:12:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Hitzewelle: Europäischer Gewerkschaftsbund fordert »Abkühlpausen« für Arbeitnehmer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/hitzewelle-sommer-temperaturen-rekord-gefahr",
+      "published_date": "2026-06-24T23:50:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate change: Heatwave costs the German economy billions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/climate-change-heatwave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-24T13:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate change: Heatwave costs the German economy billions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/climate-change-heatwave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-24T13:27:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Is xenophobia in South Africa risking investment?",
@@ -480,18 +515,39 @@
       "category": "Economy"
     },
     {
-      "title": "Americans in Germany: Immigration numbers, the World Cup and finding a tax advisor",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260618/americans-in-germany-immigration-numbers-the-world-cup-and-finding-a-tax-advisor",
-      "published_date": "2026-06-18T15:09:36+00:00",
-      "category": "Economy"
+      "title": "Hauptbahnhof Hannover: Reizgas in Regionalzug: Fünf Jugendliche verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/25/reizgas-in-regionalzug-fuenf-jugendliche-verletzt",
+      "published_date": "2026-06-24T22:25:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Senior betrogen: Betrüger erbeuten mehr als 10.000 Euro mit Schockanruf",
+      "title": "Ursache unklar: S-Bahn erfasst Mann am Hauptbahnhof Dresden - Lebensgefahr",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/17/betrueger-erbeuten-mehr-als-10-000-euro-mit-schockanruf",
-      "published_date": "2026-06-17T14:01:02+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-06/25/s-bahn-erfasst-mann-am-hauptbahnhof-dresden-lebensgefahr",
+      "published_date": "2026-06-24T22:03:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany’s railways grind to halt as IT maintenance snag takes down network",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/24/germany-rail-network-deutsche-bahn-standstill-it-replacement",
+      "published_date": "2026-06-24T17:37:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German swimming lake criticised for ban on non-German speakers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/24/german-swimming-lake-heidesee-ban-non-german-speakers",
+      "published_date": "2026-06-24T14:48:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A decade after the Brexit vote, Europe has moved on even if Britain hasn’t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/24/a-decade-after-the-brexit-vote-europe-has-moved-on-but-britain-is-still-feeling-the-aftershocks",
+      "published_date": "2026-06-24T14:30:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Metropolitan Police London: London will Gesichtserkennung und Drohnenüberwachung ausweiten",
@@ -596,41 +652,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/jun/23/assault-on-facts-and-truth-led-to-brexit",
       "published_date": "2026-06-23T16:05:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why a swimming pool in eastern Germany has 'banned' non-German speakers",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260623/why-a-swimming-pool-in-eastern-germany-has-banned-non-german-speakers",
-      "published_date": "2026-06-23T15:13:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ulrich Siegmund: »Ich bin der Uli, hi!«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/27/ulrich-siegmund-afd-sachsen-anhalt-landtagswahl",
-      "published_date": "2026-06-23T13:33:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wohnungsmangel: Berlin baut 3.000 neue Wohnungen für Landesbeschäftigte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/23/berlin-baut-3-000-neue-wohnungen-fuer-landesbeschaeftigte",
-      "published_date": "2026-06-23T13:32:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration und Integration: Integrationsbericht listet Erfolge und Nachholbedarf auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/23/integrationsbericht-listet-erfolge-und-nachholbedarf-auf",
-      "published_date": "2026-06-23T13:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghan Taliban clamp down on women, smartphones, protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afghan-taliban-clamp-down-on-women-smartphones-protests/a-77672679?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T13:11:00+00:00",
       "category": "Local Events"
     }
   ]
