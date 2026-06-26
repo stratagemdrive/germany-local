@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-26T00:04:12.491094+00:00",
-  "story_count": 95,
+  "last_updated": "2026-06-26T13:06:14.842405+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Sudan: Fears of atrocities as RSF surrounds key city",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-fears-of-atrocities-as-rsf-surrounds-key-city/a-77709377?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T10:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
+      "published_date": "2026-06-26T08:22:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit: An Oral History – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/26/brexit-an-oral-history-podcast",
+      "published_date": "2026-06-26T04:00:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tracing one delicious snack around the Mediterranean showed me that modern borders are absurd | Federico De Blasi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/chickpea-snacks-mediterranean-migration-cultural-exchange-europe-africa",
+      "published_date": "2026-06-26T04:00:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Recht auf Reparatur: Bundestag beschließt Recht auf Reparatur",
       "source": "ZEIT Online",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz rallies European NATO allies ahead of summit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T19:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on priorities for a new prime minister: foreign policy cannot be an afterthought | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/the-guardian-view-on-priorities-for-a-new-prime-minister-foreign-policy-cannot-be-an-afterthought",
-      "published_date": "2026-06-24T17:37:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France reports first Congo outbreak linked Ebola case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-reports-first-congo-outbreak-linked-ebola-case/a-77689901?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T13:22:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Energielabel in der EU: EU-Kommission will Vorschriften bei Energielabeln lockern",
+      "title": "Störung bei der Deutschen Bahn: Bahn will Funksystem künftig nur noch zwischen 0 und 4 Uhr warten",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/energielabel-eu-kommission-lockerung-digitalisierung-verbraucher",
-      "published_date": "2026-06-24T13:02:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/mobilitaet/2026-06/deutsche-bahn-zugverkehr-stoerung-philipp-nagl",
+      "published_date": "2026-06-26T12:59:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Behörden rufen Ausnahmezustand auf der Halbinsel Krim aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-06-26T12:54:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: Government sends help to quake-hit Venezuela",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-government-sends-help-to-quake-hit-venezuela/live-77716985?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T12:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain's military firefighters battle wildfire in Huesca province – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/26/spain-military-firefighters-battle-wildfire-huesca-province-video",
+      "published_date": "2026-06-26T12:13:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia preparing possible ‘provocation’ in Baltic states or Poland, sources say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/26/russia-provocation-baltic-states-poland",
+      "published_date": "2026-06-26T11:45:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Heathrow expects fall in passengers and profits this year because of Iran war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/26/heathrow-expects-fall-in-passengers-and-profits-this-year-because-of-iran-war",
+      "published_date": "2026-06-26T08:44:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea: Kim Jong Un oversees ballistic missile tests, calls for stronger 'offensive posture'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-kim-jong-un-oversees-ballistic-missile-tests-calls-for-stronger-offensive-posture/a-77716329?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T03:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
@@ -235,53 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "What Keir Starmer's resignation means for European security",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-keir-starmer-s-resignation-means-for-european-security/a-77698281?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T19:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What Keir Starmer's resignation means for European security",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-keir-starmer-s-resignation-means-for-european-security/a-77698281?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-24T19:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+      "title": "Europe heatwave live: red warning issued for millions in England; France and Belgium cancel events",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
-      "published_date": "2026-06-24T15:48:44+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
+      "published_date": "2026-06-26T12:38:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran after the war — fragile peace, shattered economy",
+      "title": "Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/climate-change-in-oceania-tuvalu-is-tired-of-the-prophets-of-doom-a-53a59063-c102-4f4e-9946-08b4189343b5#ref=rss",
+      "published_date": "2026-06-26T10:52:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe heat wave 'virtually impossible' without human impact",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-after-the-war-fragile-peace-shattered-economy/a-77690083?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T13:56:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/europe-heat-wave-virtually-impossible-without-human-impact/live-77663026?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-26T05:32:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Southeast Asia boost defense ties but avoids firm alliances",
+      "title": "Europe heat wave 'virtually impossible' without human impact",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/southeast-asia-boost-defense-ties-but-avoids-firm-alliances/a-77689233?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T13:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korean soldier crosses border to South",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korean-soldier-crosses-border-to-south/a-77687834?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T11:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Battle hardened’ Ukraine has role to play in defending Europe, says ex-Nato chief",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/24/battle-hardened-ukraine-role-defending-europe-ex-nato-chief-anders-fogh-rasmussen",
-      "published_date": "2026-06-24T10:58:19+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/europe-heat-wave-virtually-impossible-without-human-impact/live-77663026?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T05:32:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK and Switzerland record hottest ever June day as health emergencies surge in Europe",
@@ -389,6 +417,41 @@
       "category": "Energy"
     },
     {
+      "title": "Volkswagen: Bericht: VW verschärft Sparkurs – Widerstand angekündigt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/26/bericht-vw-will-weitere-50-000-stellen-streichen",
+      "published_date": "2026-06-26T13:00:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bayer: Why so many Roundup weedkiller lawsuits?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-26T11:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bayer: Why so many Roundup weedkiller lawsuits?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T11:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VW plans to cut up to 10,000 jobs and shut plants, report says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
+      "published_date": "2026-06-26T10:47:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate change to blame as heatwave hits Europe's economies",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260626/climate-change-to-blame-as-heatwave-hits-europes-economies",
+      "published_date": "2026-06-26T08:44:21+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-all-1573-rdf",
@@ -494,39 +557,102 @@
       "category": "Economy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260623/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-129",
-      "published_date": "2026-06-23T06:38:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hülya Iri: Genossin Iri, wo ist die Million?",
+      "title": "Notfälle: Schwerer Straßenbahn-Unfall mit Verletztem in Berlin",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/27/huelya-iri-spd-subventionsbetrug-integrationsarbeit-kronsberg",
-      "published_date": "2026-06-22T15:33:00+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-06/26/schwerer-strassenbahn-unfall-mit-verletztem-in-berlin",
+      "published_date": "2026-06-26T12:59:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How inflation undermines Nigeria's sugar tax",
+      "title": "Krisendienst: Gesundheitsministerin Warken will Suizidprävention stärken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/suizidpraevention-gesetz-nina-warken-cdu-krisendienst",
+      "published_date": "2026-06-26T12:36:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris bans drinking alcohol in public as hospitals hit heatwave breaking point",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/26/paris-heatwave-drinking-ban-drinking-alcohol-public",
+      "published_date": "2026-06-26T11:08:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Montenegro arrests Iran-linked hacker wanted by US",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-inflation-undermines-nigeria-s-sugar-tax/a-77655043?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-22T13:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/montenegro-arrests-iran-linked-hacker-wanted-by-us/a-77720738?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T10:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aufstieg: Hochtief-Aktien immer wertvoller: Baukonzern jetzt im Dax",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/22/hochtief-aktien-immer-wertvoller-baukonzern-jetzt-im-dax",
-      "published_date": "2026-06-21T22:01:05+00:00",
-      "category": "Economy"
+      "title": "Magdeburg Christmas market car attacker sentenced to life in prison",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260626/magdeburg-christmas-market-car-attacker-sentenced-to-life-in-prison",
+      "published_date": "2026-06-26T10:35:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Parlamente: 5.300 Euro: Linke deckelt Diäten für ihre Abgeordneten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/21/5-300-euro-linken-deckelt-diaeten-fuer-ihre-abgeordneten",
-      "published_date": "2026-06-21T12:45:09+00:00",
-      "category": "Economy"
+      "title": "Berlin schools plagued by rising violence and structural discrimination",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260626/berlin-schools-plagued-by-rising-violence-and-structural-discrimination",
+      "published_date": "2026-06-26T10:34:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin's orchestra eases dress code amid heat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-s-orchestra-eases-dress-code-amid-heat/live-77718509?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-26T08:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin's orchestra eases dress code amid heat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-s-orchestra-eases-dress-code-amid-heat/live-77718509?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T08:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magdeburg Christmas market attacker sentenced to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/magdeburg-christmas-market-attacker-sentenced-to-life-in-prison/a-77718126?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-26T07:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magdeburg Christmas market attacker sentenced to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/magdeburg-christmas-market-attacker-sentenced-to-life-in-prison/a-77718126?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T07:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to keep your cool in Germany during the heatwave",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260626/tips-to-get-through-the-heatwave-in-germany",
+      "published_date": "2026-06-26T07:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260626/today-in-germany-a-roundup-of-the-latest-news-on-friday-128",
+      "published_date": "2026-06-26T06:33:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Porsche magnate puts historic Salzburg villa up for sale after row over private ‘tunnel for one’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria",
+      "published_date": "2026-06-26T05:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
+      "published_date": "2026-06-26T05:00:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Guardian view on EU talks with the Taliban: selling out the rights of girls, women and other Afghans | Editorial",
@@ -568,104 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-racism-is-almost-a-daily-reality-for-muslims/a-77708763?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-25T13:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gesellschaft für Freiheitsrechte: Gutachten hält Erfolg von AfD-Verbotsverfahren für realistisch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/afd-gutachten-verfassungswidrigkeit-gesellschaft-freiheitsrechte",
-      "published_date": "2026-06-25T12:28:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family seeks justice after Indian sailor killed in US strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/family-seeks-justice-after-indian-sailor-killed-in-us-strike/a-77706371?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T12:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK plan to target EU nationals based in Britain ‘absolutely outrageous’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
-      "published_date": "2026-06-25T12:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thursday briefing: Why EU​-Taliban talks have sparked outrage among Afghan women ​",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women",
-      "published_date": "2026-06-25T05:47:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stubborn, arrogant, a genius: France’s De Gaulle epic shows up the tepidity of our politics | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/25/france-charles-de-gaulle-film-free-france-nazi-occupation-politics",
-      "published_date": "2026-06-25T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hauptbahnhof Hannover: Reizgas in Regionalzug: Fünf Jugendliche verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/25/reizgas-in-regionalzug-fuenf-jugendliche-verletzt",
-      "published_date": "2026-06-24T22:25:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ursache unklar: S-Bahn erfasst Mann am Hauptbahnhof Dresden - Lebensgefahr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/25/s-bahn-erfasst-mann-am-hauptbahnhof-dresden-lebensgefahr",
-      "published_date": "2026-06-24T22:03:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s railways grind to halt as IT maintenance snag takes down network",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/24/germany-rail-network-deutsche-bahn-standstill-it-replacement",
-      "published_date": "2026-06-24T17:37:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German swimming lake criticised for ban on non-German speakers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/24/german-swimming-lake-heidesee-ban-non-german-speakers",
-      "published_date": "2026-06-24T14:48:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A decade after the Brexit vote, Europe has moved on even if Britain hasn’t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/24/a-decade-after-the-brexit-vote-europe-has-moved-on-but-britain-is-still-feeling-the-aftershocks",
-      "published_date": "2026-06-24T14:30:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metropolitan Police London: London will Gesichtserkennung und Drohnenüberwachung ausweiten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/datenschutz/2026-06/metropolitan-police-london-gesichtserkennung-drohnenueberwachung-mark-rowley",
-      "published_date": "2026-06-24T13:01:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "published_date": "2026-06-24T12:11:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘One in, one out’ deal on Channel crossings to end in October, French reports say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/24/one-in-one-out-deal-channel-crossings-to-end-reports",
-      "published_date": "2026-06-24T11:12:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Protests in northern region Ladakh over talks with Delhi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-protests-in-northern-region-ladakh-over-talks-with-delhi/live-77686712?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T10:14:00+00:00",
       "category": "Local Events"
     }
   ]
