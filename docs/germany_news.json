@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-26T13:06:14.842405+00:00",
-  "story_count": 99,
+  "last_updated": "2026-06-26T23:56:54.031796+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "To heal itself, the UK must face up to why it voted to leave the EU | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/26/to-heal-itself-the-uk-must-face-up-to-why-it-voted-to-leave-the-eu",
+      "published_date": "2026-06-26T16:11:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan: Fears of atrocities as RSF surrounds key city",
       "source": "Deutsche Welle",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz rallies European NATO allies ahead of summit",
+      "title": "Iran war: US military hits Iran over cargo vessel attack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-24T19:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T20:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the Iran war impacts Abu Dhabi's AI strategy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-iran-war-impacts-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T14:36:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Störung bei der Deutschen Bahn: Bahn will Funksystem künftig nur noch zwischen 0 und 4 Uhr warten",
@@ -270,18 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "What does British PM's resignation mean for European security?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T19:27:00+00:00",
-      "category": "Military"
+      "title": "Europeans voice concerns amid sweltering heatwave - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
+      "published_date": "2026-06-26T19:18:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "What does British PM's resignation mean for European security?",
+      "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+      "published_date": "2026-06-26T17:04:30+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Creative climate messaging and other eco wins of the week",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-24T19:27:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/creative-climate-messaging-and-other-eco-wins-of-the-week/a-77727778?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T15:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fact check: throwing cold water on heat wave disinformation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T15:31:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fact check: throwing cold water on heat wave disinformation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-26T15:31:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
+      "published_date": "2026-06-26T15:00:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Adapting to the heat: four ideas from European cities",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/adapting-heat-ideas-from-european-cities",
+      "published_date": "2026-06-26T14:35:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Fork in the road’: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
+      "published_date": "2026-06-26T14:00:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe heatwave live: red warning issued for millions in England; France and Belgium cancel events",
@@ -368,53 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Europe’s heatwave drives electricity prices to new highs as demand soars",
+      "title": "Brexit Britain and the roots of its discontent | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/23/electricity-prices-jump-in-europe-as-demands-soars-in-the-heatwave",
-      "published_date": "2026-06-23T18:41:26+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/jun/26/brexit-britain-and-the-roots-of-its-discontent",
+      "published_date": "2026-06-26T16:11:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Experts fired by Trump resurrect mothballed climate website",
+      "title": "World Cup: Morocco's Ismael Saibari set for Bayern Munich",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/experts-fired-by-trump-resurrect-mothballed-climate-website/a-77678690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T15:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Experts axed by Trump keep climate information flowing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/experts-axed-by-trump-keep-climate-information-flowing/a-77678690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T15:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/22/weather-tracker-extreme-heat-in-europe-as-typhoon-strengthens-off-philippines",
-      "published_date": "2026-06-22T10:17:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How Europe’s EV makers shrank their product to challenge the bloated SUVs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/21/europe-ev-shrank-challenge-suv-smaller-china",
-      "published_date": "2026-06-21T04:00:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
-      "published_date": "2026-06-20T07:00:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Women tackling coal dust and other eco wins this week",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-tackling-coal-dust-and-other-eco-wins-this-week/a-77627984?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-19T13:18:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/world-cup-morocco-s-ismael-saibari-set-for-bayern-munich/a-77727803?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T15:30:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen: Bericht: VW verschärft Sparkurs – Widerstand angekündigt",
@@ -543,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Wanted: Jobs, critical minerals as Zambia's election nears",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/wanted-jobs-critical-minerals-as-zambia-s-election-nears/a-77671261?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T13:06:00+00:00",
-      "category": "Economy"
+      "title": "Reform: CDU-Politiker will Rente mit 63 so schnell wie möglich abschaffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/rente-mit-63-abschaffung-cdu-pascal-reddig",
+      "published_date": "2026-06-26T23:51:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "I stand by what I said 10 years ago. We were right to leave the European Union | Larry Elliott",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/leave-eu-european-union-brexit-10-years",
-      "published_date": "2026-06-23T10:00:26+00:00",
-      "category": "Economy"
+      "title": "USA: Israel, Libanon und die USA unterzeichnen Rahmenabkommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/israel-libanon-abkommen-usa-marco-rubio",
+      "published_date": "2026-06-26T23:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rentenreform: CDU-Politiker: «Rente mit 63» so früh wie möglich abschaffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/27/cdu-politiker-rente-mit-63-so-frueh-wie-moeglich-abschaffen",
+      "published_date": "2026-06-26T22:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US, Lebanon, Israel sign framework agreement",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-lebanon-israel-sign-framework-agreement/a-77729374?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T17:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German lawyers: Ban on far-right AfD 'likely successful'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-26T14:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German lawyers: Ban on far-right AfD 'likely successful'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T14:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Notfälle: Schwerer Straßenbahn-Unfall mit Verletztem in Berlin",
@@ -652,48 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
       "published_date": "2026-06-26T05:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on EU talks with the Taliban: selling out the rights of girls, women and other Afghans | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/25/the-guardian-view-on-eu-talks-with-the-taliban-selling-out-the-rights-of-girls-women-and-other-afghans",
-      "published_date": "2026-06-25T17:54:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
-      "published_date": "2026-06-25T16:03:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It affected everything': How Brexit reshaped British lives in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260625/it-affected-everything-how-brexit-reshaped-british-lives-in-germany",
-      "published_date": "2026-06-25T13:59:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia used Israeli firm’s tool to crack phone months after ties severed, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/25/russia-used-israeli-tool-to-crack-phone-months-after-contract-cancelled-report-finds",
-      "published_date": "2026-06-25T13:25:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Racism is almost a daily reality for Muslims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-racism-is-almost-a-daily-reality-for-muslims/a-77708763?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-25T13:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Racism is almost a daily reality for Muslims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-racism-is-almost-a-daily-reality-for-muslims/a-77708763?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T13:22:00+00:00",
       "category": "Local Events"
     }
   ]
