@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-25T13:12:51.609418+00:00",
-  "story_count": 96,
+  "last_updated": "2026-06-26T00:04:12.491094+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Recht auf Reparatur: Bundestag beschließt Recht auf Reparatur",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/recht-auf-reparatur-bundestag-eu-richtlinie-verbraucher",
+      "published_date": "2026-06-25T22:12:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey journalists angered after NATO summit exclusion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-journalists-angered-after-nato-summit-exclusion/a-77711915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T17:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan: Warnings mount over the risk of new mass atrocities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-warnings-mount-over-the-risk-of-new-mass-atrocities/a-77709377?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T16:33:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Banning social media for teens: solution or overreaction?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/banning-social-media-for-teens-solution-or-overreaction/a-77704407?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Banning social media for teens: solution or overreaction?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/banning-social-media-for-teens-solution-or-overreaction/a-77704407?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-25T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Folgen des Klimawandels: Vorbild WM: Abkühlpausen für Arbeitnehmer in EU gefordert",
       "source": "ZEIT Online",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Regierungsbefragung im Bundestag: Friedrich Merz verteidigt Konzept der Rentenkommission gegen Kritik",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/regierungsbefragung-bundeskanzler-friedrich-merz-bundestag-cdu",
-      "published_date": "2026-06-24T12:59:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260624/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-126",
-      "published_date": "2026-06-24T06:35:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Keir Starmer couldn’t beat the curse of Brexit – a politics poisoned by nationalism | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/keir-starmer-brexit-nationalism-andy-burnham",
-      "published_date": "2026-06-24T05:00:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain is still stuck on its ex – but after 10 long, lonely years, does the EU feel the same way? | Katy Lee",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/britain-brexit-eu-referendum",
-      "published_date": "2026-06-24T04:00:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon's lose-lose: Is there another way out of conflict?",
+      "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lebanon-s-lose-lose-is-there-another-way-out-of-conflict/a-77678731?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-23T18:26:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T18:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, Poland smooth over WW2 dispute at Gdansk aid forum",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-poland-smooth-over-ww2-dispute-at-gdansk-aid-forum/a-77713191?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T18:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Extreme heat grips Europe as UK hits new June record, France shuts down nuclear reactors and deaths rise across continent – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
+      "published_date": "2026-06-25T17:00:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Morale bombing’ Moscow is not justified | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/25/morale-bombing-moscow-is-not-justified",
+      "published_date": "2026-06-25T16:53:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The 'Flamingo Revolution': What's behind Albania's protests?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T14:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The 'Flamingo Revolution': What's behind Albania's protests?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-25T14:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Erdbeben in Venezuela: »Beim kleinsten Knall fangen die Leute an zu rennen«",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iranian nuclear inspections 'going to happen,' IAEA head",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iranian-nuclear-inspections-going-to-happen-iaea-head/live-77685880?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T09:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran nuclear inspections 'going to happen,' says IAEA head",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-nuclear-inspections-going-to-happen-says-iaea-head/live-77685880?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T09:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Senate vote calls for an end to Trump's Iran war in rare bipartisan rebuke",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-senate-vote-calls-for-an-end-to-trump-s-iran-war-in-rare-bipartisan-rebuke/a-77684833?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T06:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Major warship project to be scrapped",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-major-warship-project-to-be-scrapped/live-77684448?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-24T06:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Major warship project to be scrapped",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-major-warship-project-to-be-scrapped/live-77684448?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T06:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volodymyr Zelenskyy to skip postwar conference amid tensions with Poland",
+      "title": "UK and Switzerland record hottest ever June day as health emergencies surge in Europe",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/23/volodymyr-zelenskyy-skip-postwar-conference-tensions-with-poland",
-      "published_date": "2026-06-23T17:12:04+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/25/highest-june-minimum-temperature-record-broken-cardiff-savage-heatwave-continues",
+      "published_date": "2026-06-25T16:53:43+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "City of Paris achieves partial victory over TotalEnergies in climate risks case",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case",
+      "published_date": "2026-06-25T16:25:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows",
@@ -375,25 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil nations on edge in the face of new climate coalition",
+      "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-18T14:42:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil nations on edge in the face of new climate coalition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T14:42:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US-Iran talks: Hope and skepticism in the Swiss alps",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-talks-hope-and-skepticism-in-the-swiss-alps/a-77610766?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-18T14:12:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T19:37:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
@@ -529,11 +529,46 @@
       "category": "Economy"
     },
     {
-      "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
+      "title": "The Guardian view on EU talks with the Taliban: selling out the rights of girls, women and other Afghans | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
-      "published_date": "2026-06-20T18:55:57+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/25/the-guardian-view-on-eu-talks-with-the-taliban-selling-out-the-rights-of-girls-women-and-other-afghans",
+      "published_date": "2026-06-25T17:54:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
+      "published_date": "2026-06-25T16:03:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'It affected everything': How Brexit reshaped British lives in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260625/it-affected-everything-how-brexit-reshaped-british-lives-in-germany",
+      "published_date": "2026-06-25T13:59:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia used Israeli firm’s tool to crack phone months after ties severed, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/25/russia-used-israeli-tool-to-crack-phone-months-after-contract-cancelled-report-finds",
+      "published_date": "2026-06-25T13:25:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Racism is almost a daily reality for Muslims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-racism-is-almost-a-daily-reality-for-muslims/a-77708763?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-25T13:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Racism is almost a daily reality for Muslims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-racism-is-almost-a-daily-reality-for-muslims/a-77708763?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-25T13:22:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gesellschaft für Freiheitsrechte: Gutachten hält Erfolg von AfD-Verbotsverfahren für realistisch",
@@ -631,48 +666,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-protests-in-northern-region-ladakh-over-talks-with-delhi/live-77686712?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-24T10:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "If an AI chatbot misleads you, who is to blame? | Bruce Schneier and Nathan E Sanders",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility",
-      "published_date": "2026-06-24T10:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A new low': Deutsche Bahn passengers livid at nationwide railway paralysis",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260624/a-new-low-deutsche-bahn-passengers-livid-at-nationwide-railway-paralysis",
-      "published_date": "2026-06-24T08:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24-hour parks and alcohol bans: what cities could learn from Paris’s ‘heatwave mode’ | Helen Massy-Beresford",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/paris-heatwave-alcohol-public-events-cities-extreme-temperatures",
-      "published_date": "2026-06-24T07:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn trains resume after technical glitch paralyses network",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260624/deutsche-bahn-trains-resume-after-technical-glitch-paralyses-network",
-      "published_date": "2026-06-24T06:45:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verkehrsunfall: Tanklaster kippt auf A8 – Sperrung Richtung Stuttgart",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/24/tanklaster-kippt-auf-a8-sperrung-richtung-stuttgart",
-      "published_date": "2026-06-23T23:17:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahnverkehr: Erste Züge der Deutschen Bahn rollen auch in NRW wieder",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/24/erste-zuege-der-deutschen-bahn-rollen-auch-in-nrw-wieder",
-      "published_date": "2026-06-23T23:14:54+00:00",
       "category": "Local Events"
     }
   ]
