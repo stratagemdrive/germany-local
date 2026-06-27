@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-27T12:05:31.217635+00:00",
+  "last_updated": "2026-06-27T23:55:46.854283+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
+      "published_date": "2026-06-27T15:08:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Germany taking a big stake in a major tankmaker?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-27T11:11:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Military-age Ukrainian men could lose EU protection",
       "source": "Deutsche Welle",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why is Germany taking a big stake in a major tankmaker?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T09:47:00+00:00",
-      "category": "Diplomacy"
+      "title": "Hitze in Deutschland und Europa: Hitzeschäden an Autobahnen – Neuer Temperaturhöchstwert gemessen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/hitze-deutschland-europa-folgen-wetterrekorde",
+      "published_date": "2026-06-27T19:48:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why Germans don't have air conditioning",
+      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-germans-don-t-have-air-conditioning/a-77685580?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-25T07:36:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-27T16:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-27T16:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rome celebrates 80 years of Italy's iconic Vespa scooter",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rome-celebrates-80-years-of-italy-s-iconic-vespa-scooter/a-77735061?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-27T14:51:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Senior MP says Germany could revive conscription by mid-2027",
@@ -154,6 +182,13 @@
       "title": "Iran war: US military hits Iran over cargo vessel attack",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-26T20:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US carries out 'additional strikes' on Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-carries-out-additional-strikes-on-iran/live-77729995?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-26T20:50:00+00:00",
       "category": "Military"
     },
@@ -246,41 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-25T14:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The 'Flamingo Revolution': What's behind Albania's protests?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-25T14:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erdbeben in Venezuela: »Beim kleinsten Knall fangen die Leute an zu rennen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/erdbeben-venezuela-panik-caracas-anja-dargatz",
-      "published_date": "2026-06-25T12:54:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T11:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-25T11:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Trump feuds with Senators after rare Iran war rebuke",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-trump-feuds-with-senators-after-rare-iran-war-rebuke/a-77684833?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T09:18:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Why is the US targeting Germany's drug industry?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-27T16:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Heat record broken for second consecutive day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-27T16:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Heat record broken for second consecutive day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-27T16:10:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Germany news: Heat soars as political reforms split opinion",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-heat-soars-as-political-reforms-split-opinion/live-77733670?maca=en-rss-en-all-1573-rdf",
@@ -543,25 +564,11 @@
       "category": "Economy"
     },
     {
-      "title": "Climate change: Heatwave costs the German economy billions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/climate-change-heatwave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T13:27:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Climate change: Heat wave costs the German economy billions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/climate-change-heat-wave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-24T13:27:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Climate change: Heat wave costs the German economy billions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/climate-change-heat-wave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T13:27:00+00:00",
-      "category": "Economy"
+      "title": "Kriminalität: Schüsse in Berlin - 17-Jähriger schwer verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/28/schuesse-in-berlin-17-jaehriger-schwer-verletzt",
+      "published_date": "2026-06-27T22:16:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hitzewelle: Extremhitze macht NRW zu schaffen",
@@ -694,13 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/montenegro-arrests-iran-linked-hacker-wanted-by-us/a-77720738?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-26T10:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magdeburg Christmas market car attacker sentenced to life in prison",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260626/magdeburg-christmas-market-car-attacker-sentenced-to-life-in-prison",
-      "published_date": "2026-06-26T10:35:16+00:00",
       "category": "Local Events"
     }
   ]
