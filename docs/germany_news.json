@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-27T23:55:46.854283+00:00",
+  "last_updated": "2026-06-28T12:13:23.373071+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/28/british-food-trade-deal-brexit-hitting-uk-farmers-hard",
+      "published_date": "2026-06-28T11:00:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
       "source": "The Guardian",
@@ -14,6 +21,13 @@
       "title": "Why is Germany taking a big stake in a major tankmaker?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-27T11:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Germany taking a big stake in a major tankmaker?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-27T11:11:00+00:00",
       "category": "Diplomacy"
     },
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Debatte im Bundestag: Städte gegen Hitze wappnen: Neues Baurecht soll helfen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/25/staedte-gegen-hitze-wappnen-neues-baurecht-soll-helfen",
-      "published_date": "2026-06-25T13:01:06+00:00",
-      "category": "Diplomacy"
+      "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-27T20:46:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rome airports threaten to suspend new EU passport system to avoid summer ‘disaster’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/25/rome-airports-threaten-to-suspend-new-eu-passport-system-to-avoid-summer-disaster",
-      "published_date": "2026-06-25T10:53:29+00:00",
-      "category": "Diplomacy"
+      "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-27T20:46:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Hitze in Deutschland und Europa: Hitzeschäden an Autobahnen – Neuer Temperaturhöchstwert gemessen",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘Morale bombing’ Moscow is not justified | Letter",
+      "title": "Temperature records tumble across Europe as heatwave moves east",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/25/morale-bombing-moscow-is-not-justified",
-      "published_date": "2026-06-25T16:53:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The 'Flamingo Revolution': What's behind Albania's protests?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T14:25:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
+      "published_date": "2026-06-28T11:24:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
@@ -414,13 +421,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260624/people-are-at-risk-europe-urged-to-invest-in-healthcare-as-heatwaves-intensify",
       "published_date": "2026-06-24T16:30:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "European heat wave is not normal summer weather",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-24T14:20:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "France: 11 killed in civilian plane crash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-28T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ironman Hamburg: »Ich spüre den Hass«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/28/ironman-hamburg-kirchwerder-sabotage-metallspaene-rennradfahrer",
+      "published_date": "2026-06-28T11:38:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Extreme heat heads east, Greens want air con",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-extreme-heat-heads-east-greens-want-air-con/live-77733670?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-28T09:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Extreme heat heads east, Greens want air con",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-extreme-heat-heads-east-greens-want-air-con/live-77733670?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-28T09:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Caledonia heads to polls in vote delayed since 2024",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-caledonia-heads-to-polls-in-vote-delayed-since-2024/a-77741001?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-28T08:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv hit with ballistic missiles, as civilians killed by drone strikes in Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/ukraine-war-briefing-ballistic-missile-attack-in-kyiv-forces-residents-into-shelters",
+      "published_date": "2026-06-28T01:42:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Kriminalität: Schüsse in Berlin - 17-Jähriger schwer verletzt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-06/28/schuesse-in-berlin-17-jaehriger-schwer-verletzt",
@@ -659,48 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-26T14:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German lawyers: Ban on far-right AfD 'likely successful'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T14:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European heatwave's unlikely accomplice is an ocean 'cold blob'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260626/european-heatwaves-unlikely-accomplice-is-an-ocean-cold-blob",
-      "published_date": "2026-06-26T13:20:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Notfälle: Schwerer Straßenbahn-Unfall mit Verletztem in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/26/schwerer-strassenbahn-unfall-mit-verletztem-in-berlin",
-      "published_date": "2026-06-26T12:59:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krisendienst: Gesundheitsministerin Warken will Suizidprävention stärken",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/suizidpraevention-gesetz-nina-warken-cdu-krisendienst",
-      "published_date": "2026-06-26T12:36:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris bans drinking alcohol in public as hospitals hit heatwave breaking point",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/26/paris-heatwave-drinking-ban-drinking-alcohol-public",
-      "published_date": "2026-06-26T11:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Montenegro arrests Iran-linked hacker wanted by US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/montenegro-arrests-iran-linked-hacker-wanted-by-us/a-77720738?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T10:46:00+00:00",
       "category": "Local Events"
     }
   ]
