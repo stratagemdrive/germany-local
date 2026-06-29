@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-29T14:43:45.411653+00:00",
+  "last_updated": "2026-06-29T23:55:28.195638+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Schüsse in Stade: Merz zeigt sich nach Schusswaffenangriff »erschüttert bis ins Mark«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/schuesse-stade-niedersachsen-jugendhilfe-einrichtung",
+      "published_date": "2026-06-29T22:54:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fifa-Präsident: EU-Abgeordnete unterstützen Untersuchung gegen Gianni Infantino",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/gianni-infantino-fifa-ethikbeschwerde-eu-parlament-donald-trump",
+      "published_date": "2026-06-29T21:23:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU sets up three months of talks with China over €360bn trade deficit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+      "published_date": "2026-06-29T18:33:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-Coronahilfe in Italien: Die italienischen Milliarden",
       "source": "ZEIT Online",
@@ -28,6 +49,13 @@
       "title": "Germany news: Temperatures plunge after historic heat wave",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-29T07:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Temperatures plunge after historic heat wave",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-29T07:57:00+00:00",
       "category": "Diplomacy"
     },
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
+      "title": "Monaco explosion injures three and triggers police hunt",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
-      "published_date": "2026-06-26T08:22:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/29/monaco-explosion-injuries-triggers-police-hunt",
+      "published_date": "2026-06-29T22:51:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brexit: An Oral History – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/26/brexit-an-oral-history-podcast",
-      "published_date": "2026-06-26T04:00:10+00:00",
-      "category": "Diplomacy"
+      "title": "Poland orders Swedish submarines to bulk up navy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-29T16:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tracing one delicious snack around the Mediterranean showed me that modern borders are absurd | Federico De Blasi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/chickpea-snacks-mediterranean-migration-cultural-exchange-europe-africa",
-      "published_date": "2026-06-26T04:00:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Recht auf Reparatur: Bundestag beschließt Recht auf Reparatur",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/recht-auf-reparatur-bundestag-eu-richtlinie-verbraucher",
-      "published_date": "2026-06-25T22:12:13+00:00",
-      "category": "Diplomacy"
+      "title": "Poland orders Swedish submarines to bulk up navy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-29T16:32:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Pläne gegen Altersarmut: Abschreckende Hürden, 22 Formularseiten und hohe Dunkelziffer",
@@ -260,27 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-26T20:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US carries out 'additional strikes' on Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-carries-out-additional-strikes-on-iran/live-77729995?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T20:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Iran war impacts Abu Dhabi's AI strategy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-iran-war-impacts-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T14:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Störung bei der Deutschen Bahn: Bahn will Funksystem künftig nur noch zwischen 0 und 4 Uhr warten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-06/deutsche-bahn-zugverkehr-stoerung-philipp-nagl",
-      "published_date": "2026-06-26T12:59:30+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Germany: At least 6 killed in shooting in Stade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-29T21:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: At least 6 killed in shooting in Stade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-29T21:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru: Fujimori declared winner of presidential election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-29T20:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six adults killed in shooting at youth welfare facility in Stade, Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/29/shooter-kills-adults-stade-youth-welfare-facility-germany",
+      "published_date": "2026-06-29T18:03:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-29T17:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-29T17:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court vastly expands Trump's presidential power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-supreme-court-vastly-expands-trump-s-presidential-power/a-77759124?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-29T17:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Five people killed in shooting in northern Germany, police say – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/jun/29/berlin-exhibition-east-german-artist-gabriele-stotzer",
       "published_date": "2026-06-29T06:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says it struck militant targets in Afghanistan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-says-it-struck-militant-targets-in-afghanistan/a-77746747?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T01:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Putin expects US negotiators in Moscow; fuel rationing in Siberia as crisis bites",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia",
-      "published_date": "2026-06-28T23:52:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Totes Ehepaar in Bremen - Verdächtiger festgenommen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/28/totes-ehepaar-in-bremen-verdaechtiger-festgenommen",
-      "published_date": "2026-06-28T23:38:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sachsen-Anhalt und Brandenburg: AfD-Kandidaten scheitern bei Stichwahlen um Landratsämter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/landratswahl-ostprignitz-ruppin-stichwahl-ralf-reinhardt-afd",
-      "published_date": "2026-06-28T21:27:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French skydiving plane crashes near Nancy, killing all 11 onboard",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect",
-      "published_date": "2026-06-28T15:58:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: 11 killed in civilian plane crash",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-28T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ironman Hamburg: »Ich spüre den Hass«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/28/ironman-hamburg-kirchwerder-sabotage-metallspaene-rennradfahrer",
-      "published_date": "2026-06-28T11:38:38+00:00",
       "category": "Local Events"
     }
   ]
