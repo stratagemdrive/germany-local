@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-28T12:13:23.373071+00:00",
+  "last_updated": "2026-06-29T00:02:12.882670+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Germany's development aid strategy under fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-28T17:06:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's development aid strategy under fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-28T17:06:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
       "source": "The Guardian",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Folgen des Klimawandels: Vorbild WM: Abkühlpausen für Arbeitnehmer in EU gefordert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/25/vorbild-wm-abkuehlpausen-fuer-arbeitnehmer-in-eu-gefordert",
-      "published_date": "2026-06-25T13:03:26+00:00",
-      "category": "Diplomacy"
+      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+      "published_date": "2026-06-28T21:52:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "MPK: Länder vor Treffen mit Merz einig bei Bund-Länder-Finanzen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/25/merz-und-laenderchefs-diskutieren-ueber-finanzen",
-      "published_date": "2026-06-25T13:01:33+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine’s targets in Russia are fully justified | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/ukraines-targets-in-russia-are-fully-justified",
+      "published_date": "2026-06-28T16:58:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda military chief shuts media outlets, slams 'free press'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uganda-military-chief-shuts-media-outlets-slams-free-press/a-77744687?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-28T15:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's Putin promises security as Ukraine ramps up attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-28T14:58:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
@@ -253,34 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/26/heathrow-expects-fall-in-passengers-and-profits-this-year-because-of-iran-war",
       "published_date": "2026-06-26T08:44:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea: Kim Jong Un oversees ballistic missile tests, calls for stronger 'offensive posture'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-kim-jong-un-oversees-ballistic-missile-tests-calls-for-stronger-offensive-posture/a-77716329?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T03:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T18:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Poland smooth over WW2 dispute at Gdansk aid forum",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-poland-smooth-over-ww2-dispute-at-gdansk-aid-forum/a-77713191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T18:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Extreme heat grips Europe as UK hits new June record, France shuts down nuclear reactors and deaths rise across continent – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-      "published_date": "2026-06-25T17:00:17+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Ukraine war briefing: Putin expects US negotiators in Moscow; fuel rationing in Siberia as crisis bites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia",
+      "published_date": "2026-06-28T23:52:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kriminalität: Totes Ehepaar in Bremen - Verdächtiger festgenommen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/28/totes-ehepaar-in-bremen-verdaechtiger-festgenommen",
+      "published_date": "2026-06-28T23:38:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sachsen-Anhalt und Brandenburg: AfD-Kandidaten scheitern bei Stichwahlen um Landratsämter",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/landratswahl-ostprignitz-ruppin-stichwahl-ralf-reinhardt-afd",
+      "published_date": "2026-06-28T21:27:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French skydiving plane crashes near Nancy, killing all 11 onboard",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect",
+      "published_date": "2026-06-28T15:58:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France: 11 killed in civilian plane crash",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-rdf",
@@ -673,34 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-06/rente-mit-63-abschaffung-cdu-pascal-reddig",
       "published_date": "2026-06-26T23:51:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA: Israel, Libanon und die USA unterzeichnen Rahmenabkommen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/israel-libanon-abkommen-usa-marco-rubio",
-      "published_date": "2026-06-26T23:45:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rentenreform: CDU-Politiker: «Rente mit 63» so früh wie möglich abschaffen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/27/cdu-politiker-rente-mit-63-so-frueh-wie-moeglich-abschaffen",
-      "published_date": "2026-06-26T22:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US, Lebanon, Israel sign framework agreement",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-lebanon-israel-sign-framework-agreement/a-77729374?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T17:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German lawyers: Ban on far-right AfD 'likely successful'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-26T14:57:00+00:00",
       "category": "Local Events"
     }
   ]
