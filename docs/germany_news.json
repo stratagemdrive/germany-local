@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-30T13:06:53.172300+00:00",
+  "last_updated": "2026-06-30T23:59:42.656059+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Industrie: EU halbiert zollfreie Stahlimporte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/01/eu-halbiert-zollfreie-stahlimporte",
+      "published_date": "2026-06-30T22:45:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Welthandel: EU setzt Zollversprechen an Trump um",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/01/eu-setzt-zollversprechen-an-trump-um",
+      "published_date": "2026-06-30T22:05:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and European diplomats continue standoff over top Bosnia and Herzegovina post",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/eu-diplomats-clash-with-trump-administration-over-top-bosnia-and-herzegovina-post",
+      "published_date": "2026-06-30T21:26:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strafprozess nach G20-Gipfel: »Ich war schlichtweg überfordert«, sagt der Polizist",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-06/strafprozess-g20-gipfel-ausschreitungen-polizist",
+      "published_date": "2026-06-30T19:41:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Angela Merkel unveils official portrait in Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-30T16:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Angela Merkel unveils official portrait in Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T16:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘But we’re just 1% of emissions’: do smaller countries’ climate efforts matter?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/30/emissions-do-smaller-countries-climate-efforts-matter",
+      "published_date": "2026-06-30T15:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italian MEP suggests government wants to ‘hide truth’ about Albania migrant centre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/italy-mep-government-truth-migrant-detention-centre-albania",
+      "published_date": "2026-06-30T15:30:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU halves duty-free steel quota but UK and other partners given better rate",
       "source": "The Guardian",
@@ -88,60 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Temperatures plunge after historic heat wave",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T07:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Temperatures plunge after historic heat wave",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-29T07:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's development aid strategy under fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-28T17:06:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's development aid strategy under fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-28T17:06:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
+      "title": "‘He isn’t political’: the Ukrainian-born oligarch targeted by a Monaco bomber",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/28/british-food-trade-deal-brexit-hitting-uk-farmers-hard",
-      "published_date": "2026-06-28T11:00:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/30/vadym-iermolaiev-ukrainian-born-oligarch-monaco-bomber",
+      "published_date": "2026-06-30T15:00:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
-      "published_date": "2026-06-27T15:08:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why is Germany taking a big stake in a major tankmaker?",
+      "title": "'Under siege': Uganda's army chief clamps down on the press",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-27T11:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/under-siege-uganda-s-army-chief-clamps-down-on-the-press/a-77769666?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T14:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why is Germany taking a big stake in a major tankmaker?",
+      "title": "Swift Boost Mission: an opportunity for science and defense",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T11:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/swift-boost-mission-an-opportunity-for-science-and-defense/a-77768927?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T13:29:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
+      "title": "Germany's heat wave has a political fallout",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-27T20:46:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-30T19:30:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hitze in Deutschland und Europa: Hitzeschäden an Autobahnen – Neuer Temperaturhöchstwert gemessen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/hitze-deutschland-europa-folgen-wetterrekorde",
-      "published_date": "2026-06-27T19:48:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+      "title": "Germany's heat wave has a political fallout",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T16:41:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T19:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Europe heat wave 'virtually impossible' without human impact",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-heat-wave-virtually-impossible-without-human-impact/live-77663026?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T05:32:00+00:00",
-      "category": "Energy"
+      "title": "Vor Parteitag in Thüringen: GdP warnt vor Mangel an Einsatzkräften beim AfD-Parteitag",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/01/gdp-warnt-vor-mangel-an-einsatzkraeften-beim-afd-parteitag",
+      "published_date": "2026-06-30T23:00:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK and Switzerland record hottest ever June day as health emergencies surge in Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/25/highest-june-minimum-temperature-record-broken-cardiff-savage-heatwave-continues",
-      "published_date": "2026-06-25T16:53:43+00:00",
-      "category": "Energy"
+      "title": "US top court backs birthright citizenship in rebuke to Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T14:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No more Bürgergeld: The changes to Germany's unemployment benefits from July",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/no-more-burgergeld-the-changes-to-germanys-unemployment-benefits-from-july",
+      "published_date": "2026-06-30T14:01:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "Inflation: Inflation in Sachsen-Anhalt schwächt sich weiter ab",
@@ -536,32 +557,67 @@
       "category": "Economy"
     },
     {
-      "title": "World Cup: Morocco's Ismael Saibari set for Bayern Munich",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/world-cup-morocco-s-ismael-saibari-set-for-bayern-munich/a-77727803?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T15:30:00+00:00",
+      "title": "VW plans to cut up to 100,000 jobs and shut plants, report says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
+      "published_date": "2026-06-26T15:35:52+00:00",
       "category": "Economy"
     },
     {
-      "title": "Volkswagen: Bericht: VW verschärft Sparkurs – Widerstand angekündigt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/26/bericht-vw-will-weitere-50-000-stellen-streichen",
-      "published_date": "2026-06-26T13:00:40+00:00",
-      "category": "Economy"
+      "title": "Israel peace deal greeted with skepticism, fear in Lebanon",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-peace-deal-greeted-with-skepticism-fear-in-lebanon/a-77775047?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T17:30:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bayer: Why so many Roundup weedkiller lawsuits?",
+      "title": "US envoys arrive in Qatar with state of Iran talks unclear",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-26T11:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/us-envoys-arrive-in-qatar-with-state-of-iran-talks-unclear/live-77763482?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T16:54:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bayer: Why so many Roundup weedkiller lawsuits?",
+      "title": "Halle lakeside pool backtracks on 'xenophobic' German-language entry rule",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/halle-lakeside-pool-backtracks-on-xenophobic-german-language-entry-rule",
+      "published_date": "2026-06-30T15:19:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US birthright citizenship: What does Trump's loss mean?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T11:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/us-birthright-citizenship-what-does-trump-s-loss-mean/a-77773604?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T14:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will alleged crime ties damage Serbia's ruling party?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portugal's 'golden visa' delays spark legal fight",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/portugal-s-golden-visa-delays-spark-legal-fight/a-77755949?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will alleged crime ties damage Serbia's ruling party?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-06-30T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Are Germany’s big housing firms really addressing discrimination in the market?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/are-germanys-big-housing-firms-really-addressing-discrimination-in-the-market",
+      "published_date": "2026-06-30T13:24:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fußball-Bundesliga der Frauen: RB Leipzig verpflichtet erfahrene Niederländerin Hulst",
@@ -606,6 +662,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Stade attack victims yet to be identified",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-stade-attack-victims-yet-to-be-identified/live-77765094?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-30T09:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Stade attack victims yet to be identified",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-stade-attack-victims-yet-to-be-identified/live-77765094?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T09:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Shooter in custody dispute kills six at German family shelter",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260630/shooter-in-custody-dispute-kills-six-at-german-family-shelter",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/global-development/2026/jun/30/sexually-transmitted-infections-europe-world-drug-resistant-bacteria-amr",
       "published_date": "2026-06-30T06:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: At least 6 killed in shooting in Stade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-29T21:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: At least 6 killed in shooting in Stade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T21:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru: Fujimori declared winner of presidential election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T20:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six adults killed in shooting at youth welfare facility in Stade, Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/shooter-kills-adults-stade-youth-welfare-facility-germany",
-      "published_date": "2026-06-29T18:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T17:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-29T17:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court vastly expands Trump's presidential power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-supreme-court-vastly-expands-trump-s-presidential-power/a-77759124?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T17:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five people killed in shooting in northern Germany, police say – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
-      "published_date": "2026-06-29T14:28:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutscher Wetterdienst: NRW erlebt zweitwärmsten Juni seit Messbeginn",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/29/nrw-erlebt-zweitwaermsten-juni-seit-messbeginn",
-      "published_date": "2026-06-29T14:27:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's on in Germany: Ten unmissable events in July 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260629/whats-on-in-germany-ten-unmissable-events-in-july-2026",
-      "published_date": "2026-06-29T14:24:26+00:00",
       "category": "Local Events"
     }
   ]
