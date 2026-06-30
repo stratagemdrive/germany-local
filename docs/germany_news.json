@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-29T23:55:28.195638+00:00",
+  "last_updated": "2026-06-30T13:06:53.172300+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
+      "published_date": "2026-06-30T11:11:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: US envoy says trade deal breakthrough in sight",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-us-envoy-says-trade-deal-breakthrough-in-sight/live-77764236?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What's on the agenda at the next EU-UK summit... if it takes place?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/whats-on-the-agenda-at-the-next-eu-uk-summit-if-it-takes-place",
+      "published_date": "2026-06-30T09:33:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe and US on collision course over next high representative for Bosnia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
+      "published_date": "2026-06-30T08:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What you should expect when the EU's small parcel fee kicks in on July 1st",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/what-you-should-expect-when-eu-small-parcel-fee-kicks-in-on-july-1st",
+      "published_date": "2026-06-30T07:02:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ireland is big tech’s lapdog – and that compromises its EU presidency | Johnny Ryan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty",
+      "published_date": "2026-06-30T04:00:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Schüsse in Stade: Merz zeigt sich nach Schusswaffenangriff »erschüttert bis ins Mark«",
       "source": "ZEIT Online",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Military-age Ukrainian men could lose EU protection",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/military-age-ukrainian-men-could-lose-eu-protection/a-77729285?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T09:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Military-age Ukrainian men could lose EU protection",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/military-age-ukrainian-men-could-lose-eu-protection/a-77729285?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-27T09:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU worries jet fuel supply situation to worsen",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260627/eu-worries-jet-fuel-supply-situation-to-worsen",
-      "published_date": "2026-06-27T08:14:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "All quiet on the eastern flank? Nato leaders fear they can no longer rely on US help if Russia attacks",
+      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/27/nato-leaders-fear-they-can-no-longer-rely-on-us-help-if-russia-attacks-trump-eastern-europe",
-      "published_date": "2026-06-27T07:01:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "published_date": "2026-06-30T13:01:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "To heal itself, the UK must face up to why it voted to leave the EU | Letters",
+      "title": "Monaco in shock after parcel bomb injures Ukrainian-born business leader",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/26/to-heal-itself-the-uk-must-face-up-to-why-it-voted-to-leave-the-eu",
-      "published_date": "2026-06-26T16:11:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch",
+      "published_date": "2026-06-30T09:39:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sudan: Fears of atrocities as RSF surrounds key city",
+      "title": "Amid war in Ukraine, the fleeting moments of despair and salvation I witness are what truly tell the story | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/wartime-ukraine-reporting-front-line",
+      "published_date": "2026-06-30T07:00:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian oligarch reportedly injured in Monaco blast",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-fears-of-atrocities-as-rsf-surrounds-key-city/a-77709377?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T10:25:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukrainian-oligarch-reportedly-injured-in-monaco-blast/a-77763150?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T03:52:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Monaco explosion injures three and triggers police hunt",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-27T16:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rome celebrates 80 years of Italy's iconic Vespa scooter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rome-celebrates-80-years-of-italy-s-iconic-vespa-scooter/a-77735061?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T14:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior MP says Germany could revive conscription by mid-2027",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260627/senior-mp-says-germany-could-revive-conscription-by-mid-2027",
-      "published_date": "2026-06-27T07:22:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US military hits Iran over cargo vessel attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T20:50:00+00:00",
-      "category": "Military"
+      "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
+      "published_date": "2026-06-30T13:02:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "EV myths muddy the road to electrification",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "City of Paris achieves partial victory over TotalEnergies in climate risks case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case",
-      "published_date": "2026-06-25T16:25:42+00:00",
-      "category": "Energy"
+      "title": "Inflation: Inflation in Sachsen-Anhalt schwächt sich weiter ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/30/inflation-in-sachsen-anhalt-schwaecht-sich-weiter-ab",
+      "published_date": "2026-06-30T12:51:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation in Deutschland: Inflationsrate sinkt im Juni auf 2,3 Prozent",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-06/inflation-deutschland-statistisches-bundesamt-tankrabatt-oelpreise-gxe",
+      "published_date": "2026-06-30T12:41:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rundfunkbeitrag: Einnahmen aus dem Rundfunkbeitrag lagen 2025 bei 8,72 Milliarden Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/rundfunkbeitrag-beitragsservice-ard-zdf-deutschlandradio-einnahmen-gxe",
+      "published_date": "2026-06-30T12:38:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Auswirkungen der Geopolitik: Jetzt hängt alles an den Lieferketten. Wie gut sie halten? Unklar",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2026/02/auswirkungen-geopolitik-lieferketten-strasse-von-hormus-erdoel",
+      "published_date": "2026-06-30T12:24:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Africa braces for anti-migrant protests",
@@ -536,32 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "VW plans to cut up to 10,000 jobs and shut plants, report says",
+      "title": "Fußball-Bundesliga der Frauen: RB Leipzig verpflichtet erfahrene Niederländerin Hulst",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/30/rb-leipzig-verpflichtet-erfahrene-niederlaenderin-hulst",
+      "published_date": "2026-06-30T12:56:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Parteitag: Demos auf Zufahrtsstraßen zu AfD-Parteitag untersagt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-06/30/demos-auf-zufahrtsstrassen-zu-afd-parteitag-untersagt",
+      "published_date": "2026-06-30T12:52:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One million migrants in Spain apply to regularise status in new scheme",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
-      "published_date": "2026-06-26T10:47:16+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/30/million-migrants-spain-apply-regularise-status-new-scheme",
+      "published_date": "2026-06-30T12:43:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Climate change to blame as heatwave hits Europe's economies",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260626/climate-change-to-blame-as-heatwave-hits-europes-economies",
-      "published_date": "2026-06-26T08:44:21+00:00",
-      "category": "Economy"
+      "title": "Elon Musk promotes ‘anti-migrant’ Armie Hammer film with free download on X",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante",
+      "published_date": "2026-06-30T11:41:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
+      "title": "South Africa on edge with anti-migrant protests underway",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-25T19:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/south-africa-on-edge-with-anti-migrant-protests-underway/live-77735079?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T11:21:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
+      "title": "Germany news: Police still to identify Stade attack victims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-still-to-identify-stade-attack-victims/live-77765094?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T09:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooter in custody dispute kills six at German family shelter",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/shooter-in-custody-dispute-kills-six-at-german-family-shelter",
+      "published_date": "2026-06-30T07:19:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How I survived the record Paris heatwave while seven months pregnant",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
-      "published_date": "2026-06-25T11:53:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant",
+      "published_date": "2026-06-30T07:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260630/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-130",
+      "published_date": "2026-06-30T06:34:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why a surge in sexually transmitted infections in Europe should worry everybody | Peter Beyer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jun/30/sexually-transmitted-infections-europe-world-drug-resistant-bacteria-amr",
+      "published_date": "2026-06-30T06:00:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany: At least 6 killed in shooting in Stade",
@@ -631,76 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260629/whats-on-in-germany-ten-unmissable-events-in-july-2026",
       "published_date": "2026-06-29T14:24:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schweriner Landtag: Nach Austritt aus Landtagsfraktion: Diener verlässt CDU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/29/nach-austritt-aus-landtagsfraktion-diener-verlaesst-cdu",
-      "published_date": "2026-06-29T14:24:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste gegen AfD-Parteitag: Linkenchefin Schwerdtner verteidigt Blockaden von AfD-Parteitagen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/afd-bundesparteitag-erfurt-proteste-blockaden-ines-schwerdtner",
-      "published_date": "2026-06-29T13:56:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five dead and two arrested after shooting in northern German city",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260629/five-dead-in-shooting-in-northern-german-city-say-police",
-      "published_date": "2026-06-29T12:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: At least 5 killed in shooting in Stade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-at-least-5-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-29T11:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: At least 5 killed in shooting in Stade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-at-least-5-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T11:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Slovenia, Pride meets growing support — and hostility",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-slovenia-pride-meets-growing-support-and-hostility/a-77753587?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T11:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Slovenia, Pride meets growing support — and hostility",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-slovenia-pride-meets-growing-support-and-hostility/a-77753587?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-29T11:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires and cancelled transport: How record-breaking high temperatures hit Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260629/wildfires-and-cancelled-transport-how-record-breaking-high-temperatures-hit-germany",
-      "published_date": "2026-06-29T10:33:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Done Quixote? Film archivists on quest to finish Orson Welles passion project",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/29/orson-welles-unfinished-don-quixote-film",
-      "published_date": "2026-06-29T10:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We were broke, but fascinated by freedom’: exhibition showcases East German artist Gabriele Stötzer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/29/berlin-exhibition-east-german-artist-gabriele-stotzer",
-      "published_date": "2026-06-29T06:00:31+00:00",
       "category": "Local Events"
     }
   ]
