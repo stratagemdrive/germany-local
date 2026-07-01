@@ -1,8 +1,78 @@
 {
   "country": "Germany",
-  "last_updated": "2026-06-30T23:59:42.656059+00:00",
+  "last_updated": "2026-07-01T13:31:47.581135+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘Most spectacular own goal in history’: new EU rules threaten to shut out UK car manufacturers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
+      "published_date": "2026-07-01T12:50:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada to compete in 2027 Eurovision Song Contest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-to-compete-in-2027-eurovision-song-contest/a-77787878?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T10:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-01T10:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Digital euro: The plan to Trump-proof the EU's economies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T09:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Digital euro: The plan to Trump-proof the EU's economies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-01T09:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
+      "published_date": "2026-07-01T08:08:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU slaps €3 duty on low-value imported packages",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-slaps-€3-duty-on-low-value-imported-packages/a-77778850?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T06:18:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU slaps €3 duty on low-value imported packages",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-slaps-€3-duty-on-low-value-imported-packages/a-77778850?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-01T06:18:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Meloni has hit back hard against Trump and his ‘made up’ photo claim | Riccardo Alcaro",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim",
+      "published_date": "2026-07-01T04:00:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Industrie: EU halbiert zollfreie Stahlimporte",
       "source": "ZEIT Online",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What's on the agenda at the next EU-UK summit... if it takes place?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/whats-on-the-agenda-at-the-next-eu-uk-summit-if-it-takes-place",
-      "published_date": "2026-06-30T09:33:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe and US on collision course over next high representative for Bosnia",
+      "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
-      "published_date": "2026-06-30T08:13:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
+      "published_date": "2026-07-01T13:24:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "What you should expect when the EU's small parcel fee kicks in on July 1st",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/what-you-should-expect-when-eu-small-parcel-fee-kicks-in-on-july-1st",
-      "published_date": "2026-06-30T07:02:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ireland is big tech’s lapdog – and that compromises its EU presidency | Johnny Ryan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty",
-      "published_date": "2026-06-30T04:00:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Schüsse in Stade: Merz zeigt sich nach Schusswaffenangriff »erschüttert bis ins Mark«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/schuesse-stade-niedersachsen-jugendhilfe-einrichtung",
-      "published_date": "2026-06-29T22:54:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fifa-Präsident: EU-Abgeordnete unterstützen Untersuchung gegen Gianni Infantino",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/gianni-infantino-fifa-ethikbeschwerde-eu-parlament-donald-trump",
-      "published_date": "2026-06-29T21:23:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU sets up three months of talks with China over €360bn trade deficit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-      "published_date": "2026-06-29T18:33:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU-Coronahilfe in Italien: Die italienischen Milliarden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/eu-coronahilfe-italien-hilfsfonds-wirtschaft-wiederaufbau",
-      "published_date": "2026-06-29T14:33:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-India trade deal: Inside the key sticking points",
+      "title": "Sudan's RSF accused of crimes against humanity in el-Fasher",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-india-trade-deal-inside-the-key-sticking-points/a-77754790?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T12:33:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T11:27:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EIB announces largest-ever loan: €3 billion to Airbus",
+      "title": "Middle East updates: Iran, US to attend talks in Qatar",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eib-announces-largest-ever-loan-€3-billion-to-airbus/a-77753537?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T11:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/middle-east-updates-iran-us-to-attend-talks-in-qatar/live-77780323?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T08:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Andy Burnham is about to have a crash course in hardcore geopolitics | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/andy-burnham-crash-course-hardcore-geopolitics-foreign-policy",
+      "published_date": "2026-07-01T08:00:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global firms and German startups compete in realizing nuclear fusion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/global-firms-and-german-startups-compete-in-realizing-nuclear-fusion/a-77772842?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T04:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global firms and German startups compete in realizing nuclear fusion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/global-firms-and-german-startups-compete-in-realizing-nuclear-fusion/a-77772842?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T04:53:00+00:00",
+      "category": "Military"
     },
     {
       "title": "‘He isn’t political’: the Ukrainian-born oligarch targeted by a Monaco bomber",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Fragments of Ice review – fascinating chronicle of Soviet collapse through the lens of a Ukrainian ice skater",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/29/fragments-of-ice-review-fascinating-chronicle-of-soviet-collapse-through-the-lens-of-a-ukrainian-ice-skater",
-      "published_date": "2026-06-29T06:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-      "published_date": "2026-06-28T21:52:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s targets in Russia are fully justified | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/28/ukraines-targets-in-russia-are-fully-justified",
-      "published_date": "2026-06-28T16:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda military chief shuts media outlets, slams 'free press'",
+      "title": "Spain heat wave kills over 1,000 in second-hottest June ever",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uganda-military-chief-shuts-media-outlets-slams-free-press/a-77744687?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-28T15:24:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/spain-heat-wave-kills-over-1-000-in-second-hottest-june-ever/a-77781523?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T09:21:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia's Putin promises security as Ukraine ramps up attacks",
+      "title": "Germany saves forest from mining, US opens land to drilling",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-28T14:58:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-saves-forest-from-mining-us-opens-land-to-drilling/a-77627986?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T07:34:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
+      "title": "Germany saves forest from mining, US opens land to drilling",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T20:46:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-saves-forest-from-mining-us-opens-land-to-drilling/a-77627986?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T07:34:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany's heat wave has a political fallout",
@@ -294,6 +315,20 @@
       "title": "Germany's heat wave has a political fallout",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-06-30T19:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany: Heat wave is over, political fallout has just begun",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-heat-wave-is-over-political-fallout-has-just-begun/a-77776202?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-06-30T19:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany: Heat wave is over, political fallout has just begun",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-heat-wave-is-over-political-fallout-has-just-begun/a-77776202?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-06-30T19:30:00+00:00",
       "category": "Energy"
     },
@@ -389,39 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Adapting to the heat: four ideas from European cities",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/adapting-heat-ideas-from-european-cities",
-      "published_date": "2026-06-26T14:35:28+00:00",
-      "category": "Energy"
+      "title": "German FA headquarters searched in Euro 2024 graft probe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260701/german-fa-headquarters-searched-in-euro-2024-graft-probe",
+      "published_date": "2026-07-01T13:15:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘Fork in the road’: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
-      "published_date": "2026-06-26T14:00:14+00:00",
-      "category": "Energy"
+      "title": "Institut der deutschen Wirtschaft: Deutsche geben jeden vierten Euro fürs Wohnen aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/wohnen-kosten-immobilienpreise-anstieg-institut-der-deutschen-wirtschaft",
+      "published_date": "2026-07-01T12:39:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe heatwave live: red warning issued for millions in England; France and Belgium cancel events",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
-      "published_date": "2026-06-26T12:38:14+00:00",
-      "category": "Energy"
+      "title": "ANALYSIS: Is the cost of living coming down in Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260701/analysis-is-the-cost-of-living-coming-down-in-germany",
+      "published_date": "2026-07-01T10:25:51+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/climate-change-in-oceania-tuvalu-is-tired-of-the-prophets-of-doom-a-53a59063-c102-4f4e-9946-08b4189343b5#ref=rss",
-      "published_date": "2026-06-26T10:52:00+00:00",
-      "category": "Energy"
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260701/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-127",
+      "published_date": "2026-07-01T06:23:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe heat wave 'virtually impossible' without human impact",
+      "title": "US: Trump earned over $1.4 billion in 2025, led by crypto ventures",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-heat-wave-virtually-impossible-without-human-impact/live-77663026?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-26T05:32:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/us-trump-earned-over-1-4-billion-in-2025-led-by-crypto-ventures/a-77778642?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T04:12:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Vor Parteitag in Thüringen: GdP warnt vor Mangel an Einsatzkräften beim AfD-Parteitag",
@@ -529,39 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "India news: PM Modi embarks on two-day Seychelles visit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-pm-modi-embarks-on-two-day-seychelles-visit/live-77732253?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T07:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US, Iran trade strike warnings, threatening truce",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-iran-trade-strike-warnings-threatening-truce/live-77729995?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T20:50:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brexit Britain and the roots of its discontent | Letters",
+      "title": "Businessman accused of ordering Daphne Caruana Galizia murder stands trial in Malta",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/26/brexit-britain-and-the-roots-of-its-discontent",
-      "published_date": "2026-06-26T16:11:27+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/01/daphne-caruana-galizia-murder-yorgen-fenech-trial-malta",
+      "published_date": "2026-07-01T13:18:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen reportedly weighing more large-scale job cuts",
+      "title": "How Paris became a nexus for Black culture",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jul/01/paris-nexus-black-culture-diaspora-the-long-wave",
+      "published_date": "2026-07-01T13:13:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algeria's parliamentary vote raises questions on real change",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/algeria-s-parliamentary-vote-raises-questions-on-real-change/a-77787095?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T13:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salzburg bans tourists from driving into historic centre over summer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/01/salzburg-bans-tourists-driving-old-town-austria-traffic",
+      "published_date": "2026-07-01T12:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Minab Attack: Did the United States Commit a War Crime in Iran?",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/the-minab-attack-did-the-united-states-commit-a-war-crime-in-iran-a-24f05985-fc36-4d01-9c00-ee4f218bc071#ref=rss",
+      "published_date": "2026-07-01T12:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'It's about our friends and neighbours': Left Party MP calls on Germany to ban the AfD",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260626/volkswagen-reportedly-weighing-more-large-scale-job-cuts",
-      "published_date": "2026-06-26T15:43:22+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260701/its-about-our-friends-and-neighbours-left-party-mp-calls-on-germany-to-ban-the-afd",
+      "published_date": "2026-07-01T12:06:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "VW plans to cut up to 100,000 jobs and shut plants, report says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
-      "published_date": "2026-06-26T15:35:52+00:00",
-      "category": "Economy"
+      "title": "Germany news: Raids on DFB, host cities over Euro 2024 perks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-raids-on-dfb-host-cities-over-euro-2024-perks/live-77779894?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T08:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German rail regulator backs Italian firm in network competition dispute",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260701/german-rail-regulator-backs-italian-firm-in-rail-network-competition-dispute",
+      "published_date": "2026-07-01T07:19:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel peace deal greeted with skepticism, fear in Lebanon",
@@ -645,62 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante",
       "published_date": "2026-06-30T11:41:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa on edge with anti-migrant protests underway",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-on-edge-with-anti-migrant-protests-underway/live-77735079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T11:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Police still to identify Stade attack victims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-police-still-to-identify-stade-attack-victims/live-77765094?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T09:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Stade attack victims yet to be identified",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-stade-attack-victims-yet-to-be-identified/live-77765094?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-30T09:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Stade attack victims yet to be identified",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-stade-attack-victims-yet-to-be-identified/live-77765094?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T09:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooter in custody dispute kills six at German family shelter",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/shooter-in-custody-dispute-kills-six-at-german-family-shelter",
-      "published_date": "2026-06-30T07:19:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How I survived the record Paris heatwave while seven months pregnant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant",
-      "published_date": "2026-06-30T07:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-130",
-      "published_date": "2026-06-30T06:34:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why a surge in sexually transmitted infections in Europe should worry everybody | Peter Beyer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jun/30/sexually-transmitted-infections-europe-world-drug-resistant-bacteria-amr",
-      "published_date": "2026-06-30T06:00:40+00:00",
       "category": "Local Events"
     }
   ]
