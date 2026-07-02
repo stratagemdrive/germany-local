@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-02T12:53:55.471336+00:00",
+  "last_updated": "2026-07-02T23:56:34.455001+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Reformen von Friedrich Merz: Ich kann Sie so schwer verstehen, Herr Merz!",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-07/reformen-friedrich-merz-maybrit-illner-cdu",
+      "published_date": "2026-07-02T22:35:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KNDS: German-French tank manufacturer postpones IPO",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/knds-german-french-tank-manufacturer-postpones-ipo/a-77804654?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-02T14:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KNDS: German-French tank manufacturer postpones IPO",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/knds-german-french-tank-manufacturer-postpones-ipo/a-77804654?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T14:37:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "German coalition agrees on reform package in key breakthrough",
       "source": "The Local Germany",
@@ -14,6 +35,13 @@
       "title": "Germany news: Coalition agrees package to boost growth",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T09:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Coalition agrees package to boost growth",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-02T09:14:00+00:00",
       "category": "Diplomacy"
     },
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canada to compete in 2027 Eurovision Song Contest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-to-compete-in-2027-eurovision-song-contest/a-77787878?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T12:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Paketbombenanschlag in Monaco: Ermittler identifizieren verdächtige Person nach Explosion in Monaco",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/paketbomben-monaco-wadym-jermolajew-oligarch",
+      "published_date": "2026-07-02T22:52:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T10:17:00+00:00",
-      "category": "Diplomacy"
+      "title": "Matthias Helferich: AfD-Abgeordneter Matthias Helferich darf in Partei bleiben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/matthias-helferich-afd-partei-ausschluss-nrw",
+      "published_date": "2026-07-02T21:30:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
+      "title": "Syria: Bomb blast at Damascus cafe kills several",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-01T10:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Digital euro: The plan to Trump-proof the EU's economies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T09:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/syria-bomb-blast-at-damascus-cafe-kills-several/a-77806230?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T14:53:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Kyiv attacks death toll rises to 20 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Amid war in Ukraine, the fleeting moments of despair and salvation I witness are what truly tell the story | Charlotte Higgins",
+      "title": "‘I don’t just watch climate change happening’: the young Swedes being paid to make a difference",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/wartime-ukraine-reporting-front-line",
-      "published_date": "2026-06-30T07:00:41+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/02/climate-change-yps-sweden-young-planetary-stewards-green-project-jobs",
+      "published_date": "2026-07-02T15:14:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukrainian oligarch reportedly injured in Monaco blast",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-oligarch-reportedly-injured-in-monaco-blast/a-77763150?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T03:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Monaco explosion injures three and triggers police hunt",
+      "title": "Donald Trump is the accidental hero of a real-life feelgood climate tale even as a creeping horror story plays alongside | Clear Air",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/monaco-explosion-injuries-triggers-police-hunt",
-      "published_date": "2026-06-29T22:51:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/03/donald-trump-strait-of-hormuz-climate-crisis-europe-heatwave",
+      "published_date": "2026-07-02T15:00:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
+      "title": "German coalition agrees on sweeping reform package",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-thailand-cambodia-unlock-massive-oil-and-gas-reserves/a-77753561?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T12:16:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/german-coalition-agrees-on-sweeping-reform-package/a-77805373?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-02T16:17:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Temperature records tumble across Europe as heatwave moves east",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
-      "published_date": "2026-06-28T11:24:05+00:00",
-      "category": "Energy"
+      "title": "German coalition agrees on sweeping reform package",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-coalition-agrees-on-sweeping-reform-package/a-77805373?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T16:17:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU targets Chinese imports amid trade talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-targets-chinese-imports-amid-trade-talks/a-77800366?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T14:54:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "How will Germany's income tax reforms affect you?",
@@ -543,25 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Australia-Vanuatu deal bars foreign bases in island nation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-vanuatu-deal-bars-foreign-bases-in-island-nation/a-77747165?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T06:47:00+00:00",
-      "category": "Economy"
+      "title": "Vor Parteitag: Chef der AfD-Jugend: «Dagegen sein» reicht nicht aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/03/chef-der-afd-jugend-dagegen-sein-reicht-nicht-aus",
+      "published_date": "2026-07-02T23:00:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why is the US targeting Germany's drug industry?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T16:28:00+00:00",
-      "category": "Economy"
+      "title": "Landtagswahl Sachsen-Anhalt: AfD-Politiker Siegmund: «Nicht alles sofort umsetzbar»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/03/afd-politiker-siegmund-nicht-alles-sofort-umsetzbar",
+      "published_date": "2026-07-02T22:01:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Heat record broken for second consecutive day",
+      "title": "Einsatz: Großbrand in Recyclingbetrieb in Dresden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/02/grossbrand-in-recyclingbetrieb-in-dresden",
+      "published_date": "2026-07-02T21:26:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia launches attacks on Kyiv, killing at least 27 and injuring scores",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-27T16:10:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-27-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T20:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man accused of ordering Daphne Caruana Galizia murder paid hitmen’s legal fees, court hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/02/man-accused-of-ordering-daphne-caruana-galizia-murder-paid-hitmens-legal-fees-court-hears",
+      "published_date": "2026-07-02T17:21:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Truly international’ network of drug-facilitated rape uncovered by UK crime agency",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/02/international-network-drug-facilitated-rape-uncovered-by-uk-crime-agency",
+      "published_date": "2026-07-02T17:05:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanian police fire tear gas at 'Flamingo Revolution' rally",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albanian-police-fire-tear-gas-at-flamingo-revolution-rally/a-77807190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T16:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police identify 156 in drug-facilitated sexual assault cases",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-identify-156-in-drug-facilitated-sexual-assault-cases/a-77805092?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T15:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German prosecutors accuse Kyiv of ordering 2022 Nord Stream sabotage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/02/german-prosecutors-accuse-kyiv-of-ordering-2022-nord-stream-sabotage",
+      "published_date": "2026-07-02T14:15:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain and France face more heat after scorching June caused 2,000 deaths",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning",
+      "published_date": "2026-07-02T13:49:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bombenfund: Evakuierung nach Fund einer Fliegerbombe in Stuttgart",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/music/2026/jul/02/father-tabakis-greek-priest-doom-paradise-metal",
       "published_date": "2026-07-02T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vor der Berlin-Wahl: Wegner zu Umfrage zu Berlin-Wahl: «Warnsignal für die Stadt»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/02/wegner-zu-umfrage-zu-berlin-wahl-warnsignal-fuer-die-stadt",
-      "published_date": "2026-07-01T22:47:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesregierung: Koalitionsspitzen haben sich offenbar auf Reformpaket geeinigt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/koalitionsausschuss-cdu-csu-spd-einkommensteuer-reform",
-      "published_date": "2026-07-01T21:15:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 arrested after apparent Empire State Building proposal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T19:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man guilty of attempting to murder three children in attack that triggered Dublin riot",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/man-who-stabbed-three-children-that-triggered-riots-in-dublin-found-guilty-of-attempted",
-      "published_date": "2026-07-01T18:27:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 die during Mexico City World Cup celebrations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T17:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German police raid national football HQ over Euro 2024 corruption allegations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jul/01/german-police-raid-national-football-hq-over-euro-2024-corruption-allegations",
-      "published_date": "2026-07-01T16:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga: Kathleen Krüger takes over as Hamburg's head of sport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-takes-over-as-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-01T14:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga: Kathleen Krüger takes over as Hamburg's head of sport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-takes-over-as-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T14:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessman accused of ordering Daphne Caruana Galizia murder stands trial in Malta",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/daphne-caruana-galizia-murder-yorgen-fenech-trial-malta",
-      "published_date": "2026-07-01T13:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Paris became a nexus for Black culture",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jul/01/paris-nexus-black-culture-diaspora-the-long-wave",
-      "published_date": "2026-07-01T13:13:28+00:00",
       "category": "Local Events"
     }
   ]
