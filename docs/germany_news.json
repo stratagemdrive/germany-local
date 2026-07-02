@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-02T00:01:09.537017+00:00",
+  "last_updated": "2026-07-02T12:53:55.471336+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "German coalition agrees on reform package in key breakthrough",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260702/german-coalition-agrees-on-reform-package-in-key-breakthrough",
+      "published_date": "2026-07-02T10:42:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Coalition agrees package to boost growth",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T09:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Narendra Modi hosts Japan's Sanae Takaichi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-narendra-modi-hosts-japan-s-sanae-takaichi/live-77796319?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T08:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the new EU border checks and how will they affect your summer holiday?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/02/what-is-the-ess-and-how-is-it-affecting-visitors-to-eu-nations-this-summer",
+      "published_date": "2026-07-02T06:17:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Google must pay record €4.1 billion fine, top EU court rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/google-must-pay-record-€4-1-billion-fine-top-eu-court-rules/a-77794948?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T05:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU-approved pesticide found to have potential effects on brain development",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/02/eu-approved-pesticide-found-to-have-potential-effects-on-brain-development",
+      "published_date": "2026-07-02T05:00:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US declines to renew USMCA trade pact with Mexico, Canada",
       "source": "Deutsche Welle",
@@ -46,6 +88,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Chancellor's message to Germany's World Cup exit backfires",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/chancellor-s-message-to-germany-s-world-cup-exit-backfires/a-77790831?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chancellor's message to Germany's World Cup exit backfires",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/chancellor-s-message-to-germany-s-world-cup-exit-backfires/a-77790831?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merkel unveils official portrait for German chancellery",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260701/merkel-unveils-official-portrait-for-german-chancellery",
+      "published_date": "2026-07-01T14:34:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "‘Most spectacular own goal in history’: new EU rules threaten to shut out UK car manufacturers",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Digital euro: The plan to Trump-proof the EU's economies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-01T09:11:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "title": "Kyiv attacks death toll rises to 20 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
-      "published_date": "2026-07-01T08:08:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+      "published_date": "2026-07-02T12:31:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU slaps €3 duty on low-value imported packages",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-slaps-€3-duty-on-low-value-imported-packages/a-77778850?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T06:18:00+00:00",
-      "category": "Diplomacy"
+      "title": "Fuel prices jump in Germany as energy tax discount ends",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260702/fuel-prices-jump-in-germany-as-energy-tax-discount-ends",
+      "published_date": "2026-07-02T08:53:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU slaps €3 duty on low-value imported packages",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-slaps-€3-duty-on-low-value-imported-packages/a-77778850?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-01T06:18:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Meloni has hit back hard against Trump and his ‘made up’ photo claim | Riccardo Alcaro",
+      "title": "Russia ‘mounted drone surveillance of European nuclear sites over 18 months’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim",
-      "published_date": "2026-07-01T04:00:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-mounted-drone-surveillance-of-european-nuclear-sites-over-18-months",
+      "published_date": "2026-07-02T08:30:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Industrie: EU halbiert zollfreie Stahlimporte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/01/eu-halbiert-zollfreie-stahlimporte",
-      "published_date": "2026-06-30T22:45:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Welthandel: EU setzt Zollversprechen an Trump um",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/01/eu-setzt-zollversprechen-an-trump-um",
-      "published_date": "2026-06-30T22:05:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and European diplomats continue standoff over top Bosnia and Herzegovina post",
+      "title": "Ukraine war briefing: More than 2 million military casualties caused by Russia’s invasion, study finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/eu-diplomats-clash-with-trump-administration-over-top-bosnia-and-herzegovina-post",
-      "published_date": "2026-06-30T21:26:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Strafprozess nach G20-Gipfel: »Ich war schlichtweg überfordert«, sagt der Polizist",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-06/strafprozess-g20-gipfel-ausschreitungen-polizist",
-      "published_date": "2026-06-30T19:41:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/02/ukraine-war-briefing-more-than-2-million-military-casualties-caused-by-russias-invasion-study-finds",
+      "published_date": "2026-07-02T03:12:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia's fuel crisis: Is Putin under pressure?",
@@ -256,32 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Poland orders Swedish submarines to bulk up navy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T16:32:00+00:00",
-      "category": "Military"
+      "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice",
+      "published_date": "2026-07-02T11:00:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Poland orders Swedish submarines to bulk up navy",
+      "title": "Nord Stream blast ordered by Ukraine, say German prosecutors",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-29T16:32:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-02T09:31:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pläne gegen Altersarmut: Abschreckende Hürden, 22 Formularseiten und hohe Dunkelziffer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-06/plaene-altersarmut-rentenkommission-arbeitszeit-renteneintritt",
-      "published_date": "2026-06-29T14:33:50+00:00",
-      "category": "Military"
+      "title": "Nord Stream blast ordered by Ukraine, say German prosecutors",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T09:31:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Art biennial Manifesta revives Germany's postwar churches",
+      "title": "US rail boom still lags behind cars and planes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/art-biennial-manifesta-revives-germany-s-postwar-churches/a-77725021?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-29T07:21:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-rail-boom-still-lags-behind-cars-and-planes/a-77430370?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T07:15:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "German prosecutors charge Nord Stream suspect",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260702/german-prosecutors-charge-nord-stream-suspect",
+      "published_date": "2026-07-02T07:05:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "How extreme heat is exposing extreme inequality",
@@ -389,39 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "published_date": "2026-06-27T12:02:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared for rising heat?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat",
-      "published_date": "2026-06-27T11:00:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europeans voice concerns amid sweltering heatwave - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
-      "published_date": "2026-06-26T19:18:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
-      "published_date": "2026-06-26T17:04:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Creative climate messaging and other eco wins of the week",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/creative-climate-messaging-and-other-eco-wins-of-the-week/a-77727778?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T15:38:00+00:00",
-      "category": "Energy"
+      "title": "How will Germany's income tax reforms affect you?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260702/how-will-germanys-income-tax-reforms-affect-you",
+      "published_date": "2026-07-02T11:02:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "At least 3.3m people were victims of Dutch enslavement, research claims",
@@ -470,6 +477,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/01/gdp-warnt-vor-mangel-an-einsatzkraeften-beim-afd-parteitag",
       "published_date": "2026-06-30T23:00:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
+      "published_date": "2026-06-30T14:46:43+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Heat record broken for second consecutive day",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T16:10:00+00:00",
-      "category": "Economy"
+      "title": "Bombenfund: Evakuierung nach Fund einer Fliegerbombe in Stuttgart",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/02/evakuierung-nach-fund-einer-fliegerbombe-in-stuttgart",
+      "published_date": "2026-07-02T12:48:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Heat soars as political reforms split opinion",
+      "title": "Koalitionsausschuss: Das sind die Kernpunkte des Reformpakets",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/koalitionsauschuss-reformpaket-union-spd-steuer-arbeitsmarkt-rente-gesundheit",
+      "published_date": "2026-07-02T12:37:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 18 dead as Russia launches massive drone and missile attack on Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "published_date": "2026-07-02T11:44:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right French mayor causes outrage after cancelling play about migrant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/02/far-right-french-mayor-florian-azema-bans-staging-of-passeport-play-about-migrant",
+      "published_date": "2026-07-02T10:28:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thailand: Child crashes vehicle into group of monks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-heat-soars-as-political-reforms-split-opinion/live-77733670?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-27T11:04:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/thailand-child-crashes-vehicle-into-group-of-monks/a-77796829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T08:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia launches attacks on Kyiv, killing at least 18 and injuring scores",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-18-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T07:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260702/today-in-germany-a-roundup-of-the-latest-news-on-thursday-125",
+      "published_date": "2026-07-02T06:40:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hospital fire in northern Germany kills two",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hospital-fire-in-northern-germany-kills-two/a-77795154?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-02T05:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hospital fire in northern Germany kills two",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hospital-fire-in-northern-germany-kills-two/a-77795154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-02T05:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Techno in a monastery – are you ready?’ The Greek priest whose doom metal album is the year’s hippest record",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jul/02/father-tabakis-greek-priest-doom-paradise-metal",
+      "published_date": "2026-07-02T04:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vor der Berlin-Wahl: Wegner zu Umfrage zu Berlin-Wahl: «Warnsignal für die Stadt»",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/2026/jul/01/paris-nexus-black-culture-diaspora-the-long-wave",
       "published_date": "2026-07-01T13:13:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algeria's parliamentary vote raises questions on real change",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/algeria-s-parliamentary-vote-raises-questions-on-real-change/a-77787095?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T13:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salzburg bans tourists from driving into historic centre over summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/salzburg-bans-tourists-driving-old-town-austria-traffic",
-      "published_date": "2026-07-01T12:26:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minab Attack: Did the United States Commit a War Crime in Iran?",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/the-minab-attack-did-the-united-states-commit-a-war-crime-in-iran-a-24f05985-fc36-4d01-9c00-ee4f218bc071#ref=rss",
-      "published_date": "2026-07-01T12:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's about our friends and neighbours': Left Party MP calls on Germany to ban the AfD",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260701/its-about-our-friends-and-neighbours-left-party-mp-calls-on-germany-to-ban-the-afd",
-      "published_date": "2026-07-01T12:06:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Raids on DFB, host cities over Euro 2024 perks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-raids-on-dfb-host-cities-over-euro-2024-perks/live-77779894?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T08:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Raids on DFB, host cities over Euro 2024 perks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-raids-on-dfb-host-cities-over-euro-2024-perks/live-77779894?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-01T08:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German rail regulator backs Italian firm in network competition dispute",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260701/german-rail-regulator-backs-italian-firm-in-rail-network-competition-dispute",
-      "published_date": "2026-07-01T07:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel peace deal greeted with skepticism, fear in Lebanon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-peace-deal-greeted-with-skepticism-fear-in-lebanon/a-77775047?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T17:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US envoys arrive in Qatar with state of Iran talks unclear",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-envoys-arrive-in-qatar-with-state-of-iran-talks-unclear/live-77763482?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T16:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halle lakeside pool backtracks on 'xenophobic' German-language entry rule",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/halle-lakeside-pool-backtracks-on-xenophobic-german-language-entry-rule",
-      "published_date": "2026-06-30T15:19:50+00:00",
       "category": "Local Events"
     }
   ]
