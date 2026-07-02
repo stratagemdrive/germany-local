@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-01T13:31:47.581135+00:00",
+  "last_updated": "2026-07-02T00:01:09.537017+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US declines to renew USMCA trade pact with Mexico, Canada",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T22:41:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T19:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-01T19:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albania warned EU accession at risk over Jared Kushner-backed resort plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
+      "published_date": "2026-07-01T18:19:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz and soccer: A PR move that backfired",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-and-soccer-a-pr-move-that-backfired/a-77790831?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz and soccer: A PR move that backfired",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-and-soccer-a-pr-move-that-backfired/a-77790831?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Most spectacular own goal in history’: new EU rules threaten to shut out UK car manufacturers",
       "source": "The Guardian",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Angela Merkel unveils official portrait in Berlin",
+      "title": "Russia's fuel crisis: Is Putin under pressure?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-30T16:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T14:37:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Angela Merkel unveils official portrait in Berlin",
+      "title": "Russia's fuel crisis: Is Putin under pressure?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T16:54:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘But we’re just 1% of emissions’: do smaller countries’ climate efforts matter?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/30/emissions-do-smaller-countries-climate-efforts-matter",
-      "published_date": "2026-06-30T15:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Italian MEP suggests government wants to ‘hide truth’ about Albania migrant centre",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/italy-mep-government-truth-migrant-detention-centre-albania",
-      "published_date": "2026-06-30T15:30:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU halves duty-free steel quota but UK and other partners given better rate",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
-      "published_date": "2026-06-30T11:11:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: US envoy says trade deal breakthrough in sight",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-us-envoy-says-trade-deal-breakthrough-in-sight/live-77764236?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T10:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-01T14:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Art biennial Manifesta revives Germany's postwar churches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/art-biennial-manifesta-revives-germany-s-postwar-churches/a-77725021?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T07:21:00+00:00",
-      "category": "Military"
+      "title": "How extreme heat is exposing extreme inequality",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/01/how-extreme-heat-is-exposing-extreme-inequality",
+      "published_date": "2026-07-01T16:30:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "A Ukrainian military school graduation ceremony – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-military-school-graduation-ceremony-photo-essay",
-      "published_date": "2026-06-29T06:00:34+00:00",
-      "category": "Military"
+      "title": "Germany: Ukrainian national charged over Nord Stream blasts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T15:32:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany: Ukrainian national charged over Nord Stream blasts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T15:32:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Spain heat wave kills over 1,000 in second-hottest June ever",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Fact check: throwing cold water on heat wave disinformation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-26T15:31:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fact check: throwing cold water on heat wave disinformation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-26T15:31:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+      "title": "At least 3.3m people were victims of Dutch enslavement, research claims",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
-      "published_date": "2026-06-26T15:00:14+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/news/2026/jul/01/dutch-enslavement-slavery-figure-research",
+      "published_date": "2026-07-01T15:34:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "German FA headquarters searched in Euro 2024 graft probe",
@@ -557,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Trump threatens 100% tariff on European countries that impose digital tax",
+      "title": "Vor der Berlin-Wahl: Wegner zu Umfrage zu Berlin-Wahl: «Warnsignal für die Stadt»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/02/wegner-zu-umfrage-zu-berlin-wahl-warnsignal-fuer-die-stadt",
+      "published_date": "2026-07-01T22:47:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesregierung: Koalitionsspitzen haben sich offenbar auf Reformpaket geeinigt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/koalitionsausschuss-cdu-csu-spd-einkommensteuer-reform",
+      "published_date": "2026-07-01T21:15:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 arrested after apparent Empire State Building proposal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T19:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man guilty of attempting to murder three children in attack that triggered Dublin riot",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-      "published_date": "2026-06-27T10:20:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/01/man-who-stabbed-three-children-that-triggered-riots-in-dublin-found-guilty-of-attempted",
+      "published_date": "2026-07-01T18:27:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 die during Mexico City World Cup celebrations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T17:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police raid national football HQ over Euro 2024 corruption allegations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/jul/01/german-police-raid-national-football-hq-over-euro-2024-corruption-allegations",
+      "published_date": "2026-07-01T16:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga: Kathleen Krüger takes over as Hamburg's head of sport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-takes-over-as-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T14:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga: Kathleen Krüger takes over as Hamburg's head of sport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bundesliga-kathleen-krüger-takes-over-as-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-01T14:13:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Businessman accused of ordering Daphne Caruana Galizia murder stands trial in Malta",
@@ -613,6 +669,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Raids on DFB, host cities over Euro 2024 perks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-raids-on-dfb-host-cities-over-euro-2024-perks/live-77779894?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-01T08:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "German rail regulator backs Italian firm in network competition dispute",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260701/german-rail-regulator-backs-italian-firm-in-rail-network-competition-dispute",
@@ -638,69 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260630/halle-lakeside-pool-backtracks-on-xenophobic-german-language-entry-rule",
       "published_date": "2026-06-30T15:19:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US birthright citizenship: What does Trump's loss mean?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-birthright-citizenship-what-does-trump-s-loss-mean/a-77773604?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T14:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will alleged crime ties damage Serbia's ruling party?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal's 'golden visa' delays spark legal fight",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/portugal-s-golden-visa-delays-spark-legal-fight/a-77755949?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will alleged crime ties damage Serbia's ruling party?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-06-30T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Are Germany’s big housing firms really addressing discrimination in the market?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/are-germanys-big-housing-firms-really-addressing-discrimination-in-the-market",
-      "published_date": "2026-06-30T13:24:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball-Bundesliga der Frauen: RB Leipzig verpflichtet erfahrene Niederländerin Hulst",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/30/rb-leipzig-verpflichtet-erfahrene-niederlaenderin-hulst",
-      "published_date": "2026-06-30T12:56:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Parteitag: Demos auf Zufahrtsstraßen zu AfD-Parteitag untersagt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/30/demos-auf-zufahrtsstrassen-zu-afd-parteitag-untersagt",
-      "published_date": "2026-06-30T12:52:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One million migrants in Spain apply to regularise status in new scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/million-migrants-spain-apply-regularise-status-new-scheme",
-      "published_date": "2026-06-30T12:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elon Musk promotes ‘anti-migrant’ Armie Hammer film with free download on X",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante",
-      "published_date": "2026-06-30T11:41:13+00:00",
       "category": "Local Events"
     }
   ]
