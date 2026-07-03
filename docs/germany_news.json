@@ -1,8 +1,78 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-03T12:52:20.453920+00:00",
+  "last_updated": "2026-07-03T23:57:28.524968+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Nordatlantikpakt: Joschka Fischer sieht die USA auf dem Weg aus der Nato",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/04/joschka-fischer-sieht-die-usa-auf-dem-weg-aus-der-nato",
+      "published_date": "2026-07-03T23:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Friedrich Merz und Donald Trump: Merz betont gegenüber Trump Deutschlands Verteidigungsbemühungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-donald-trump-nato-gipfel-ankara",
+      "published_date": "2026-07-03T22:05:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T17:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU sanctions Russian researchers involved in Navalny's death",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-sanctions-russian-researchers-involved-in-navalny-s-death/a-77825077?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T16:18:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Merz rebukes Trump jab over defense at Baltic event",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-03T15:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Merz rebukes Trump jab over defense at Baltic event",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T15:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Lot of work' needed to resolve Europe's border travel woes, EU chief admits",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260703/lot-of-work-needed-to-resolve-europes-border-travel-woes-eu-chief-admits",
+      "published_date": "2026-07-03T14:41:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan: Catastrophe unfolding in el-Obeid: UN rights envoy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-catastrophe-unfolding-in-el-obeid-un-rights-envoy/a-77821446?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T13:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-03T12:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T12:52:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany: Voters are skeptical of reform proposals",
       "source": "Deutsche Welle",
@@ -74,74 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "German coalition agrees on reform package in key breakthrough",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260702/german-coalition-agrees-on-reform-package-in-key-breakthrough",
-      "published_date": "2026-07-02T10:42:15+00:00",
-      "category": "Diplomacy"
+      "title": "Kostjantyniwka: Russland meldet Besetzung von Kostjantyniwka",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/kostjantyniwka-ostukraine-russland-donezk-strategisch",
+      "published_date": "2026-07-03T23:34:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Coalition agrees package to boost growth",
+      "title": "Nigeria: US pulls some troops after anti-IS operation",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T09:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T15:03:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Coalition agrees package to boost growth",
+      "title": "Can inspectors return to Iran's nuclear sites?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-02T09:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: Narendra Modi hosts Japan's Sanae Takaichi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-narendra-modi-hosts-japan-s-sanae-takaichi/live-77796319?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T08:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What are the new EU border checks and how will they affect your summer holiday?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/02/what-is-the-ess-and-how-is-it-affecting-visitors-to-eu-nations-this-summer",
-      "published_date": "2026-07-02T06:17:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Google must pay record €4.1 billion fine, top EU court rules",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/google-must-pay-record-€4-1-billion-fine-top-eu-court-rules/a-77794948?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T05:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU-approved pesticide found to have potential effects on brain development",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/eu-approved-pesticide-found-to-have-potential-effects-on-brain-development",
-      "published_date": "2026-07-02T05:00:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US declines to renew USMCA trade pact with Mexico, Canada",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T22:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T19:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-01T19:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/can-inspectors-return-to-iran-s-nuclear-sites/a-77819688?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T13:04:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainian woman suspected of Monaco parcel bombing was ‘disguised as a man’",
@@ -263,25 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Russia's fuel crisis: Is Putin under pressure?",
+      "title": "NASA launches spacecraft to recover sinking telescope",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-01T14:37:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T19:59:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
-      "published_date": "2026-07-01T13:24:23+00:00",
-      "category": "Military"
+      "title": "Free electricity in Australia, and the week's other eco wins",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/free-electricity-in-australia-and-the-week-s-other-eco-wins/a-77824448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T14:41:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sudan's RSF accused of crimes against humanity in el-Fasher",
+      "title": "Google, Amazon emissions rise sharply, driven by AI boom",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T11:27:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/google-amazon-emissions-rise-sharply-driven-by-ai-boom/a-77821598?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T13:52:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Far-right AfD threatens eastern Germany's energy transition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/far-right-afd-threatens-eastern-germany-s-energy-transition/a-77806872?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-03T13:07:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Far-right AfD threatens eastern Germany's energy transition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/far-right-afd-threatens-eastern-germany-s-energy-transition/a-77806872?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T13:07:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘I don’t just watch climate change happening’: the young Swedes being paid to make a difference",
@@ -386,41 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-06-30T19:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany's heat wave has a political fallout",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T19:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany: Heat wave is over, political fallout has just begun",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-heat-wave-is-over-political-fallout-has-just-begun/a-77776202?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-30T19:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany: Heat wave is over, political fallout has just begun",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-heat-wave-is-over-political-fallout-has-just-begun/a-77776202?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T19:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
-      "published_date": "2026-06-30T13:02:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EV myths muddy the road to electrification",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ev-myths-muddy-the-road-to-electrification/a-77651984?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-29T14:13:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T18:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T18:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-03T18:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jürgen Klopp and Germany: A partnership long in the making",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-03T14:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jürgen Klopp and Germany: A partnership long in the making",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T14:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heat wave: European countries report 3,700 excess deaths",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/heat-wave-european-countries-report-3-700-excess-deaths/a-77823303?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T14:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Spain’s conservatives and far-right Vox increase ties with Andalucía coalition",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/03/spain-conservatives-pp-far-right-vox-party-andalucia-coalition-deal",
@@ -581,6 +623,13 @@
       "title": "Germany news: Workers protest Mercedes-Benz cost-cutting",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-workers-protest-mercedes-benz-cost-cutting/live-77815223?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T09:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Workers protest Mercedes-Benz cost-cutting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-workers-protest-mercedes-benz-cost-cutting/live-77815223?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-03T09:40:00+00:00",
       "category": "Local Events"
     },
@@ -652,55 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/02/grossbrand-in-recyclingbetrieb-in-dresden",
       "published_date": "2026-07-02T21:26:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia launches attacks on Kyiv, killing at least 27 and injuring scores",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-27-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T20:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of ordering Daphne Caruana Galizia murder paid hitmen’s legal fees, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/man-accused-of-ordering-daphne-caruana-galizia-murder-paid-hitmens-legal-fees-court-hears",
-      "published_date": "2026-07-02T17:21:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Truly international’ network of drug-facilitated rape uncovered by UK crime agency",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/02/international-network-drug-facilitated-rape-uncovered-by-uk-crime-agency",
-      "published_date": "2026-07-02T17:05:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanian police fire tear gas at 'Flamingo Revolution' rally",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albanian-police-fire-tear-gas-at-flamingo-revolution-rally/a-77807190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T16:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police identify 156 in drug-facilitated sexual assault cases",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-identify-156-in-drug-facilitated-sexual-assault-cases/a-77805092?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T15:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German prosecutors accuse Kyiv of ordering 2022 Nord Stream sabotage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/german-prosecutors-accuse-kyiv-of-ordering-2022-nord-stream-sabotage",
-      "published_date": "2026-07-02T14:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain and France face more heat after scorching June caused 2,000 deaths",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning",
-      "published_date": "2026-07-02T13:49:04+00:00",
       "category": "Local Events"
     }
   ]
