@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-03T23:57:28.524968+00:00",
+  "last_updated": "2026-07-04T12:02:35.822078+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: Merz telefoniert nach Großangriffen auf Kyjiw mit Selenskyj",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-07-04T11:53:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine-Krieg: Selenskyj spricht mit Merz über Flugabwehr",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/04/ukraine-attackiert-russische-oelanlagen-bei-st-petersburg",
+      "published_date": "2026-07-04T11:42:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sozialleistungsmissbrauch: Merz kündigt Plan gegen Sozialleistungsmissbrauch an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/sozialleistungsmissbrauch-friedrich-merz-cdu-aktionsplan",
+      "published_date": "2026-07-04T11:08:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Welcoming the Taliban? — Germany's new Afghanistan policy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-04T11:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Welcoming the Taliban? — Germany's new Afghanistan policy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T11:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump set to put NATO unity to the test at Turkey summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T07:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+      "published_date": "2026-07-04T06:00:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nordatlantikpakt: Joschka Fischer sieht die USA auf dem Weg aus der Nato",
       "source": "ZEIT Online",
@@ -95,53 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Snubbing democracy': Why Germany's new housing plan has angered unions",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260703/snubbing-democracy-why-germanys-new-housing-plan-has-angered-unions",
-      "published_date": "2026-07-03T09:43:43+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T09:02:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-04T09:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Germany calls reports Russian soldiers are being trained in China ‘deeply disturbing’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
-      "published_date": "2026-07-03T05:19:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Our little adventure’: Angela Merkel unveils portrait of herself in Berlin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/portrait-angela-merkel-unveiled-berlin-jeremie-queyras",
-      "published_date": "2026-07-03T04:00:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "South Africa, Ghana clash over migrant's death",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-ghana-clash-over-migrant-s-death/a-77811811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T00:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reformen von Friedrich Merz: Ich kann Sie so schwer verstehen, Herr Merz!",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-07/reformen-friedrich-merz-maybrit-illner-cdu",
-      "published_date": "2026-07-02T22:35:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KNDS: German-French tank manufacturer postpones IPO",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/knds-german-french-tank-manufacturer-postpones-ipo/a-77804654?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-02T14:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KNDS: German-French tank manufacturer postpones IPO",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/knds-german-french-tank-manufacturer-postpones-ipo/a-77804654?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T14:37:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/04/ukraine-war-briefing-germany-calls-reports-russian-soldiers-are-being-trained-in-china-deeply-disturbing",
+      "published_date": "2026-07-04T02:17:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Kostjantyniwka: Russland meldet Besetzung von Kostjantyniwka",
@@ -260,27 +281,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260702/fuel-prices-jump-in-germany-as-energy-tax-discount-ends",
       "published_date": "2026-07-02T08:53:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia ‘mounted drone surveillance of European nuclear sites over 18 months’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/russia-mounted-drone-surveillance-of-european-nuclear-sites-over-18-months",
-      "published_date": "2026-07-02T08:30:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: More than 2 million military casualties caused by Russia’s invasion, study finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/ukraine-war-briefing-more-than-2-million-military-casualties-caused-by-russias-invasion-study-finds",
-      "published_date": "2026-07-02T03:12:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's fuel crisis: Is Putin under pressure?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T14:37:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Fight them for the beaches: the real villain of Europe’s overtourism is big business | Adam Almeida",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/fight-beaches-real-villain-europe-overtourism-big-business",
+      "published_date": "2026-07-04T04:00:02+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mercedes-Benz: 33.000 Beschäftigte demonstrieren gegen Sparpläne bei Mercedes-Benz",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/mercedes-benz-proteste-ig-metall-sparplaene-arbeitszeit",
@@ -557,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Rundfunkbeitrag: Einnahmen aus dem Rundfunkbeitrag lagen 2025 bei 8,72 Milliarden Euro",
+      "title": "AfD-Parteitag: Weidel und Chrupalla als AfD-Spitzenduo bestätigt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/rundfunkbeitrag-beitragsservice-ard-zdf-deutschlandradio-einnahmen-gxe",
-      "published_date": "2026-06-30T12:38:03+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-07/04/chrupalla-bleibt-afd-co-chef",
+      "published_date": "2026-07-04T11:54:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Bundesparteitag: Chrupalla: Menschen in Ost und West gleichermaßen Deutsche",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/04/chrupalla-menschen-in-ost-und-west-gleichermassen-deutsche",
+      "published_date": "2026-07-04T11:43:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parteien: Weidel als AfD-Co-Chefin wiedergewählt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/04/weidel-als-afd-co-chefin-wiedergewaehlt",
+      "published_date": "2026-07-04T11:43:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Parteitag in Erfurt: Alice Weidel und Tino Chrupalla als AfD-Chefs wiedergewählt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-parteitag-erfurt-proteste-live",
+      "published_date": "2026-07-04T11:43:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo calls on Europe to do more for migrants",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T10:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Bundesparteitag in Erfurt: AfD-Chef Chrupalla sieht seine Partei in Regierungsverantwortung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-bundesparteitag-erfurt-tino-chrupalla-regierungsverantwortung",
+      "published_date": "2026-07-04T10:20:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migration in Mittelmeer: Papst Leo gedenkt ertrunkener Flüchtlinge in Lampedusa",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-07/papst-leo-fluchtopfer-mittelmeer-lamepdusa-gxe",
+      "published_date": "2026-07-04T09:35:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: AfD kicks off conference amid massive protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-kicks-off-conference-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T08:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
+      "published_date": "2026-07-04T06:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T04:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-04T04:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heat wave upends July Fourth celebrations across US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T01:14:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
@@ -617,90 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260703/completely-broken-in-germany-foreigners-lives-are-being-upended-by-residency-issues",
       "published_date": "2026-07-03T11:31:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Workers protest Mercedes-Benz cost-cutting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-workers-protest-mercedes-benz-cost-cutting/live-77815223?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Workers protest Mercedes-Benz cost-cutting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-workers-protest-mercedes-benz-cost-cutting/live-77815223?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Indian delegation leaves for Khamenei's funeral",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-indian-delegation-leaves-for-khamenei-s-funeral/live-77814828?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after setting himself on fire outside UN headquarters in New York",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/man-dies-after-setting-himself-on-fire-outside-un-headquarters-in-new-york/a-77813523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T06:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260703/today-in-germany-a-roundup-of-the-latest-news-on-friday-129",
-      "published_date": "2026-07-03T06:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-      "published_date": "2026-07-03T05:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taylor Swift, Travis Kelce set for star-studded New York wedding",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taylor-swift-travis-kelce-set-for-star-studded-new-york-wedding/a-77812947?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T04:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How many more Lyhannas must there be before France takes child sexual assault seriously? | Rokhaya Diallo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/03/lyhanna-france-child-sexual-assault",
-      "published_date": "2026-07-03T04:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Race to control wildfires in southern France – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures",
-      "published_date": "2026-07-03T01:55:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vor Parteitag: Chef der AfD-Jugend: «Dagegen sein» reicht nicht aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/03/chef-der-afd-jugend-dagegen-sein-reicht-nicht-aus",
-      "published_date": "2026-07-02T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl Sachsen-Anhalt: AfD-Politiker Siegmund: «Nicht alles sofort umsetzbar»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/03/afd-politiker-siegmund-nicht-alles-sofort-umsetzbar",
-      "published_date": "2026-07-02T22:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Einsatz: Großbrand in Recyclingbetrieb in Dresden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/02/grossbrand-in-recyclingbetrieb-in-dresden",
-      "published_date": "2026-07-02T21:26:45+00:00",
       "category": "Local Events"
     }
   ]
