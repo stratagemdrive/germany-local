@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-04T12:02:35.822078+00:00",
+  "last_updated": "2026-07-04T23:54:18.958573+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US 250th Independence Day: Merz, Modi extend congratulations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-250th-independence-day-merz-modi-extend-congratulations/live-77833580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T16:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany summons Chinese envoy over reported training of Russian troops",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260704/germany-summons-chinese-envoy-over-reported-training-of-russian-troops",
+      "published_date": "2026-07-04T11:53:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Krieg gegen die Ukraine: Merz telefoniert nach Großangriffen auf Kyjiw mit Selenskyj",
       "source": "ZEIT Online",
@@ -36,6 +50,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-04T11:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside Germany: The aftermath of the World Cup crash out",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260704/inside-germany-the-aftermath-of-the-world-cup-crash-out",
+      "published_date": "2026-07-04T07:15:29+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: Voters are skeptical of reform proposals",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-voters-are-skeptical-of-reform-proposals/a-77820573?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T11:56:00+00:00",
-      "category": "Diplomacy"
+      "title": "WM 2026: Frankreich und Marokko stehen im Viertelfinale – das war die WM-Nacht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-07/wm-2026-kanada-marokko-paraguay-frankreich",
+      "published_date": "2026-07-04T23:43:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Voters are skeptical of reform proposals",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-voters-are-skeptical-of-reform-proposals/a-77820573?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T11:56:00+00:00",
-      "category": "Diplomacy"
+      "title": "Boris Pistorius: AfD-Minister könnten von Bundeswehr-Infos ausgeschlossen werden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-boris-pistorius-bundeswehr-informationen-minister",
+      "published_date": "2026-07-04T22:59:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Moldova: Prime Minister Munteanu resigns",
+      "title": "Mali rebels target army bases, prison in fresh attacks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/moldova-prime-minister-munteanu-resigns/a-77817415?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T10:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/mali-rebels-target-army-bases-prison-in-fresh-attacks/a-77833144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T16:04:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
@@ -260,27 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/matthias-helferich-afd-partei-ausschluss-nrw",
       "published_date": "2026-07-02T21:30:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria: Bomb blast at Damascus cafe kills several",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-bomb-blast-at-damascus-cafe-kills-several/a-77806230?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T14:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv attacks death toll rises to 20 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
-      "published_date": "2026-07-02T12:31:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fuel prices jump in Germany as energy tax discount ends",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260702/fuel-prices-jump-in-germany-as-energy-tax-discount-ends",
-      "published_date": "2026-07-02T08:53:36+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Hamburg: Salzsäure in Müllverbrennungsanlage ausgetreten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/05/salzsaeure-in-muellverbrennungsanlage-ausgetreten",
+      "published_date": "2026-07-04T22:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Staatsschutz: Pistorius: Keine geheimen Infos an AfD wegen Nähe zu Putin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/05/pistorius-keine-geheimen-infos-an-afd-wegen-naehe-zu-putin",
+      "published_date": "2026-07-04T22:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+      "published_date": "2026-07-04T19:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: AfD elects leaders amid massive protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-04T14:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: AfD elects leaders amid massive protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-04T14:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German riot police clash with protesters hoping to block far-right AfD conference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+      "published_date": "2026-07-04T13:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German riot police clash with protesters attempting to block far-right AfD conference – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/04/german-riot-police-far-right-afd-conference-protest-video",
+      "published_date": "2026-07-04T13:17:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "AfD-Parteitag: Weidel und Chrupalla als AfD-Spitzenduo bestätigt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/04/chrupalla-bleibt-afd-co-chef",
@@ -606,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Mass protests in Germany as far-right AfD meets",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260704/mass-protests-in-germany-as-far-right-afd-meets",
+      "published_date": "2026-07-04T09:36:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Migration in Mittelmeer: Papst Leo gedenkt ertrunkener Flüchtlinge in Lampedusa",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/2026-07/papst-leo-fluchtopfer-mittelmeer-lamepdusa-gxe",
@@ -645,62 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-04T01:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T18:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T18:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-03T18:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jürgen Klopp and Germany: A partnership long in the making",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T14:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jürgen Klopp and Germany: A partnership long in the making",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T14:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heat wave: European countries report 3,700 excess deaths",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/heat-wave-european-countries-report-3-700-excess-deaths/a-77823303?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T14:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s conservatives and far-right Vox increase ties with Andalucía coalition",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/spain-conservatives-pp-far-right-vox-party-andalucia-coalition-deal",
-      "published_date": "2026-07-03T11:34:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Completely broken': How lives of foreigners in Germany are being upended by residency issues",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260703/completely-broken-in-germany-foreigners-lives-are-being-upended-by-residency-issues",
-      "published_date": "2026-07-03T11:31:22+00:00",
       "category": "Local Events"
     }
   ]
