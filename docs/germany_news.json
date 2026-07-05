@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-04T23:54:18.958573+00:00",
+  "last_updated": "2026-07-05T12:10:39.023897+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
+      "published_date": "2026-07-05T08:20:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US 250th Independence Day: Merz, Modi extend congratulations",
       "source": "Deutsche Welle",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "title": "Iran: Pressure on persecuted Baha'i community intensifies",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T12:52:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-05T10:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: Pressure on persecuted Baha'i community intensifies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T10:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US 250th Independence Day: Trump takes center stage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-250th-independence-day-trump-takes-center-stage/live-77833580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T03:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Trump repositions himself as peacemaker in long call with Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/05/ukraine-war-briefing-trump-repositions-himself-as-peacemaker-in-long-call-with-putin",
+      "published_date": "2026-07-05T02:06:25+00:00",
+      "category": "Military"
     },
     {
       "title": "WM 2026: Frankreich und Marokko stehen im Viertelfinale – das war die WM-Nacht",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "AI drones made in Germany see duty on Ukraine's front line",
+      "title": "Why US train travel lags behind Asia and Europe",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-drones-made-in-germany-see-duty-on-ukraine-s-front-line/a-77804928?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T04:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI drones made in Germany see duty on Ukraine's front line",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-drones-made-in-germany-see-duty-on-ukraine-s-front-line/a-77804928?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-03T04:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Paketbombenanschlag in Monaco: Ermittler identifizieren verdächtige Person nach Explosion in Monaco",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/paketbomben-monaco-wadym-jermolajew-oligarch",
-      "published_date": "2026-07-02T22:52:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Matthias Helferich: AfD-Abgeordneter Matthias Helferich darf in Partei bleiben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/matthias-helferich-afd-partei-ausschluss-nrw",
-      "published_date": "2026-07-02T21:30:35+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/why-us-train-travel-lags-behind-asia-and-europe/a-77430370?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T10:43:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "NASA launches spacecraft to recover sinking telescope",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Germany's heat wave has a political fallout",
+      "title": "South Korea plans future fund fueled by chip boom",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-06-30T19:30:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T11:22:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fight them for the beaches: the real villain of Europe’s overtourism is big business | Adam Almeida",
@@ -557,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Inflation in Deutschland: Inflationsrate sinkt im Juni auf 2,3 Prozent",
+      "title": "AfD Parteitag: Linkes Bündnis zieht positive Bilanz der Proteste in Erfurt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-06/inflation-deutschland-statistisches-bundesamt-tankrabatt-oelpreise-gxe",
-      "published_date": "2026-06-30T12:41:14+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/erfurt-proteste-afd-bundesparteitag-blockaden-polizei-bilanz-widersetzen",
+      "published_date": "2026-07-05T11:59:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Demos in Erfurt: Tausendfacher Protest gegen die AfD - überwiegend friedlich",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/05/tausendfacher-protest-gegen-die-afd-ueberwiegend-friedlich",
+      "published_date": "2026-07-05T11:53:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German defence minister raises alarm over possible far-right state government",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260705/german-defence-minister-raises-alarm-over-possible-far-right-state-government",
+      "published_date": "2026-07-05T11:51:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Parteitag: Weidel kontert Wahlprogramm: «Ich lebe etwas anderes»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/05/weidel-kontert-wahlprogramm-ich-lebe-etwas-anderes",
+      "published_date": "2026-07-05T11:50:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feuerwehr: Mehr Einsätze für Freiwillige Feuerwehren in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/05/deutlich-mehr-einsaetze-fuer-freiwillige-feuerwehren-in-berlin",
+      "published_date": "2026-07-05T11:34:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD: Lars Klingbeil setzt auf Zustimmung der SPD-Fraktion zu Reformen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/lars-klingbeil-spd-sozialpaket-koalition-reform-gxe",
+      "published_date": "2026-07-05T10:46:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jehovah's Witnesses fight German state for Holocaust archive",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-05T06:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jehovah's Witnesses fight German state for Holocaust archive",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T06:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hamburg: Salzsäure in Müllverbrennungsanlage ausgetreten",
@@ -645,62 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-04T10:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Bundesparteitag in Erfurt: AfD-Chef Chrupalla sieht seine Partei in Regierungsverantwortung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-bundesparteitag-erfurt-tino-chrupalla-regierungsverantwortung",
-      "published_date": "2026-07-04T10:20:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass protests in Germany as far-right AfD meets",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260704/mass-protests-in-germany-as-far-right-afd-meets",
-      "published_date": "2026-07-04T09:36:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration in Mittelmeer: Papst Leo gedenkt ertrunkener Flüchtlinge in Lampedusa",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-07/papst-leo-fluchtopfer-mittelmeer-lamepdusa-gxe",
-      "published_date": "2026-07-04T09:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: AfD kicks off conference amid massive protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-afd-kicks-off-conference-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T08:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
-      "published_date": "2026-07-04T06:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T04:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-04T04:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heat wave upends July Fourth celebrations across US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T01:14:00+00:00",
       "category": "Local Events"
     }
   ]
