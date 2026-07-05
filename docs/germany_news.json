@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-05T12:10:39.023897+00:00",
+  "last_updated": "2026-07-05T23:59:02.784726+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Nato-Gipfel: SPD fordert klare Worte von Friedrich Merz zur Türkei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/friedrich-merz-recep-tayyip-erdogan-tuerkei-nato-gipfel",
+      "published_date": "2026-07-05T23:21:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Die Lage im Überblick: Selenskyj fürchtet massive russische Attacke vor Nato-Gipfel",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/06/selenskyj-fuerchtet-massive-russische-attacke-vor-nato-gipfel",
+      "published_date": "2026-07-05T22:15:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey steps up arrests ahead of NATO summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T17:08:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
       "source": "The Guardian",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Lot of work' needed to resolve Europe's border travel woes, EU chief admits",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260703/lot-of-work-needed-to-resolve-europes-border-travel-woes-eu-chief-admits",
-      "published_date": "2026-07-03T14:41:03+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine-Krieg: Russland fliegt neue Luftangriffe auf Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/06/russland-fliegt-neue-luftangriffe-auf-ukraine",
+      "published_date": "2026-07-05T23:29:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sudan: Catastrophe unfolding in el-Obeid: UN rights envoy",
+      "title": "Far-right AfD reaffirms ambition to govern Germany",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-catastrophe-unfolding-in-el-obeid-un-rights-envoy/a-77821446?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T13:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-05T19:07:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "title": "Far-right AfD reaffirms ambition to govern Germany",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T12:52:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T19:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Students leave Gaza to continue studies, others in limbo",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T16:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb the Arctic, dam the Mediterranean and build a second moon: five outlandish plans to remodel our climate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/06/five-outlandish-plans-to-remodel-earth-climate",
+      "published_date": "2026-07-05T15:00:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The risk is Russia becomes desperate’: the Swedish Baltic Sea island preparing for invasion",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/05/gotland-russia-sweden-ramps-up-defence-baltic-sea-island",
+      "published_date": "2026-07-05T12:50:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran: Pressure on persecuted Baha'i community intensifies",
@@ -239,48 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
       "published_date": "2026-07-03T11:42:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wildfires rage in parts of France and Spain after record heatwave – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/03/wildfires-parts-france-spain-record-heatwave-video",
-      "published_date": "2026-07-03T11:36:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Monaco IDs suspect in bomb attack on Ukrainian oligarch",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/monaco-ids-suspect-in-bomb-attack-on-ukrainian-oligarch/a-77814163?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T10:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russia strikes kill 4 as Kyiv holds day of mourning",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-strikes-kill-4-as-kyiv-holds-day-of-mourning/a-77813693?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T07:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kill zones and drone nets: a journey through Ukraine’s fortress belt",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/kill-zones-drone-nets-journey-ukraine-fortress-belt",
-      "published_date": "2026-07-03T06:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Both sides vow to escalate fighting after Russia’s deadly Kyiv barrage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage",
-      "published_date": "2026-07-03T05:05:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-      "published_date": "2026-07-03T05:00:19+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Fluggesellschaft: EasyJet stimmt Übernahmeangebot von US-Investor grundsätzlich zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/easyjet-castlelake-uebernahme-airline-peter-bellew",
+      "published_date": "2026-07-05T23:35:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cargo ship reportedly attacked in Red Sea off Yemen",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/a-77838529?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T14:06:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "South Korea plans future fund fueled by chip boom",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-rdf",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "No more Bürgergeld: The changes to Germany's unemployment benefits from July",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260630/no-more-burgergeld-the-changes-to-germanys-unemployment-benefits-from-july",
-      "published_date": "2026-06-30T14:01:51+00:00",
-      "category": "Economy"
+      "title": "Nigeria condemns deaths of 2 nationals in South Africa protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-condemns-deaths-of-2-nationals-in-south-africa-protests/a-77838899?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T14:47:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inflation: Inflation in Sachsen-Anhalt schwächt sich weiter ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-06/30/inflation-in-sachsen-anhalt-schwaecht-sich-weiter-ab",
-      "published_date": "2026-06-30T12:51:33+00:00",
-      "category": "Economy"
+      "title": "Germany news: AfD conference wraps up in Erfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-conference-wraps-up-in-erfurt/live-77830605?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-05T13:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: AfD conference wraps up in Erfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-conference-wraps-up-in-erfurt/live-77830605?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-05T13:53:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AfD Parteitag: Linkes Bündnis zieht positive Bilanz der Proteste in Erfurt",
@@ -680,27 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/04/chrupalla-menschen-in-ost-und-west-gleichermassen-deutsche",
       "published_date": "2026-07-04T11:43:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parteien: Weidel als AfD-Co-Chefin wiedergewählt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/04/weidel-als-afd-co-chefin-wiedergewaehlt",
-      "published_date": "2026-07-04T11:43:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Parteitag in Erfurt: Alice Weidel und Tino Chrupalla als AfD-Chefs wiedergewählt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-parteitag-erfurt-proteste-live",
-      "published_date": "2026-07-04T11:43:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo calls on Europe to do more for migrants",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T10:47:00+00:00",
       "category": "Local Events"
     }
   ]
