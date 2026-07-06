@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-05T23:59:02.784726+00:00",
+  "last_updated": "2026-07-06T14:21:49.000449+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 19 in overnight strikes on Kyiv – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates",
+      "published_date": "2026-07-06T14:10:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G20-Prozess: Prozess gegen Polizisten: Video soll mutmaßliche Tat zeigen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/06/prozess-gegen-polizisten-video-soll-mutmassliche-tat-zeigen",
+      "published_date": "2026-07-06T14:09:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German government plans major changes to Freedom of Information rights",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260706/german-government-plans-major-changes-to-freedom-of-information-rights",
+      "published_date": "2026-07-06T11:39:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/turkey-crackdown-public-life-run-up-nato-summit-ankara",
+      "published_date": "2026-07-06T11:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
+      "published_date": "2026-07-06T04:00:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nato-Gipfel: SPD fordert klare Worte von Friedrich Merz zur Türkei",
       "source": "ZEIT Online",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Friedrich Merz und Donald Trump: Merz betont gegenüber Trump Deutschlands Verteidigungsbemühungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-donald-trump-nato-gipfel-ankara",
-      "published_date": "2026-07-03T22:05:03+00:00",
-      "category": "Diplomacy"
+      "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
+      "published_date": "2026-07-06T13:57:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T17:29:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘Better safe than sorry’: Greece installs floating barrier to ward off toxic fish",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/greece-floating-barrier-pufferfish-warming-waters",
+      "published_date": "2026-07-06T09:00:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU sanctions Russian researchers involved in Navalny's death",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-sanctions-russian-researchers-involved-in-navalny-s-death/a-77825077?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T16:18:00+00:00",
-      "category": "Diplomacy"
+      "title": "How do Europeans view Germany's military build-up?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260706/how-do-europeans-view-germanys-military-build-up",
+      "published_date": "2026-07-06T08:26:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Merz rebukes Trump jab over defense at Baltic event",
+      "title": "China tests long-range missile in South Pacific",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T15:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/china-tests-long-range-missile-in-south-pacific/a-77844998?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T08:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Merz rebukes Trump jab over defense at Baltic event",
+      "title": "Germany news: Federal Cabinet approves draft 2027 budget",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T15:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-news-federal-cabinet-approves-draft-2027-budget/live-77843535?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T06:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A Place in the Sun review – subversive exposé of picture-postcard luxury in the Canary Islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/06/a-place-in-the-sun-review-expose-of-the-canary-islands",
+      "published_date": "2026-07-06T06:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia, Fiji sign defense pact to counter China in Pacific",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-fiji-sign-defense-pact-to-counter-china-in-pacific/a-77842223?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T03:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Several killed in renewed attacks on Kyiv",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T01:46:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Russland fliegt neue Luftangriffe auf Ukraine",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Mali rebels target army bases, prison in fresh attacks",
+      "title": "Why heat waves heighten the risk of blackouts",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mali-rebels-target-army-bases-prison-in-fresh-attacks/a-77833144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T16:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T09:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-04T09:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Germany calls reports Russian soldiers are being trained in China ‘deeply disturbing’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/04/ukraine-war-briefing-germany-calls-reports-russian-soldiers-are-being-trained-in-china-deeply-disturbing",
-      "published_date": "2026-07-04T02:17:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kostjantyniwka: Russland meldet Besetzung von Kostjantyniwka",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/kostjantyniwka-ostukraine-russland-donezk-strategisch",
-      "published_date": "2026-07-03T23:34:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria: US pulls some troops after anti-IS operation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T15:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can inspectors return to Iran's nuclear sites?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-inspectors-return-to-iran-s-nuclear-sites/a-77819688?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T13:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian woman suspected of Monaco parcel bombing was ‘disguised as a man’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
-      "published_date": "2026-07-03T11:42:04+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/why-heat-waves-heighten-the-risk-of-blackouts/a-77824609?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T07:43:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why US train travel lags behind Asia and Europe",
@@ -301,6 +308,13 @@
       "title": "Free electricity in Australia, and the week's other eco wins",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/free-electricity-in-australia-and-the-week-s-other-eco-wins/a-77824448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-03T14:41:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Free electricity in Australia, and the week's other eco wins",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/free-electricity-in-australia-and-the-week-s-other-eco-wins/a-77824448?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-03T14:41:00+00:00",
       "category": "Energy"
     },
@@ -407,20 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/spain-heat-wave-kills-over-1-000-in-second-hottest-june-ever/a-77781523?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-01T09:21:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany saves forest from mining, US opens land to drilling",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-saves-forest-from-mining-us-opens-land-to-drilling/a-77627986?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-01T07:34:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany saves forest from mining, US opens land to drilling",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-saves-forest-from-mining-us-opens-land-to-drilling/a-77627986?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T07:34:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Regeln für Krankschreibungen: Grüne fordern Aktuelle Stunde zu Krankschreibungen ab Tag eins",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/krankschreibung-regeln-verschraerfung-bundestag-gruene",
+      "published_date": "2026-07-06T14:05:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to find free outdoor fitness classes in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260706/how-to-find-free-outdoor-fitness-classes-in-germany",
+      "published_date": "2026-07-06T13:06:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Mumbai building collapse kills six, as heavy rains batter city",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-mumbai-building-collapse-kills-six-as-heavy-rains-batter-city/live-77843416?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T07:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260706/today-in-germany-a-roundup-of-the-latest-news-on-monday-129",
+      "published_date": "2026-07-06T06:31:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb",
+      "published_date": "2026-07-06T06:13:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside the Telegram ‘drug rape’ chat group that shocked Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/06/telegram-chinese-men-germany-drugged-women-filmed-rape-court-chinese-diaspora-europe",
+      "published_date": "2026-07-06T05:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Nigeria condemns deaths of 2 nationals in South Africa protests",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nigeria-condemns-deaths-of-2-nationals-in-south-africa-protests/a-77838899?maca=en-rss-en-all-1573-rdf",
@@ -659,48 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
       "published_date": "2026-07-04T19:09:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: AfD elects leaders amid massive protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-04T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: AfD elects leaders amid massive protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German riot police clash with protesters hoping to block far-right AfD conference",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
-      "published_date": "2026-07-04T13:17:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German riot police clash with protesters attempting to block far-right AfD conference – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/04/german-riot-police-far-right-afd-conference-protest-video",
-      "published_date": "2026-07-04T13:17:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Parteitag: Weidel und Chrupalla als AfD-Spitzenduo bestätigt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/04/chrupalla-bleibt-afd-co-chef",
-      "published_date": "2026-07-04T11:54:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Bundesparteitag: Chrupalla: Menschen in Ost und West gleichermaßen Deutsche",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/04/chrupalla-menschen-in-ost-und-west-gleichermassen-deutsche",
-      "published_date": "2026-07-04T11:43:56+00:00",
       "category": "Local Events"
     }
   ]
