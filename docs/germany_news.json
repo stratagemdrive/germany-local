@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-07T00:00:09.583333+00:00",
+  "last_updated": "2026-07-07T13:13:37.856347+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Türkei und die Nato: Mit Erdoğan die Demokratie verteidigen?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/tuerkei-nato-gipfel-repression-aufruestung",
+      "published_date": "2026-07-07T13:05:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spitzentreffen in Krisenzeiten: Nato-Gipfel mit Trump: Mehr Europa, trotzdem transatlantisch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/07/was-vom-nato-gipfel-zu-erwarten-ist",
+      "published_date": "2026-07-07T12:52:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato-Gipfel in Ankara: Merz setzt auf eine europäischere und transatlantische Nato",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/nato-gipfel-ankara-friedrich-merz-europaeische-einigkeit",
+      "published_date": "2026-07-07T12:09:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU rejects suspending biometric border controls despite 20 ‘difficult spots’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/eu-ees-border-controls-airport-queues-delays-brexit",
+      "published_date": "2026-07-07T11:36:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO summit: Allies in Ankara for talks, defense deals",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-summit-allies-in-ankara-for-talks-defense-deals/live-77858549?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T09:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato braces for difficult summit as Trump puts pressure on spending",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
+      "published_date": "2026-07-07T04:00:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
       "source": "The Guardian",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Krieg gegen die Ukraine: Merz telefoniert nach Großangriffen auf Kyjiw mit Selenskyj",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-07-04T11:53:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine-Krieg: Selenskyj spricht mit Merz über Flugabwehr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/04/ukraine-attackiert-russische-oelanlagen-bei-st-petersburg",
-      "published_date": "2026-07-04T11:42:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sozialleistungsmissbrauch: Merz kündigt Plan gegen Sozialleistungsmissbrauch an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/sozialleistungsmissbrauch-friedrich-merz-cdu-aktionsplan",
-      "published_date": "2026-07-04T11:08:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Welcoming the Taliban? — Germany's new Afghanistan policy",
+      "title": "Ukraine: Suspect in Monaco bomb attack found dead near Kyiv",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-04T11:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T12:29:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Welcoming the Taliban? — Germany's new Afghanistan policy",
+      "title": "Ukraine: Suspect in Monaco bomb attack found dead near Kyiv",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T11:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-07T12:29:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Inside Germany: The aftermath of the World Cup crash out",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260704/inside-germany-the-aftermath-of-the-world-cup-crash-out",
-      "published_date": "2026-07-04T07:15:29+00:00",
-      "category": "Diplomacy"
+      "title": "China's missile test builds on Pacific nuclear deterrence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-s-missile-test-builds-on-pacific-nuclear-deterrence/a-77861936?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T12:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Woman suspected of Monaco bombing found shot dead near Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/woman-suspected-monaco-bombing-shot-dead-kyiv",
+      "published_date": "2026-07-07T11:17:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe faces up to prospect US may be unable to arm Nato allies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/europe-faces-up-to-prospect-us-may-be-unable-to-arm-nato-allies",
+      "published_date": "2026-07-07T04:00:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Canada awards Germany major submarine contract",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Australia, Fiji sign defense pact to counter China in Pacific",
+      "title": "Heat-resistant housing: how we need to adapt our homes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-fiji-sign-defense-pact-to-counter-china-in-pacific/a-77842223?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T03:11:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T13:02:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine: Several killed in renewed attacks on Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T01:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Russland fliegt neue Luftangriffe auf Ukraine",
+      "title": "LNG-Importe: Wie Katherina Reiche die Energiewende torpediert",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/06/russland-fliegt-neue-luftangriffe-auf-ukraine",
-      "published_date": "2026-07-05T23:29:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Far-right AfD reaffirms ambition to govern Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-05T19:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Far-right AfD reaffirms ambition to govern Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T19:07:00+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/wirtschaft/2026-07/lng-importe-abkommen-kanada-energiewende-katherina-reiche",
+      "published_date": "2026-07-07T11:53:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can India, Europe build a clean energy supply chain beyond China?",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "How extreme heat is exposing extreme inequality",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/how-extreme-heat-is-exposing-extreme-inequality",
-      "published_date": "2026-07-01T16:30:40+00:00",
-      "category": "Energy"
+      "title": "Germany: Record debt and a seismic policy shift",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-record-debt-and-a-seismic-policy-shift/a-77861879?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-07T10:24:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany: Ukrainian national charged over Nord Stream blasts",
+      "title": "Germany: Record debt and a seismic policy shift",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-01T15:32:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-record-debt-and-a-seismic-policy-shift/a-77861879?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T10:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Volkswagen's huge workforce became a liability",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-07T08:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Volkswagen's huge workforce became a liability",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T08:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Together in prosaic dreams: anthology reveals Europeans’ anticlimactic subconscious",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/prosaic-dreams-anthology-europe-wolfram-lotz",
+      "published_date": "2026-07-07T04:00:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard",
@@ -529,39 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "ANALYSIS: Is the cost of living coming down in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260701/analysis-is-the-cost-of-living-coming-down-in-germany",
-      "published_date": "2026-07-01T10:25:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260701/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-127",
-      "published_date": "2026-07-01T06:23:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US: Trump earned over $1.4 billion in 2025, led by crypto ventures",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-trump-earned-over-1-4-billion-in-2025-led-by-crypto-ventures/a-77778642?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T04:12:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Vor Parteitag in Thüringen: GdP warnt vor Mangel an Einsatzkräften beim AfD-Parteitag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/01/gdp-warnt-vor-mangel-an-einsatzkraeften-beim-afd-parteitag",
-      "published_date": "2026-06-30T23:00:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
-      "published_date": "2026-06-30T14:46:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
+      "published_date": "2026-07-07T13:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fresh doubt over Marine Le Pen presidential bid as court orders electronic tag",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-doubt-presidential-election-electronic-tag-france",
+      "published_date": "2026-07-07T12:36:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court reduces graft sentence for Marine Le Pen",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/french-court-reduces-graft-sentence-for-marine-le-pen/a-77859337?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T12:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
+      "published_date": "2026-07-07T10:37:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Breweries tap thirst for alcohol-free beer",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-breweries-tap-thirst-for-alcohol-free-beer/live-77860052?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T10:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan, China coast guards square off near disputed islands",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-china-coast-guards-square-off-near-disputed-islands/a-77860700?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T09:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could football break away from FIFA and its World Cup?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-football-break-away-from-fifa-and-its-world-cup/a-77677338?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T09:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oil tanker struck in Strait of Hormuz, UK says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/oil-tanker-struck-in-strait-of-hormuz-uk-says/a-77857718?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T01:15:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "CSU-Landesgruppe: Ungarns neue Außenministerin Orban kommt zur CSU-Klausur",
@@ -645,62 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-afd-conference-wraps-up-in-erfurt/live-77830605?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-05T13:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD Parteitag: Linkes Bündnis zieht positive Bilanz der Proteste in Erfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/erfurt-proteste-afd-bundesparteitag-blockaden-polizei-bilanz-widersetzen",
-      "published_date": "2026-07-05T11:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demos in Erfurt: Tausendfacher Protest gegen die AfD - überwiegend friedlich",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/05/tausendfacher-protest-gegen-die-afd-ueberwiegend-friedlich",
-      "published_date": "2026-07-05T11:53:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German defence minister raises alarm over possible far-right state government",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260705/german-defence-minister-raises-alarm-over-possible-far-right-state-government",
-      "published_date": "2026-07-05T11:51:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Parteitag: Weidel kontert Wahlprogramm: «Ich lebe etwas anderes»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/05/weidel-kontert-wahlprogramm-ich-lebe-etwas-anderes",
-      "published_date": "2026-07-05T11:50:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feuerwehr: Mehr Einsätze für Freiwillige Feuerwehren in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/05/deutlich-mehr-einsaetze-fuer-freiwillige-feuerwehren-in-berlin",
-      "published_date": "2026-07-05T11:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD: Lars Klingbeil setzt auf Zustimmung der SPD-Fraktion zu Reformen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/lars-klingbeil-spd-sozialpaket-koalition-reform-gxe",
-      "published_date": "2026-07-05T10:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jehovah's Witnesses fight German state for Holocaust archive",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-05T06:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jehovah's Witnesses fight German state for Holocaust archive",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T06:19:00+00:00",
       "category": "Local Events"
     }
   ]
