@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-07T13:13:37.856347+00:00",
+  "last_updated": "2026-07-07T23:50:14.704151+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T19:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-07T19:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What families need to know about Germany's planned changes to Elterngeld",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260707/what-families-need-to-know-about-germanys-planned-changes-to-elterngeld",
+      "published_date": "2026-07-07T14:04:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Türkei und die Nato: Mit Erdoğan die Demokratie verteidigen?",
       "source": "ZEIT Online",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
-      "published_date": "2026-07-05T08:20:29+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: Russland greift Kyjiw erneut mit ballistischen Raketen an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-07-07T23:45:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "US 250th Independence Day: Merz, Modi extend congratulations",
+      "title": "Krieg in der Ukraine: Ukraine schließt Drohnenabkommen mit drei europäischen Staaten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/drohnen-abkommen-ukraine-estland-niederlande-daenemark",
+      "published_date": "2026-07-07T23:15:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US launches fresh strikes after attacks in Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-250th-independence-day-merz-modi-extend-congratulations/live-77833580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T16:42:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-after-attacks-in-hormuz/live-77869350?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T22:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany summons Chinese envoy over reported training of Russian troops",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260704/germany-summons-chinese-envoy-over-reported-training-of-russian-troops",
-      "published_date": "2026-07-04T11:53:23+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine-Krieg: Erneut russischer Angriff mit ballistischen Raketen auf Kiew",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/08/erneut-russischer-angriff-mit-ballistischen-raketen-auf-kiew",
+      "published_date": "2026-07-07T22:42:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato",
+      "published_date": "2026-07-07T21:49:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-drones-transformed-iran-s-axis-of-resistance-militias-in-lebanon-gaza-yemen-and-iraq/a-77864220?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T18:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nato should let Ukraine join to ‘make all of us stronger’, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/zelenskyy-nato-let-ukraine-join-make-stronger",
+      "published_date": "2026-07-07T17:05:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Conflict, climate change, cash-strapped: Why poverty persists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T16:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe doesn’t need to worry about Andy Burnham. He has the makings of a great ally | Jessica Berlin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/europe-andy-burnham-ally-defence-nato",
+      "published_date": "2026-07-07T14:54:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Suspect in Monaco bomb attack found dead near Kyiv",
@@ -221,72 +284,16 @@
       "category": "Military"
     },
     {
-      "title": "Austrian court convicts 2 former Syrian officials of abuse",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austrian-court-convicts-2-former-syrian-officials-of-abuse/a-77853458?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-06T16:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weapons of long-ago conflicts still haunt people of Laos",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/weapons-of-long-ago-conflicts-still-haunt-people-of-laos/a-77851853?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T14:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
-      "published_date": "2026-07-06T13:57:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Better safe than sorry’: Greece installs floating barrier to ward off toxic fish",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/greece-floating-barrier-pufferfish-warming-waters",
-      "published_date": "2026-07-06T09:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How do Europeans view Germany's military build-up?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260706/how-do-europeans-view-germanys-military-build-up",
-      "published_date": "2026-07-06T08:26:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China tests long-range missile in South Pacific",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-tests-long-range-missile-in-south-pacific/a-77844998?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T08:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Federal Cabinet approves draft 2027 budget",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-federal-cabinet-approves-draft-2027-budget/live-77843535?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T06:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Federal Cabinet approves draft 2027 budget",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-federal-cabinet-approves-draft-2027-budget/live-77843535?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-06T06:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A Place in the Sun review – subversive exposé of picture-postcard luxury in the Canary Islands",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/06/a-place-in-the-sun-review-expose-of-the-canary-islands",
-      "published_date": "2026-07-06T06:00:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Heat-resistant housing: how we need to adapt our homes",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T13:02:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Heat-resistant housing: How we need to adapt our homes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-07T13:02:00+00:00",
       "category": "Energy"
     },
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "German prosecutors charge Nord Stream suspect",
+      "title": "EasyJet’s board has surrendered too easily to US bidder | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/07/easyjets-board-has-surrendered-too-easily-to-us-bidder",
+      "published_date": "2026-07-07T17:10:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany cuts development aid for the fifth time since 2023",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260702/german-prosecutors-charge-nord-stream-suspect",
-      "published_date": "2026-07-02T07:05:30+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.de/20260707/germany-cuts-development-aid-for-the-fifth-time-since-2023",
+      "published_date": "2026-07-07T12:27:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany: Record debt and a seismic policy shift",
@@ -449,6 +463,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-07T08:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Big defence spending and new taxes: German cabinet approves budget",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260707/big-defence-spending-and-new-taxes-german-cabinet-approves-budget",
+      "published_date": "2026-07-07T07:54:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260707/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-131",
+      "published_date": "2026-07-07T06:42:10+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "How will Germany's income tax reforms affect you?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260702/how-will-germanys-income-tax-reforms-affect-you",
-      "published_date": "2026-07-02T11:02:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "At least 3.3m people were victims of Dutch enslavement, research claims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jul/01/dutch-enslavement-slavery-figure-research",
-      "published_date": "2026-07-01T15:34:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "German FA headquarters searched in Euro 2024 graft probe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260701/german-fa-headquarters-searched-in-euro-2024-graft-probe",
-      "published_date": "2026-07-01T13:15:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Institut der deutschen Wirtschaft: Deutsche geben jeden vierten Euro fürs Wohnen aus",
+      "title": "Sachsen-Anhalt: Schulze will bei Linken und AfD nicht um Stimmen bitten",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/wohnen-kosten-immobilienpreise-anstieg-institut-der-deutschen-wirtschaft",
-      "published_date": "2026-07-01T12:39:24+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-07/08/schulze-will-bei-linken-und-afd-nicht-um-stimmen-bitten",
+      "published_date": "2026-07-07T22:13:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Marine Le Pen says she will run for president in 2027 – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/07/french-far-right-leader-marine-le-pen-says-she-will-run-for-president-in-2027-video",
+      "published_date": "2026-07-07T19:57:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NYC high-rise's possible collapse prompts evacuations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T19:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Marine Le Pen running for French presidency after court confirmed conviction?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/what-court-ruling-mean-marine-le-pen-presidential-chances",
+      "published_date": "2026-07-07T19:13:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Le Pen vows to run despite upheld graft conviction",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-le-pen-vows-to-run-despite-upheld-graft-conviction/a-77859337?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T18:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungarian public media outlets halt broadcasting in post-Orbán shake-up",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/hungary-public-media-tv-radio-suspend-broadcasting-viktor-orban-peter-magyar",
+      "published_date": "2026-07-07T17:19:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Nigel Farage resigns as MP, to run again in by-election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-nigel-farage-resigns-as-mp-to-run-again-in-by-election/a-77865626?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T13:27:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
@@ -599,6 +648,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Breweries tap thirst for alcohol-free beer",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-breweries-tap-thirst-for-alcohol-free-beer/live-77860052?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-07T10:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Japan, China coast guards square off near disputed islands",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/japan-china-coast-guards-square-off-near-disputed-islands/a-77860700?maca=en-rss-en-all-1573-rdf",
@@ -610,6 +666,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/could-football-break-away-from-fifa-and-its-world-cup/a-77677338?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-07T09:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany softens health insurance reform plans ahead of key vote",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260707/germany-softens-health-insurance-reform-plans-ahead-of-key-vote",
+      "published_date": "2026-07-07T09:07:17+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/06/italy-ordered-compensate-woman-rape-allegations-echr",
       "published_date": "2026-07-06T15:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regeln für Krankschreibungen: Grüne fordern Aktuelle Stunde zu Krankschreibungen ab Tag eins",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/krankschreibung-regeln-verschraerfung-bundestag-gruene",
-      "published_date": "2026-07-06T14:05:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to find free outdoor fitness classes in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260706/how-to-find-free-outdoor-fitness-classes-in-germany",
-      "published_date": "2026-07-06T13:06:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Mumbai building collapse kills six, as heavy rains batter city",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-mumbai-building-collapse-kills-six-as-heavy-rains-batter-city/live-77843416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T07:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260706/today-in-germany-a-roundup-of-the-latest-news-on-monday-129",
-      "published_date": "2026-07-06T06:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb",
-      "published_date": "2026-07-06T06:13:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the Telegram ‘drug rape’ chat group that shocked Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/06/telegram-chinese-men-germany-drugged-women-filmed-rape-court-chinese-diaspora-europe",
-      "published_date": "2026-07-06T05:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria condemns deaths of 2 nationals in South Africa protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-condemns-deaths-of-2-nationals-in-south-africa-protests/a-77838899?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T14:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: AfD conference wraps up in Erfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-afd-conference-wraps-up-in-erfurt/live-77830605?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-05T13:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: AfD conference wraps up in Erfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-afd-conference-wraps-up-in-erfurt/live-77830605?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T13:53:00+00:00",
       "category": "Local Events"
     }
   ]
