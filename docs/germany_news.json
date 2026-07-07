@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-06T14:21:49.000449+00:00",
+  "last_updated": "2026-07-07T00:00:09.583333+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
+      "published_date": "2026-07-06T21:30:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T19:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-06T19:03:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 19 in overnight strikes on Kyiv – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump set to put NATO unity to the test at Turkey summit",
+      "title": "Canada awards Germany major submarine contract",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-04T07:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/canada-awards-germany-major-submarine-contract/a-77857391?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-06T22:10:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
+      "title": "Canada awards Germany major submarine contract",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-awards-germany-major-submarine-contract/a-77857391?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T22:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO chief boasts European spending ahead of key summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-chief-boasts-european-spending-ahead-of-key-summit/a-77857033?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T19:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
-      "published_date": "2026-07-04T06:00:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "published_date": "2026-07-06T16:41:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nordatlantikpakt: Joschka Fischer sieht die USA auf dem Weg aus der Nato",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/04/joschka-fischer-sieht-die-usa-auf-dem-weg-aus-der-nato",
-      "published_date": "2026-07-03T23:00:05+00:00",
-      "category": "Diplomacy"
+      "title": "Britain’s defence spending plans need greater scrutiny | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/06/britains-defence-spending-plans-need-greater-scrutiny",
+      "published_date": "2026-07-06T16:17:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Austrian court convicts 2 former Syrian officials of abuse",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austrian-court-convicts-2-former-syrian-officials-of-abuse/a-77853458?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T16:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Austrian court convicts 2 former Syrian officials of abuse",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/austrian-court-convicts-2-former-syrian-officials-of-abuse/a-77853458?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-06T16:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Weapons of long-ago conflicts still haunt people of Laos",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/weapons-of-long-ago-conflicts-still-haunt-people-of-laos/a-77851853?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T14:46:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
@@ -175,6 +231,13 @@
       "title": "Germany news: Federal Cabinet approves draft 2027 budget",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-federal-cabinet-approves-draft-2027-budget/live-77843535?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T06:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Federal Cabinet approves draft 2027 budget",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-federal-cabinet-approves-draft-2027-budget/live-77843535?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-06T06:54:00+00:00",
       "category": "Military"
     },
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Students leave Gaza to continue studies, others in limbo",
+      "title": "Can India, Europe build a clean energy supply chain beyond China?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T16:28:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/can-india-europe-build-a-clean-energy-supply-chain-beyond-china/a-77852031?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T15:02:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bomb the Arctic, dam the Mediterranean and build a second moon: five outlandish plans to remodel our climate",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/06/five-outlandish-plans-to-remodel-earth-climate",
-      "published_date": "2026-07-05T15:00:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘The risk is Russia becomes desperate’: the Swedish Baltic Sea island preparing for invasion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/05/gotland-russia-sweden-ramps-up-defence-baltic-sea-island",
-      "published_date": "2026-07-05T12:50:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Pressure on persecuted Baha'i community intensifies",
+      "title": "From north to south, Africa braces for volatile El Nino year",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-05T10:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Pressure on persecuted Baha'i community intensifies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T10:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US 250th Independence Day: Trump takes center stage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-250th-independence-day-trump-takes-center-stage/live-77833580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T03:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Trump repositions himself as peacemaker in long call with Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/05/ukraine-war-briefing-trump-repositions-himself-as-peacemaker-in-long-call-with-putin",
-      "published_date": "2026-07-05T02:06:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WM 2026: Frankreich und Marokko stehen im Viertelfinale – das war die WM-Nacht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-07/wm-2026-kanada-marokko-paraguay-frankreich",
-      "published_date": "2026-07-04T23:43:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Boris Pistorius: AfD-Minister könnten von Bundeswehr-Infos ausgeschlossen werden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-boris-pistorius-bundeswehr-informationen-minister",
-      "published_date": "2026-07-04T22:59:28+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/from-north-to-south-africa-braces-for-volatile-el-nino-year/a-77826694?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T13:59:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why heat waves heighten the risk of blackouts",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Germany: Ukrainian national charged over Nord Stream blasts",
+      "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T15:32:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Spain heat wave kills over 1,000 in second-hottest June ever",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-heat-wave-kills-over-1-000-in-second-hottest-june-ever/a-77781523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-01T09:21:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/microsoft-to-cut-thousands-of-jobs-xbox-to-be-hit-hard/a-77857704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T23:35:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fluggesellschaft: EasyJet stimmt Übernahmeangebot von US-Investor grundsätzlich zu",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "US top court backs birthright citizenship in rebuke to Trump",
+      "title": "CSU-Landesgruppe: Ungarns neue Außenministerin Orban kommt zur CSU-Klausur",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/07/ungarns-neue-aussenministerin-orban-kommt-zur-csu-klausur",
+      "published_date": "2026-07-06T22:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal's power struggle: Referendum to decide on constitutional reform",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-06-30T14:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-06T16:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy ordered to compensate woman after allegations of rape by partner dismissed as ‘normal’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/italy-ordered-compensate-woman-rape-allegations-echr",
+      "published_date": "2026-07-06T15:25:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Regeln für Krankschreibungen: Grüne fordern Aktuelle Stunde zu Krankschreibungen ab Tag eins",
@@ -680,27 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-05T06:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamburg: Salzsäure in Müllverbrennungsanlage ausgetreten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/05/salzsaeure-in-muellverbrennungsanlage-ausgetreten",
-      "published_date": "2026-07-04T22:07:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Staatsschutz: Pistorius: Keine geheimen Infos an AfD wegen Nähe zu Putin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/05/pistorius-keine-geheimen-infos-an-afd-wegen-naehe-zu-putin",
-      "published_date": "2026-07-04T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
-      "published_date": "2026-07-04T19:09:06+00:00",
       "category": "Local Events"
     }
   ]
