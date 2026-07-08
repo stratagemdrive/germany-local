@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-07T23:50:14.704151+00:00",
+  "last_updated": "2026-07-08T12:15:44.476954+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bündnis in der Krise: Trump sucht beim Nato-Gipfel die Konfrontation",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/08/daenemark-an-trump-groenland-steht-nicht-zum-verkauf",
+      "published_date": "2026-07-08T12:02:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato-Gipfel: Mark Rutte kontert Trump-Kritik im direkten Schlagabtausch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/url-nato-gipfel-ankara-ukraine-donald-trump-live",
+      "published_date": "2026-07-08T11:48:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Port of Dover faces ‘utter chaos’ under struggling EU entry system, MPs warn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/08/port-of-dover-faces-utter-chaos-under-struggling-eu-entry-system-mps-warn",
+      "published_date": "2026-07-08T09:00:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: US charges Lawrence Bishnoi in Sikh separatist killing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-us-charges-lawrence-bishnoi-in-sikh-separatist-killing/live-77870143?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T07:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260708/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-128",
+      "published_date": "2026-07-08T06:33:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
       "source": "Deutsche Welle",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
+      "title": "Trump makes fresh Greenland demand and threatens trade with Spain at Nato meeting – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/turkey-crackdown-public-life-run-up-nato-summit-ankara",
-      "published_date": "2026-07-06T11:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
+      "published_date": "2026-07-08T11:59:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
-      "published_date": "2026-07-06T04:00:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato-Gipfel: SPD fordert klare Worte von Friedrich Merz zur Türkei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/friedrich-merz-recep-tayyip-erdogan-tuerkei-nato-gipfel",
-      "published_date": "2026-07-05T23:21:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Die Lage im Überblick: Selenskyj fürchtet massive russische Attacke vor Nato-Gipfel",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/06/selenskyj-fuerchtet-massive-russische-attacke-vor-nato-gipfel",
-      "published_date": "2026-07-05T22:15:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey steps up arrests ahead of NATO summit",
+      "title": "Iran war: Trump says ceasefire 'over' after fresh strikes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T17:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T02:56:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Russland greift Kyjiw erneut mit ballistischen Raketen an",
@@ -182,6 +196,13 @@
       "title": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-drones-transformed-iran-s-axis-of-resistance-militias-in-lebanon-gaza-yemen-and-iraq/a-77864220?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T18:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How drones transformed Iran's relationships with its proxies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-drones-transformed-iran-s-relationships-with-its-proxies/a-77864220?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-07T18:18:00+00:00",
       "category": "Military"
     },
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "title": "Unions in Europe press for new worker protections to counter heat stress",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "published_date": "2026-07-06T16:41:47+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+      "published_date": "2026-07-08T11:00:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Britain’s defence spending plans need greater scrutiny | Letters",
+      "title": "Health risk fears for storks in Europe over ‘junk food’ from landfill",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/06/britains-defence-spending-plans-need-greater-scrutiny",
-      "published_date": "2026-07-06T16:17:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Austrian court convicts 2 former Syrian officials of abuse",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austrian-court-convicts-2-former-syrian-officials-of-abuse/a-77853458?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T16:01:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
+      "published_date": "2026-07-08T07:30:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Heat-resistant housing: how we need to adapt our homes",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "US rail boom still lags behind cars and planes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-rail-boom-still-lags-behind-cars-and-planes/a-77430370?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T07:15:00+00:00",
-      "category": "Energy"
+      "title": "German car industry warns of job collapse unless ‘bold decisions’ made to address Chinese threat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/08/german-car-industry-job-collapse-bold-decisions-address-chinese-threat",
+      "published_date": "2026-07-08T11:45:32+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why US trains trips are slower and worse than they should be",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-us-trains-trips-are-slower-and-worse-than-they-should-be/a-77430370?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T07:15:00+00:00",
-      "category": "Energy"
+      "title": "UK housebuilders have far too much power. Now a £4.5bn lawsuit could change that for good | Peter Apps",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/uk-housebuilders-too-much-power-45bn-lawsuit",
+      "published_date": "2026-07-08T07:00:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "EasyJet’s board has surrendered too easily to US bidder | Nils Pratley",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "German coalition agrees on changes to pensions, tax rates",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-coalition-agrees-on-changes-to-pensions-tax-rates/a-77805373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T16:17:00+00:00",
-      "category": "Economy"
+      "title": "Prozess in Berlin: Palliativarzt wegen 15-fachen Mordes zu lebenslanger Haft verurteilt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/palliativarzt-berlin-mord-prozess-urteil",
+      "published_date": "2026-07-08T12:05:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU targets Chinese imports amid trade talks",
+      "title": "Through the teargas, I saw something missing from German politics for too long: hope | Scott Roxborough",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/german-politics-alternative-fur-deutschland-blockade-far-right",
+      "published_date": "2026-07-08T11:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Doctor sentenced to life over patient murders",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-targets-chinese-imports-amid-trade-talks/a-77800366?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T14:54:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-doctor-sentenced-to-life-over-patient-murders/live-77870812?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T09:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asylum seeker in UK as part of ‘one in, one out’ scheme says it is unfair on those deported",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/08/asylum-seeker-in-uk-says-one-in-one-out-scheme-unfair",
+      "published_date": "2026-07-08T05:00:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sachsen-Anhalt: Schulze will bei Linken und AfD nicht um Stimmen bitten",
@@ -673,34 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260707/germany-softens-health-insurance-reform-plans-ahead-of-key-vote",
       "published_date": "2026-07-07T09:07:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oil tanker struck in Strait of Hormuz, UK says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oil-tanker-struck-in-strait-of-hormuz-uk-says/a-77857718?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T01:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSU-Landesgruppe: Ungarns neue Außenministerin Orban kommt zur CSU-Klausur",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/07/ungarns-neue-aussenministerin-orban-kommt-zur-csu-klausur",
-      "published_date": "2026-07-06T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal's power struggle: Referendum to decide on constitutional reform",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T16:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy ordered to compensate woman after allegations of rape by partner dismissed as ‘normal’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/italy-ordered-compensate-woman-rape-allegations-echr",
-      "published_date": "2026-07-06T15:25:45+00:00",
       "category": "Local Events"
     }
   ]
