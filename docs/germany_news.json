@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-09T13:44:16.490458+00:00",
+  "last_updated": "2026-07-09T23:58:39.187186+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Finanzhilfe der Bundesregierung: Bundestag beschließt Gesetz zur Entlastung von Ländern und Kommunen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/finanzhilfe-laender-kommunen-bundestag-gesetz",
+      "published_date": "2026-07-09T21:33:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU lawmakers pave way for 'digital euro' negotiations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-lawmakers-pave-way-for-digital-euro-negotiations/a-77895581?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T17:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato leaders surprised by Turkish president’s gift of guns after summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/turkish-president-gives-nato-leaders-engraved-guns-and-bullets-at-summit",
+      "published_date": "2026-07-09T16:32:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kindergeld: Bundestag macht Weg für antragsloses Kindergeld frei",
       "source": "ZEIT Online",
@@ -29,6 +50,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-09T09:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU set to delay roll out of €20 ETIAS travel authorisation scheme until 2027",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260709/eu-set-to-delay-roll-out-of-e20-etias-travel-authorisation-scheme-until-2027",
+      "published_date": "2026-07-09T09:25:53+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T19:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-07T19:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What families need to know about Germany's planned changes to Elterngeld",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260707/what-families-need-to-know-about-germanys-planned-changes-to-elterngeld",
-      "published_date": "2026-07-07T14:04:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Türkei und die Nato: Mit Erdoğan die Demokratie verteidigen?",
+      "title": "Bombenexplosionen in Damaskus: Syrien meldet Festnahmen nach Anschlägen während Macron-Besuchs",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/tuerkei-nato-gipfel-repression-aufruestung",
-      "published_date": "2026-07-07T13:05:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-07/bombenexplosionen-damaskus-emmanuel-macron-syrien-anas-chattab",
+      "published_date": "2026-07-09T23:20:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali rebels attack convoy of soldiers, Russian mercenaries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mali-rebels-attack-convoy-of-soldiers-russian-mercenaries/a-77895811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T18:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Daphne Caruana Galizia screamed in panic before explosion that killed her, court hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/daphne-caruana-galizia-explosion-killed-her-witness-court",
+      "published_date": "2026-07-09T18:03:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine denies involvement in Nord Stream blasts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-denies-involvement-in-nord-stream-blasts/a-77894652?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-09T15:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine denies involvement in Nord Stream blasts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-denies-involvement-in-nord-stream-blasts/a-77894652?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T15:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria regains voting rights at world chemical weapons watchdog",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/syria-regains-voting-rights-at-world-chemical-weapons-watchdog/a-77891618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T14:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Congo: UN laments uptick in fighting in South Kivu",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/congo-un-laments-uptick-in-fighting-in-south-kivu/a-77887082?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T13:57:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – Europe live",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland greift Kyjiw erneut mit ballistischen Raketen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-07-07T23:45:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg in der Ukraine: Ukraine schließt Drohnenabkommen mit drei europäischen Staaten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/drohnen-abkommen-ukraine-estland-niederlande-daenemark",
-      "published_date": "2026-07-07T23:15:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US launches fresh strikes after attacks in Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-after-attacks-in-hormuz/live-77869350?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T22:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Erneut russischer Angriff mit ballistischen Raketen auf Kiew",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/08/erneut-russischer-angriff-mit-ballistischen-raketen-auf-kiew",
-      "published_date": "2026-07-07T22:42:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
+      "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato",
-      "published_date": "2026-07-07T21:49:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-drones-transformed-iran-s-axis-of-resistance-militias-in-lebanon-gaza-yemen-and-iraq/a-77864220?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T18:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How drones transformed Iran's relationships with its proxies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-drones-transformed-iran-s-relationships-with-its-proxies/a-77864220?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T18:18:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
+      "published_date": "2026-07-09T17:39:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Licence to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
@@ -295,6 +302,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/is-the-strait-of-hormuz-still-iran-s-trump-card/a-77870807?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-09T07:51:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260709/today-in-germany-a-roundup-of-the-latest-news-on-thursday-126",
+      "published_date": "2026-07-09T06:37:26+00:00",
       "category": "Energy"
     },
     {
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Far-right AfD threatens eastern Germany's energy transition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/far-right-afd-threatens-eastern-germany-s-energy-transition/a-77806872?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T13:07:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Far-right AfD threatens eastern Germany's energy transition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/far-right-afd-threatens-eastern-germany-s-energy-transition/a-77806872?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T13:07:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Are German companies leaving the country?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-ger-1023-rdf",
@@ -442,6 +442,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures",
       "published_date": "2026-07-09T09:19:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Unions protest in Germany as Volkswagen pitches job cuts and plant closures",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260709/unions-protest-in-germany-as-volkswagen-pitches-job-cuts-and-plant-closures",
+      "published_date": "2026-07-09T07:30:40+00:00",
       "category": "Economy"
     },
     {
@@ -508,6 +515,13 @@
       "category": "Economy"
     },
     {
+      "title": "Why Volkswagen's huge workforce became a costly burden",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-07T08:21:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Big defence spending and new taxes: German cabinet approves budget",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260707/big-defence-spending-and-new-taxes-german-cabinet-approves-budget",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "South Korea plans future fund fueled by chip boom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T11:22:00+00:00",
-      "category": "Economy"
+      "title": "Landtagswahlen: Industrieverband: Regierungsbeteiligung der AfD wäre «fatal»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/10/industrieverband-regierungsbeteiligung-der-afd-waere-fatal",
+      "published_date": "2026-07-09T22:24:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fight them for the beaches: the real villain of Europe’s overtourism is big business | Adam Almeida",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/fight-beaches-real-villain-europe-overtourism-big-business",
-      "published_date": "2026-07-04T04:00:02+00:00",
-      "category": "Economy"
+      "title": "Violence on trains in Germany is on the rise",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/violence-on-trains-in-germany-is-on-the-rise/a-77892064?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-09T14:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Violence on trains in Germany is on the rise",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/violence-on-trains-in-germany-is-on-the-rise/a-77892064?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T14:55:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kitagebühren: Zumindest ein bisschen Umverteilung",
@@ -595,6 +616,13 @@
       "title": "China: 'Heavy human losses' expected in shoe factory fire",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/china-heavy-human-losses-expected-in-shoe-factory-fire/a-77887918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T12:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China: Dozens killed in shoe factory fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-dozens-killed-in-shoe-factory-fire/a-77887918?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-09T12:39:00+00:00",
       "category": "Local Events"
     },
@@ -673,34 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-s-far-right-set-to-improve-ties-with-germany/a-77865608?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-08T13:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected attack at Bavarian school leaves at least two seriously injured",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260708/suspected-attack-at-bavarian-school-leaves-several-seriously-injured",
-      "published_date": "2026-07-08T12:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Police arrest suspect after Bavaria school attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-police-arrest-suspect-after-bavaria-school-attack/a-77877219?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-08T12:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Police arrest suspect after Bavaria school attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-police-arrest-suspect-after-bavaria-school-attack/a-77877219?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T12:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prozess in Berlin: Palliativarzt wegen 15-fachen Mordes zu lebenslanger Haft verurteilt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/palliativarzt-berlin-mord-prozess-urteil",
-      "published_date": "2026-07-08T12:05:30+00:00",
       "category": "Local Events"
     }
   ]
