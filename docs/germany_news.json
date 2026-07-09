@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-08T12:15:44.476954+00:00",
+  "last_updated": "2026-07-09T00:01:07.873636+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Nato-Gipfel in Ankara: Erdoğan schenkt Staats- und Regierungschefs Revolver",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/recep-tayyip-erdogan-geschenk-pistolen-kehr-starmer-friedrich-merz-nato-gipfel",
+      "published_date": "2026-07-08T23:31:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
+      "published_date": "2026-07-08T22:49:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit",
+      "published_date": "2026-07-08T19:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe's EES border checks won't be suspended, EU insists",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260708/europes-ees-border-checks-wont-be-suspended-eu-insists",
+      "published_date": "2026-07-08T12:42:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bündnis in der Krise: Trump sucht beim Nato-Gipfel die Konfrontation",
       "source": "ZEIT Online",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-06T19:03:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 19 in overnight strikes on Kyiv – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates",
-      "published_date": "2026-07-06T14:10:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G20-Prozess: Prozess gegen Polizisten: Video soll mutmaßliche Tat zeigen",
+      "title": "Migrationspolitik: Sohn des von ICE Getöteten: Vater war kein Krimineller",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/06/prozess-gegen-polizisten-video-soll-mutmassliche-tat-zeigen",
-      "published_date": "2026-07-06T14:09:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-07/09/sohn-des-von-ice-getoeteten-vater-war-kein-krimineller",
+      "published_date": "2026-07-08T23:16:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "German government plans major changes to Freedom of Information rights",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260706/german-government-plans-major-changes-to-freedom-of-information-rights",
-      "published_date": "2026-07-06T11:39:51+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: US launches second wave of strikes in 24 hours",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-launches-second-wave-of-strikes-in-24-hours/live-77882459?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T20:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pierpaolo Piccioli’s couture debut reimagines Balenciaga in his own colourful image",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/jul/08/pierpaolo-picciolis-couture-debut-reimagines-balenciaga-in-his-own-colourful-image",
+      "published_date": "2026-07-08T17:50:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
+      "published_date": "2026-07-08T17:05:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump gives Zelenskyy vague promise of licence to manufacture Patriot missiles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/trump-zelenskyy-vague-promise-licence-manufacture-patriot-missiles",
+      "published_date": "2026-07-08T16:30:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Renewed US-Iran war would hit Gulf countries hard",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/renewed-us-iran-war-would-hit-gulf-countries-hard/a-77876781?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T14:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump makes fresh Greenland demand and threatens trade with Spain at Nato meeting – Europe live",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "China's missile test builds on Pacific nuclear deterrence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-s-missile-test-builds-on-pacific-nuclear-deterrence/a-77861936?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T12:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Woman suspected of Monaco bombing found shot dead near Kyiv",
+      "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/woman-suspected-monaco-bombing-shot-dead-kyiv",
-      "published_date": "2026-07-07T11:17:46+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/08/oil-prices-rise-iran-attack-tankers-strait-of-hormuz",
+      "published_date": "2026-07-08T15:45:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Europe faces up to prospect US may be unable to arm Nato allies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/europe-faces-up-to-prospect-us-may-be-unable-to-arm-nato-allies",
-      "published_date": "2026-07-07T04:00:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada awards Germany major submarine contract",
+      "title": "How Iran uses the Strait of Hormuz to pressure the US",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-awards-germany-major-submarine-contract/a-77857391?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-06T22:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada awards Germany major submarine contract",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-awards-germany-major-submarine-contract/a-77857391?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T22:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO chief boasts European spending ahead of key summit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nato-chief-boasts-european-spending-ahead-of-key-summit/a-77857033?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T19:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-iran-uses-the-strait-of-hormuz-to-pressure-the-us/a-77870807?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T12:55:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Unions in Europe press for new worker protections to counter heat stress",
@@ -407,20 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice",
       "published_date": "2026-07-02T11:00:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nord Stream blast ordered by Ukraine, say German prosecutors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-02T09:31:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nord Stream blast ordered by Ukraine, say German prosecutors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T09:31:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,90 @@
       "category": "Economy"
     },
     {
+      "title": "Marine Le Pen ‘wants to talk politics’, but can she drown out the legal noise?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-french-presidential-campaign-elections-embezzlement",
+      "published_date": "2026-07-08T18:40:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "East German doping victims still lack adequate support",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/east-german-doping-victims-still-lack-adequate-support/a-77880575?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-08T18:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "East German doping victims still lack adequate support",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/east-german-doping-victims-still-lack-adequate-support/a-77880575?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T18:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Marine Le Pen’s candidacy: a dangerous gamble | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/the-guardian-view-on-marine-le-pen-candidacy-a-dangerous-gamble",
+      "published_date": "2026-07-08T17:30:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+      "published_date": "2026-07-08T17:22:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: No, Iran did not strike a secret US Gulf base",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-no-iran-did-not-strike-a-secret-us-gulf-base/a-77876290?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T16:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US birthright citizenship ruling eases fears among Indians",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-birthright-citizenship-ruling-eases-fears-among-indians/a-77879632?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T15:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's far right set to improve ties with Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-far-right-set-to-improve-ties-with-germany/a-77865608?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-08T13:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's far right set to improve ties with Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-far-right-set-to-improve-ties-with-germany/a-77865608?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T13:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspected attack at Bavarian school leaves at least two seriously injured",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260708/suspected-attack-at-bavarian-school-leaves-several-seriously-injured",
+      "published_date": "2026-07-08T12:54:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Police arrest suspect after Bavaria school attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-police-arrest-suspect-after-bavaria-school-attack/a-77877219?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-08T12:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Police arrest suspect after Bavaria school attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-police-arrest-suspect-after-bavaria-school-attack/a-77877219?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T12:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Prozess in Berlin: Palliativarzt wegen 15-fachen Mordes zu lebenslanger Haft verurteilt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/palliativarzt-berlin-mord-prozess-urteil",
@@ -581,6 +665,13 @@
       "title": "Germany news: Doctor sentenced to life over patient murders",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-doctor-sentenced-to-life-over-patient-murders/live-77870812?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-08T09:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Doctor sentenced to life over patient murders",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-doctor-sentenced-to-life-over-patient-murders/live-77870812?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-08T09:39:00+00:00",
       "category": "Local Events"
     },
@@ -610,97 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-07T19:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Marine Le Pen running for French presidency after court confirmed conviction?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/what-court-ruling-mean-marine-le-pen-presidential-chances",
-      "published_date": "2026-07-07T19:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Le Pen vows to run despite upheld graft conviction",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-le-pen-vows-to-run-despite-upheld-graft-conviction/a-77859337?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T18:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungarian public media outlets halt broadcasting in post-Orbán shake-up",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/hungary-public-media-tv-radio-suspend-broadcasting-viktor-orban-peter-magyar",
-      "published_date": "2026-07-07T17:19:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Nigel Farage resigns as MP, to run again in by-election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-nigel-farage-resigns-as-mp-to-run-again-in-by-election/a-77865626?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T13:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
-      "published_date": "2026-07-07T13:01:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh doubt over Marine Le Pen presidential bid as court orders electronic tag",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-doubt-presidential-election-electronic-tag-france",
-      "published_date": "2026-07-07T12:36:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court reduces graft sentence for Marine Le Pen",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/french-court-reduces-graft-sentence-for-marine-le-pen/a-77859337?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
-      "published_date": "2026-07-07T10:37:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Breweries tap thirst for alcohol-free beer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-breweries-tap-thirst-for-alcohol-free-beer/live-77860052?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T10:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Breweries tap thirst for alcohol-free beer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-breweries-tap-thirst-for-alcohol-free-beer/live-77860052?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-07T10:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan, China coast guards square off near disputed islands",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-china-coast-guards-square-off-near-disputed-islands/a-77860700?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T09:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could football break away from FIFA and its World Cup?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-football-break-away-from-fifa-and-its-world-cup/a-77677338?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T09:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany softens health insurance reform plans ahead of key vote",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260707/germany-softens-health-insurance-reform-plans-ahead-of-key-vote",
-      "published_date": "2026-07-07T09:07:17+00:00",
       "category": "Local Events"
     }
   ]
