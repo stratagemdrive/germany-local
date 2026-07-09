@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-09T00:01:07.873636+00:00",
+  "last_updated": "2026-07-09T13:44:16.490458+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kindergeld: Bundestag macht Weg für antragsloses Kindergeld frei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/kindergeld-reform-gesetz-antrag-automatisch-bundestag",
+      "published_date": "2026-07-09T13:25:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU’s ‘unpleasant and dangerous’ border checks need overhaul, says Greek airports boss",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/09/eu-unpleasant-and-dangerous-border-checks-need-overhaul-says-greek-airports-boss",
+      "published_date": "2026-07-09T11:02:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-09T09:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T09:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘A lot of art in Ireland was made by one type of man’: Richard Malone on taking his colourful fabric creations to the EU Council",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/jul/09/richard-malone-ireland-eu-presidency-council",
+      "published_date": "2026-07-09T09:15:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: June heat wave linked to 5,000 excess deaths",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-june-heat-wave-linked-to-5-000-excess-deaths/a-77885295?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-09T09:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: June heat wave linked to 5,000 excess deaths",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-june-heat-wave-linked-to-5-000-excess-deaths/a-77885295?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T09:10:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nato-Gipfel in Ankara: Erdoğan schenkt Staats- und Regierungschefs Revolver",
       "source": "ZEIT Online",
@@ -95,53 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spitzentreffen in Krisenzeiten: Nato-Gipfel mit Trump: Mehr Europa, trotzdem transatlantisch",
+      "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
+      "published_date": "2026-07-09T13:29:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leichtathletik: Russland zieht wegen Sperre im Leichtathletik vor Sportgerichtshof Cas",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/07/was-vom-nato-gipfel-zu-erwarten-ist",
-      "published_date": "2026-07-07T12:52:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/sport/2026-07/ausschluss-russische-athleten-world-athletics-cas",
+      "published_date": "2026-07-09T13:26:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nato-Gipfel in Ankara: Merz setzt auf eine europäischere und transatlantische Nato",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/nato-gipfel-ankara-friedrich-merz-europaeische-einigkeit",
-      "published_date": "2026-07-07T12:09:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU rejects suspending biometric border controls despite 20 ‘difficult spots’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/eu-ees-border-controls-airport-queues-delays-brexit",
-      "published_date": "2026-07-07T11:36:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO summit: Allies in Ankara for talks, defense deals",
+      "title": "Iran war: Trump calls second set of US strikes 'retribution'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nato-summit-allies-in-ankara-for-talks-defense-deals/live-77858549?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T09:58:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-calls-second-set-of-us-strikes-retribution/live-77882459?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T11:54:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nato braces for difficult summit as Trump puts pressure on spending",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
-      "published_date": "2026-07-07T04:00:31+00:00",
-      "category": "Diplomacy"
+      "title": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3#ref=rss",
+      "published_date": "2026-07-09T10:01:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
-      "published_date": "2026-07-06T21:30:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
+      "title": "India news: Modi clinches uranium supply deal with Australia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T19:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/india-news-modi-clinches-uranium-supply-deal-with-australia/live-77883412?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T07:24:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Migrationspolitik: Sohn des von ICE Getöteten: Vater war kein Krimineller",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Nato should let Ukraine join to ‘make all of us stronger’, says Zelenskyy",
+      "title": "Licence to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/zelenskyy-nato-let-ukraine-join-make-stronger",
-      "published_date": "2026-07-07T17:05:42+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/09/licence-to-drill-trump-linked-texas-oil-company-elbowing-into-greenland",
+      "published_date": "2026-07-09T13:00:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Conflict, climate change, cash-strapped: Why poverty persists",
+      "title": "Is the Strait of Hormuz still Iran's trump card?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T16:45:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/is-the-strait-of-hormuz-still-iran-s-trump-card/a-77870807?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T07:51:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Europe doesn’t need to worry about Andy Burnham. He has the makings of a great ally | Jessica Berlin",
+      "title": "Western Europe records hottest-ever June as heatwaves intensify",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/europe-andy-burnham-ally-defence-nato",
-      "published_date": "2026-07-07T14:54:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Suspect in Monaco bomb attack found dead near Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T12:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Suspect in Monaco bomb attack found dead near Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-07T12:29:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
+      "published_date": "2026-07-09T04:00:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "‘I don’t just watch climate change happening’: the young Swedes being paid to make a difference",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/climate-change-yps-sweden-young-planetary-stewards-green-project-jobs",
-      "published_date": "2026-07-02T15:14:31+00:00",
-      "category": "Energy"
+      "title": "Are German companies leaving the country?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-09T09:38:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Donald Trump is the accidental hero of a real-life feelgood climate tale even as a creeping horror story plays alongside | Clear Air",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/03/donald-trump-strait-of-hormuz-climate-crisis-europe-heatwave",
-      "published_date": "2026-07-02T15:00:02+00:00",
-      "category": "Energy"
+      "title": "Are German companies leaving the country?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T09:38:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
+      "title": "VW faces protests in Germany over proposed job cuts and factory closures",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice",
-      "published_date": "2026-07-02T11:00:12+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures",
+      "published_date": "2026-07-09T09:19:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Teatime in Tbilisi: Georgia’s Soviet-era plantations brew up a renaissance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/teatime-in-tbilisi-georgias-soviet-era-plantations-brew-up-a-renaissance",
+      "published_date": "2026-07-09T04:00:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "German car industry warns of job collapse unless ‘bold decisions’ made to address Chinese threat",
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Mercedes-Benz: 33.000 Beschäftigte demonstrieren gegen Sparpläne bei Mercedes-Benz",
+      "title": "Kitagebühren: Zumindest ein bisschen Umverteilung",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/mercedes-benz-proteste-ig-metall-sparplaene-arbeitszeit",
-      "published_date": "2026-07-03T12:42:51+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/hamburg/2026-07/kita-gebuehren-erhoehung-hamburg-einkommen-entlastung",
+      "published_date": "2026-07-09T13:30:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German coalition agrees on sweeping reform package",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-coalition-agrees-on-sweeping-reform-package/a-77805373?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-02T16:17:00+00:00",
-      "category": "Economy"
+      "title": "Germany set to make rental e-scooter operators liable for accidents",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/germany-set-to-make-rental-e-scooter-operators-liable-for-accidents",
+      "published_date": "2026-07-09T13:06:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German coalition agrees on sweeping reform package",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-coalition-agrees-on-sweeping-reform-package/a-77805373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-02T16:17:00+00:00",
-      "category": "Economy"
+      "title": "Polizeihund in Hamburg: Dann biss Haix zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-07/polizeihund-hamburg-diensthundefuehrerin-biss-prozess",
+      "published_date": "2026-07-09T13:02:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German coalition agrees on changes to pensions, tax rates",
+      "title": "Landtagswahl in Sachsen-Anhalt: Was bedeutet eigentlich die Einstufung als »gesichert rechtsextrem«?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/afd-sachsen-anhalt-gesichert-rechtsextrem-verfassungsschutz-gefahr-menschenwuerde",
+      "published_date": "2026-07-09T12:59:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China: 'Heavy human losses' expected in shoe factory fire",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-coalition-agrees-on-changes-to-pensions-tax-rates/a-77805373?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-02T16:17:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/china-heavy-human-losses-expected-in-shoe-factory-fire/a-77887918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T12:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Korea's top court upholds ex-president Yoon's 7-year sentence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-korea-s-top-court-upholds-ex-president-yoon-s-7-year-sentence/a-77883414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-09T06:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Populism unites Le Pen and Farage. But she is a step closer to power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/populism-unites-le-pen-and-farage-but-she-is-a-step-closer-to-power",
+      "published_date": "2026-07-09T04:00:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Marine Le Pen ‘wants to talk politics’, but can she drown out the legal noise?",
@@ -652,55 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/palliativarzt-berlin-mord-prozess-urteil",
       "published_date": "2026-07-08T12:05:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Through the teargas, I saw something missing from German politics for too long: hope | Scott Roxborough",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/german-politics-alternative-fur-deutschland-blockade-far-right",
-      "published_date": "2026-07-08T11:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Doctor sentenced to life over patient murders",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-doctor-sentenced-to-life-over-patient-murders/live-77870812?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T09:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Doctor sentenced to life over patient murders",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-doctor-sentenced-to-life-over-patient-murders/live-77870812?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-08T09:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asylum seeker in UK as part of ‘one in, one out’ scheme says it is unfair on those deported",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/08/asylum-seeker-in-uk-says-one-in-one-out-scheme-unfair",
-      "published_date": "2026-07-08T05:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sachsen-Anhalt: Schulze will bei Linken und AfD nicht um Stimmen bitten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/08/schulze-will-bei-linken-und-afd-nicht-um-stimmen-bitten",
-      "published_date": "2026-07-07T22:13:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Marine Le Pen says she will run for president in 2027 – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/07/french-far-right-leader-marine-le-pen-says-she-will-run-for-president-in-2027-video",
-      "published_date": "2026-07-07T19:57:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYC high-rise's possible collapse prompts evacuations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T19:36:00+00:00",
       "category": "Local Events"
     }
   ]
