@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-09T23:58:39.187186+00:00",
+  "last_updated": "2026-07-10T13:07:23.026562+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Abstimmung im Bundestag: Krankenkassenreform beschlossen, Ampel-Heizungsgesetz gekippt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/reformen-gesetzliche-krankenversicherung-heizungsgesetz-bundestag-live",
+      "published_date": "2026-07-10T13:01:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj, Rutte und Merz reisen zu Ukraine-Koalitionstreffen in Paris",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-07-10T12:45:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gebäudemodernisierungsgesetz: Bundestag beschließt neues Heizungsgesetz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/bundestag-beschliesst-neues-heizungsgesetz",
+      "published_date": "2026-07-10T12:29:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "published_date": "2026-07-10T11:38:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Once again Trump brought his wrecking ball to the Nato summit, and once again the alliance survived. But for how long? | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/trump-wrecking-ball-nato-summit-alliance-survived",
+      "published_date": "2026-07-10T10:51:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Bundestag passes controversial healthcare reform",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bafög reform: Germany agrees aid increase for students – but not until summer 2027",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260710/bafog-reform-germany-agrees-aid-increase-for-students-but-not-until-summer-2027",
+      "published_date": "2026-07-10T08:30:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Prime Minister Modi embarks on maiden trip to New Zealand",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-prime-minister-modi-embarks-on-maiden-trip-to-new-zealand/live-77899386?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T06:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260710/today-in-germany-a-roundup-of-the-latest-news-on-friday-130",
+      "published_date": "2026-07-10T06:31:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Finanzhilfe der Bundesregierung: Bundestag beschließt Gesetz zur Entlastung von Ländern und Kommunen",
       "source": "ZEIT Online",
@@ -81,67 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nato-Gipfel in Ankara: Erdoğan schenkt Staats- und Regierungschefs Revolver",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/recep-tayyip-erdogan-geschenk-pistolen-kehr-starmer-friedrich-merz-nato-gipfel",
-      "published_date": "2026-07-08T23:31:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
-      "published_date": "2026-07-08T22:49:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit",
-      "published_date": "2026-07-08T19:00:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe's EES border checks won't be suspended, EU insists",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260708/europes-ees-border-checks-wont-be-suspended-eu-insists",
-      "published_date": "2026-07-08T12:42:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bündnis in der Krise: Trump sucht beim Nato-Gipfel die Konfrontation",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/08/daenemark-an-trump-groenland-steht-nicht-zum-verkauf",
-      "published_date": "2026-07-08T12:02:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato-Gipfel: Mark Rutte kontert Trump-Kritik im direkten Schlagabtausch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/url-nato-gipfel-ankara-ukraine-donald-trump-live",
-      "published_date": "2026-07-08T11:48:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Port of Dover faces ‘utter chaos’ under struggling EU entry system, MPs warn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/08/port-of-dover-faces-utter-chaos-under-struggling-eu-entry-system-mps-warn",
-      "published_date": "2026-07-08T09:00:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: US charges Lawrence Bishnoi in Sikh separatist killing",
+      "title": "Iran war: Former supreme leader buried amid new escalation",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-us-charges-lawrence-bishnoi-in-sikh-separatist-killing/live-77870143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T07:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T06:44:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260708/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-128",
-      "published_date": "2026-07-08T06:33:49+00:00",
-      "category": "Diplomacy"
+      "title": "US private equity firm Apollo enters bidding war for easyJet with £5.7bn offer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet",
+      "published_date": "2026-07-10T06:38:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain battles deadly wildfire amid heat wave",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-battles-deadly-wildfire-amid-heat-wave/a-77898335?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T02:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Bombenexplosionen in Damaskus: Syrien meldet Festnahmen nach Anschlägen während Macron-Besuchs",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Renewed US-Iran war would hit Gulf countries hard",
+      "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/renewed-us-iran-war-would-hit-gulf-countries-hard/a-77876781?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T14:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump makes fresh Greenland demand and threatens trade with Spain at Nato meeting – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
-      "published_date": "2026-07-08T11:59:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump says ceasefire 'over' after fresh strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T02:56:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T09:09:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Google, Amazon emissions rise sharply, driven by AI boom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/google-amazon-emissions-rise-sharply-driven-by-ai-boom/a-77821598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T13:52:00+00:00",
-      "category": "Energy"
+      "title": "Volkswagen sales slide further as German carmaker weighs mass job cuts",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260710/volkswagen-sales-slide-further-as-german-carmaker-weighs-mass-job-cuts",
+      "published_date": "2026-07-10T12:48:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French billionaire becomes Vodafone’s largest shareholder with £4.4bn stake",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/10/french-billionaire-becomes-vodafone-largest-shareholder-xavier-niel",
+      "published_date": "2026-07-10T11:05:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Are German companies leaving the country?",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Fluggesellschaft: EasyJet stimmt Übernahmeangebot von US-Investor grundsätzlich zu",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/easyjet-castlelake-uebernahme-airline-peter-bellew",
-      "published_date": "2026-07-05T23:35:32+00:00",
-      "category": "Economy"
+      "title": "Ryanair passenger almost sucked out of shattered window during flight",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight",
+      "published_date": "2026-07-10T12:54:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cargo ship reportedly attacked in Red Sea off Yemen",
+      "title": "Everything you need to know if you want to join a protest in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260710/everything-you-need-to-know-if-you-want-to-join-a-protest-in-germany",
+      "published_date": "2026-07-10T12:52:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beatles mentor Lord Woodbine to feature in new BBC drama",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jul/10/lord-woodbine-beatles-bbc-drama-harold-phillips",
+      "published_date": "2026-07-10T06:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Police attempt to remove loyalist bonfire 'hate display'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/a-77838529?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T14:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/uk-police-attempt-to-remove-loyalist-bonfire-hate-display/a-77898043?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T01:05:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Landtagswahlen: Industrieverband: Regierungsbeteiligung der AfD wäre «fatal»",
@@ -673,34 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
       "published_date": "2026-07-08T17:22:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: No, Iran did not strike a secret US Gulf base",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-no-iran-did-not-strike-a-secret-us-gulf-base/a-77876290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T16:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US birthright citizenship ruling eases fears among Indians",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-birthright-citizenship-ruling-eases-fears-among-indians/a-77879632?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T15:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's far right set to improve ties with Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-far-right-set-to-improve-ties-with-germany/a-77865608?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-08T13:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's far right set to improve ties with Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-far-right-set-to-improve-ties-with-germany/a-77865608?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T13:03:00+00:00",
       "category": "Local Events"
     }
   ]
