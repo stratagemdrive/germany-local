@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-10T13:07:23.026562+00:00",
+  "last_updated": "2026-07-10T23:51:16.836174+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU threatens Meta with hefty fine over 'addictive design'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T19:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Bundestag passes controversial healthcare reform",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-10T19:17:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Abstimmung im Bundestag: Krankenkassenreform beschlossen, Ampel-Heizungsgesetz gekippt",
       "source": "ZEIT Online",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: June heat wave linked to 5,000 excess deaths",
+      "title": "Trump signals support for Patriot production in Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-june-heat-wave-linked-to-5-000-excess-deaths/a-77885295?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-09T09:10:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T16:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: June heat wave linked to 5,000 excess deaths",
+      "title": "Trump signals support for Patriot production in Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-june-heat-wave-linked-to-5-000-excess-deaths/a-77885295?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T09:10:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-10T16:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's Bidnyi 'outraged' by Russia's Olympic return",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-bidnyi-outraged-by-russia-s-olympic-return/a-77903308?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T15:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: Former supreme leader buried amid new escalation",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Pierpaolo Piccioli’s couture debut reimagines Balenciaga in his own colourful image",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/jul/08/pierpaolo-picciolis-couture-debut-reimagines-balenciaga-in-his-own-colourful-image",
-      "published_date": "2026-07-08T17:50:37+00:00",
-      "category": "Military"
+      "title": "Cuba suffers second nationwide blackout in five days",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T23:27:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
+      "title": "‘The worst possible combination’: what has caused Spain’s deadly wildfires?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
-      "published_date": "2026-07-08T17:05:46+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis",
+      "published_date": "2026-07-10T16:20:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump gives Zelenskyy vague promise of licence to manufacture Patriot missiles",
+      "title": "‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/trump-zelenskyy-vague-promise-licence-manufacture-patriot-missiles",
-      "published_date": "2026-07-08T16:30:35+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/10/i-had-an-incredible-escape-british-woman-tells-of-close-encounter-with-spanish-wildfire",
+      "published_date": "2026-07-10T14:25:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "NASA launches spacecraft to recover sinking telescope",
+      "title": "Apple sues OpenAI over stealing 'trade secrets'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T19:59:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T21:09:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Free electricity in Australia, and the week's other eco wins",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/free-electricity-in-australia-and-the-week-s-other-eco-wins/a-77824448?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-03T14:41:00+00:00",
-      "category": "Energy"
+      "title": "Germany's health insurance austerity package becomes law",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260710/germanys-health-insurance-austerity-package-becomes-law",
+      "published_date": "2026-07-10T14:36:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Free electricity in Australia, and the week's other eco wins",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/free-electricity-in-australia-and-the-week-s-other-eco-wins/a-77824448?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-03T14:41:00+00:00",
-      "category": "Energy"
+      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
+      "published_date": "2026-07-10T14:27:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen sales slide further as German carmaker weighs mass job cuts",
@@ -543,25 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260707/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-131",
-      "published_date": "2026-07-07T06:42:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Together in prosaic dreams: anthology reveals Europeans’ anticlimactic subconscious",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/prosaic-dreams-anthology-europe-wolfram-lotz",
-      "published_date": "2026-07-07T04:00:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard",
+      "title": "Nigerian military rescues 46 abducted school children",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/microsoft-to-cut-thousands-of-jobs-xbox-to-be-hit-hard/a-77857704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T23:35:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T20:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CDU Berlin: Berliner Finanzsenator Evers soll CDU-Spitzenkandidat in Berlin werden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/stefan-evers-cdu-berlin-abgeordnetenhauswahl",
+      "published_date": "2026-07-10T19:40:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor of Berlin says he won't run for reelection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-10T18:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor of Berlin says he won't run for reelection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T18:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK police arrest murder suspect in Ann Widdecombe's death",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-10T17:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK police arrest murder suspect in Ann Widdecombe's death",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-10T17:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High court rejects most of ‘dieselgate’ claims brought by 1.6m UK car owners",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/10/high-court-rejects-most-of-dieselgate-claims-brought-by-16m-uk-car-owners",
+      "published_date": "2026-07-10T16:54:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin’s mayor abandons reelection campaign after ‘tennis-gate’ outcry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/berlin-mayor-abandons-reelection-campaign-after-tennis-gate-outcry",
+      "published_date": "2026-07-10T16:10:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mahmood’s cutting of protections for UK-France ‘one in, one out’ asylum deal ruled unlawful",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
+      "published_date": "2026-07-10T14:20:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ryanair passenger almost sucked out of shattered window during flight",
@@ -638,69 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-06/afd-sachsen-anhalt-gesichert-rechtsextrem-verfassungsschutz-gefahr-menschenwuerde",
       "published_date": "2026-07-09T12:59:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China: 'Heavy human losses' expected in shoe factory fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-heavy-human-losses-expected-in-shoe-factory-fire/a-77887918?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T12:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China: Dozens killed in shoe factory fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-dozens-killed-in-shoe-factory-fire/a-77887918?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T12:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea's top court upholds ex-president Yoon's 7-year sentence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-s-top-court-upholds-ex-president-yoon-s-7-year-sentence/a-77883414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T06:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Populism unites Le Pen and Farage. But she is a step closer to power",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/populism-unites-le-pen-and-farage-but-she-is-a-step-closer-to-power",
-      "published_date": "2026-07-09T04:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen ‘wants to talk politics’, but can she drown out the legal noise?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-french-presidential-campaign-elections-embezzlement",
-      "published_date": "2026-07-08T18:40:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "East German doping victims still lack adequate support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/east-german-doping-victims-still-lack-adequate-support/a-77880575?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-08T18:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "East German doping victims still lack adequate support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/east-german-doping-victims-still-lack-adequate-support/a-77880575?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T18:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Marine Le Pen’s candidacy: a dangerous gamble | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/the-guardian-view-on-marine-le-pen-candidacy-a-dangerous-gamble",
-      "published_date": "2026-07-08T17:30:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-      "published_date": "2026-07-08T17:22:01+00:00",
       "category": "Local Events"
     }
   ]
