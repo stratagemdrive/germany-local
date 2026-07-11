@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-11T11:47:38.240411+00:00",
+  "last_updated": "2026-07-11T23:44:36.724376+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Vietnam: Indian tourists killed in boat capsize",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T13:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T11:49:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU threatens Meta with hefty fine over 'addictive design'",
       "source": "Deutsche Welle",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU set to delay roll out of €20 ETIAS travel authorisation scheme until 2027",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260709/eu-set-to-delay-roll-out-of-e20-etias-travel-authorisation-scheme-until-2027",
-      "published_date": "2026-07-09T09:25:53+00:00",
-      "category": "Diplomacy"
+      "title": "Iran announces closure Strait of Hormuz until further notice",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-announces-closure-strait-of-hormuz-until-further-notice/live-77920097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T22:48:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘A lot of art in Ireland was made by one type of man’: Richard Malone on taking his colourful fabric creations to the EU Council",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/09/richard-malone-ireland-eu-presidency-council",
-      "published_date": "2026-07-09T09:15:48+00:00",
-      "category": "Diplomacy"
+      "title": "Air Force One: US-Justiz lädt Journalisten der »New York Times« vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/new-york-times-donald-trump-vorladungen-journalisten",
+      "published_date": "2026-07-11T21:13:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
@@ -267,20 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
       "published_date": "2026-07-09T13:29:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Leichtathletik: Russland zieht wegen Sperre im Leichtathletik vor Sportgerichtshof Cas",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-07/ausschluss-russische-athleten-world-athletics-cas",
-      "published_date": "2026-07-09T13:26:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump calls second set of US strikes 'retribution'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-calls-second-set-of-us-strikes-retribution/live-77882459?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T11:54:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "VW-Konzern: Volkswagen-Chef Blume prüft Alternativen zu Werksschließungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/vw-oliver-blume-werkschliessungen-sparprogramm-jobabbau",
+      "published_date": "2026-07-11T22:37:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Belgium to introduce road tax for transiting drivers",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260711/belgium-to-introduce-road-tax-for-transiting-drivers",
+      "published_date": "2026-07-11T08:21:29+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Ryanair has axed its family seating policy – but kids’ fees still add up",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/travel/2026/jul/11/ryanair-family-seating-policy-kids-fees-airfare-flight-airline-charges",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "How Volkswagen's huge workforce became a liability",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T08:21:00+00:00",
-      "category": "Economy"
+      "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
+      "published_date": "2026-07-11T16:04:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Volkswagen's huge workforce became a costly burden",
+      "title": "Germany: Left-wing group says it is behind railway sabotage",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T08:21:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-11T13:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Left-wing group says it is behind railway sabotage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T13:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Böschungsbrand an Bahnstrecke: Bekennerschreiben nach Brand zwischen Düsseldorf und Köln aufgetaucht",
@@ -592,6 +613,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Berlin mayor abandons re-election bid after power-cut controversy",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260711/berlin-mayor-abandons-re-election-bid-after-power-cut-controversy",
+      "published_date": "2026-07-11T09:50:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
@@ -617,6 +645,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-11T07:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Third summer heat wave looms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-11T07:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: Missiles, 'hard-man' government reforms and dads doing hair in Munich",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260711/inside-germany-missiles-hard-man-government-reforms-and-dads-doing-hair-in-munich",
+      "published_date": "2026-07-11T07:22:10+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-10T18:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor of Berlin says he won't run for reelection",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T18:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police arrest murder suspect in Ann Widdecombe's death",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T17:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police arrest murder suspect in Ann Widdecombe's death",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-10T17:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High court rejects most of ‘dieselgate’ claims brought by 1.6m UK car owners",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/high-court-rejects-most-of-dieselgate-claims-brought-by-16m-uk-car-owners",
-      "published_date": "2026-07-10T16:54:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin’s mayor abandons reelection campaign after ‘tennis-gate’ outcry",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/berlin-mayor-abandons-reelection-campaign-after-tennis-gate-outcry",
-      "published_date": "2026-07-10T16:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahmood’s cutting of protections for UK-France ‘one in, one out’ asylum deal ruled unlawful",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
-      "published_date": "2026-07-10T14:20:18+00:00",
       "category": "Local Events"
     }
   ]
