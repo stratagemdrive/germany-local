@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-10T23:51:16.836174+00:00",
+  "last_updated": "2026-07-11T11:47:38.240411+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france",
+      "published_date": "2026-07-11T09:00:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T05:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-11T05:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy creates ‘long-range impact’ command to strike Russian energy sector",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/ukraine-war-briefing-zelenskyy-long-range-impact-command-russian-energy-strikes",
+      "published_date": "2026-07-11T03:02:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump signals support for Patriot production in Ukraine",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-rdf",
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-trump-calls-second-set-of-us-strikes-retribution/live-77882459?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-09T11:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3#ref=rss",
-      "published_date": "2026-07-09T10:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: Modi clinches uranium supply deal with Australia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-modi-clinches-uranium-supply-deal-with-australia/live-77883412?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T07:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Migrationspolitik: Sohn des von ICE Getöteten: Vater war kein Krimineller",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/09/sohn-des-von-ice-getoeteten-vater-war-kein-krimineller",
-      "published_date": "2026-07-08T23:16:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US launches second wave of strikes in 24 hours",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-launches-second-wave-of-strikes-in-24-hours/live-77882459?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-08T20:52:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Ryanair has axed its family seating policy – but kids’ fees still add up",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/jul/11/ryanair-family-seating-policy-kids-fees-airfare-flight-airline-charges",
+      "published_date": "2026-07-11T05:00:41+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Apple sues OpenAI over stealing 'trade secrets'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
@@ -557,11 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Big defence spending and new taxes: German cabinet approves budget",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260707/big-defence-spending-and-new-taxes-german-cabinet-approves-budget",
-      "published_date": "2026-07-07T07:54:02+00:00",
-      "category": "Economy"
+      "title": "Böschungsbrand an Bahnstrecke: Bekennerschreiben nach Brand zwischen Düsseldorf und Köln aufgetaucht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-07/boeschungsbrand-bahnstrecke-koeln-duesseldorf-deutsche-bahn",
+      "published_date": "2026-07-11T11:22:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Parteitag in Sachsen-Anhalt: AfD-Spitzenkandidat Siegmund wirft anderen Parteien »Fake News« vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-martin-reichardt-sven-schulze-cdu-linke-sachsen-anhalt",
+      "published_date": "2026-07-11T11:13:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Züge fahren wieder: Bahnstrecke Hamburg-Hannover ist wieder frei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/11/bahnstrecke-hamburg-hannover-ist-wieder-frei",
+      "published_date": "2026-07-11T11:09:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anton Segner: Dieser Deutsche hat Sportgeschichte geschrieben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-07/anton-segner-rugby-all-blacks-neuseeland-nationalmannschaft",
+      "published_date": "2026-07-11T10:47:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
+      "published_date": "2026-07-11T08:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-11T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Third summer heat wave looms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T07:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Panino police: packed lunch bans enrage Italians at pricey beach clubs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/ban-on-packed-lunches-at-italian-beach-enrages-customers",
+      "published_date": "2026-07-11T06:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haaland’s hometown hails ‘little boy who grew into a huge Viking’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
+      "published_date": "2026-07-11T04:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Trump looked to bypass federal election agency before firings, says report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T03:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nigerian military rescues 46 abducted school children",
@@ -624,83 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
       "published_date": "2026-07-10T14:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ryanair passenger almost sucked out of shattered window during flight",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight",
-      "published_date": "2026-07-10T12:54:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everything you need to know if you want to join a protest in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260710/everything-you-need-to-know-if-you-want-to-join-a-protest-in-germany",
-      "published_date": "2026-07-10T12:52:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beatles mentor Lord Woodbine to feature in new BBC drama",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/10/lord-woodbine-beatles-bbc-drama-harold-phillips",
-      "published_date": "2026-07-10T06:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Police attempt to remove loyalist bonfire 'hate display'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-police-attempt-to-remove-loyalist-bonfire-hate-display/a-77898043?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T01:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahlen: Industrieverband: Regierungsbeteiligung der AfD wäre «fatal»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/10/industrieverband-regierungsbeteiligung-der-afd-waere-fatal",
-      "published_date": "2026-07-09T22:24:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence on trains in Germany is on the rise",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/violence-on-trains-in-germany-is-on-the-rise/a-77892064?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-09T14:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence on trains in Germany is on the rise",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/violence-on-trains-in-germany-is-on-the-rise/a-77892064?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T14:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kitagebühren: Zumindest ein bisschen Umverteilung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-07/kita-gebuehren-erhoehung-hamburg-einkommen-entlastung",
-      "published_date": "2026-07-09T13:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany set to make rental e-scooter operators liable for accidents",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/germany-set-to-make-rental-e-scooter-operators-liable-for-accidents",
-      "published_date": "2026-07-09T13:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polizeihund in Hamburg: Dann biss Haix zu",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-07/polizeihund-hamburg-diensthundefuehrerin-biss-prozess",
-      "published_date": "2026-07-09T13:02:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Was bedeutet eigentlich die Einstufung als »gesichert rechtsextrem«?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/afd-sachsen-anhalt-gesichert-rechtsextrem-verfassungsschutz-gefahr-menschenwuerde",
-      "published_date": "2026-07-09T12:59:24+00:00",
       "category": "Local Events"
     }
   ]
