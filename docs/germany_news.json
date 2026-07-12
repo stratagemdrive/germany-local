@@ -1,12 +1,19 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-11T23:44:36.724376+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-12T11:53:44.208430+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "Vietnam: Indian tourists killed in boat capsize",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T13:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indian tourists killed when boat capsizes in Vietnam",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-11T13:49:00+00:00",
       "category": "Diplomacy"
     },
@@ -137,16 +144,58 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
+      "title": "US: Reporters subpoenaed over Air Force One stories",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T09:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-reporters-subpoenaed-over-air-force-one-stories/a-77921290?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T07:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Senator Lindsey Graham dies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T06:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "To make wine is to believe in the future: the Ukrainians growing grapes on the frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainians-winemakers-russian-invasion-frontline",
+      "published_date": "2026-07-12T06:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T05:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-12T05:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy decries housing of weapons in civilian area after Russian strike kills 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/ukraine-war-briefing-zelenskyy-decries-housing-of-weapons-in-civilian-area-kyiv-russian-strike-deaths",
+      "published_date": "2026-07-12T02:13:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran announces closure Strait of Hormuz until further notice",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-announces-closure-strait-of-hormuz-until-further-notice/live-77920097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T22:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran closes Strait of Hormuz, US launches fresh strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-11T22:48:00+00:00",
       "category": "Military"
     },
@@ -232,55 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-07/bombenexplosionen-damaskus-emmanuel-macron-syrien-anas-chattab",
       "published_date": "2026-07-09T23:20:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali rebels attack convoy of soldiers, Russian mercenaries",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mali-rebels-attack-convoy-of-soldiers-russian-mercenaries/a-77895811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T18:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Daphne Caruana Galizia screamed in panic before explosion that killed her, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/daphne-caruana-galizia-explosion-killed-her-witness-court",
-      "published_date": "2026-07-09T18:03:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine denies involvement in Nord Stream blasts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-denies-involvement-in-nord-stream-blasts/a-77894652?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-09T15:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine denies involvement in Nord Stream blasts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-denies-involvement-in-nord-stream-blasts/a-77894652?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T15:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria regains voting rights at world chemical weapons watchdog",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-regains-voting-rights-at-world-chemical-weapons-watchdog/a-77891618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T14:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Congo: UN laments uptick in fighting in South Kivu",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/congo-un-laments-uptick-in-fighting-in-south-kivu/a-77887082?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-09T13:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
-      "published_date": "2026-07-09T13:29:30+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,25 @@
       "category": "Energy"
     },
     {
-      "title": "Why US train travel lags behind Asia and Europe",
+      "title": "Germany's Ruhr Valley is on brink of financial collapse",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-us-train-travel-lags-behind-asia-and-europe/a-77430370?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-05T10:43:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-s-ruhr-valley-is-on-brink-of-financial-collapse/a-77905338?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-12T10:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's Ruhr Valley is on brink of financial collapse",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-ruhr-valley-is-on-brink-of-financial-collapse/a-77905338?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T10:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+      "published_date": "2026-07-12T05:00:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "VW-Konzern: Volkswagen-Chef Blume prüft Alternativen zu Werksschließungen",
@@ -543,25 +557,46 @@
       "category": "Economy"
     },
     {
-      "title": "Germany: Record debt and a seismic policy shift",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-record-debt-and-a-seismic-policy-shift/a-77861879?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-07T10:24:00+00:00",
-      "category": "Economy"
+      "title": "Zwischen Düsseldorf und Köln: Nach Anschlag auf Bahnstrecke führt Spur zu «Angry Birds»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/11/bahnstrecke-duesseldorf-koeln-gesperrt-reparatur-dauert-an",
+      "published_date": "2026-07-12T11:44:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany: Record debt and a seismic policy shift",
+      "title": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-record-debt-and-a-seismic-policy-shift/a-77861879?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T10:24:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/qatar-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/a-77922794?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T09:18:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How Volkswagen's huge workforce became a liability",
+      "title": "How a Jewish heir is taking on Germany's far-right AfD",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-07T08:21:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/how-a-jewish-heir-is-taking-on-germany-s-far-right-afd/a-77910312?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-12T09:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a Jewish heir is taking on Germany's far-right AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-a-jewish-heir-is-taking-on-germany-s-far-right-afd/a-77910312?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T09:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German far-right unveils anti-migrant policies for state government",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260712/german-far-right-unveils-anti-migrant-policies-for-state-government",
+      "published_date": "2026-07-12T07:53:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two people killed and several wounded in mass shooting at Toronto festival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/two-people-killed-and-several-wounded-in-mass-shooting-at-toronto-festival/a-77920249?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T01:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
@@ -659,48 +694,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260711/inside-germany-missiles-hard-man-government-reforms-and-dads-doing-hair-in-munich",
       "published_date": "2026-07-11T07:22:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Panino police: packed lunch bans enrage Italians at pricey beach clubs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/11/ban-on-packed-lunches-at-italian-beach-enrages-customers",
-      "published_date": "2026-07-11T06:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haaland’s hometown hails ‘little boy who grew into a huge Viking’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
-      "published_date": "2026-07-11T04:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Trump looked to bypass federal election agency before firings, says report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T03:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian military rescues 46 abducted school children",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T20:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU Berlin: Berliner Finanzsenator Evers soll CDU-Spitzenkandidat in Berlin werden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/stefan-evers-cdu-berlin-abgeordnetenhauswahl",
-      "published_date": "2026-07-10T19:40:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor of Berlin says he won't run for reelection",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-10T18:21:00+00:00",
       "category": "Local Events"
     }
   ]
