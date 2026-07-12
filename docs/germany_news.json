@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-12T11:53:44.208430+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-12T23:43:42.251917+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Sanktionen gegen Israel: Deutschland soll laut SPD-Politiker Sanktionen gegen Israel zulassen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/sanktionen-israel-eu-adis-ahmetovic-westjordanland",
+      "published_date": "2026-07-12T22:10:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and UK to increase staffing at border controls in effort to avert travel chaos",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
+      "published_date": "2026-07-12T13:33:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU defense remains heavily reliant on the United States",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-defense-remains-heavily-reliant-on-the-united-states/a-77917972?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T12:37:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vietnam: Indian tourists killed in boat capsize",
       "source": "Deutsche Welle",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kindergeld: Bundestag macht Weg für antragsloses Kindergeld frei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/kindergeld-reform-gesetz-antrag-automatisch-bundestag",
-      "published_date": "2026-07-09T13:25:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU’s ‘unpleasant and dangerous’ border checks need overhaul, says Greek airports boss",
+      "title": "Lindsey Graham tributes from Israel and Ukraine point to complicated, often bloody legacy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/09/eu-unpleasant-and-dangerous-border-checks-need-overhaul-says-greek-airports-boss",
-      "published_date": "2026-07-09T11:02:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy",
+      "published_date": "2026-07-12T22:36:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
+      "title": "Iran war: US carries out fresh strikes near Strait of Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-09T09:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-near-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T22:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France opens terror probe after gun found in Jewish suburb",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T19:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France opens terror probe after gun found in Jewish suburb",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-12T19:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T17:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-12T17:03:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US: Reporters subpoenaed over Air Force One stories",
@@ -200,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran war: US claims Strait of Hormuz is 'open' amid strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-claims-strait-of-hormuz-is-open-amid-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-11T22:48:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Air Force One: US-Justiz lädt Journalisten der »New York Times« vor",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-07/new-york-times-donald-trump-vorladungen-journalisten",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Trump signals support for Patriot production in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T16:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump signals support for Patriot production in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-10T16:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Bidnyi 'outraged' by Russia's Olympic return",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-bidnyi-outraged-by-russia-s-olympic-return/a-77903308?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T15:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Former supreme leader buried amid new escalation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T06:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US private equity firm Apollo enters bidding war for easyJet with £5.7bn offer",
+      "title": "Ukrainian drone strikes force Russia to suspend shipping in Sea of Azov",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet",
-      "published_date": "2026-07-10T06:38:59+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov",
+      "published_date": "2026-07-12T14:19:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Spain battles deadly wildfire amid heat wave",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-battles-deadly-wildfire-amid-heat-wave/a-77898335?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T02:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bombenexplosionen in Damaskus: Syrien meldet Festnahmen nach Anschlägen während Macron-Besuchs",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/bombenexplosionen-damaskus-emmanuel-macron-syrien-anas-chattab",
-      "published_date": "2026-07-09T23:20:24+00:00",
-      "category": "Military"
+      "title": "Why is there no rugby culture in Germany?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/12/why-is-there-no-rugby-culture-in-germany",
+      "published_date": "2026-07-12T13:00:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba suffers second nationwide blackout in five days",
@@ -410,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Why heat waves heighten the risk of blackouts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-heat-waves-heighten-the-risk-of-blackouts/a-77824609?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-06T07:43:00+00:00",
-      "category": "Energy"
+      "title": "Tabaksteuer: Tabaksteuer soll stärker erhöht werden als geplant",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/tabaksteuer-erhoehung-zigarettenpreis-feinschnitt-bund",
+      "published_date": "2026-07-12T22:30:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Britain’s cars and SUVs are growing bigger – but there is a way to stop this deadly ‘carspreading’  | Christian Wolmar",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/britain-car-suv-big-large-vehicle-road-pedestrians",
+      "published_date": "2026-07-12T15:30:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany's Ruhr Valley is on brink of financial collapse",
@@ -543,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "EasyJet’s board has surrendered too easily to US bidder | Nils Pratley",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/07/easyjets-board-has-surrendered-too-easily-to-us-bidder",
-      "published_date": "2026-07-07T17:10:56+00:00",
-      "category": "Economy"
+      "title": "Thailand: Bangkok bar fire leaves dozens dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T22:03:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany cuts development aid for the fifth time since 2023",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260707/germany-cuts-development-aid-for-the-fifth-time-since-2023",
-      "published_date": "2026-07-07T12:27:34+00:00",
-      "category": "Economy"
+      "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T21:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
+      "published_date": "2026-07-12T20:30:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Zwischen Düsseldorf und Köln: Nach Anschlag auf Bahnstrecke führt Spur zu «Angry Birds»",
@@ -673,27 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-11T07:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Third summer heat wave looms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T07:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Third summer heat wave looms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-11T07:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Missiles, 'hard-man' government reforms and dads doing hair in Munich",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260711/inside-germany-missiles-hard-man-government-reforms-and-dads-doing-hair-in-munich",
-      "published_date": "2026-07-11T07:22:10+00:00",
       "category": "Local Events"
     }
   ]
