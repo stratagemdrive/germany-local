@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-13T13:14:45.792363+00:00",
+  "last_updated": "2026-07-13T23:44:06.530946+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Solarenergie in der EU: Neuer Solarstromrekord in Deutschland im Mai und Juni",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/solarenergie-eu-strom-quellen-rekord",
+      "published_date": "2026-07-13T23:22:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gaza Strip: EU conference pledges €900m in donations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gaza-strip-eu-conference-pledges-€900m-in-donations/a-77940038?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T16:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany set to curb its Freedom of Information Act",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-set-to-curb-its-freedom-of-information-act/a-77939695?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-13T15:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany set to curb its Freedom of Information Act",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-set-to-curb-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T15:23:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Internet: Social Media: EU-Experten für Zugangsbeschränkung bis 13",
       "source": "ZEIT Online",
@@ -50,6 +78,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-07-13T10:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz calls for monetary policy dialogue with China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-calls-for-monetary-policy-dialogue-with-china/live-77932396?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-13T10:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz calls for monetary policy dialogue with China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-calls-for-monetary-policy-dialogue-with-china/live-77932396?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T10:26:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU defense remains heavily reliant on the United States",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-defense-remains-heavily-reliant-on-the-united-states/a-77917972?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T12:37:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: Ukraine meldet erneut Angriffe auf Kyjiw",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-07-13T23:37:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Vietnam: Indian tourists killed in boat capsize",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T13:49:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
+      "published_date": "2026-07-13T18:45:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Indian tourists killed when boat capsizes in Vietnam",
+      "title": "Iran war: Trump reinstates US blockade of Strait of Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T13:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T11:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU threatens Meta with hefty fine over 'addictive design'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T19:26:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Bundestag passes controversial healthcare reform",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-10T19:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-reinstates-us-blockade-of-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T15:20:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Stefan Marzischewski-Drewes: Früherer Vorsitzender muss niedersächsische AfD-Fraktion verlassen",
@@ -162,6 +183,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-13T12:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: Living in limbo between war and ceasefire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T12:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, 9 countries form ballistic missile defense coalition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-9-countries-form-ballistic-missile-defense-coalition/live-77927840?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T08:28:00+00:00",
       "category": "Military"
     },
     {
@@ -246,41 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-12T05:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-12T05:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy decries housing of weapons in civilian area after Russian strike kills 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/ukraine-war-briefing-zelenskyy-decries-housing-of-weapons-in-civilian-area-kyiv-russian-strike-deaths",
-      "published_date": "2026-07-12T02:13:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran announces closure Strait of Hormuz until further notice",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-announces-closure-strait-of-hormuz-until-further-notice/live-77920097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T22:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz, US launches fresh strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T22:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US claims Strait of Hormuz is 'open' amid strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-claims-strait-of-hormuz-is-open-amid-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T22:48:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "The Guardian view on Volkswagen’s crisis: another wake-up call for Germany and the EU | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/13/the-guardian-view-on-volkswagens-crisis-another-wake-up-call-for-germany-and-the-eu",
+      "published_date": "2026-07-13T17:46:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Britons to use e-gates in Switzerland as Starmer seals £5.2bn trade deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/13/brits-e-gates-switzerland-keir-starmer-seals-trade-deal",
+      "published_date": "2026-07-13T14:00:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VW chief confirms plan to cut 50,000 jobs as board rejects plant closures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/13/vw-cut-jobs-board-rejects-plant-closures-staff-restructuring",
+      "published_date": "2026-07-13T13:42:21+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Kenya: What impact will Dangote's new refinery have on the region?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/kenya-what-impact-will-dangote-s-new-refinery-have-on-the-region/a-77927159?maca=en-rss-en-all-1573-rdf",
@@ -456,6 +477,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/tabaksteuer-erhoehung-zigarettenpreis-feinschnitt-bund",
       "published_date": "2026-07-12T22:30:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Are German companies leaving the country?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T16:46:00+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
-      "published_date": "2026-07-10T14:27:42+00:00",
-      "category": "Economy"
+      "title": "Eigenbeteiligung: Eigenanteil für Pflege im Heim in NRW weiter gestiegen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/14/eigenanteil-fuer-pflege-im-heim-in-nrw-weiter-gestiegen",
+      "published_date": "2026-07-13T22:01:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen sales slide further as German carmaker weighs mass job cuts",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260710/volkswagen-sales-slide-further-as-german-carmaker-weighs-mass-job-cuts",
-      "published_date": "2026-07-10T12:48:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French billionaire becomes Vodafone’s largest shareholder with £4.4bn stake",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/french-billionaire-becomes-vodafone-largest-shareholder-xavier-niel",
-      "published_date": "2026-07-10T11:05:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Are German companies leaving the country?",
+      "title": "Person killed in ICE-involved shooting in Maine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-09T09:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T18:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What the Berlin mayor's shock withdrawal means for the coming election",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260713/what-the-berlin-mayors-shock-withdrawal-means-for-the-coming-election",
+      "published_date": "2026-07-13T16:13:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wahlen in Deutschland  : Schaut auf Berlin!",
@@ -627,6 +648,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Venezuela: Almost 4,500 killed in quake, many more missing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/venezuela-almost-4-500-killed-in-quake-many-more-missing/a-77924690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T21:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
@@ -673,34 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/two-people-killed-and-several-wounded-in-mass-shooting-at-toronto-festival/a-77920249?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-12T01:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
-      "published_date": "2026-07-11T16:04:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Left-wing group says it is behind railway sabotage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-11T13:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Left-wing group says it is behind railway sabotage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-11T13:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Böschungsbrand an Bahnstrecke: Bekennerschreiben nach Brand zwischen Düsseldorf und Köln aufgetaucht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-07/boeschungsbrand-bahnstrecke-koeln-duesseldorf-deutsche-bahn",
-      "published_date": "2026-07-11T11:22:35+00:00",
       "category": "Local Events"
     }
   ]
