@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-13T23:44:06.530946+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-14T12:06:14.893350+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Baltikum: Estland meldet unangekündigte russische Schießübungen in Grenznähe",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/schiessuebung-russland-peipussee-estland-grenze",
+      "published_date": "2026-07-14T11:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Halbleiter: EU-Kommission erlaubt Deutschland Staatshilfen für Halbleiterindustrie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/eu-kommission-beihilfen-halbleiter-produktion-deutschland",
+      "published_date": "2026-07-14T10:58:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU population to peak in 2029 before long-term decline",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260714/eu-population-to-peak-in-2029-before-long-term-decline",
+      "published_date": "2026-07-14T10:57:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Solarenergie in der EU: Neuer Solarstromrekord in Deutschland im Mai und Juni",
       "source": "ZEIT Online",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU approves new passenger rights for air travel",
+      "title": "Ukraine targets another 11 Russian ships in Sea of Azov",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-approves-new-passenger-rights-for-air-travel/a-77927050?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-13T06:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-targets-another-11-russian-ships-in-sea-of-azov/a-77949717?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T11:18:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sanktionen gegen Israel: Deutschland soll laut SPD-Politiker Sanktionen gegen Israel zulassen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/sanktionen-israel-eu-adis-ahmetovic-westjordanland",
-      "published_date": "2026-07-12T22:10:06+00:00",
-      "category": "Diplomacy"
+      "title": "Bastille Day: France holds parade with Ukraine in focus",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T09:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and UK to increase staffing at border controls in effort to avert travel chaos",
+      "title": "Germany news: Military conscientious objections spike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T09:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polish-Ukrainian solidarity over Russian threat undermined by bitter historical dispute",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
-      "published_date": "2026-07-12T13:33:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/14/poland-ukraine-upa-second-world-war-massacre-dispute",
+      "published_date": "2026-07-14T08:19:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260714/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-132",
+      "published_date": "2026-07-14T06:31:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy seeks 300 Patriots to get through winter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter",
+      "published_date": "2026-07-14T01:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Strait of Hormuz tanker strikes raise tensions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-strait-of-hormuz-tanker-strikes-raise-tensions/live-77942892?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-13T23:57:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Ukraine meldet erneut Angriffe auf Kyjiw",
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-12T19:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France opens terror probe after gun found in Jewish suburb",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-12T19:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T17:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-12T17:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Reporters subpoenaed over Air Force One stories",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-reporters-subpoenaed-over-air-force-one-stories/a-77921290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T07:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Senator Lindsey Graham dies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T06:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "To make wine is to believe in the future: the Ukrainians growing grapes on the frontline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainians-winemakers-russian-invasion-frontline",
-      "published_date": "2026-07-12T06:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T05:03:00+00:00",
       "category": "Military"
     },
     {
@@ -417,13 +417,6 @@
       "category": "Energy"
     },
     {
-      "title": "LNG-Importe: Wie Katherina Reiche die Energiewende torpediert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/lng-importe-abkommen-kanada-energiewende-katherina-reiche",
-      "published_date": "2026-07-07T11:53:47+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "The Guardian view on Volkswagen’s crisis: another wake-up call for Germany and the EU | Editorial",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/13/the-guardian-view-on-volkswagens-crisis-another-wake-up-call-for-germany-and-the-eu",
@@ -483,6 +476,13 @@
       "title": "Are German companies leaving the country?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-12T16:46:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Are German companies leaving the country?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-12T16:46:00+00:00",
       "category": "Economy"
     },
@@ -557,11 +557,67 @@
       "category": "Economy"
     },
     {
-      "title": "Germany's health insurance austerity package becomes law",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260710/germanys-health-insurance-austerity-package-becomes-law",
-      "published_date": "2026-07-10T14:36:59+00:00",
-      "category": "Economy"
+      "title": "2. Fußball-Bundesliga: Dynamo Dresden baut Kader weiter um: Leihe von Neininger",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/14/dynamo-dresden-baut-kader-weiter-um-leihe-von-neininger",
+      "published_date": "2026-07-14T11:54:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France arrests arson suspects amid Fontainebleau forest fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T08:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France arrests arson suspects amid Fontainebleau forest fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-14T08:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Ahr Valley: Rebuilding better after deadly flood",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-ahr-valley-rebuilding-better-after-deadly-flood/a-77810916?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-14T07:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Ahr Valley: Rebuilding better after deadly flood",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-ahr-valley-rebuilding-better-after-deadly-flood/a-77810916?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T07:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Sonam Wangchuk's hunger strike tests Modi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T06:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll in Bangkok bar fire reaches 30",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T06:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden prides itself on equality – so why is its political gender gap growing?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/sweden-prides-itself-on-equality-so-why-is-its-political-gender-gap-growing",
+      "published_date": "2026-07-14T04:00:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘This process has turned into a form of torture’: inside the trial of Erdoğan’s challenger",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jul/14/this-process-has-turned-into-a-form-of-torture-inside-the-trial-of-erdogans-challenger",
+      "published_date": "2026-07-14T04:00:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Eigenbeteiligung: Eigenanteil für Pflege im Heim in NRW weiter gestiegen",
@@ -638,69 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-12T22:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T21:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela: Almost 4,500 killed in quake, many more missing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/venezuela-almost-4-500-killed-in-quake-many-more-missing/a-77924690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T21:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
-      "published_date": "2026-07-12T20:30:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zwischen Düsseldorf und Köln: Nach Anschlag auf Bahnstrecke führt Spur zu «Angry Birds»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/11/bahnstrecke-duesseldorf-koeln-gesperrt-reparatur-dauert-an",
-      "published_date": "2026-07-12T11:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/qatar-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/a-77922794?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T09:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a Jewish heir is taking on Germany's far-right AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-jewish-heir-is-taking-on-germany-s-far-right-afd/a-77910312?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-12T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a Jewish heir is taking on Germany's far-right AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-jewish-heir-is-taking-on-germany-s-far-right-afd/a-77910312?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German far-right unveils anti-migrant policies for state government",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260712/german-far-right-unveils-anti-migrant-policies-for-state-government",
-      "published_date": "2026-07-12T07:53:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two people killed and several wounded in mass shooting at Toronto festival",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/two-people-killed-and-several-wounded-in-mass-shooting-at-toronto-festival/a-77920249?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T01:03:00+00:00",
       "category": "Local Events"
     }
   ]
