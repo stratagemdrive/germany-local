@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-14T12:06:14.893350+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-14T23:43:02.930217+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Iranian newspaper threatens Germany's Chancellor Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iranian-newspaper-threatens-germany-s-chancellor-merz/a-77958683?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-14T18:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian newspaper threatens Germany's Chancellor Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iranian-newspaper-threatens-germany-s-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T18:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bastille Day celebrations in France tempered by fear of more wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/bastille-day-celebrations-france-tempered-fear-wildfires",
+      "published_date": "2026-07-14T16:28:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU rejects Trump administration claims that ICC threatens US sovereignty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/eu-rejects-trump-administration-claims-icc-threatens-us-sovereignty",
+      "published_date": "2026-07-14T15:41:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baltikum: Estland meldet unangekündigte russische Schießübungen in Grenznähe",
       "source": "ZEIT Online",
@@ -116,32 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU to limit children's access to social media",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/eu-to-limit-childrens-access-to-social-media",
-      "published_date": "2026-07-13T10:02:47+00:00",
-      "category": "Diplomacy"
+      "title": "Frankreich – Spanien: Und wo genau war der Turnierfavorit?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-07/frankreich-spanien-halbfinale-fussball-wm-2026",
+      "published_date": "2026-07-14T22:25:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine updates: 'Coalition of the willing' meeting in Paris",
+      "title": "How Turkey's 2016 coup attempt changed the country for good",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-coalition-of-the-willing-meeting-in-paris/live-77927840?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T08:28:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Which European countries are already using the EES pre-registration app?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/which-european-countries-are-already-using-the-ees-pre-registration-app",
-      "published_date": "2026-07-13T08:23:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU approves new passenger rights for air travel",
+      "title": "How Turkey's 2016 coup attempt changed the country for good",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-approves-new-passenger-rights-for-air-travel/a-77927050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T06:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iraq relations: Can Iran-allied militias be disarmed?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-iraq-relations-can-iran-allied-militias-be-disarmed/a-77956078?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T16:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Keir Starmer becomes first UK PM to receive France’s Légion d’honneur",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/14/keir-starmer-legion-dhonneur-france-macron",
+      "published_date": "2026-07-14T15:37:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Young Germans opting out of military service as Berlin strives to boost army",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/young-germans-military-service-opt-out",
+      "published_date": "2026-07-14T15:08:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine parliament accepts PM Svyrydenko's resignation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T14:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine parliament accepts PM Svyrydenko's resignation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-14T14:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US launches new round of strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-launches-new-round-of-strikes/live-77942892?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T14:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France holds annual Bastille Day parade in Paris – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/14/france-bastille-day-parade-paris-video",
+      "published_date": "2026-07-14T12:44:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As the world rearms, South Korea aims to cash in",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-the-world-rearms-south-korea-aims-to-cash-in/a-77950625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T12:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria offers clues to new US Africa strategy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T12:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine targets another 11 Russian ships in Sea of Azov",
@@ -161,6 +245,13 @@
       "title": "Germany news: Military conscientious objections spike",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T09:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Military conscientious objections spike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-14T09:00:00+00:00",
       "category": "Military"
     },
@@ -190,97 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-strait-of-hormuz-tanker-strikes-raise-tensions/live-77942892?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-13T23:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Ukraine meldet erneut Angriffe auf Kyjiw",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-07-13T23:37:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
-      "published_date": "2026-07-13T18:45:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump reinstates US blockade of Strait of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-reinstates-us-blockade-of-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T15:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stefan Marzischewski-Drewes: Früherer Vorsitzender muss niedersächsische AfD-Fraktion verlassen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/stefan-marzischewski-drewes-afd-fraktion-niedersachsen-ausschluss",
-      "published_date": "2026-07-13T12:54:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine to present its anti-ballistic programme at Paris meeting today, Zelenskyy says – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
-      "published_date": "2026-07-13T12:49:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Life in limbo between war and ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T12:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Living in limbo between war and ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T12:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, 9 countries form ballistic missile defense coalition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-9-countries-form-ballistic-missile-defense-coalition/live-77927840?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T08:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Renewed US-Iran war is hitting Gulf countries hard",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/renewed-us-iran-war-is-hitting-gulf-countries-hard/a-77876781?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T08:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy replaces PM and flags law enforcement overhaul",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/13/ukraine-war-briefing-zelenskyy-replaces-pm-and-flags-law-enforcement-overhaul",
-      "published_date": "2026-07-13T00:42:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lindsey Graham tributes from Israel and Ukraine point to complicated, often bloody legacy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy",
-      "published_date": "2026-07-12T22:36:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US carries out fresh strikes near Strait of Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-near-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T22:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France opens terror probe after gun found in Jewish suburb",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T19:37:00+00:00",
       "category": "Military"
     },
     {
@@ -403,18 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Heat-resistant housing: how we need to adapt our homes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-07T13:02:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Heat-resistant housing: How we need to adapt our homes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-07T13:02:00+00:00",
-      "category": "Energy"
+      "title": "Is the era of €10 flights over for Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260714/is-the-era-of-e10-flights-over-for-germany",
+      "published_date": "2026-07-14T12:10:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Guardian view on Volkswagen’s crisis: another wake-up call for Germany and the EU | Editorial",
@@ -550,11 +543,39 @@
       "category": "Economy"
     },
     {
-      "title": "Apple sues OpenAI over stealing 'trade secrets'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T21:09:00+00:00",
-      "category": "Economy"
+      "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
+      "published_date": "2026-07-14T22:38:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dua Lipa calls Albanian protests against Jared Kushner-backed resort ‘inspiring’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jul/14/dua-lipa-calls-albanian-protests-against-jared-kushner-backed-resort-inspiring",
+      "published_date": "2026-07-14T17:39:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish PM’s brother banned from public office after misconduct trial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/spanish-pm-brother-david-sanchez-banned-public-office-misconduct",
+      "published_date": "2026-07-14T13:38:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British man, 86, injured during running of the bulls festival in Pamplona",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/british-man-injured-running-bulls-festival-pamplona",
+      "published_date": "2026-07-14T13:09:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New US Ebola patient arrives in Germany for treatment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+      "published_date": "2026-07-14T12:27:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "2. Fußball-Bundesliga: Dynamo Dresden baut Kader weiter um: Leihe von Neininger",
@@ -659,41 +680,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260713/why-germany-is-planning-to-crack-down-on-unpaid-child-support",
       "published_date": "2026-07-13T10:29:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Repatriation underway after Vietnam boat sinking",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-repatriation-underway-after-vietnam-boat-sinking/live-77927114?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T06:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/today-in-germany-a-roundup-of-the-latest-news-on-monday-130",
-      "published_date": "2026-07-13T06:49:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
-      "published_date": "2026-07-13T04:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forget being French president; Marine Le Pen is lucky not to be in prison. Why is she in public life at all? | Rokhaya Diallo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/13/france-president-marine-le-pen-prison-public-life",
-      "published_date": "2026-07-13T04:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand: Bangkok bar fire leaves dozens dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-12T22:03:00+00:00",
       "category": "Local Events"
     }
   ]
