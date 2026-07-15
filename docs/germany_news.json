@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-14T23:43:02.930217+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-15T12:10:29.057407+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory",
+      "published_date": "2026-07-15T12:03:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sommerpressekonferenz: Merz verteidigt geplante Kürzung des Unterhaltsvorschusses",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-unterhaltsvorschuss-sommerpressekonferenz-bundeskanzler",
+      "published_date": "2026-07-15T12:01:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Coalition has 'found its footing,' Merz says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-15T11:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sommerpressekonferenz des Bundeskanzlers: Friedrich Merz bekräftigt AfD-Unvereinbarkeitsbeschluss",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/sommerpressekonferenz-friedrich-merz-bundeskanzler-fragen-schwarz-rot-live",
+      "published_date": "2026-07-15T11:44:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bundeskanzler: Live: Friedrich Merz in der Sommerpressekonferenz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/video/2026-07/friedrich-merz-sommerpressekonferenz",
+      "published_date": "2026-07-15T11:01:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine: Kyiv and EU agree on new drone production deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-15T10:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "LATEST: EES passport checks will not be fully implemented at Dover and Eurotunnel this summer",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260715/latest-ees-passport-checks-will-not-be-fully-implemented-at-dover-and-eurotunnel-this-summer",
+      "published_date": "2026-07-15T09:09:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260715/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-129",
+      "published_date": "2026-07-15T06:48:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iranian newspaper threatens Germany's Chancellor Merz",
       "source": "Deutsche Welle",
@@ -14,6 +70,13 @@
       "title": "Iranian newspaper threatens Germany's Chancellor Merz",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iranian-newspaper-threatens-germany-s-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T18:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian newspaper threatens German Chancellor Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iranian-newspaper-threatens-german-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-14T18:42:00+00:00",
       "category": "Diplomacy"
     },
@@ -81,67 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Internet: Social Media: EU-Experten für Zugangsbeschränkung bis 13",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/13/social-media-eu-experten-fuer-zugangsbeschraenkung-bis-13",
-      "published_date": "2026-07-13T13:04:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Illegale Siedlungspolitik: EU entzweit: Berlin bremst Debatte um Israel-Sanktionen aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/13/bundesregierung-bremst-in-eu-debatte-um-israel-sanktionen",
-      "published_date": "2026-07-13T13:02:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ursula von der Leyen pledges EU-wide social media ban for children",
+      "title": "Lithuania warns Russia could be planning ‘targeted’ attacks on critical infrastructure – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/13/eu-social-media-ban-children-under-13-ursula-von-der-leyen",
-      "published_date": "2026-07-13T12:52:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
+      "published_date": "2026-07-15T12:06:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cyberangriffe aus Russland: Auswärtiges Amt bestellt russischen Botschafter ein",
+      "title": "Bundeswehr: Zahl der Bewerber bei der Bundeswehr steigt weiter",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/russland-botschafter-deutschland-auswaertiges-amt",
-      "published_date": "2026-07-13T12:26:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/bewerbungen-bundeswehr-militaer-neueinstellungen-freiwilliger-wehrdienst",
+      "published_date": "2026-07-15T11:48:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s Nato remarks rang hollow – but he recognizes something real | Christopher S Chivvis",
+      "title": "EU extends right to stay for Ukrainians but excludes military-age men",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260715/eu-extends-right-to-stay-for-ukrainians-but-excludes-military-age-men",
+      "published_date": "2026-07-15T10:29:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-15T06:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-15T06:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Spotlight on ‘hundreds’ of alleged PoW executions by Russia",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/13/trump-nato-international-alliances",
-      "published_date": "2026-07-13T12:00:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/15/ukraine-war-briefing-spotlight-on-hundreds-of-alleged-pow-executions-by-russia",
+      "published_date": "2026-07-15T00:51:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU experts urge social media restrictions for kids under 13",
+      "title": "Iran war: US launches fresh wave of strikes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T10:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU experts urge social media restrictions for kids under 13",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-13T10:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz calls for monetary policy dialogue with China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-calls-for-monetary-policy-dialogue-with-china/live-77932396?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-13T10:26:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz calls for monetary policy dialogue with China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-calls-for-monetary-policy-dialogue-with-china/live-77932396?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T10:26:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-wave-of-strikes/live-77960667?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T23:24:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Frankreich – Spanien: Und wo genau war der Turnierfavorit?",
@@ -161,6 +210,20 @@
       "title": "How Turkey's 2016 coup attempt changed the country for good",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the 2016 coup attempt changed Turkey for good",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the 2016 coup attempt changed Turkey for good",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-07-14T19:00:00+00:00",
       "category": "Military"
     },
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Nigeria offers clues to new US Africa strategy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-14T12:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine targets another 11 Russian ships in Sea of Azov",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-targets-another-11-russian-ships-in-sea-of-azov/a-77949717?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-14T11:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bastille Day: France holds parade with Ukraine in focus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-14T09:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Military conscientious objections spike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-14T09:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Military conscientious objections spike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-14T09:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish-Ukrainian solidarity over Russian threat undermined by bitter historical dispute",
+      "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/poland-ukraine-upa-second-world-war-massacre-dispute",
-      "published_date": "2026-07-14T08:19:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260714/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-132",
-      "published_date": "2026-07-14T06:31:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy seeks 300 Patriots to get through winter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter",
-      "published_date": "2026-07-14T01:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Strait of Hormuz tanker strikes raise tensions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-strait-of-hormuz-tanker-strikes-raise-tensions/live-77942892?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T23:57:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
+      "published_date": "2026-07-15T12:00:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
@@ -389,18 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "Unions in Europe press for new worker protections to counter heat stress",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-      "published_date": "2026-07-08T11:00:52+00:00",
-      "category": "Energy"
+      "title": "Why investors are suddenly fleeing Indonesia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-15T08:13:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Health risk fears for storks in Europe over ‘junk food’ from landfill",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
-      "published_date": "2026-07-08T07:30:23+00:00",
-      "category": "Energy"
+      "title": "India news: Landmark trade deal with UK takes effect",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-15T07:53:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Is the era of €10 flights over for Germany?",
@@ -529,18 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "Belgium to introduce road tax for transiting drivers",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260711/belgium-to-introduce-road-tax-for-transiting-drivers",
-      "published_date": "2026-07-11T08:21:29+00:00",
-      "category": "Economy"
+      "title": "Dresden: Mann zielt mit Waffe auf andere und ruft islamischen Spruch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/15/mann-zielt-mit-waffe-auf-andere-und-ruft-islamischen-spruch",
+      "published_date": "2026-07-15T12:04:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ryanair has axed its family seating policy – but kids’ fees still add up",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/jul/11/ryanair-family-seating-policy-kids-fees-airfare-flight-airline-charges",
-      "published_date": "2026-07-11T05:00:41+00:00",
-      "category": "Economy"
+      "title": "Unexploded munitions hamper fight against wildfire in north Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260715/unexploded-munitions-hamper-fight-against-wildfire-in-north-germany",
+      "published_date": "2026-07-15T11:31:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No filling pools or watering lawns: Munich issues decree to save water",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260715/no-filling-pools-or-watering-lawns-munich-issues-decree-to-save-water",
+      "published_date": "2026-07-15T11:22:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia accused of spreading disinformation for German far right ahead of polls",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260715/russia-accused-of-spreading-disinformation-for-german-far-right-ahead-of-polls",
+      "published_date": "2026-07-15T07:15:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
@@ -652,34 +673,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-13T18:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What the Berlin mayor's shock withdrawal means for the coming election",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/what-the-berlin-mayors-shock-withdrawal-means-for-the-coming-election",
-      "published_date": "2026-07-13T16:13:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlen in Deutschland  : Schaut auf Berlin!",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/wahlen-deutschland-berlin-sachsen-anhalt-mecklenburg-vorpommern",
-      "published_date": "2026-07-13T12:39:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New American Ebola patient arrives in Germany for treatment",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/new-american-ebola-patient-arrives-in-germany-for-treatment",
-      "published_date": "2026-07-13T12:30:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Germany is planning to crack down on unpaid child support",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/why-germany-is-planning-to-crack-down-on-unpaid-child-support",
-      "published_date": "2026-07-13T10:29:43+00:00",
       "category": "Local Events"
     }
   ]
