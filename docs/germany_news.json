@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-16T12:16:11.290016+00:00",
-  "story_count": 93,
+  "last_updated": "2026-07-16T23:51:44.498392+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Unifil-Mission: Wadephul schlägt EU-Stabilisierungsmission für Libanon vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/unifil-libanon-mission-2026-cdu-johann-wadephul",
+      "published_date": "2026-07-16T22:46:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deutsch-französischer Ministerrat: Macron lobt »echte deutsch-französische Annäherung«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-emmanuel-macron-deutsch-franzoesischer-ministerrat-paris",
+      "published_date": "2026-07-16T20:06:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German tenants need better heat protection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-tenants-need-better-heat-protection/a-77979682?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-16T19:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German tenants need better heat protection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-tenants-need-better-heat-protection/a-77979682?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T19:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany massively expands federal police powers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-massively-expands-federal-police-powers/a-77993148?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-16T14:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany massively expands federal police powers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-massively-expands-federal-police-powers/a-77993148?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T14:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Google accuses EU of undermining privacy of 'millions of Europeans'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260716/google-accuses-eu-of-undermining-privacy-of-millions-of-europeans",
+      "published_date": "2026-07-16T14:10:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU court endorses Spanish PM's contentious Catalan amnesty",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-court-endorses-spanish-pm-s-contentious-catalan-amnesty/a-77981590?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T12:50:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelenskyy thanks Starmer and UK for ‘unwavering respect’ on his final visit to Ukraine as PM – Europe live",
       "source": "The Guardian",
@@ -88,60 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sommerpressekonferenz: Merz verteidigt geplante Kürzung des Unterhaltsvorschusses",
+      "title": "Hoffen auf Regen: Brand in Nationalpark - Bundeswehr löscht mit Hubschraubern",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-unterhaltsvorschuss-sommerpressekonferenz-bundeskanzler",
-      "published_date": "2026-07-15T12:01:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-07/17/brand-in-nationalpark-bundeswehr-loescht-mit-hubschraubern",
+      "published_date": "2026-07-16T22:15:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Coalition has 'found its footing,' Merz says",
+      "title": "Iran war: US military attacks Iran for sixth night running",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T11:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-military-attacks-iran-for-sixth-night-running/live-77976690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T19:19:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Coalition has 'found its footing,' Merz says",
+      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov",
+      "published_date": "2026-07-16T18:25:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Monaco assassination plot takes a new turn",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-15T11:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T16:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sommerpressekonferenz des Bundeskanzlers: Friedrich Merz bekräftigt AfD-Unvereinbarkeitsbeschluss",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/sommerpressekonferenz-friedrich-merz-bundeskanzler-fragen-schwarz-rot-live",
-      "published_date": "2026-07-15T11:44:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bundeskanzler: Live: Friedrich Merz in der Sommerpressekonferenz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/video/2026-07/friedrich-merz-sommerpressekonferenz",
-      "published_date": "2026-07-15T11:01:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine: Kyiv and EU agree on new drone production deal",
+      "title": "Monaco assassination plot takes a new turn",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T10:55:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-16T16:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "LATEST: EES passport checks will not be fully implemented at Dover and Eurotunnel this summer",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/latest-ees-passport-checks-will-not-be-fully-implemented-at-dover-and-eurotunnel-this-summer",
-      "published_date": "2026-07-15T09:09:13+00:00",
-      "category": "Diplomacy"
+      "title": "Target of Monaco bomb blames attack on Ukrainian spy agency",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/16/target-of-monaco-bomb-blames-attack-on-ukrainian-spy-agency",
+      "published_date": "2026-07-16T14:51:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-129",
-      "published_date": "2026-07-15T06:48:13+00:00",
-      "category": "Diplomacy"
+      "title": "As the world rearms, South Korea aims to cash in",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-the-world-rearms-south-korea-aims-to-cash-in/a-77950625?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T14:29:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Fußball-Weltmeisterschaft 2026: Livechat: Was bleibt von dieser WM?",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Lithuania warns Russia could be planning ‘targeted’ attacks on critical infrastructure – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
-      "published_date": "2026-07-15T12:06:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehr: Zahl der Bewerber bei der Bundeswehr steigt weiter",
+      "title": "Energie: Willingmann räumt Fehler bei Energiewende ein",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/bewerbungen-bundeswehr-militaer-neueinstellungen-freiwilliger-wehrdienst",
-      "published_date": "2026-07-15T11:48:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU extends right to stay for Ukrainians but excludes military-age men",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/eu-extends-right-to-stay-for-ukrainians-but-excludes-military-age-men",
-      "published_date": "2026-07-15T10:29:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T06:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-15T06:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Zelenskyy reshuffling Ukraine's government?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-zelenskyy-reshuffling-ukraine-s-government/a-77959640?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T06:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Zelenskyy reshuffling Ukraine's government?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-zelenskyy-reshuffling-ukraine-s-government/a-77959640?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-15T06:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/news/2026-07/17/willingmann-raeumt-fehler-bei-energiewende-ein",
+      "published_date": "2026-07-16T23:01:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "The EU climate policy the world copied is under fire — what's at stake?",
@@ -358,20 +365,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-10T09:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
-      "published_date": "2026-07-09T17:39:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Licence to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/licence-to-drill-trump-linked-texas-oil-company-elbowing-into-greenland",
-      "published_date": "2026-07-09T13:00:01+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +508,48 @@
       "category": "Economy"
     },
     {
+      "title": "AfD Nordrhein-Westfalen: AfD-Bundesspitze fordert Wahlwiederholung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nrw-martin-vincentz-sven-tritschler-brief-bundesspitze-alice-weidel",
+      "published_date": "2026-07-16T21:37:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy: Ex-highway head sentenced to 12 years for deadly bridge collapse",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-ex-highway-head-sentenced-to-12-years-for-deadly-bridge-collapse/a-77995618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T17:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former boss of Italian motorways sentenced to 12 years over Genoa bridge tragedy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/16/genoa-bridge-tragedy-former-italian-motorways-boss-sentenced-12-years",
+      "published_date": "2026-07-16T16:25:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mafia law gives Italian families right to break free from life of crime",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities",
+      "published_date": "2026-07-16T16:08:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algeria: Fire at orphanage kills 11, including children",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/algeria-fire-at-orphanage-kills-11-including-children/a-77991351?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T13:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We weren’t at fault’: British yacht couple bristle at ‘armchair sailors’ and Russian denials",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/16/british-yacht-couple-russian-warship-armchair-sailors",
+      "published_date": "2026-07-16T13:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "German neo-Nazi sent to male prison despite legal gender change",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260716/german-neo-nazi-sent-to-male-prison-despite-legal-gender-change",
@@ -540,6 +575,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-16T09:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Inland shipping under strain as rivers run low",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-inland-shipping-under-strain-as-rivers-run-low/live-77978527?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-16T09:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Inland shipping under strain as rivers run low",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-inland-shipping-under-strain-as-rivers-run-low/live-77978527?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-16T09:21:00+00:00",
       "category": "Local Events"
     },
     {
@@ -596,62 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-linked-organized-crime-gangs-pose-global-challenge/a-77972547?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-15T15:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin man charged with 22 counts of raping unconscious women and filming the assaults",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/berlin-man-charged-with-22-counts-of-raping-unconscious-women-and-filming-the-assaults",
-      "published_date": "2026-07-15T15:11:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six Berlin cafes with air conditioning where you can work",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/six-berlin-cafes-with-air-conditioning-where-you-can-work",
-      "published_date": "2026-07-15T14:50:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni government vows to press on with electoral reform after losing key vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/giorgia-meloni-government-italy-electoral-reform-loses-vote",
-      "published_date": "2026-07-15T13:59:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya's 'political gangs' fuel election fears",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-s-political-gangs-fuel-election-fears/a-77970615?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T13:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘They want to break our will’: Gaza flotilla activist tells of rape in Israeli detention",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/gaza-flotilla-activist-rape-complaint-israel-anna-liedtke",
-      "published_date": "2026-07-15T13:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dresden: Mann zielt mit Waffe auf andere und ruft islamischen Spruch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/15/mann-zielt-mit-waffe-auf-andere-und-ruft-islamischen-spruch",
-      "published_date": "2026-07-15T12:04:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unexploded munitions hamper fight against wildfire in north Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/unexploded-munitions-hamper-fight-against-wildfire-in-north-germany",
-      "published_date": "2026-07-15T11:31:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No filling pools or watering lawns: Munich issues decree to save water",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/no-filling-pools-or-watering-lawns-munich-issues-decree-to-save-water",
-      "published_date": "2026-07-15T11:22:01+00:00",
       "category": "Local Events"
     }
   ]
