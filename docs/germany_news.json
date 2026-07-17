@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-17T12:03:13.694931+00:00",
+  "last_updated": "2026-07-17T23:43:44.038040+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "A new entente? Bayeux tapestry’s UK arrival ‘closes loop’ on Brexit tensions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/new-entente-bayeux-tapestry-london-arrival-mending-post-brexit-relations",
+      "published_date": "2026-07-17T15:15:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz, Macron plan closer nuclear cooperation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-macron-plan-closer-nuclear-cooperation/live-77998510?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-17T14:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz, Macron plan closer nuclear cooperation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-macron-plan-closer-nuclear-cooperation/live-77998510?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T14:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz and Macron: A Franco-German week of harmony",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-and-macron-a-franco-german-week-of-harmony/a-78007779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T13:47:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Korruption: Rechtsstaats-TÜV der EU - Deutschlands anhaltende Baustellen",
       "source": "ZEIT Online",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU court endorses Spanish PM's contentious Catalan amnesty",
+      "title": "Gaza officials say several killed in Israeli strike",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-court-endorses-spanish-pm-s-contentious-catalan-amnesty/a-77981590?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T12:50:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T21:29:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelenskyy thanks Starmer and UK for ‘unwavering respect’ on his final visit to Ukraine as PM – Europe live",
+      "title": "Lage in der Ukraine: Er verlernt, was er am besten konnte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/ukraine-lage-wolodymyr-selenskyj-mychajlo-fedorow-proteste-woche",
+      "published_date": "2026-07-17T18:06:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How conflict in Congo, Sudan and Yemen is fueling the spread of disease",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-conflict-in-congo-sudan-and-yemen-is-fueling-the-spread-of-disease/a-77966475?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T15:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
-      "published_date": "2026-07-16T12:06:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+      "published_date": "2026-07-17T13:42:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Revealed: how Europe’s most powerful farming lobby killed EU’s pesticide law",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law",
-      "published_date": "2026-07-16T11:00:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260716/today-in-germany-a-roundup-of-the-latest-news-on-thursday-127",
-      "published_date": "2026-07-16T06:41:32+00:00",
-      "category": "Diplomacy"
+      "title": "Sao Tome and Principe balances global powers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T13:15:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Several killed and injured in Russian strikes",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
+      "title": "Klimapolitik: Wadephul drängt auf Ausbau erneuerbarer Energien",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/klimapolitik-union-johann-wadephul-strasse-von-hormus-energie",
+      "published_date": "2026-07-17T22:03:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
-      "published_date": "2026-07-16T04:00:14+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
+      "published_date": "2026-07-17T16:01:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland greift Kyjiw wieder mit ballistischen Raketen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-07-15T23:42:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes Iranian missile sites as tensions escalate",
+      "title": "Cities are getting smarter about water and other eco wins",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-strikes-iranian-missile-sites-as-tensions-escalate/live-77976690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T23:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fußball-WM: Spieler Argentiniens feiern mit Plakat zu den Falklandinseln",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
-      "published_date": "2026-07-15T22:55:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Ukrainischer Verteidigungsminister kündigt Rücktritt an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/mychailo-fedorow-ukraine-verteidigungsminister-ruecktritt",
-      "published_date": "2026-07-15T21:48:17+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/cities-are-getting-smarter-about-water-and-other-eco-wins/a-77999380?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T13:24:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran's oil supply threat extends beyond Strait of Hormuz",
@@ -344,27 +365,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/lifeandstyle/2026/jul/12/why-is-there-no-rugby-culture-in-germany",
       "published_date": "2026-07-12T13:00:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba suffers second nationwide blackout in five days",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T23:27:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘The worst possible combination’: what has caused Spain’s deadly wildfires?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis",
-      "published_date": "2026-07-10T16:20:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/i-had-an-incredible-escape-british-woman-tells-of-close-encounter-with-spanish-wildfire",
-      "published_date": "2026-07-10T14:25:45+00:00",
       "category": "Energy"
     },
     {
@@ -508,6 +508,55 @@
       "category": "Economy"
     },
     {
+      "title": "Why the US is going after the International Criminal Court",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T17:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uganda halts school trips as bus crash kills 20 kids",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uganda-halts-school-trips-as-bus-crash-kills-20-kids/a-78010176?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T15:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany debates surrogacy and hypocrisy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-17T14:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany debates surrogacy and hypocrisy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T14:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court affirms German homeowner's right to install air conditioning",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260717/court-affirms-german-homeowners-right-to-install-air-conditioning",
+      "published_date": "2026-07-17T13:42:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain's next prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T11:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain's next prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-17T11:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Fact check: Trump revives US election fraud claims",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/fact-check-trump-revives-us-election-fraud-claims/a-77999807?maca=en-rss-en-all-1573-rdf",
@@ -596,55 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jul/16/british-yacht-couple-russian-warship-armchair-sailors",
       "published_date": "2026-07-16T13:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German neo-Nazi sent to male prison despite legal gender change",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260716/german-neo-nazi-sent-to-male-prison-despite-legal-gender-change",
-      "published_date": "2026-07-16T11:55:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transfers: Mainz 05 verkauft Ben Bobzien an Dresden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/16/mainz-05-verkauft-ben-bobzien-an-dresden",
-      "published_date": "2026-07-16T11:52:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leihmutterschaft: CDU will an Verbot für Leihmutterschaft festhalten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/leihmutterschaft-jens-spahn-cdu-usa-verbot",
-      "published_date": "2026-07-16T10:52:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US slaps 25% tariffs on Brazil with election looming",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T09:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Inland shipping under strain as rivers run low",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-inland-shipping-under-strain-as-rivers-run-low/live-77978527?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-16T09:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Inland shipping under strain as rivers run low",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-inland-shipping-under-strain-as-rivers-run-low/live-77978527?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T09:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Murders following romantic rejections increase",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-murders-following-romantic-rejections-increase/live-77979363?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T09:13:00+00:00",
       "category": "Local Events"
     }
   ]
