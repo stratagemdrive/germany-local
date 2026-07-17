@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-16T23:51:44.498392+00:00",
+  "last_updated": "2026-07-17T12:03:13.694931+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Korruption: Rechtsstaats-TÜV der EU - Deutschlands anhaltende Baustellen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/17/rechtsstaats-tuev-der-eu-deutschlands-anhaltende-baustellen",
+      "published_date": "2026-07-17T11:54:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lobbyregister: EU-Kommission kritisiert mangelnde Lobbykontrolle in Deutschland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/lobbyregister-eu-kommission-deutschland-lobbyisten-gesetzgebung",
+      "published_date": "2026-07-17T11:44:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU-based British students to pay international fees in UK from 2028",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260717/eu-based-british-students-to-pay-international-fees-in-uk-from-2028",
+      "published_date": "2026-07-17T11:21:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
+      "published_date": "2026-07-17T08:35:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU launches legal action against 17 member states over new single permit rules",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260717/eu-launches-legal-action-against-17-member-states-over-new-single-permit-rules",
+      "published_date": "2026-07-17T08:11:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Macron and Merz lead bilateral cabinet talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-macron-and-merz-lead-bilateral-cabinet-talks/live-77998510?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T07:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260717/today-in-germany-a-roundup-of-the-latest-news-on-friday-131",
+      "published_date": "2026-07-17T06:39:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Xi Jinping calls for international cooperation in AI development at WAIC in Shanghai",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/xi-jinping-calls-for-international-cooperation-in-ai-development-at-waic-in-shanghai/a-77997024?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T05:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/eu-border-chaos-feared-dover-crossing-busiest-summer-weekend-looms",
+      "published_date": "2026-07-17T05:00:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Unifil-Mission: Wadephul schlägt EU-Stabilisierungsmission für Libanon vor",
       "source": "ZEIT Online",
@@ -81,67 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Provokante Äußerung über Merz: Stauffenberg-Enkel rügt Kabarettisten nach AfD-Auftritt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/16/stauffenberg-enkel-ruegt-kabarettisten-nach-afd-auftritt",
-      "published_date": "2026-07-15T23:27:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany warns US against election interference after it announces grants scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
-      "published_date": "2026-07-15T18:45:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German Chancellor Friedrich Merz makes appeal to AfD voters",
+      "title": "Ukraine: Several killed and injured in Russian strikes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-friedrich-merz-makes-appeal-to-afd-voters/a-77973735?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-15T17:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T12:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "German Chancellor Friedrich Merz makes appeal to AfD voters",
+      "title": "Iran war: US hits bridges as Tehran retaliates across region",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-friedrich-merz-makes-appeal-to-afd-voters/a-77973735?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T17:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T08:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU seeks Trump tariff exemptions on wine and cheese",
+      "title": "Germany and France seek 'new dynamic' on defence after fighter jet failure",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260715/eu-seeks-trump-tariff-exemptions-on-wine-and-cheese",
-      "published_date": "2026-07-15T13:43:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No support for Jews fleeing Nazi Germany at Evian conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-support-for-jews-fleeing-nazi-germany-at-evian-conference/a-77966381?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-15T12:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No support for Jews fleeing Nazi Germany at Evian conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-support-for-jews-fleeing-nazi-germany-at-evian-conference/a-77966381?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T12:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No support for Jews fleeing Nazi Germany at Evian conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-support-for-jews-fleeing-nazi-germany-at-evian-conference/a-77966381?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-15T12:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory",
-      "published_date": "2026-07-15T12:03:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260717/germany-and-france-seek-new-dynamic-on-defence-after-fighter-jet-failure",
+      "published_date": "2026-07-17T07:11:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Hoffen auf Regen: Brand in Nationalpark - Bundeswehr löscht mit Hubschraubern",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Volodymyr Zelenskyy dismisses Ukraine’s popular defence minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
-      "published_date": "2026-07-15T20:47:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Alleged Ahmadinejad plot highlights info war",
+      "title": "Iran's oil supply threat extends beyond Strait of Hormuz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-alleged-ahmadinejad-plot-highlights-info-war/a-77967268?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T15:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Russia’s assault continues, Ukraine’s politics shift and an old alliance begins to fray",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/as-russias-assault-continues-ukraines-politics-shift-and-an-old-alliance-begins-to-fray",
-      "published_date": "2026-07-15T14:30:56+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/iran-s-oil-supply-threat-extends-beyond-strait-of-hormuz/a-77980704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T09:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energie: Willingmann räumt Fehler bei Energiewende ein",
@@ -358,13 +365,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/10/i-had-an-incredible-escape-british-woman-tells-of-close-encounter-with-spanish-wildfire",
       "published_date": "2026-07-10T14:25:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-10T09:09:00+00:00",
       "category": "Energy"
     },
     {
@@ -508,6 +508,55 @@
       "category": "Economy"
     },
     {
+      "title": "Fact check: Trump revives US election fraud claims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-trump-revives-us-election-fraud-claims/a-77999807?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T11:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How new PM Andy Burnham will change UK's international role",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-new-pm-andy-burnham-will-change-uk-s-international-role/a-77994989?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T11:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How new PM Andy Burnham will change UK's international role",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-new-pm-andy-burnham-will-change-uk-s-international-role/a-77994989?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-17T11:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kanzleramtsminister Thorsten Frei: »Null Komma null Anknüpfungspunkte«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/31/thorsten-frei-kanzleramtsminister-cdu-reformpaket-afd-geheimdienst",
+      "published_date": "2026-07-17T11:20:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What are Germany's rules on having a baby through surrogacy?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260717/what-are-germanys-rules-on-having-a-baby-through-surrogacy",
+      "published_date": "2026-07-17T09:55:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Modi silent as Sonam Wangchuk hunger strike enters 20th day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-modi-silent-as-sonam-wangchuk-hunger-strike-enters-20th-day/live-77997484?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T07:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump accuses China of meddling in US elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-17T01:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "AfD Nordrhein-Westfalen: AfD-Bundesspitze fordert Wahlwiederholung",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nrw-martin-vincentz-sven-tritschler-brief-bundesspitze-alice-weidel",
@@ -596,55 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-murders-following-romantic-rejections-increase/live-77979363?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-16T09:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Myanmar: More than 500 feared dead in capsized refugee boats, UN says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-more-than-500-feared-dead-in-capsized-refugee-boats-un-says/a-77977875?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T06:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hong Kong police raid two bookstores, arrest five people",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hong-kong-police-raid-two-bookstores-arrest-five-people/a-77976983?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T04:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity",
-      "published_date": "2026-07-16T04:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's parliament passes assisted dying law",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-parliament-passes-assisted-dying-law/a-77974616?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T19:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman speaks out on husband being pulled from Ryanair plane – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/video/2026/jul/15/woman-speaks-out-on-husband-being-pulled-from-ryanair-plane-video",
-      "published_date": "2026-07-15T19:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya: Court rejects Rastafari bid for religious freedom marijuana exemption",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-court-rejects-rastafari-bid-for-religious-freedom-marijuana-exemption/a-77971666?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T16:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India-linked organized crime gangs pose global challenge",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-linked-organized-crime-gangs-pose-global-challenge/a-77972547?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T15:45:00+00:00",
       "category": "Local Events"
     }
   ]
