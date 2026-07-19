@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-18T23:43:45.531582+00:00",
-  "story_count": 94,
+  "last_updated": "2026-07-19T11:51:11.739740+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "ZDF-Sommerinterview: Friedrich Merz schließt nach Spahn-Rücktritt Kabinettsumbau nicht aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/jens-spahn-ruecktritt-unionsfraktionschef-friedrich-merz",
+      "published_date": "2026-07-19T10:55:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
       "source": "Deutsche Welle",
@@ -137,17 +144,73 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lobbyregister: EU-Kommission kritisiert mangelnde Lobbykontrolle in Deutschland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/lobbyregister-eu-kommission-deutschland-lobbyisten-gesetzgebung",
-      "published_date": "2026-07-17T11:44:06+00:00",
-      "category": "Diplomacy"
+      "title": "‘Liberate the lidos!’ Who will win the war over Italy’s private beaches?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/italy-private-free-beaches-campaigners-mafia-military",
+      "published_date": "2026-07-19T11:00:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian army deserters in Germany: 'No choice but to run'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-19T10:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian army deserters in Germany: 'No choice but to run'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-19T10:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian army deserters in Germany: 'No choice but to run'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-19T10:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "published_date": "2026-07-19T08:35:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/ukraine-war-briefing-strikes-devastate-russian-warehouses-used-for-drones",
+      "published_date": "2026-07-19T04:45:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's largest ballistic assault of war rocks Kyiv",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-19T03:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's largest ballistic assault of war rocks Kyiv",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-19T03:40:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Massiver russischer Raketenangriff auf Kiew",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/19/massiver-russischer-raketenangriff-auf-kiew",
       "published_date": "2026-07-18T23:34:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US strikes Iran after 2 service members killed in Jordan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-18T17:28:00+00:00",
       "category": "Military"
     },
     {
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Several killed and injured in Russian strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T12:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US hits bridges as Tehran retaliates across region",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T08:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany and France seek 'new dynamic' on defence after fighter jet failure",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260717/germany-and-france-seek-new-dynamic-on-defence-after-fighter-jet-failure",
-      "published_date": "2026-07-17T07:11:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hoffen auf Regen: Brand in Nationalpark - Bundeswehr löscht mit Hubschraubern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/17/brand-in-nationalpark-bundeswehr-loescht-mit-hubschraubern",
-      "published_date": "2026-07-16T22:15:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US military attacks Iran for sixth night running",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-military-attacks-iran-for-sixth-night-running/live-77976690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T19:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
+      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov",
-      "published_date": "2026-07-16T18:25:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Monaco assassination plot takes a new turn",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-16T16:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Monaco assassination plot takes a new turn",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-16T16:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Target of Monaco bomb blames attack on Ukrainian spy agency",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/16/target-of-monaco-bomb-blames-attack-on-ukrainian-spy-agency",
-      "published_date": "2026-07-16T14:51:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
+      "published_date": "2026-07-19T11:00:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
@@ -380,6 +387,13 @@
       "url": "https://www.theguardian.com/lifeandstyle/2026/jul/12/why-is-there-no-rugby-culture-in-germany",
       "published_date": "2026-07-12T13:00:20+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Kriminalität am Telefon: Schockanruf: Rentnerehepaar um 25.000 Euro geprellt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/19/schockanruf-rentnerehepaar-um-25-000-euro-geprellt",
+      "published_date": "2026-07-19T10:51:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Uber to buy Germany’s Delivery Hero in $14.8bn global deal",
@@ -515,11 +529,25 @@
       "category": "Economy"
     },
     {
-      "title": "Britain’s cars and SUVs are growing bigger – but there is a way to stop this deadly ‘carspreading’  | Christian Wolmar",
+      "title": "China firm seeks damages over state control of British Steel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-19T10:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China firm seeks damages over state control of British Steel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-19T10:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lashes, langers, bozzers and belly bachelors: a new book decodes Cork’s local slang",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/britain-car-suv-big-large-vehicle-road-pedestrians",
-      "published_date": "2026-07-12T15:30:12+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/19/lashes-langers-bozzers-and-belly-bachelors-a-new-book-decodes-corks-local-slang",
+      "published_date": "2026-07-19T04:00:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hungary's president signs amendment ending his own term",
@@ -546,6 +574,13 @@
       "title": "Israel: How real is threat of gender segregation on street?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-18T18:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Segregation in Israel: Separate streets for men and women?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/segregation-in-israel-separate-streets-for-men-and-women/a-78020879?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-18T18:45:00+00:00",
       "category": "Local Events"
     },
@@ -613,6 +648,13 @@
       "category": "Local Events"
     },
     {
+      "title": "India news: 'Cockroach' party warns of protest infiltrators",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cockroach-party-warns-of-protest-infiltrators/live-78015662?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-18T06:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "The hill I will die on: Parisian waiters are not rude – they’re just badly misunderstood | Helen Massy-Beresford",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/18/the-hill-i-will-die-on-paris-waiters-misunderstood-stereotype",
@@ -624,41 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland",
       "published_date": "2026-07-18T03:55:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Police move activist Sonam Wangchuk to hospital on court orders",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-police-move-activist-sonam-wangchuk-to-hospital-on-court-orders/a-78015393?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T03:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the US is going after the International Criminal Court",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T17:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uganda halts school trips as bus crash kills 20 kids",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uganda-halts-school-trips-as-bus-crash-kills-20-kids/a-78010176?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T15:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany debates surrogacy and hypocrisy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-17T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany debates surrogacy and hypocrisy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T14:01:00+00:00",
       "category": "Local Events"
     }
   ]
