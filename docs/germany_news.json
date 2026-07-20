@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-20T13:01:13.301817+00:00",
-  "story_count": 84,
+  "last_updated": "2026-07-20T23:48:58.480590+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Deutschland und Großbritannien: Merz und Burnham bekräftigen gemeinsame Unterstützung der Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/andy-burnham-premierminister-grossbritannien-friedrich-merz",
+      "published_date": "2026-07-20T23:26:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AliExpress hit with record EU fine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T17:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AliExpress hit with record EU fine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-20T17:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why a 90-year-old treaty limits NATO in the Black Sea",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T14:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why a 90-year-old treaty limits NATO in the Black Sea",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-20T14:10:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Airport bosses warn EU's new border checks triple waiting times for Brits",
       "source": "The Local Germany",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
+      "title": "Iran war: US launches fresh strikes as Trump vows revenge",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-18T19:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-as-trump-vows-revenge/live-78042474?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T22:24:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
+      "title": "Ukraine’s army chief expected to lose job after week of protests",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
-      "published_date": "2026-07-18T15:09:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
+      "published_date": "2026-07-20T18:01:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "German lawmaker steps down for using US surrogacy to have a child",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260718/german-lawmaker-steps-down-over-surrogate-pregnancy-controversy-party-sources-to-afp",
-      "published_date": "2026-07-18T12:20:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why did Jens Spahn's surrogacy spark debate in Germany?",
+      "title": "Russia says bus strike kills 5 in border region with Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-did-jens-spahn-s-surrogacy-spark-debate-in-germany/a-78009366?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-18T12:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T15:09:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why did Jens Spahn's surrogacy spark debate in Germany?",
+      "title": "Russia says bus strike kills 5 in border region with Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-did-jens-spahn-s-surrogacy-spark-debate-in-germany/a-78009366?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T12:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-20T15:09:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine targets Moscow with drones after huge Russian attack on Kyiv – Europe live",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US strikes Iran after 2 service members killed in Jordan",
+      "title": "US imposes new 50% tariff on many Canadian goods",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T17:28:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T23:45:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine drones target Russian warehouses and oil sites",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T16:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New footage shows assassination attempt on Ukrainian businessman in Monaco – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/18/footage-assassination-attempt-ukrainian-businessman-monaco-video",
-      "published_date": "2026-07-18T14:54:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
-      "published_date": "2026-07-18T14:26:22+00:00",
-      "category": "Military"
+      "title": "Solar- und Windkraft: Bericht: Engpässe in Stromnetz bremsen Chinas grüne Energie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/21/bericht-engpaesse-in-stromnetz-bremsen-chinas-gruene-energie",
+      "published_date": "2026-07-20T23:01:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
@@ -431,25 +445,18 @@
       "category": "Economy"
     },
     {
-      "title": "The Guardian view on Volkswagen’s crisis: another wake-up call for Germany and the EU | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/13/the-guardian-view-on-volkswagens-crisis-another-wake-up-call-for-germany-and-the-eu",
-      "published_date": "2026-07-13T17:46:13+00:00",
-      "category": "Economy"
+      "title": "AfD in Nordrhein-Westfalen: AfD in NRW will Verfügung gegen Bundesvorstand zurückziehen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nordrhein-westfalen-einstweilige-verfuegung-bundesvorstand",
+      "published_date": "2026-07-20T23:20:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Britons to use e-gates in Switzerland as Starmer seals £5.2bn trade deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/13/brits-e-gates-switzerland-keir-starmer-seals-trade-deal",
-      "published_date": "2026-07-13T14:00:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VW chief confirms plan to cut 50,000 jobs as board rejects plant closures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/13/vw-cut-jobs-board-rejects-plant-closures-staff-restructuring",
-      "published_date": "2026-07-13T13:42:21+00:00",
-      "category": "Economy"
+      "title": "England and Liverpool foortball legend Kevin Keegan dies aged 75",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T16:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kriminalität: Polizei ermittelt nach zwei schweren Angriffen in Dresden",
@@ -515,6 +522,13 @@
       "category": "Local Events"
     },
     {
+      "title": "India news: Police fire tear gas at 'Cockroaches' parliament march",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-police-fire-tear-gas-at-cockroaches-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T03:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Open-Air-Konzert: Glatzenalarm: Pitbull bringt Düsseldorf zum Beben",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/20/glatzenalarm-pitbull-bringt-duesseldorf-zum-beben",
@@ -568,27 +582,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-18T18:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Segregation in Israel: Separate streets for men and women?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/segregation-in-israel-separate-streets-for-men-and-women/a-78020879?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T18:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magdeburg: Hunderte demonstrieren bei Wahlkampfauftakt der AfD Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-sachsen-anhalt-wahlkampf-magdeburg-demonstrationen",
-      "published_date": "2026-07-18T18:44:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rücktritt von Jens Spahn: Alexander Hoffmann betont Handlungsfähigkeit von Unionsfraktion",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/alexander-hoffmann-csu-cdu-bundestag-jens-spahn",
-      "published_date": "2026-07-18T18:39:31+00:00",
       "category": "Local Events"
     }
   ]
