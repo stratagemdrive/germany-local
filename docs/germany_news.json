@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-19T23:49:54.247058+00:00",
-  "story_count": 90,
+  "last_updated": "2026-07-20T13:01:13.301817+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Airport bosses warn EU's new border checks triple waiting times for Brits",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260720/airport-bosses-warn-eus-new-border-checks-triple-waiting-times-for-brits",
+      "published_date": "2026-07-20T12:22:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines AliExpress €550m over sale of illegal products in Europe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260720/eu-fines-aliexpress-e550m-over-sale-of-illegal-products-in-europe",
+      "published_date": "2026-07-20T11:49:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
+      "published_date": "2026-07-20T10:56:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Resistance to Nazi terror commemorated",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-resistance-to-nazi-terror-commemorated/live-78031915?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-20T09:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Resistance to Nazi terror commemorated",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-resistance-to-nazi-terror-commemorated/live-78031915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T09:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Algeria seeks larger EU energy role amid regional tensions",
       "source": "Deutsche Welle",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Leihmutter-Affäre: Friedrich Merz fordert Jens Spahn zum Rücktritt auf",
+      "title": "Ukraine targets Moscow with drones after huge Russian attack on Kyiv – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
+      "published_date": "2026-07-20T12:43:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gazastreifen: Hamas ernennt Chalil al-Hajja zum neuen Anführer",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-fordert-jens-spahn-zum-ruecktritt-auf",
-      "published_date": "2026-07-18T11:44:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-07/khalil-al-hayya-hamas-vorsitzender-gazastreifen",
+      "published_date": "2026-07-20T12:05:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany cracks down on money laundering and tax fraud",
+      "title": "INTERVIEW: What it takes to get a German residence permit as a foreign military spouse",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260720/interview-what-it-takes-to-get-a-german-residence-permit-as-a-foreign-military-spouse",
+      "published_date": "2026-07-20T11:46:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia behind deadly strike on cargo ship, says Ukraine, as Putin thanks North Korea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-war-briefing-russia-behind-deadly-strike-on-cargo-ship-says-ukraine-as-putin-thanks-north-korea",
+      "published_date": "2026-07-20T00:29:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US conducts strikes for 9th night in a row",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cracks-down-on-money-laundering-and-tax-fraud/a-78011524?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T11:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany cracks down on money laundering, tax fraud",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cracks-down-on-money-laundering-tax-fraud/a-78011524?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-18T11:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany cracks down on money laundering, tax fraud",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cracks-down-on-money-laundering-tax-fraud/a-78011524?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T11:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Parteien: Merz fordert Unionsfraktionschef Spahn zum Rücktritt auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/18/merz-fordert-unionsfraktionschef-spahn-zum-ruecktritt-auf",
-      "published_date": "2026-07-18T11:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-conducts-strikes-for-9th-night-in-a-row/live-78030432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-19T23:54:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Heimatschutzdivision: Bundeswehr will Schutz von Infrastruktur deutlich ausweiten",
@@ -242,45 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Germany and France close ranks on defence after jet project collapse",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260718/germany-and-france-close-ranks-on-defence-after-jet-project-collapse",
-      "published_date": "2026-07-18T07:39:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid elections, Sao Tome and Principe balances global powers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T06:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, not Iran, is the world’s greatest danger. He’s a one-man weapon of mass destruction | Simon Tisdall",
+      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us",
-      "published_date": "2026-07-18T05:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza officials say several killed in Israeli strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T21:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lage in der Ukraine: Er verlernt, was er am besten konnte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/ukraine-lage-wolodymyr-selenskyj-mychajlo-fedorow-proteste-woche",
-      "published_date": "2026-07-17T18:06:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How conflict in Congo, Sudan and Yemen is fueling the spread of disease",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-conflict-in-congo-sudan-and-yemen-is-fueling-the-spread-of-disease/a-77966475?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T15:08:00+00:00",
+      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+      "published_date": "2026-07-18T14:26:22+00:00",
       "category": "Military"
     },
     {
@@ -358,20 +358,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
       "published_date": "2026-07-15T12:00:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
-      "published_date": "2026-07-13T12:30:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
-      "published_date": "2026-07-13T10:53:56+00:00",
       "category": "Energy"
     },
     {
@@ -466,32 +452,67 @@
       "category": "Economy"
     },
     {
-      "title": "Kenya: What impact will Dangote's new refinery have on the region?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-what-impact-will-dangote-s-new-refinery-have-on-the-region/a-77927159?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T12:02:00+00:00",
-      "category": "Economy"
+      "title": "Kriminalität: Polizei ermittelt nach zwei schweren Angriffen in Dresden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/20/polizei-ermittelt-nach-zwei-schweren-angriffen-in-dresden",
+      "published_date": "2026-07-20T12:43:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'€12 per pack': Germany plans major hikes in tobacco tax",
+      "title": "Gedenkfeier im Bendlerblock: AfD-Kranz bei Stauffenberg-Gedenken löst Eklat aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/stauffenberg-attentat-bendlerblock-afd-kranz-tobias-korenke",
+      "published_date": "2026-07-20T12:19:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain's prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain's prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-20T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German word of the day: Pfeifkonzert",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260713/e12-per-pack-germany-plans-major-hikes-in-tobacco-tax",
-      "published_date": "2026-07-13T11:13:58+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260720/german-word-of-the-day-pfeifkonzert",
+      "published_date": "2026-07-20T10:51:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Tobacco tax to rise more than planned by 2030",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-tobacco-tax-to-rise-more-than-planned-by-2030/live-77932396?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-13T10:26:00+00:00",
-      "category": "Economy"
+      "title": "Out of Sight review – mountain idyll on the Swiss border is a gilded cage for distressed asylum seekers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/20/out-of-sight-review-asylum-seekers-alps",
+      "published_date": "2026-07-20T10:00:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Tobacco tax to rise more than planned by 2030",
+      "title": "'No tricks': German court ruling makes it easier to cancel online contracts",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260720/no-tricks-german-court-ruling-makes-it-easier-to-cancel-online-contracts",
+      "published_date": "2026-07-20T09:31:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Ruhr treat: can a giant pigeon and a pink basketball revive Germany’s depressed industrial heartland?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/jul/20/germany-ruhr-manifesta-biennale-churches",
+      "published_date": "2026-07-20T04:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: 'Cockroaches' take on Modi with parliament march",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-tobacco-tax-to-rise-more-than-planned-by-2030/live-77932396?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-13T10:26:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T03:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Open-Air-Konzert: Glatzenalarm: Pitbull bringt Düsseldorf zum Beben",
@@ -568,69 +589,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/alexander-hoffmann-csu-cdu-bundestag-jens-spahn",
       "published_date": "2026-07-18T18:39:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It becomes inevitable’: the toxic mix fuelling deadly political violence around world",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/18/inevitable-toxic-mix-fuelling-deadly-political-violence-world",
-      "published_date": "2026-07-18T12:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition",
-      "published_date": "2026-07-18T11:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leihmutterschaft: CDU-Politiker Wolfgang Bosbach legt Jens Spahn baldigen Rücktritt nahe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/spahn-leihmutter-cdu-brand-gxe",
-      "published_date": "2026-07-18T10:42:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Political tensions run high, water levels run low",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260718/inside-germany-political-tensions-run-high-water-levels-run-low",
-      "published_date": "2026-07-18T08:29:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Minister warns of high terror threat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-minister-warns-of-high-terror-threat/live-78016025?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Minister warns of high terror threat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-minister-warns-of-high-terror-threat/live-78016025?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-18T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: CJP to call for Modi's resignation after Sonam Wangchuk 'forcefully' shifted to hospital",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T06:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 'Cockroach' party warns of protest infiltrators",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroach-party-warns-of-protest-infiltrators/live-78015662?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T06:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The hill I will die on: Parisian waiters are not rude – they’re just badly misunderstood | Helen Massy-Beresford",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/the-hill-i-will-die-on-paris-waiters-misunderstood-stereotype",
-      "published_date": "2026-07-18T04:00:47+00:00",
       "category": "Local Events"
     }
   ]
