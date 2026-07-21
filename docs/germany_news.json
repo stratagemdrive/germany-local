@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-21T12:20:23.907193+00:00",
-  "story_count": 89,
+  "last_updated": "2026-07-21T23:49:39.191756+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Trump says the United States is 'not finished' with Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T20:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France becomes first EU country to ban social media access for under-15s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/21/france-ban-social-media-access-under-15s",
+      "published_date": "2026-07-21T19:14:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French lawmakers approve social media ban for children",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/french-lawmakers-approve-social-media-ban-for-children/a-78052466?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T15:45:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kunst und Krieg: EU stellt Unterstützung für Kunstbiennale in Venedig ein",
       "source": "ZEIT Online",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Algeria seeks larger EU energy role amid regional tensions",
+      "title": "Hegseth pushes for more funding for Iran war as US military hits Iran for 11th consecutive night. DW has the latest.",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T15:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/hegseth-pushes-for-more-funding-for-iran-war-as-us-military-hits-iran-for-11th-consecutive-night-dw-has-the-latest/live-78060128?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T23:42:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz moots Cabinet reshuffle after Spahn exit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-19T15:31:00+00:00",
-      "category": "Diplomacy"
+      "title": "Olaf Tufte: Zweimaliger Olympiasieger im Rudern mit 50 Jahren gestorben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-07/olaf-tufte-tod-rudern-norwegen",
+      "published_date": "2026-07-21T23:27:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz moots Cabinet reshuffle after Spahn exit",
+      "title": "Krieg gegen die Ukraine: Selenskyj trifft sich mit abgesetztem Verteidigungsminister Fedorow",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-07-21T22:57:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/21/zelenskyy-replaces-military-leader-and-brings-back-defence-minister-he-sacked",
+      "published_date": "2026-07-21T21:34:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's Zelenskyy fires military chief after days of protests",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T15:31:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T21:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T18:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China narrows AI gap, challenges US influence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-narrows-ai-gap-challenges-us-influence/a-78053001?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T14:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Germany investing in the right weapons?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-21T14:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Germany investing in the right weapons?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T14:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Moscow targeted as Wildberries warehouse attacks continue",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine-Krieg: Angriff mit Lenkbomben – Erneut Tote in Saporischschja",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/20/angriff-mit-lenkbomben-erneut-tote-in-saporischschja",
-      "published_date": "2026-07-19T23:11:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Liberate the lidos!’ Who will win the war over Italy’s private beaches?",
+      "title": "Airbus to test folding wings for next generation of bestselling planes",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/italy-private-free-beaches-campaigners-mafia-military",
-      "published_date": "2026-07-19T11:00:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian army deserters in Germany: 'No choice but to run'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-19T10:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian army deserters in Germany: 'No choice but to run'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T10:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian army deserters in Germany: 'No choice but to run'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-19T10:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-      "published_date": "2026-07-19T08:35:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/ukraine-war-briefing-strikes-devastate-russian-warehouses-used-for-drones",
-      "published_date": "2026-07-19T04:45:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's largest ballistic assault of war rocks Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T03:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's largest ballistic assault of war rocks Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-19T03:40:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jul/21/airbus-to-test-folding-wings-for-next-generation-of-bestselling-planes",
+      "published_date": "2026-07-21T17:50:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Notfälle: Gas in Jena ausgeströmt - Leck am Mittag geschlossen",
@@ -487,6 +494,90 @@
       "category": "Economy"
     },
     {
+      "title": "Deutsche Bahn: Wohnunglosenhilfe kritisiert geplantes Alkoholverbot an Bahnhöfen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-07/alkoholverbot-bahnhoefe-deutsche-bahn-personal-sicherheit",
+      "published_date": "2026-07-21T23:44:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtag: Schulze: BSW wird mit AfD gemeinsame Sache machen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/22/schulze-bsw-wird-mit-afd-gemeinsame-sache-machen",
+      "published_date": "2026-07-21T23:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahlkampf: Schulze warnt vor BSW-Unterstützung für AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/22/schulze-warnt-vor-bsw-unterstuetzung-fuer-afd",
+      "published_date": "2026-07-21T23:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Martin Sichert: AfD-Bundestagsabgeordneter darf nicht als Landrat kandidieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/martin-sichert-afd-landratswahl-friesland-wahlausschuss",
+      "published_date": "2026-07-21T22:31:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pläne der Bahn: Union und SPD: Alkoholverbot mit Bahn-Personal durchsetzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/22/union-und-spd-alkoholverbot-mit-bahn-personal-durchsetzen",
+      "published_date": "2026-07-21T22:26:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany records rise in sexual violence against children",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-records-rise-in-sexual-violence-against-children/a-78057669?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-21T17:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany records rise in sexual violence against children",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-records-rise-in-sexual-violence-against-children/a-78057669?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T17:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Police forcibly remove Rahul Gandhi from protest outside Modi residence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-police-forcibly-remove-rahul-gandhi-from-protest-outside-modi-residence/live-78043926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T15:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in mass shooting in northern Germany kills himself in jail",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260721/suspect-in-mass-shooting-in-northern-germany-kills-himself-in-jail",
+      "published_date": "2026-07-21T15:13:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI playing a growing role in child sexual abuse, warns German police",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260721/ai-playing-a-growing-role-in-child-sexual-abuse-warns-german-police",
+      "published_date": "2026-07-21T15:07:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Mass shooting suspect found dead in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-mass-shooting-suspect-found-dead-in-prison/a-78055706?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T14:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stand still, make eye contact: Denmark tells tourists how to behave in a wolf encounter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/21/denmark-advice-tourists-wolf-encounter",
+      "published_date": "2026-07-21T13:45:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Italy: Protests in Bologna over death of immigrant in police custody",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/italy-protests-in-bologna-over-death-of-immigrant-in-police-custody/a-78048027?maca=en-rss-en-all-1573-rdf",
@@ -540,90 +631,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nordrhein-westfalen-einstweilige-verfuegung-bundesvorstand",
       "published_date": "2026-07-20T23:20:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Liverpool foortball legend Kevin Keegan dies aged 75",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T16:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Liverpool football legend Kevin Keegan dies aged 75",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-20T16:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Liverpool football legend Kevin Keegan dies aged 75",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T16:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Polizei ermittelt nach zwei schweren Angriffen in Dresden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/20/polizei-ermittelt-nach-zwei-schweren-angriffen-in-dresden",
-      "published_date": "2026-07-20T12:43:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gedenkfeier im Bendlerblock: AfD-Kranz bei Stauffenberg-Gedenken löst Eklat aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/stauffenberg-attentat-bendlerblock-afd-kranz-tobias-korenke",
-      "published_date": "2026-07-20T12:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T11:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-20T11:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's new prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T11:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's new prime minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-20T11:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German word of the day: Pfeifkonzert",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260720/german-word-of-the-day-pfeifkonzert",
-      "published_date": "2026-07-20T10:51:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Out of Sight review – mountain idyll on the Swiss border is a gilded cage for distressed asylum seekers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/20/out-of-sight-review-asylum-seekers-alps",
-      "published_date": "2026-07-20T10:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No tricks': German court ruling makes it easier to cancel online contracts",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260720/no-tricks-german-court-ruling-makes-it-easier-to-cancel-online-contracts",
-      "published_date": "2026-07-20T09:31:25+00:00",
       "category": "Local Events"
     }
   ]
