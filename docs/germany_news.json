@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-20T23:48:58.480590+00:00",
-  "story_count": 83,
+  "last_updated": "2026-07-21T12:20:23.907193+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Kunst und Krieg: EU stellt Unterstützung für Kunstbiennale in Venedig ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/21/eu-stellt-unterstuetzung-fuer-kunstbiennale-in-venedig-ein",
+      "published_date": "2026-07-21T12:09:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From youth mobility to food exports: the outstanding EU dilemmas facing Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/21/eu-dilemmas-facing-burnham-food-exports-youth-mobility-starmer-europe",
+      "published_date": "2026-07-21T11:31:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘A big job ahead of him’: world leaders congratulate Andy Burnham as he becomes Britain’s PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/21/world-leaders-congratulate-andy-burnham-becomes-britain-pm",
+      "published_date": "2026-07-21T09:48:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China, Philippines clash in South China Sea ahead of ASEAN meeting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-philippines-clash-in-south-china-sea-ahead-of-asean-meeting/a-78044915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T08:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz hosts Azerbaijan President Aliyev",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-hosts-azerbaijan-president-aliyev/live-78044090?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-21T07:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz hosts Azerbaijan President Aliyev",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-hosts-azerbaijan-president-aliyev/live-78044090?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T07:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham’s plans could bring the UK closer to Europe than he realises",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/andy-burnhams-plans-could-bring-the-uk-closer-to-europe-than-he-realises",
+      "published_date": "2026-07-21T04:00:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Deutschland und Großbritannien: Merz und Burnham bekräftigen gemeinsame Unterstützung der Ukraine",
       "source": "ZEIT Online",
@@ -95,53 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Some people want to break up the EU. Why don’t they want to break up the US?",
+      "title": "Ukraine war briefing: Moscow targeted as Wildberries warehouse attacks continue",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/eu-us-federal-question-european-union",
-      "published_date": "2026-07-19T13:00:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Readers reply: Why is there no rugby culture in Germany?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/readers-reply-why-is-there-no-rugby-culture-in-germany",
-      "published_date": "2026-07-19T13:00:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU ban on destroying unsold clothes takes effect",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T13:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU ban on destroying unsold clothes takes effect",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-19T13:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ZDF-Sommerinterview: Friedrich Merz schließt nach Spahn-Rücktritt Kabinettsumbau nicht aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/jens-spahn-ruecktritt-unionsfraktionschef-friedrich-merz",
-      "published_date": "2026-07-19T10:55:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-18T19:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T19:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/21/ukraine-war-briefing-moscow-targeted-as-wildberries-warehouse-attacks-continue",
+      "published_date": "2026-07-21T01:24:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: US launches fresh strikes as Trump vows revenge",
@@ -277,11 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine-Krieg: Massiver russischer Raketenangriff auf Kiew",
+      "title": "Notfälle: Gas in Jena ausgeströmt - Leck am Mittag geschlossen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/19/massiver-russischer-raketenangriff-auf-kiew",
-      "published_date": "2026-07-18T23:34:49+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/news/2026-07/21/gasleck-in-jena-anwohner-sollen-fenster-und-tueren-schliessen",
+      "published_date": "2026-07-21T12:09:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘No electricity, no water, no fuel’: Ukrainian drone strikes bring darkness to Crimea’s summer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
+      "published_date": "2026-07-21T11:00:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Afghanistan: Deadly flash floods hit Nuristan province",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghanistan-deadly-flash-floods-hit-nuristan-province/a-78045451?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T08:19:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK's new PM Andy Burnham cuts household electricity tax",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-s-new-pm-andy-burnham-cuts-household-electricity-tax/a-78043392?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T05:41:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "US imposes new 50% tariff on many Canadian goods",
@@ -375,6 +403,27 @@
       "category": "Energy"
     },
     {
+      "title": "Germany's draft budget halves funding for integration courses",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260721/germanys-draft-budget-halves-funding-for-integration-courses",
+      "published_date": "2026-07-21T12:18:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How India's youth-led 'Cockroach' movement challenges Modi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-india-s-youth-led-cockroach-movement-challenges-modi/a-78048621?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T11:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why the youth jobs crisis is becoming global",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-the-youth-jobs-crisis-is-becoming-global/a-77991886?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T09:06:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Kriminalität am Telefon: Schockanruf: Rentnerehepaar um 25.000 Euro geprellt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/19/schockanruf-rentnerehepaar-um-25-000-euro-geprellt",
@@ -438,11 +487,53 @@
       "category": "Economy"
     },
     {
-      "title": "Is the era of €10 flights over for Germany?",
+      "title": "Italy: Protests in Bologna over death of immigrant in police custody",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-protests-in-bologna-over-death-of-immigrant-in-police-custody/a-78048027?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antisemitismus in Hamburg: »So toxisch diese Debatten sind, wir müssen zum Dialog zurückfinden«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-07/antisemitismus-hamburg-juedisches-leben-habitat-festival-anna-von-villiez",
+      "published_date": "2026-07-21T10:40:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in Italy after death of Moroccan man under police restraint",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
+      "published_date": "2026-07-21T10:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth",
+      "published_date": "2026-07-21T08:45:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Modi addresses exam leaks which sparked CJP protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-modi-addresses-exam-leaks-which-sparked-cjp-protest/live-78043926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-21T07:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260714/is-the-era-of-e10-flights-over-for-germany",
-      "published_date": "2026-07-14T12:10:09+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260721/today-in-germany-a-roundup-of-the-latest-ews-on-tuesday",
+      "published_date": "2026-07-21T06:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
+      "published_date": "2026-07-21T05:00:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AfD in Nordrhein-Westfalen: AfD in NRW will Verfügung gegen Bundesvorstand zurückziehen",
@@ -455,6 +546,20 @@
       "title": "England and Liverpool foortball legend Kevin Keegan dies aged 75",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T16:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England and Liverpool football legend Kevin Keegan dies aged 75",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-20T16:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England and Liverpool football legend Kevin Keegan dies aged 75",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-20T16:19:00+00:00",
       "category": "Local Events"
     },
@@ -487,6 +592,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Meet Andy Burnham, Britain's new prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-20T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain's new prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-20T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "German word of the day: Pfeifkonzert",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260720/german-word-of-the-day-pfeifkonzert",
@@ -505,83 +624,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260720/no-tricks-german-court-ruling-makes-it-easier-to-cancel-online-contracts",
       "published_date": "2026-07-20T09:31:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Ruhr treat: can a giant pigeon and a pink basketball revive Germany’s depressed industrial heartland?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/20/germany-ruhr-manifesta-biennale-churches",
-      "published_date": "2026-07-20T04:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 'Cockroaches' take on Modi with parliament march",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T03:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Police fire tear gas at 'Cockroaches' parliament march",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-police-fire-tear-gas-at-cockroaches-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T03:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Open-Air-Konzert: Glatzenalarm: Pitbull bringt Düsseldorf zum Beben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/20/glatzenalarm-pitbull-bringt-duesseldorf-zum-beben",
-      "published_date": "2026-07-19T22:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China firm seeks damages over state control of British Steel",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T10:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China firm seeks damages over state control of British Steel",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-19T10:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lashes, langers, bozzers and belly bachelors: a new book decodes Cork’s local slang",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/lashes-langers-bozzers-and-belly-bachelors-a-new-book-decodes-corks-local-slang",
-      "published_date": "2026-07-19T04:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary's president signs amendment ending his own term",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T20:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T19:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-18T19:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel: How real is threat of gender segregation on street?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T18:45:00+00:00",
       "category": "Local Events"
     }
   ]
