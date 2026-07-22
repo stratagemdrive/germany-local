@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-21T23:49:39.191756+00:00",
-  "story_count": 90,
+  "last_updated": "2026-07-22T12:22:42.172909+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "published_date": "2026-07-22T11:51:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says the United States is 'not finished' with Iran",
       "source": "Deutsche Welle",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Resistance to Nazi terror commemorated",
+      "title": "AI agent went rogue, hacked AI startup Hugging Face: OpenAI",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-resistance-to-nazi-terror-commemorated/live-78031915?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T09:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ai-agent-went-rogue-hacked-ai-startup-hugging-face-openai/a-78063624?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T10:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine renews strikes on Russia's largest online retailer",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-renews-strikes-on-russia-s-largest-online-retailer/a-78063598?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T09:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway’s national oil company profits double to $11.5bn amid war on Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
+      "published_date": "2026-07-22T08:39:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "My friends left Ukraine after the Russian invasion. Now I wonder if we live in the same world | Diana Berg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/22/my-friends-left-ukraine-after-the-russian-invasion-now-i-wonder-if-we-live-in-the-same-world",
+      "published_date": "2026-07-22T04:00:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Fuel prices soar as hostilities continue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-fuel-prices-soar-as-hostilities-continue/live-78060128?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T03:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Mykhailo Drapatyi takes over as Kyiv’s top commander",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/ukraine-war-briefing-mykhailo-drapatyi-takes-over-as-kyivs-top-commander",
+      "published_date": "2026-07-22T01:57:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Hegseth pushes for more funding for Iran war as US military hits Iran for 11th consecutive night. DW has the latest.",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine targets Moscow with drones after huge Russian attack on Kyiv – Europe live",
+      "title": "​World’s largest meat company faces legal challenge over green credentials of $6bn global expansion",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
-      "published_date": "2026-07-20T12:43:21+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan",
+      "published_date": "2026-07-22T06:00:09+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Gazastreifen: Hamas ernennt Chalil al-Hajja zum neuen Anführer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/khalil-al-hayya-hamas-vorsitzender-gazastreifen",
-      "published_date": "2026-07-20T12:05:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "INTERVIEW: What it takes to get a German residence permit as a foreign military spouse",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260720/interview-what-it-takes-to-get-a-german-residence-permit-as-a-foreign-military-spouse",
-      "published_date": "2026-07-20T11:46:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia behind deadly strike on cargo ship, says Ukraine, as Putin thanks North Korea",
+      "title": "‘Risking blackouts’? How Great Britain’s grid operator was dragged into a political row",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-war-briefing-russia-behind-deadly-strike-on-cargo-ship-says-ukraine-as-putin-thanks-north-korea",
-      "published_date": "2026-07-20T00:29:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US conducts strikes for 9th night in a row",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-conducts-strikes-for-9th-night-in-a-row/live-78030432?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-19T23:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Heimatschutzdivision: Bundeswehr will Schutz von Infrastruktur deutlich ausweiten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/heimatschutzdivision-bundeswehr-andreas-henne-soldaten",
-      "published_date": "2026-07-19T23:43:57+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jul/22/risking-blackouts-great-britain-grid-operator-neso-heatwave",
+      "published_date": "2026-07-22T05:00:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Airbus to test folding wings for next generation of bestselling planes",
@@ -403,11 +417,25 @@
       "category": "Energy"
     },
     {
-      "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
-      "published_date": "2026-07-15T12:00:55+00:00",
-      "category": "Energy"
+      "title": "Germany news: Prosecutors search Deutsche Bank headquarters",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-prosecutors-search-deutsche-bank-headquarters/live-78063298?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T10:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will surge in German business bankruptcies hit growth?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-surge-in-german-business-bankruptcies-hit-growth/a-78037755?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-22T10:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will surge in German business bankruptcies hit growth?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-surge-in-german-business-bankruptcies-hit-growth/a-78037755?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T10:50:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany's draft budget halves funding for integration courses",
@@ -473,25 +501,74 @@
       "category": "Economy"
     },
     {
-      "title": "Why investors are suddenly fleeing Indonesia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T08:13:00+00:00",
-      "category": "Economy"
+      "title": "Pkw-Maut: Ex-Bundesverkehrsminister Scheuer ab September vor Gericht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/andreas-scheuer-csu-prozess-falschaussage-pkw-maut",
+      "published_date": "2026-07-22T12:08:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Indonesia's economy is under pressure",
+      "title": "France: Minister quits over pesticide bill — but is staying",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-indonesia-s-economy-is-under-pressure/a-77847180?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T08:13:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/france-minister-quits-over-pesticide-bill-but-is-staying/a-78064991?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T11:58:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "India news: Landmark trade deal with UK takes effect",
+      "title": "Video shows death of man in Italy while under police restraint - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/22/video-shows-death-of-man-in-italy-while-under-police-restraint-video",
+      "published_date": "2026-07-22T10:39:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frankfurt am Main: Behörden durchsuchen Zentrale der Deutschen Bank",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/behoerden-durchsuchen-laut-medien-zentrale-der-deutschen-bank",
+      "published_date": "2026-07-22T10:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where rents are rising fastest in Germany in 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260722/where-rents-are-rising-fastest-in-germany-in-2026",
+      "published_date": "2026-07-22T09:08:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police station opens in Hitler's birth house",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-15T07:53:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/police-station-opens-in-hitler-s-birth-house/a-78039537?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-22T09:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police station opens in Hitler's birth house",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-station-opens-in-hitler-s-birth-house/a-78039537?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T09:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hitler's Austrian birthplace near German border becomes police station",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260722/hitlers-austrian-birthplace-near-german-border-to-become-a-police-station",
+      "published_date": "2026-07-22T07:35:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260722/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-130",
+      "published_date": "2026-07-22T06:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chile: Several dead, missing in severe rainstorm",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/chile-several-dead-missing-in-severe-rainstorm/a-78061120?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T06:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deutsche Bahn: Wohnunglosenhilfe kritisiert geplantes Alkoholverbot an Bahnhöfen",
@@ -561,76 +638,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260721/ai-playing-a-growing-role-in-child-sexual-abuse-warns-german-police",
       "published_date": "2026-07-21T15:07:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Mass shooting suspect found dead in prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-mass-shooting-suspect-found-dead-in-prison/a-78055706?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stand still, make eye contact: Denmark tells tourists how to behave in a wolf encounter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/denmark-advice-tourists-wolf-encounter",
-      "published_date": "2026-07-21T13:45:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy: Protests in Bologna over death of immigrant in police custody",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-protests-in-bologna-over-death-of-immigrant-in-police-custody/a-78048027?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antisemitismus in Hamburg: »So toxisch diese Debatten sind, wir müssen zum Dialog zurückfinden«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-07/antisemitismus-hamburg-juedisches-leben-habitat-festival-anna-von-villiez",
-      "published_date": "2026-07-21T10:40:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Italy after death of Moroccan man under police restraint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
-      "published_date": "2026-07-21T10:09:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth",
-      "published_date": "2026-07-21T08:45:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Modi addresses exam leaks which sparked CJP protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-modi-addresses-exam-leaks-which-sparked-cjp-protest/live-78043926?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T07:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260721/today-in-germany-a-roundup-of-the-latest-ews-on-tuesday",
-      "published_date": "2026-07-21T06:37:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
-      "published_date": "2026-07-21T05:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD in Nordrhein-Westfalen: AfD in NRW will Verfügung gegen Bundesvorstand zurückziehen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nordrhein-westfalen-einstweilige-verfuegung-bundesvorstand",
-      "published_date": "2026-07-20T23:20:38+00:00",
       "category": "Local Events"
     }
   ]
