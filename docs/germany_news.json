@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-22T12:22:42.172909+00:00",
-  "story_count": 91,
+  "last_updated": "2026-07-22T23:55:23.852458+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T23:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who could be the next UN Secretary-General?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T17:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Merz replaces key figure following surrogacy row",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-22T15:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Merz replaces key figure following surrogacy row",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T15:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's growing interest in Africa: A win for both sides?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-22T14:44:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's growing interest in Africa: A win for both sides?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T14:44:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "​Andy Burnham’s ​domestic ​revolution ​could ​unobtrusively pull Britain ​closer to Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/andy-burnhams-domestic-revolution-could-unobtrusively-pull-britain-closer-to-europe",
+      "published_date": "2026-07-22T14:40:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz replaces conservative leader ousted over surrogacy scandal",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260722/germanys-merz-replaces-conservative-leader-ousted-over-surrogacy-scandal",
+      "published_date": "2026-07-22T14:21:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
       "source": "The Guardian",
@@ -88,65 +144,65 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AliExpress hit with record EU fine",
+      "title": "US and Saudi Arabia reach historic nuclear energy deal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T17:43:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T23:39:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "AliExpress hit with record EU fine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-20T17:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why a 90-year-old treaty limits NATO in the Black Sea",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T14:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why a 90-year-old treaty limits NATO in the Black Sea",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-20T14:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Airport bosses warn EU's new border checks triple waiting times for Brits",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260720/airport-bosses-warn-eus-new-border-checks-triple-waiting-times-for-brits",
-      "published_date": "2026-07-20T12:22:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fines AliExpress €550m over sale of illegal products in Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260720/eu-fines-aliexpress-e550m-over-sale-of-illegal-products-in-europe",
-      "published_date": "2026-07-20T11:49:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+      "title": "Zelenskyy under growing pressure to reinstate sacked defence minister",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
-      "published_date": "2026-07-20T10:56:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/22/volodymyr-zelenskyy-pressure-reinstate-sacked-defence-minister-mykhailo-fedorov",
+      "published_date": "2026-07-22T18:31:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Resistance to Nazi terror commemorated",
+      "title": "Mykhailo Drapatyi: Ukrainians hope new commander will end army’s ‘Soviet culture’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/mykhailo-drapatyi-ukrainians-hope-new-commander-will-end-armys-soviet-culture",
+      "published_date": "2026-07-22T17:48:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Russia is luring foreign nationals to fight in Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-resistance-to-nazi-terror-commemorated/live-78031915?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-20T09:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-russia-is-luring-foreign-nationals-to-fight-in-ukraine/a-78074153?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T17:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Russia is luring foreign nationals to fight in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-russia-is-luring-foreign-nationals-to-fight-in-ukraine/a-78074153?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-22T17:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy talks with Trump envoys amid attacks on Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-talks-with-trump-envoys-amid-attacks-on-russia/a-78063598?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T17:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy ousts Ukraine army chief after protests - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/22/volodymyr-zelenskyy-ousts-top-ukraine-general-oleksandr-syrskyi-after-protests-the-latest",
+      "published_date": "2026-07-22T15:50:18+00:00",
+      "category": "Military"
     },
     {
       "title": "AI agent went rogue, hacked AI startup Hugging Face: OpenAI",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ai-agent-went-rogue-hacked-ai-startup-hugging-face-openai/a-78063624?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T10:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OpenAI says its AI model went rogue and hacked startup",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/openai-says-its-ai-model-went-rogue-and-hacked-startup/a-78063624?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-22T10:23:00+00:00",
       "category": "Military"
     },
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "China narrows AI gap, challenges US influence",
+      "title": "US hits Iran as Houthis claim strikes on Saudi tankers",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-narrows-ai-gap-challenges-us-influence/a-78053001?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T14:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Germany investing in the right weapons?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-21T14:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Germany investing in the right weapons?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T14:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Moscow targeted as Wildberries warehouse attacks continue",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/ukraine-war-briefing-moscow-targeted-as-wildberries-warehouse-attacks-continue",
-      "published_date": "2026-07-21T01:24:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US launches fresh strikes as Trump vows revenge",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-as-trump-vows-revenge/live-78042474?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T22:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s army chief expected to lose job after week of protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
-      "published_date": "2026-07-20T18:01:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says bus strike kills 5 in border region with Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T15:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says bus strike kills 5 in border region with Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-20T15:09:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-hits-iran-as-houthis-claim-strikes-on-saudi-tankers/live-78077811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T23:02:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "​World’s largest meat company faces legal challenge over green credentials of $6bn global expansion",
@@ -417,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Food price fears after Europe’s heatwave destroys estimated €2bn of crops",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
+      "published_date": "2026-07-22T14:12:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can India become the next semiconductor hub after Taiwan?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-india-become-the-next-semiconductor-hub-after-taiwan/a-78066491?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T13:17:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Germany news: Prosecutors search Deutsche Bank headquarters",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-prosecutors-search-deutsche-bank-headquarters/live-78063298?maca=en-rss-en-all-1573-rdf",
@@ -494,11 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "Maltese politicians ‘involved’ in plot to kill Daphne Caruana Galizia, court hears",
+      "title": "Landtagswahlen: Arbeitgeberpräsident: AfD hat keine Lösungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/23/arbeitgeberpraesident-afd-hat-keine-loesungen",
+      "published_date": "2026-07-22T23:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wohnen und Gesellschaft: Stadt Frankfurt: Ende der Zeltunterkunft in Sicht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/23/stadt-frankfurt-ende-der-zeltunterkunft-in-sicht",
+      "published_date": "2026-07-22T23:22:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US judge sets Maduro trial date for June 2027",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-judge-sets-maduro-trial-date-for-june-2027/a-78077318?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-22T19:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kevin Keegan’s legacy and great humility | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/malta-politicians-plot-to-kill-daphne-caruana-galizia-court-hears",
-      "published_date": "2026-07-15T19:58:23+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/football/2026/jul/22/kevin-keegan-legacy-and-great-humility",
+      "published_date": "2026-07-22T16:51:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ultimate guide to making the most of Berlin Pride 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260722/the-ultimate-guide-to-making-the-most-of-berlin-pride-2026",
+      "published_date": "2026-07-22T13:43:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two trams collide on bridge in Rotterdam, injuring at least 15 people  - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/22/two-trams-collide-bridge-rotterdam-injuring-at-least-15-people-video",
+      "published_date": "2026-07-22T13:29:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pkw-Maut: Ex-Bundesverkehrsminister Scheuer ab September vor Gericht",
@@ -596,48 +652,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-07/martin-sichert-afd-landratswahl-friesland-wahlausschuss",
       "published_date": "2026-07-21T22:31:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pläne der Bahn: Union und SPD: Alkoholverbot mit Bahn-Personal durchsetzen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/22/union-und-spd-alkoholverbot-mit-bahn-personal-durchsetzen",
-      "published_date": "2026-07-21T22:26:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany records rise in sexual violence against children",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-records-rise-in-sexual-violence-against-children/a-78057669?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-21T17:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany records rise in sexual violence against children",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-records-rise-in-sexual-violence-against-children/a-78057669?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T17:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Police forcibly remove Rahul Gandhi from protest outside Modi residence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-police-forcibly-remove-rahul-gandhi-from-protest-outside-modi-residence/live-78043926?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T15:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in mass shooting in northern Germany kills himself in jail",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260721/suspect-in-mass-shooting-in-northern-germany-kills-himself-in-jail",
-      "published_date": "2026-07-21T15:13:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI playing a growing role in child sexual abuse, warns German police",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260721/ai-playing-a-growing-role-in-child-sexual-abuse-warns-german-police",
-      "published_date": "2026-07-21T15:07:36+00:00",
       "category": "Local Events"
     }
   ]
