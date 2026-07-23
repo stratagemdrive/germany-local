@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-23T12:20:17.279046+00:00",
-  "story_count": 91,
+  "last_updated": "2026-07-23T23:53:32.353205+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Welthandel: US-Präsident Donald Trump verhängt neue Zölle gegen 60 Länder",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/us-praesident-donald-trump-verhaengt-neue-zoelle-gegen-60-laender",
+      "published_date": "2026-07-23T23:20:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Google: USA kritisieren Milliardenstrafe der EU gegen Google",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/google-eu-kommission-milliardenstrafe-alphabet-digital-markets-act",
+      "published_date": "2026-07-23T19:59:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada-EU: Closer trade ties to counter Trump?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-eu-closer-trade-ties-to-counter-trump/a-78082851?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T13:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada-EU: Closer trade ties to counter Trump?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-eu-closer-trade-ties-to-counter-trump/a-78082851?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-23T13:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Google €890 million and risks US fury",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260723/eu-fines-google-e890-million-and-risks-us-fury",
+      "published_date": "2026-07-23T12:50:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany seeks energy and trading partners in Africa",
       "source": "Deutsche Welle",
@@ -67,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany news: FM Wadephul wraps up Africa tour in South Africa",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-fm-wadephul-wraps-up-africa-tour-in-south-africa/live-78079267?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-23T08:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Nobody in Europe knows or cares what Kemi Badenoch thinks. That’s a big mistake | Simon Nixon",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/23/europe-kemi-badenoch-uk-echr-treaties",
@@ -102,46 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's growing interest in Africa: A win for both sides?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-22T14:44:00+00:00",
-      "category": "Diplomacy"
+      "title": "Air Force One: Erfolg für »New York Times« im Streit mit Trump-Regierung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/new-york-times-vorladungen-us-justizministerium-air-force-one-trump",
+      "published_date": "2026-07-23T22:24:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's growing interest in Africa: A win for both sides?",
+      "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T14:44:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T20:07:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "​Andy Burnham’s ​domestic ​revolution ​could ​unobtrusively pull Britain ​closer to Europe",
+      "title": "US threatens 'major military punishment' for Houthi attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-threatens-major-military-punishment-for-houthi-attacks/live-78077811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T17:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T16:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Germany investing in the right weapons?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-23T15:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Germany investing in the right weapons?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T15:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Murdoch and Musk in the crosshairs at Venice film festival",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/andy-burnhams-domestic-revolution-could-unobtrusively-pull-britain-closer-to-europe",
-      "published_date": "2026-07-22T14:40:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
+      "published_date": "2026-07-23T14:58:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz replaces conservative leader ousted over surrogacy scandal",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260722/germanys-merz-replaces-conservative-leader-ousted-over-surrogacy-scandal",
-      "published_date": "2026-07-22T14:21:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-      "published_date": "2026-07-22T11:51:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says the United States is 'not finished' with Iran",
+      "title": "US strikes on southern Iran infrastructure widen war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T20:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-strikes-on-southern-iran-infrastructure-widen-war/a-78087402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T14:55:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Czechia: Army helicopter crashes, killing at least one",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Zelenskyy ousts Ukraine army chief after protests - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/22/volodymyr-zelenskyy-ousts-top-ukraine-general-oleksandr-syrskyi-after-protests-the-latest",
-      "published_date": "2026-07-22T15:50:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI agent went rogue, hacked AI startup Hugging Face: OpenAI",
+      "title": "Spain's solar eclipse trilogy: spectacle starting August 12",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-agent-went-rogue-hacked-ai-startup-hugging-face-openai/a-78063624?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T10:23:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/spain-s-solar-eclipse-trilogy-spectacle-starting-august-12/a-78041718?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T14:20:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "OpenAI says its AI model went rogue and hacked startup",
+      "title": "Oil prices jump as Hormuz, Red Sea crises deepen",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/openai-says-its-ai-model-went-rogue-and-hacked-startup/a-78063624?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T10:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine renews strikes on Russia's largest online retailer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-renews-strikes-on-russia-s-largest-online-retailer/a-78063598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T09:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Norway’s national oil company profits double to $11.5bn amid war on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
-      "published_date": "2026-07-22T08:39:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "My friends left Ukraine after the Russian invasion. Now I wonder if we live in the same world | Diana Berg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/22/my-friends-left-ukraine-after-the-russian-invasion-now-i-wonder-if-we-live-in-the-same-world",
-      "published_date": "2026-07-22T04:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Fuel prices soar as hostilities continue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-fuel-prices-soar-as-hostilities-continue/live-78060128?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T03:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Mykhailo Drapatyi takes over as Kyiv’s top commander",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/ukraine-war-briefing-mykhailo-drapatyi-takes-over-as-kyivs-top-commander",
-      "published_date": "2026-07-22T01:57:44+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/oil-prices-jump-as-hormuz-red-sea-crises-deepen/a-78078835?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T13:36:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
@@ -410,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Cities are getting smarter about water and other eco wins",
+      "title": "Trump's refugee policy: Only white South Africans welcome?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cities-are-getting-smarter-about-water-and-other-eco-wins/a-77999380?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T13:24:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T14:53:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran's oil supply threat extends beyond Strait of Hormuz",
+      "title": "Can India's 'Cockroach' protest movement go nationwide?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-s-oil-supply-threat-extends-beyond-strait-of-hormuz/a-77980704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-17T09:53:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/can-india-s-cockroach-protest-movement-go-nationwide/a-78086081?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T14:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB keeps interest rates unchanged amid Iran war inflation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ecb-keeps-interest-rates-unchanged-amid-iran-war-inflation/a-78085650?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T13:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB keeps interest rates unchanged amid Iran war inflation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ecb-keeps-interest-rates-unchanged-amid-iran-war-inflation/a-78085650?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-23T13:54:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Your views: Is Germany's Sunday shopping ban an outdated tradition or a chance for calm?",
@@ -501,6 +529,41 @@
       "category": "Economy"
     },
     {
+      "title": "Indian activist Sonam Wangchuk ends hunger strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T20:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One person dies in attack at bank in Regensburg",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260723/one-person-dies-in-attack-at-bank-in-regensburg",
+      "published_date": "2026-07-23T15:34:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies of injuries after attack at Regensburg bank: police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/man-dies-of-injuries-after-attack-at-regensburg-bank-police/a-78087409?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-23T14:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies of injuries after attack at Regensburg bank: police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/man-dies-of-injuries-after-attack-at-regensburg-bank-police/a-78087409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T14:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Armed 'bandits' kill more than 20 in Zamfara state",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-armed-bandits-kill-more-than-20-in-zamfara-state/a-78085085?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-23T12:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Landtagswahl in Sachsen-Anhalt: Fünf Prozent, das wär’s schon",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/32/landtagswahl-sachsen-anhalt-afd-mehrheit-5-prozent-huerde",
@@ -512,6 +575,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/23/mvp-im-finale-bean-bindet-sich-an-alba-berlin",
       "published_date": "2026-07-23T12:02:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Americans in Germany: How to vote in the coming US mid-term elections",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260723/americans-in-germany-how-to-vote-in-the-coming-us-mid-term-elections",
+      "published_date": "2026-07-23T11:32:24+00:00",
       "category": "Local Events"
     },
     {
@@ -596,48 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/jul/22/video-shows-death-of-man-in-italy-while-under-police-restraint-video",
       "published_date": "2026-07-22T10:39:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frankfurt am Main: Behörden durchsuchen Zentrale der Deutschen Bank",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/behoerden-durchsuchen-laut-medien-zentrale-der-deutschen-bank",
-      "published_date": "2026-07-22T10:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where rents are rising fastest in Germany in 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260722/where-rents-are-rising-fastest-in-germany-in-2026",
-      "published_date": "2026-07-22T09:08:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police station opens in Hitler's birth house",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-station-opens-in-hitler-s-birth-house/a-78039537?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-22T09:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police station opens in Hitler's birth house",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-station-opens-in-hitler-s-birth-house/a-78039537?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T09:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitler's Austrian birthplace near German border becomes police station",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260722/hitlers-austrian-birthplace-near-german-border-to-become-a-police-station",
-      "published_date": "2026-07-22T07:35:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260722/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-130",
-      "published_date": "2026-07-22T06:38:28+00:00",
       "category": "Local Events"
     }
   ]
