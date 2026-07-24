@@ -1,8 +1,85 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-23T23:53:32.353205+00:00",
-  "story_count": 95,
+  "last_updated": "2026-07-24T12:15:06.975968+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Carsten Linnemann: Der Einwechselspieler",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/carsten-linnemann-cdu-gesunheitsministerium-generalsekretaer-reform",
+      "published_date": "2026-07-24T11:49:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fighting wildfires is getting harder — these tips could help",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fighting-wildfires-is-getting-harder-these-tips-could-help/a-78091968?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T10:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz shuffles German government following high-level resignation",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260724/merz-shuffles-german-government-following-high-level-resignation",
+      "published_date": "2026-07-24T08:57:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU breathes sigh of relief over new Trump tariffs",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260724/eu-breathes-sigh-of-relief-over-new-trump-tariffs",
+      "published_date": "2026-07-24T08:33:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-24T07:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T07:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby | Tania Roettger",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby",
+      "published_date": "2026-07-24T04:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
+      "published_date": "2026-07-24T04:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: EU sanctions oust Russian president of world chess",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
+      "published_date": "2026-07-24T01:32:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "published_date": "2026-07-24T00:16:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wildfires in Europe prompt tens of thousands to evacuate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/wildfires-in-europe-prompt-tens-of-thousands-to-evacuate/a-78080171?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T00:11:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Welthandel: US-Präsident Donald Trump verhängt neue Zölle gegen 60 Länder",
       "source": "ZEIT Online",
@@ -64,83 +141,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/mobilitaet/2026-07/flugangebot-deutsche-flughaefen-luftverkehr-bdl-mittlerer-osten",
       "published_date": "2026-07-23T10:39:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fines Google €890 million over competition rules",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-fines-google-€890-million-over-competition-rules/a-78082850?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T10:19:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fines Google €890 million over competition rules",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-fines-google-€890-million-over-competition-rules/a-78082850?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-23T10:19:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU agrees on new round of sanctions against Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-agrees-on-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T10:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fines Google €890m for competition breaches over search and apps",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "published_date": "2026-07-23T10:00:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: FM Wadephul wraps up Africa tour in South Africa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-fm-wadephul-wraps-up-africa-tour-in-south-africa/live-78079267?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T08:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: FM Wadephul wraps up Africa tour in South Africa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-fm-wadephul-wraps-up-africa-tour-in-south-africa/live-78079267?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-23T08:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nobody in Europe knows or cares what Kemi Badenoch thinks. That’s a big mistake | Simon Nixon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/23/europe-kemi-badenoch-uk-echr-treaties",
-      "published_date": "2026-07-23T04:00:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T23:42:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who could be the next UN Secretary-General?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T17:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Merz replaces key figure following surrogacy row",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-22T15:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Merz replaces key figure following surrogacy row",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T15:02:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "France evacuates Cap Ferret peninsula as Spain battles to prevent wildfires merging near Madrid – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
+      "published_date": "2026-07-24T12:03:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "France orders total evacuation of Cap Ferret peninsula as wildfire spreads",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
+      "published_date": "2026-07-24T11:42:32+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Spain's solar eclipse trilogy: spectacle starting August 12",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/spain-s-solar-eclipse-trilogy-spectacle-starting-august-12/a-78041718?maca=en-rss-en-all-1573-rdf",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Klimapolitik: Wadephul drängt auf Ausbau erneuerbarer Energien",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/klimapolitik-union-johann-wadephul-strasse-von-hormus-energie",
-      "published_date": "2026-07-17T22:03:02+00:00",
-      "category": "Energy"
+      "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T11:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
+      "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
-      "published_date": "2026-07-17T16:01:02+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
+      "published_date": "2026-07-24T10:34:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump's refugee policy: Only white South Africans welcome?",
@@ -529,6 +543,41 @@
       "category": "Economy"
     },
     {
+      "title": "What are Germany's 'Familienzentren' and how do they support families?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260724/what-are-germanys-familienzentren-and-how-do-they-support-families",
+      "published_date": "2026-07-24T09:59:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jürgen Klopp and Germany: A partnership long in the making",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-24T09:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jürgen Klopp and Germany: A partnership long in the making",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T09:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Government, CJP hold talks after Wangchuk ends fast",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-government-cjp-hold-talks-after-wangchuk-ends-fast/live-78093329?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T07:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260724/today-in-germany-a-roundup-of-the-latest-news-on-friday-132",
+      "published_date": "2026-07-24T06:47:20+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Indian activist Sonam Wangchuk ends hunger strike",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-rdf",
@@ -631,41 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/football/2026/jul/22/kevin-keegan-legacy-and-great-humility",
       "published_date": "2026-07-22T16:51:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ultimate guide to making the most of Berlin Pride 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260722/the-ultimate-guide-to-making-the-most-of-berlin-pride-2026",
-      "published_date": "2026-07-22T13:43:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two trams collide on bridge in Rotterdam, injuring at least 15 people  - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/22/two-trams-collide-bridge-rotterdam-injuring-at-least-15-people-video",
-      "published_date": "2026-07-22T13:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pkw-Maut: Ex-Bundesverkehrsminister Scheuer ab September vor Gericht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/andreas-scheuer-csu-prozess-falschaussage-pkw-maut",
-      "published_date": "2026-07-22T12:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Minister quits over pesticide bill — but is staying",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-minister-quits-over-pesticide-bill-but-is-staying/a-78064991?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T11:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video shows death of man in Italy while under police restraint - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/22/video-shows-death-of-man-in-italy-while-under-police-restraint-video",
-      "published_date": "2026-07-22T10:39:52+00:00",
       "category": "Local Events"
     }
   ]
