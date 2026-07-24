@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-24T12:15:06.975968+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-24T23:56:28.570766+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Bundesregierung: Frei verteidigt Merz nach Problemen beim Kabinettsumbau",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/kabinettsumbildung-friedrich-merz-cdu-thorsten-frei-nina-warken",
+      "published_date": "2026-07-24T22:23:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+      "published_date": "2026-07-24T21:22:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zölle: Trump droht EU mit neuen Zöllen wegen Google-Millionenstrafe",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/donald-trump-eu-google-strafe-zoelle",
+      "published_date": "2026-07-24T18:56:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens EU with tariff probe over Google, tech fines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T18:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens EU with tariff probe over Google, tech fines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-24T18:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fritz Güntzler: Äußerst ungüntztig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/fritz-guentzler-verkehrsminister-bundeskabinett-friedrich-merz",
+      "published_date": "2026-07-24T18:17:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top court defends Afghan woman's right to resettlement in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260724/top-court-defends-afghan-womans-right-to-resettlement-in-germany",
+      "published_date": "2026-07-24T15:15:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
+      "published_date": "2026-07-24T15:03:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maga influencer Laura Loomer reverses course on Ukraine after Kyiv visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit",
+      "published_date": "2026-07-24T13:00:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Carsten Linnemann: Der Einwechselspieler",
       "source": "ZEIT Online",
@@ -81,67 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Welthandel: US-Präsident Donald Trump verhängt neue Zölle gegen 60 Länder",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/us-praesident-donald-trump-verhaengt-neue-zoelle-gegen-60-laender",
-      "published_date": "2026-07-23T23:20:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Google: USA kritisieren Milliardenstrafe der EU gegen Google",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/google-eu-kommission-milliardenstrafe-alphabet-digital-markets-act",
-      "published_date": "2026-07-23T19:59:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada-EU: Closer trade ties to counter Trump?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-eu-closer-trade-ties-to-counter-trump/a-78082851?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T13:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada-EU: Closer trade ties to counter Trump?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-eu-closer-trade-ties-to-counter-trump/a-78082851?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-23T13:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fines Google €890 million and risks US fury",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260723/eu-fines-google-e890-million-and-risks-us-fury",
-      "published_date": "2026-07-23T12:50:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany seeks energy and trading partners in Africa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-seeks-energy-and-trading-partners-in-africa/a-78084153?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T12:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New EU sanctions will ‘hit Putin where it hurts most’, says foreign policy chief Kallas – Europe live",
+      "title": "Law student charged after military-grade bomb intercepted near Irish border",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-      "published_date": "2026-07-23T12:01:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
+      "published_date": "2026-07-24T22:18:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Google: EU verhängt 890 Millionen Euro Strafe gegen Google",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/2026-07/eu-verhaengt-890-millionen-euro-strafe-gegen-google-gxe",
-      "published_date": "2026-07-23T11:25:16+00:00",
-      "category": "Diplomacy"
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-07-24T18:02:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Flugverkehr: Flugangebot von deutschen Flughäfen stagniert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-07/flugangebot-deutsche-flughaefen-luftverkehr-bdl-mittlerer-osten",
-      "published_date": "2026-07-23T10:39:35+00:00",
-      "category": "Diplomacy"
+      "title": "Russia hits drone demonstration near Kyiv, killing 10",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T17:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hits drone demonstration near Kyiv, killing 10",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-24T17:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Yemen's Houthis deny they closed Bab al-Mandeb Strait",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-yemen-s-houthis-deny-they-closed-bab-al-mandeb-strait/live-78093040?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T15:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger still seeks stability, after 3 years of military rule",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T15:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Iran's Pickaxe Mountain is a tough target for the US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-iran-s-pickaxe-mountain-is-a-tough-target-for-the-us/a-78100313?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T12:45:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Air Force One: Erfolg für »New York Times« im Streit mit Trump-Regierung",
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/who-is-ukraine-s-new-military-chief/a-78077075?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-07-23T07:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: War on Wildberries burns two more warehouses",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/23/ukraine-war-briefing-wildberries-more-warehouses-attacked",
-      "published_date": "2026-07-23T01:07:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Saudi Arabia reach historic nuclear energy deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T23:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy under growing pressure to reinstate sacked defence minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/volodymyr-zelenskyy-pressure-reinstate-sacked-defence-minister-mykhailo-fedorov",
-      "published_date": "2026-07-22T18:31:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mykhailo Drapatyi: Ukrainians hope new commander will end army’s ‘Soviet culture’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/mykhailo-drapatyi-ukrainians-hope-new-commander-will-end-armys-soviet-culture",
-      "published_date": "2026-07-22T17:48:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Russia is luring foreign nationals to fight in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-russia-is-luring-foreign-nationals-to-fight-in-ukraine/a-78074153?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T17:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Russia is luring foreign nationals to fight in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-russia-is-luring-foreign-nationals-to-fight-in-ukraine/a-78074153?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-22T17:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy talks with Trump envoys amid attacks on Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-talks-with-trump-envoys-amid-attacks-on-russia/a-78063598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T17:36:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T22:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen profits down as competition from China heats up",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260724/volkswagen-profits-down-as-competition-from-china-heats-up",
+      "published_date": "2026-07-24T13:51:35+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-all-1573-rdf",
@@ -543,6 +557,41 @@
       "category": "Economy"
     },
     {
+      "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T21:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland’s main rightwing opposition splits after loyalty pledge ultimatum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
+      "published_date": "2026-07-24T13:50:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T12:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Top court rules out mass admission revocations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-top-court-rules-out-mass-admission-revocations/live-78101249?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-24T12:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Top court rules out mass admission revocations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-top-court-rules-out-mass-admission-revocations/live-78101249?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-24T12:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "What are Germany's 'Familienzentren' and how do they support families?",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260724/what-are-germanys-familienzentren-and-how-do-they-support-families",
@@ -645,41 +694,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260723/today-in-germany-a-roundup-of-the-latest-news-on-thursday-128",
       "published_date": "2026-07-23T06:43:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru: 10 killed in housefire in capital Lima",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peru-10-killed-in-housefire-in-capital-lima/a-78078367?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T05:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahlen: Arbeitgeberpräsident: AfD hat keine Lösungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/23/arbeitgeberpraesident-afd-hat-keine-loesungen",
-      "published_date": "2026-07-22T23:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wohnen und Gesellschaft: Stadt Frankfurt: Ende der Zeltunterkunft in Sicht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/23/stadt-frankfurt-ende-der-zeltunterkunft-in-sicht",
-      "published_date": "2026-07-22T23:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge sets Maduro trial date for June 2027",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-judge-sets-maduro-trial-date-for-june-2027/a-78077318?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T19:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kevin Keegan’s legacy and great humility | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jul/22/kevin-keegan-legacy-and-great-humility",
-      "published_date": "2026-07-22T16:51:03+00:00",
       "category": "Local Events"
     }
   ]
