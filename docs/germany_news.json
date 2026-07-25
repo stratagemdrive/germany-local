@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-25T11:58:54.933499+00:00",
+  "last_updated": "2026-07-25T23:52:40.518926+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "published_date": "2026-07-25T23:51:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CSD Berlin: Bürgermeister Kai Wegner bestätigt einen Toten – Täter flüchtig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-07/csd-berlin-abgebrochen-verletzte-news-liveblog",
+      "published_date": "2026-07-25T23:43:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Entlassung von Patrick Schnieder: Ex-Kanzleramtschef Peter Altmaier kritisiert Friedrich Merz",
       "source": "ZEIT Online",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine war briefing: EU sanctions oust Russian president of world chess",
+      "title": "Firefighters in Spain and France battle raging wildfires – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
-      "published_date": "2026-07-24T01:32:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "published_date": "2026-07-24T00:16:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/video/2026/jul/25/firefighters-in-spain-and-france-battle-raging-wildfires-video",
+      "published_date": "2026-07-25T14:11:56+00:00",
+      "category": "Military"
     },
     {
       "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
@@ -274,13 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-strikes-on-southern-iran-infrastructure-widen-war/a-78087402?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-23T14:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czechia: Army helicopter crashes, killing at least one",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-army-helicopter-crashes-killing-at-least-one/a-78083870?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T11:30:00+00:00",
       "category": "Military"
     },
     {
@@ -557,6 +557,76 @@
       "category": "Economy"
     },
     {
+      "title": "Auto fährt Menschen an: Nach Angriff: Dobrindt bietet Berlin Unterstützung an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-dobrindt-bietet-berlin-unterstuetzung-an",
+      "published_date": "2026-07-25T23:23:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSD Berlin: Evers: «Es trifft unsere Stadt mitten ins Herz»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/evers-es-trifft-unsere-stadt-mitten-ins-herz",
+      "published_date": "2026-07-25T23:20:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christopher Street Day in Berlin: Fahrzeug rast in Menschenmenge beim Berliner CSD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/berliner-csd-laut-polizei-abgebrochen-offenbar-mehrere-verletzte",
+      "published_date": "2026-07-25T23:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One killed, 15 wounded as car hits crowd near Berlin's CSD parade",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260726/one-killed-15-wounded-as-car-hits-crowd-near-berlins-csd-parade",
+      "published_date": "2026-07-25T22:47:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: 1 dead, 15 injured after vehicle drives into CSD Pride event",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-1-dead-15-injured-after-vehicle-drives-into-csd-pride-event/a-78116146?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-25T22:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: 1 dead, 15 injured after vehicle drives into CSD Pride event",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-1-dead-15-injured-after-vehicle-drives-into-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T22:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T17:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-25T17:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It felt like the end of the world’: Spanish wildfire evacuees tell of their narrow escapes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfire-evacuees-spanish-sports-centre",
+      "published_date": "2026-07-25T16:49:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "published_date": "2026-07-25T16:23:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
@@ -592,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "India news: 'Cockroaches' end protest after Education Minister Dharmendra Pradhan resigns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T06:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
@@ -617,83 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
       "published_date": "2026-07-24T13:50:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T12:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Top court rules out mass admission revocations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-top-court-rules-out-mass-admission-revocations/live-78101249?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-24T12:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Top court rules out mass admission revocations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-top-court-rules-out-mass-admission-revocations/live-78101249?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T12:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What are Germany's 'Familienzentren' and how do they support families?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260724/what-are-germanys-familienzentren-and-how-do-they-support-families",
-      "published_date": "2026-07-24T09:59:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jürgen Klopp and Germany: A partnership long in the making",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-24T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jürgen Klopp and Germany: A partnership long in the making",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Government, CJP hold talks after Wangchuk ends fast",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-government-cjp-hold-talks-after-wangchuk-ends-fast/live-78093329?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T07:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260724/today-in-germany-a-roundup-of-the-latest-news-on-friday-132",
-      "published_date": "2026-07-24T06:47:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian activist Sonam Wangchuk ends hunger strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T20:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One person dies in attack at bank in Regensburg",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260723/one-person-dies-in-attack-at-bank-in-regensburg",
-      "published_date": "2026-07-23T15:34:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies of injuries after attack at Regensburg bank: police",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/man-dies-of-injuries-after-attack-at-regensburg-bank-police/a-78087409?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-23T14:29:00+00:00",
       "category": "Local Events"
     }
   ]
