@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-24T23:56:28.570766+00:00",
+  "last_updated": "2026-07-25T11:58:54.933499+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Entlassung von Patrick Schnieder: Ex-Kanzleramtschef Peter Altmaier kritisiert Friedrich Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-patrick-schnieder-verkehrsminister-entlassung-cdu",
+      "published_date": "2026-07-25T11:40:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bundesregierung: Frei verteidigt Merz nach Problemen beim Kabinettsumbau",
       "source": "ZEIT Online",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Wildfires in Europe prompt tens of thousands to evacuate",
+      "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
+      "published_date": "2026-07-25T10:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger still seeking stability after 3 years of military rule",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/wildfires-in-europe-prompt-tens-of-thousands-to-evacuate/a-78080171?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T00:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T09:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T03:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia launches deadly attack on weapons exhibition near Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
+      "published_date": "2026-07-25T01:33:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Law student charged after military-grade bomb intercepted near Irish border",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Thailand: 5 soldiers killed in attack on security checkpoint",
+      "title": "Eco wins: Cities, creatures, and tech are saving the day",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thailand-5-soldiers-killed-in-attack-on-security-checkpoint/a-78082955?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T10:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Iran become America's next 'forever war'?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-iran-become-america-s-next-forever-war/a-78081276?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T10:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Ukraine's new military chief?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-ukraine-s-new-military-chief/a-78077075?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T07:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Ukraine's new military chief?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-ukraine-s-new-military-chief/a-78077075?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-23T07:29:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T07:25:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "France evacuates Cap Ferret peninsula as Spain battles to prevent wildfires merging near Madrid – Europe live",
@@ -410,18 +417,18 @@
       "category": "Energy"
     },
     {
-      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-      "published_date": "2026-07-18T05:00:50+00:00",
-      "category": "Energy"
+      "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-25T11:09:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran threatens 'full-scale' offensive if US keeps bombing",
+      "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-threatens-full-scale-offensive-if-us-keeps-bombing/live-78015388?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-18T03:18:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T11:09:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
@@ -550,11 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Kriminalität am Telefon: Schockanruf: Rentnerehepaar um 25.000 Euro geprellt",
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "published_date": "2026-07-25T11:36:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSD in Berlin: Berliner Polizei überprüft mutmaßlich rechte Gruppe",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/19/schockanruf-rentnerehepaar-um-25-000-euro-geprellt",
-      "published_date": "2026-07-19T10:51:35+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-07/25/berliner-polizei-ueberprueft-mutmasslich-rechte-gruppe",
+      "published_date": "2026-07-25T11:28:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T11:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-25T11:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: A punk rock protest, festival season and immigrant music",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260725/inside-germany-a-punk-rock-protest-festival-season-and-immigrant-music",
+      "published_date": "2026-07-25T07:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
+      "published_date": "2026-07-25T04:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-25T00:50:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
@@ -645,55 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/man-dies-of-injuries-after-attack-at-regensburg-bank-police/a-78087409?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-23T14:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies of injuries after attack at Regensburg bank: police",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/man-dies-of-injuries-after-attack-at-regensburg-bank-police/a-78087409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T14:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Armed 'bandits' kill more than 20 in Zamfara state",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-armed-bandits-kill-more-than-20-in-zamfara-state/a-78085085?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T12:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Fünf Prozent, das wär’s schon",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/32/landtagswahl-sachsen-anhalt-afd-mehrheit-5-prozent-huerde",
-      "published_date": "2026-07-23T12:09:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Basketball-Bundesliga: MVP im Finale: Bean bindet sich an Alba Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/23/mvp-im-finale-bean-bindet-sich-an-alba-berlin",
-      "published_date": "2026-07-23T12:02:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Americans in Germany: How to vote in the coming US mid-term elections",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260723/americans-in-germany-how-to-vote-in-the-coming-us-mid-term-elections",
-      "published_date": "2026-07-23T11:32:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pride organisers vow to march in Romanian city that has blocked event four years in a row",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/23/pride-march-romania-oradea-blocked-event-four-years-in-a-row",
-      "published_date": "2026-07-23T08:36:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260723/today-in-germany-a-roundup-of-the-latest-news-on-thursday-128",
-      "published_date": "2026-07-23T06:43:18+00:00",
       "category": "Local Events"
     }
   ]
