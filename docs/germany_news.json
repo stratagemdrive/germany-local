@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-26T11:57:36.167118+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-26T23:53:37.607914+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Kabinettsumbau: Steffen Bilger soll Bundesverkehrsminister werden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/steffen-bilger-verkehrsminister-cdu-friedrich-merz",
+      "published_date": "2026-07-26T21:51:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Transport Minister Schnieder to asks Merz to remove him",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-26T18:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Transport Minister Schnieder to asks Merz to remove him",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T18:13:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan",
       "source": "The Guardian",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-24T07:38:00+00:00",
-      "category": "Diplomacy"
+      "title": "Angriff beim CSD in Berlin: Tatverdächtiger Abdul B. tot – Warum war er auf freiem Fuß?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/27/tatverdaechtiger-abdul-b-tot-warum-war-er-auf-freiem-fuss",
+      "published_date": "2026-07-26T23:13:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T07:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby | Tania Roettger",
+      "title": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby",
-      "published_date": "2026-07-24T04:00:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+      "published_date": "2026-07-26T21:30:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Joy in Greece as Mount Olympus joins Unesco list of world heritage sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site",
+      "published_date": "2026-07-26T15:39:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Romania summons Russia’s ambassador after downing third drone since Friday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
+      "published_date": "2026-07-26T14:44:25+00:00",
+      "category": "Military"
     },
     {
       "title": "India news: Home minister backs Pradhan after resignation",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T20:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US threatens 'major military punishment' for Houthi attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-threatens-major-military-punishment-for-houthi-attacks/live-78077811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T17:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T16:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Germany investing in the right weapons?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-23T15:01:00+00:00",
-      "category": "Military"
+      "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "published_date": "2026-07-26T12:56:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
@@ -557,6 +564,83 @@
       "category": "Economy"
     },
     {
+      "title": "Wohnungsnot und Verschmutzung: Erneut Protest gegen Massentourismus auf Mallorca",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/erneut-protest-gegen-massentourismus-auf-mallorca",
+      "published_date": "2026-07-26T23:11:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Krieg in Nahost: Syriens Regierung strebt Sicherheitsabkommen mit Israel an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/sicherheitsabkommen-israel-syrien-ahmed-al-scharaa-al-jazeera",
+      "published_date": "2026-07-26T21:14:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in deadly Pride attack shot dead by Berlin police",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260726/suspect-in-deadly-pride-attack-shot-dead-by-berlin-police",
+      "published_date": "2026-07-26T20:22:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin Pride ramming: Police shoot suspect dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-pride-ramming-police-shoot-suspect-dead/live-78117180?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-26T20:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin Pride ramming: Police shoot suspect dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-pride-ramming-police-shoot-suspect-dead/live-78117180?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T20:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christopher Street Day attack in Berlin: What we know so far",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-26T19:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christopher Street Day attack in Berlin: What we know so far",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T19:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christopher Street Day attack in Berlin: What we know so far",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-26T19:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
+      "published_date": "2026-07-26T17:53:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-26T17:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers torch mosques in occupied West Bank",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T16:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Angriff auf Berliner CSD: Tschentscher: Anschlag in Berlin überschattet Hamburger CSD",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/26/tschentscher-anschlag-in-berlin-ueberschattet-hamburger-csd",
@@ -617,83 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-26T05:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil denies entry to senior Trump officials ahead of elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T05:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-26T00:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T00:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Auto fährt Menschen an: Nach Angriff: Dobrindt bietet Berlin Unterstützung an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-dobrindt-bietet-berlin-unterstuetzung-an",
-      "published_date": "2026-07-25T23:23:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSD Berlin: Evers: «Es trifft unsere Stadt mitten ins Herz»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/26/evers-es-trifft-unsere-stadt-mitten-ins-herz",
-      "published_date": "2026-07-25T23:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christopher Street Day in Berlin: Fahrzeug rast in Menschenmenge beim Berliner CSD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/berliner-csd-laut-polizei-abgebrochen-offenbar-mehrere-verletzte",
-      "published_date": "2026-07-25T23:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One killed, 15 wounded as car hits crowd near Berlin's CSD parade",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260726/one-killed-15-wounded-as-car-hits-crowd-near-berlins-csd-parade",
-      "published_date": "2026-07-25T22:47:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: 1 dead, 15 injured after vehicle drives into CSD Pride event",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-1-dead-15-injured-after-vehicle-drives-into-csd-pride-event/a-78116146?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-25T22:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: 1 dead, 15 injured after vehicle drives into CSD Pride event",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-1-dead-15-injured-after-vehicle-drives-into-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T22:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T17:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-25T17:32:00+00:00",
       "category": "Local Events"
     }
   ]
