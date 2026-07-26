@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-25T23:52:40.518926+00:00",
+  "last_updated": "2026-07-26T11:57:36.167118+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics",
+      "published_date": "2026-07-26T07:00:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
+      "title": "India news: Home minister backs Pradhan after resignation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T06:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
-      "published_date": "2026-07-24T04:00:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
+      "published_date": "2026-07-26T05:00:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Iran accuses Kyiv of deadly attack on Iranian vessel in Caspian Sea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea",
+      "published_date": "2026-07-26T02:08:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Firefighters in Spain and France battle raging wildfires – video",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Is Germany investing in the right weapons?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T15:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Murdoch and Musk in the crosshairs at Venice film festival",
+      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
-      "published_date": "2026-07-23T14:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes on southern Iran infrastructure widen war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-strikes-on-southern-iran-infrastructure-widen-war/a-78087402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T14:55:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "published_date": "2026-07-26T11:30:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Eco wins: Cities, creatures, and tech are saving the day",
@@ -407,13 +414,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/21/bericht-engpaesse-in-stromnetz-bremsen-chinas-gruene-energie",
       "published_date": "2026-07-20T23:01:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
-      "published_date": "2026-07-19T11:00:25+00:00",
       "category": "Energy"
     },
     {
@@ -557,6 +557,90 @@
       "category": "Economy"
     },
     {
+      "title": "Angriff auf Berliner CSD: Tschentscher: Anschlag in Berlin überschattet Hamburger CSD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/tschentscher-anschlag-in-berlin-ueberschattet-hamburger-csd",
+      "published_date": "2026-07-26T11:52:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nach CSD-Tat in Berlin: Nach Angriff beim CSD: Mahnwache in Erfurt für Opfer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-beim-csd-mahnwache-in-erfurt-fuer-opfer",
+      "published_date": "2026-07-26T11:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fußball: VfB Stuttgart erzielt Rekordgewinn und wächst weiter",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/vfb-stuttgart-erzielt-rekordgewinn-und-waechst-weiter",
+      "published_date": "2026-07-26T11:39:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gemeinsames Gedenken: Nach Angriff bei CSD: Mahnwache in Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-bei-csd-mahnwache-in-frankfurt",
+      "published_date": "2026-07-26T11:32:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anschlag auf den CSD: Berlin steht unter Schock",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-07/anschlag-csd-berlin-bilder-pride",
+      "published_date": "2026-07-26T10:49:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T10:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan civil war: Civilians used as 'human shields'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T09:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T07:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany launches manhunt after Berlin Pride van ramming",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T05:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil denies entry to senior Trump officials ahead of elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T05:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-26T00:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T00:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Auto fährt Menschen an: Nach Angriff: Dobrindt bietet Berlin Unterstützung an",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-dobrindt-bietet-berlin-unterstuetzung-an",
@@ -610,90 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-07-25T17:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It felt like the end of the world’: Spanish wildfire evacuees tell of their narrow escapes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfire-evacuees-spanish-sports-centre",
-      "published_date": "2026-07-25T16:49:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 250,000 people flee wildfires in France and Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "published_date": "2026-07-25T16:23:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-      "published_date": "2026-07-25T11:36:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSD in Berlin: Berliner Polizei überprüft mutmaßlich rechte Gruppe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/25/berliner-polizei-ueberprueft-mutmasslich-rechte-gruppe",
-      "published_date": "2026-07-25T11:28:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T11:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-25T11:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: A punk rock protest, festival season and immigrant music",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260725/inside-germany-a-punk-rock-protest-festival-season-and-immigrant-music",
-      "published_date": "2026-07-25T07:05:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 'Cockroaches' end protest after Education Minister Dharmendra Pradhan resigns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T06:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
-      "published_date": "2026-07-25T04:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T00:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T21:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland’s main rightwing opposition splits after loyalty pledge ultimatum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
-      "published_date": "2026-07-24T13:50:24+00:00",
       "category": "Local Events"
     }
   ]
