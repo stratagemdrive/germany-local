@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-26T23:53:37.607914+00:00",
+  "last_updated": "2026-07-27T13:34:26.652089+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Brazil recalls ambassador to Argentina over Milei's remarks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T03:38:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kabinettsumbau: Steffen Bilger soll Bundesverkehrsminister werden",
       "source": "ZEIT Online",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU breathes sigh of relief over new Trump tariffs",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260724/eu-breathes-sigh-of-relief-over-new-trump-tariffs",
-      "published_date": "2026-07-24T08:33:46+00:00",
-      "category": "Diplomacy"
+      "title": "From Ukraine and Sudan to Gaza: why have hospitals become a target of war?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/ambulance-midwife-attacked-international-law-military-ukraine",
+      "published_date": "2026-07-27T10:00:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Car ramming attacks: Why do they keep happening?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/car-ramming-attacks-why-do-they-keep-happening/a-71827106?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-27T09:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Car ramming attacks: Why do they keep happening?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/car-ramming-attacks-why-do-they-keep-happening/a-71827106?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T09:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Ukrainian startup taking the missile fight deep into Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia",
+      "published_date": "2026-07-27T06:30:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting",
+      "published_date": "2026-07-27T00:52:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Angriff beim CSD in Berlin: Tatverdächtiger Abdul B. tot – Warum war er auf freiem Fuß?",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russia hits drone demonstration near Kyiv, killing 10",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-24T17:55:00+00:00",
-      "category": "Military"
+      "title": "Weather tracker: Why Europe’s wildfires are proving so fierce and difficult to stop",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/27/weather-tracker-europe-wildfires-difficult-stop-france-spain",
+      "published_date": "2026-07-27T07:21:09+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: Yemen's Houthis deny they closed Bab al-Mandeb Strait",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-yemen-s-houthis-deny-they-closed-bab-al-mandeb-strait/live-78093040?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T15:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger still seeks stability, after 3 years of military rule",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T15:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Iran's Pickaxe Mountain is a tough target for the US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-iran-s-pickaxe-mountain-is-a-tough-target-for-the-us/a-78100313?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T12:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air Force One: Erfolg für »New York Times« im Streit mit Trump-Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/new-york-times-vorladungen-us-justizministerium-air-force-one-trump",
-      "published_date": "2026-07-23T22:24:32+00:00",
-      "category": "Military"
+      "title": "What is a ‘fire cloud’, and how have they worsened wildfires in Europe?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/27/what-is-a-fire-cloud-pyrocumulonimbus-pyrocb-france-spain-wildfires",
+      "published_date": "2026-07-27T04:43:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "US imposes new 50% tariff on many Canadian goods",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-20T23:45:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar- und Windkraft: Bericht: Engpässe in Stromnetz bremsen Chinas grüne Energie",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/21/bericht-engpaesse-in-stromnetz-bremsen-chinas-gruene-energie",
-      "published_date": "2026-07-20T23:01:05+00:00",
-      "category": "Energy"
+      "title": "AstraZeneca boss urges western drugmakers to move at ‘Chinese speed’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/27/astrazeneca-boss-urges-western-drugmakers-to-move-at-chinese-speed",
+      "published_date": "2026-07-27T12:09:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Why the youth jobs crisis is becoming global",
+      "title": "AfD in Nordrhein-Westfalen: AfD-Bundesvorstand geht gegen NRW-Chef Martin Vincentz vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nordrhein-westfalen-martin-vincentz-matthias-helferich-parteiordnungsverfahren",
+      "published_date": "2026-07-27T13:04:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German officials call for tighter extremism laws after Berlin Pride attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack",
+      "published_date": "2026-07-27T12:58:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How India's Gen-Z protesters shifted the political debate",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-youth-jobs-crisis-is-becoming-global/a-77991886?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T09:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/how-india-s-gen-z-protesters-shifted-the-political-debate/a-78130194?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T12:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Islamist terror attack on Berlin Pride parade triggers political debate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-islamist-terror-attack-on-berlin-pride-parade-triggers-political-debate/a-78130195?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-27T12:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Islamist terror attack on Berlin Pride parade triggers political debate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-islamist-terror-attack-on-berlin-pride-parade-triggers-political-debate/a-78130195?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T12:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
+      "published_date": "2026-07-27T11:57:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Macron holds crisis talks as wildfires spread",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-macron-holds-crisis-talks-as-wildfires-spread/a-78128027?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T09:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Berlin Pride attack prompts calls for clampdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-berlin-pride-attack-prompts-calls-for-clampdown/live-78127668?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T09:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: At least three killed in shooting in Seattle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-at-least-three-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T06:58:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wohnungsnot und Verschmutzung: Erneut Protest gegen Massentourismus auf Mallorca",
@@ -620,87 +683,24 @@
       "category": "Local Events"
     },
     {
-      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-      "published_date": "2026-07-26T17:53:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "title": "Berlin Pride attack: What we know so far",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-26T17:15:00+00:00",
+      "url": "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-26T19:51:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Israeli settlers torch mosques in occupied West Bank",
+      "title": "Berlin Pride attack: What we know so far",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T16:21:00+00:00",
+      "url": "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-26T19:51:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Angriff auf Berliner CSD: Tschentscher: Anschlag in Berlin überschattet Hamburger CSD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/26/tschentscher-anschlag-in-berlin-ueberschattet-hamburger-csd",
-      "published_date": "2026-07-26T11:52:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach CSD-Tat in Berlin: Nach Angriff beim CSD: Mahnwache in Erfurt für Opfer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-beim-csd-mahnwache-in-erfurt-fuer-opfer",
-      "published_date": "2026-07-26T11:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: VfB Stuttgart erzielt Rekordgewinn und wächst weiter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/26/vfb-stuttgart-erzielt-rekordgewinn-und-waechst-weiter",
-      "published_date": "2026-07-26T11:39:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gemeinsames Gedenken: Nach Angriff bei CSD: Mahnwache in Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/26/nach-angriff-bei-csd-mahnwache-in-frankfurt",
-      "published_date": "2026-07-26T11:32:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anschlag auf den CSD: Berlin steht unter Schock",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-07/anschlag-csd-berlin-bilder-pride",
-      "published_date": "2026-07-26T10:49:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "title": "Berlin Pride attack: What we know so far",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T10:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan civil war: Civilians used as 'human shields'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T09:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T07:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany launches manhunt after Berlin Pride van ramming",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T05:51:00+00:00",
+      "url": "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-26T19:51:00+00:00",
       "category": "Local Events"
     }
   ]
