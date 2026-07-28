@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-27T23:56:11.081923+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-28T12:50:30.879472+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260728/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-133",
+      "published_date": "2026-07-28T06:34:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tino Sorge: Entlassener Gesundheitsstaatssekretär wirft Merz schlechten Stil vor",
       "source": "ZEIT Online",
@@ -21,6 +28,20 @@
       "title": "German Chancellor Merz completes cabinet resuffle",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-resuffle/a-78133896?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-27T16:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German Chancellor Merz completes cabinet reshuffle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-reshuffle/a-78133896?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-27T16:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German Chancellor Merz completes cabinet reshuffle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-reshuffle/a-78133896?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-27T16:03:00+00:00",
       "category": "Diplomacy"
     },
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump threatens EU with tariff probe over Google, tech fines",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T18:46:00+00:00",
-      "category": "Diplomacy"
+      "title": "German business morale rises in July for third straight month",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260728/german-business-morale-rises-in-july-for-third-straight-month",
+      "published_date": "2026-07-28T12:37:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens EU with tariff probe over Google, tech fines",
+      "title": "Will Pakistan intervene amid Houthi attacks on Saudi ships?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-24T18:46:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/will-pakistan-intervene-amid-houthi-attacks-on-saudi-ships/a-78144890?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T11:54:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Fritz Güntzler: Äußerst ungüntztig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/fritz-guentzler-verkehrsminister-bundeskabinett-friedrich-merz",
-      "published_date": "2026-07-24T18:17:35+00:00",
-      "category": "Diplomacy"
+      "title": "As US-Iran war rages, who's risking the Strait of Hormuz?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-us-iran-war-rages-who-s-risking-the-strait-of-hormuz/a-78130878?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T09:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy to meet Trump as Ukraine seeks stronger air defense",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-to-meet-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T07:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "I thought my life would feel sorted when I turned 40. It doesn’t – and that’s OK | Carolin Würfel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between",
+      "published_date": "2026-07-28T04:00:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Netanyahu in Washington for meeting with Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T03:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court",
+      "published_date": "2026-07-28T01:51:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Who has the momentum in the Russia-Ukraine war? – video explainer",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "India news: Home minister backs Pradhan after resignation",
+      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+      "published_date": "2026-07-28T12:15:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Heat wave threatens to worsen France, Spain wildfires",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T06:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
-      "published_date": "2026-07-26T05:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Iran accuses Kyiv of deadly attack on Iranian vessel in Caspian Sea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea",
-      "published_date": "2026-07-26T02:08:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Firefighters in Spain and France battle raging wildfires – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/25/firefighters-in-spain-and-france-battle-raging-wildfires-video",
-      "published_date": "2026-07-25T14:11:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-      "published_date": "2026-07-25T10:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger still seeking stability after 3 years of military rule",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T09:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T03:54:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T04:27:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Guardian view on Europe’s wildfires: politics must catch up with the new reality | Editorial",
@@ -400,27 +414,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/21/airbus-to-test-folding-wings-for-next-generation-of-bestselling-planes",
       "published_date": "2026-07-21T17:50:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Notfälle: Gas in Jena ausgeströmt - Leck am Mittag geschlossen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/21/gasleck-in-jena-anwohner-sollen-fenster-und-tueren-schliessen",
-      "published_date": "2026-07-21T12:09:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘No electricity, no water, no fuel’: Ukrainian drone strikes bring darkness to Crimea’s summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
-      "published_date": "2026-07-21T11:00:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Afghanistan: Deadly flash floods hit Nuristan province",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afghanistan-deadly-flash-floods-hit-nuristan-province/a-78045451?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-21T08:19:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +557,76 @@
       "category": "Economy"
     },
     {
+      "title": "Nach Anschlag in Berlin: NRW prüft Sicherheitskonzepte nach CSD-Anschlag",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/28/reul-koennen-keine-hundertprozentige-sicherheit-garantieren",
+      "published_date": "2026-07-28T12:44:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gelsenkirchen: Ermittlungen nach Böllerwürfen am Haus einer AfD-Politikerin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/28/ermittlungen-nach-boellerwuerfen-am-haus-einer-politikerin",
+      "published_date": "2026-07-28T12:40:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German government promises tougher laws after attack on Berlin's Pride",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260728/german-government-promises-tougher-laws-after-attack-on-berlins-pride",
+      "published_date": "2026-07-28T12:14:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan: Strong earthquake hits Kumamoto, many feared dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-many-feared-dead/a-78143660?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T12:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSD-Anschlag in Berlin: Polizei findet Bekennervideo auf Handy des mutmaßlichen CSD-Angreifers",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-07/csd-anschlag-berlin-bekennervideo-abdul-b-islamismus",
+      "published_date": "2026-07-28T11:55:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dawn raid targets ‘umbrella cheaters’ reserving beach spots in Naples",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/28/umbrellas-deck-chairs-crackdown-reserving-beach-spots-naples",
+      "published_date": "2026-07-28T11:24:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bernadette Amani 'living her dream' at Bayern and WAFCON",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-and-wafcon/a-78141213?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-28T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bernadette Amani 'living her dream' at Bayern and WAFCON",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-and-wafcon/a-78141213?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lesvia review – the rise and fall of an amazing lesbian community on Sappho’s actual island home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/28/lesvia-review-the-rise-and-fall-of-an-amazing-lesbian-community-on-sapphos-actual-island-home",
+      "published_date": "2026-07-28T10:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: SPD seeks LGBTQ+ protections in constitution",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-spd-seeks-lgbtq-protections-in-constitution/live-78140446?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T08:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Nach Anschlag in Berlin: Grünen-Politikerin Gallina: Anschlag intensiv aufarbeiten",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/28/gruenen-politikerin-gallina-anschlag-intensiv-aufarbeiten",
@@ -631,76 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-india-s-gen-z-protesters-shifted-the-political-debate/a-78130194?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-27T12:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Islamist terror attack on Berlin Pride parade triggers political debate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-islamist-terror-attack-on-berlin-pride-parade-triggers-political-debate/a-78130195?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-27T12:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Islamist terror attack on Berlin Pride parade triggers political debate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-islamist-terror-attack-on-berlin-pride-parade-triggers-political-debate/a-78130195?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T12:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
-      "published_date": "2026-07-27T11:57:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LATEST: Everything we know about the deadly attack on Berlin's Pride parade",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/latest-everything-we-know-about-the-deadly-attack-on-berlins-pride-parade",
-      "published_date": "2026-07-27T11:04:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FACT CHECK: Will pupils at German schools be taking exams in Arabic?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/fact-check-will-pupils-at-german-schools-be-taking-exams-in-arabic",
-      "published_date": "2026-07-27T09:44:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Macron holds crisis talks as wildfires spread",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-macron-holds-crisis-talks-as-wildfires-spread/a-78128027?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Berlin Pride attack prompts calls for clampdown",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-berlin-pride-attack-prompts-calls-for-clampdown/live-78127668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T09:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: At least three killed in shooting in Seattle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-at-least-three-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T06:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: At least 3 killed in shooting in Seattle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-at-least-3-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T06:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/today-in-germany-a-roundup-of-the-latest-news-on-monday-132",
-      "published_date": "2026-07-27T06:38:49+00:00",
       "category": "Local Events"
     }
   ]
