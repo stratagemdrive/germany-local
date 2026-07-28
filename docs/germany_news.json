@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-28T12:50:30.879472+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-28T23:52:14.222613+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "EU civil protection mechanism: Coordinating Europe's firefighters",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-civil-protection-mechanism-coordinating-europe-s-firefighters/a-78145189?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T14:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU civil protection mechanism: Coordinating Europe's firefighters",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-civil-protection-mechanism-coordinating-europe-s-firefighters/a-78145189?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-28T14:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poland: Top court rejects recognizing EU same-sex marriages",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T14:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poland: Top court rejects recognizing EU same-sex marriages",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-28T14:54:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Today in Germany: A roundup of the latest news on Tuesday",
       "source": "The Local Germany",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Entlassung von Patrick Schnieder: Ex-Kanzleramtschef Peter Altmaier kritisiert Friedrich Merz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-patrick-schnieder-verkehrsminister-entlassung-cdu",
-      "published_date": "2026-07-25T11:40:02+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: US says Iranian missiles intercepted",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-says-iranian-missiles-intercepted/live-78152241?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T23:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bundesregierung: Frei verteidigt Merz nach Problemen beim Kabinettsumbau",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/kabinettsumbildung-friedrich-merz-cdu-thorsten-frei-nina-warken",
-      "published_date": "2026-07-24T22:23:41+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: Netanyahu hails closed-door meeting with Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T21:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+      "title": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T20:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
-      "published_date": "2026-07-24T21:22:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zölle: Trump droht EU mit neuen Zöllen wegen Google-Millionenstrafe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/donald-trump-eu-google-strafe-zoelle",
-      "published_date": "2026-07-24T18:56:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
+      "published_date": "2026-07-28T16:42:43+00:00",
+      "category": "Military"
     },
     {
       "title": "German business morale rises in July for third straight month",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Angriff beim CSD in Berlin: Tatverdächtiger Abdul B. tot – Warum war er auf freiem Fuß?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/27/tatverdaechtiger-abdul-b-tot-warum-war-er-auf-freiem-fuss",
-      "published_date": "2026-07-26T23:13:43+00:00",
-      "category": "Military"
+      "title": "Why is Germany building roads for yesterday's climate?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-28T13:34:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
-      "published_date": "2026-07-26T21:30:22+00:00",
-      "category": "Military"
+      "title": "Why is Germany building roads for yesterday's climate?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T13:34:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Joy in Greece as Mount Olympus joins Unesco list of world heritage sites",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site",
-      "published_date": "2026-07-26T15:39:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania summons Russia’s ambassador after downing third drone since Friday",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
-      "published_date": "2026-07-26T14:44:25+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "published_date": "2026-07-28T13:00:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
@@ -403,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "‘Risking blackouts’? How Great Britain’s grid operator was dragged into a political row",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/22/risking-blackouts-great-britain-grid-operator-neso-heatwave",
-      "published_date": "2026-07-22T05:00:06+00:00",
-      "category": "Energy"
+      "title": "Germany: Low Rhine River levels could push economy into stagnation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-low-rhine-river-levels-could-push-economy-into-stagnation/a-78148371?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T16:38:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Airbus to test folding wings for next generation of bestselling planes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/21/airbus-to-test-folding-wings-for-next-generation-of-bestselling-planes",
-      "published_date": "2026-07-21T17:50:50+00:00",
-      "category": "Energy"
+      "title": "Has Germany's 'migration turnaround' killed its ability to attract foreign workers?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260728/has-germanys-migration-turnaround-killed-its-ability-to-attract-foreign-workers",
+      "published_date": "2026-07-28T15:00:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "500.000 Euro Sachschaden: A6 Richtung Kaiserslautern nach Brand und Unfall wieder frei",
@@ -543,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Will surge in German business bankruptcies hit growth?",
+      "title": "Japan: Strong earthquake hits Kumamoto, several dead",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-surge-in-german-business-bankruptcies-hit-growth/a-78037755?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-22T10:50:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-several-dead/a-78143660?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T22:08:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Will surge in German business bankruptcies hit growth?",
+      "title": "UN says online scam center trafficking is skyrocketing",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-surge-in-german-business-bankruptcies-hit-growth/a-78037755?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T10:50:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T19:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guyana: Captain, crew charged with murder in ferry capsizing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/guyana-captain-crew-charged-with-murder-in-ferry-capsizing/a-78151552?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T19:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Berlin Pride attack claims debunked",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-28T15:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Berlin Pride attack claims debunked",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T15:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Ebola patient treated in Frankfurt makes full recovery",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260728/us-ebola-patient-treated-in-frankfurt-makes-full-recovery",
+      "published_date": "2026-07-28T15:08:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nach Anschlag in Berlin: NRW prüft Sicherheitskonzepte nach CSD-Anschlag",
@@ -627,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: IS video found on Berlin Pride suspect's phone",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-is-video-found-on-berlin-pride-suspect-s-phone/live-78140446?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T08:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Nach Anschlag in Berlin: Grünen-Politikerin Gallina: Anschlag intensiv aufarbeiten",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-07/28/gruenen-politikerin-gallina-anschlag-intensiv-aufarbeiten",
@@ -645,55 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-07/briefwahl-usa-donald-trump-supreme-court-einschraenkungen",
       "published_date": "2026-07-27T22:52:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Race against time to contain wildfires in France and Spain – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/27/race-against-time-to-contain-wildfires-in-france-and-spain-the-latest",
-      "published_date": "2026-07-27T15:50:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The fight continues': How Berlin is reacting to the deadly Pride attack",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/the-fight-continues-how-berlin-is-reacting-to-the-deadly-pride-attack",
-      "published_date": "2026-07-27T15:08:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian youth score a win over Modi with humor and grit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T14:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghana's community service bill: A fix for the prison crisis?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ghana-s-community-service-bill-a-fix-for-the-prison-crisis/a-78104226?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T13:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD in Nordrhein-Westfalen: AfD-Bundesvorstand geht gegen NRW-Chef Martin Vincentz vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/afd-nordrhein-westfalen-martin-vincentz-matthias-helferich-parteiordnungsverfahren",
-      "published_date": "2026-07-27T13:04:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German officials call for tighter extremism laws after Berlin Pride attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack",
-      "published_date": "2026-07-27T12:58:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How India's Gen-Z protesters shifted the political debate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-india-s-gen-z-protesters-shifted-the-political-debate/a-78130194?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T12:36:00+00:00",
       "category": "Local Events"
     }
   ]
