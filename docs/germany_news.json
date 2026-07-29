@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-29T12:56:35.771770+00:00",
+  "last_updated": "2026-07-29T23:54:26.804804+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Thorsten Frei: Stimmung mies, aber Revolte vertagt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/thorsten-frei-wahl-uunions-fraktionschef-friedrich-merz",
+      "published_date": "2026-07-29T18:45:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany defends deporting non-criminal to Afghanistan",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260729/germany-defends-deporting-non-criminal-to-afghanistan",
+      "published_date": "2026-07-29T15:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Temperatures to soar amid new heatwave",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-29T14:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Temperatures to soar amid new heatwave",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T14:30:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Wechsel im Amt: Schnieder verzichtet bei Abschied auf Kritik an Merz",
       "source": "ZEIT Online",
@@ -116,37 +144,51 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fujimori takes charge in Peru amid China, US balancing act",
+      "title": "Iran war: Trump threatens to hit Iran 'very hard'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T13:38:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-trump-threatens-to-hit-iran-very-hard/live-78166958?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T22:45:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Explained: The EU's new rules on AI, deepfakes and chatbots",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/explained-eus-new-rules-on-ai-deepfakes-and-chatbots",
-      "published_date": "2026-07-27T09:38:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brazil recalls ambassador to Argentina over Milei's remarks",
+      "title": "Explosions reported in Kyiv after Zelenskyy warns of Russian strikes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T03:38:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/explosions-reported-in-kyiv-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T22:38:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kabinettsumbau: Steffen Bilger soll Bundesverkehrsminister werden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/steffen-bilger-verkehrsminister-cdu-friedrich-merz",
-      "published_date": "2026-07-26T21:51:38+00:00",
-      "category": "Diplomacy"
+      "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
+      "published_date": "2026-07-29T16:36:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Egypt's difficult balancing act",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T16:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon's pilot zone plan: Can it work?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lebanon-s-pilot-zone-plan-can-it-work/a-78148597?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T13:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T08:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How two wars and El Nino could fuel world hunger",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-two-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-29T08:27:00+00:00",
       "category": "Military"
     },
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Who has the momentum in the Russia-Ukraine war? – video explainer",
+      "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/27/who-has-the-momentum-in-the-russia-ukraine-war-video-explainer",
-      "published_date": "2026-07-27T18:38:01+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/29/a-decade-on-the-iberian-frontline-has-shown-me-that-europes-climate-emergency-is-impossible-to-deny",
+      "published_date": "2026-07-29T14:35:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine's Zelenskyy in UK to meet new PM Burnham",
+      "title": "Iran signals gas price hike as fuel crisis looms",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-in-uk-to-meet-new-pm-burnham/a-78136104?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T18:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chad's government says it's withdrawing from the ICC",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/chad-s-government-says-it-s-withdrawing-from-the-icc/a-78132322?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I knew what he had done to those boys’: murderer to stay in jail after journalist’s fight for justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/murderer-stay-jail-journalist-fight-justice-allan-grimson",
-      "published_date": "2026-07-27T14:34:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Ukraine and Sudan to Gaza: why have hospitals become a target of war?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/ambulance-midwife-attacked-international-law-military-ukraine",
-      "published_date": "2026-07-27T10:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Car ramming attacks: Why do they keep happening?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/car-ramming-attacks-why-do-they-keep-happening/a-71827106?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-27T09:44:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/iran-signals-gas-price-hike-as-fuel-crisis-looms/a-78160208?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T13:11:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Climate crisis-driven heat ‘sucking soils dry’ as extreme drought hits Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/23/climate-crisis-heat-sucking-soils-dry-extreme-drought-europe-analysis",
-      "published_date": "2026-07-23T04:00:34+00:00",
-      "category": "Energy"
+      "title": "BMW to cut up to 8,000 jobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bmw-to-cut-up-to-8-000-jobs/a-78162615?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-29T14:26:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US hits Iran as Houthis claim strikes on Saudi tankers",
+      "title": "BMW to cut up to 8,000 jobs",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-hits-iran-as-houthis-claim-strikes-on-saudi-tankers/live-78077811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T23:02:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/bmw-to-cut-up-to-8-000-jobs/a-78162615?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T14:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'The law is absent': How Indians in Germany are exploited in the workforce",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260729/the-law-is-absent-how-indians-in-germany-are-exploited-in-the-workforce",
+      "published_date": "2026-07-29T13:37:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Unfälle: Wespe löst Unfall aus - 10.000 Euro Schaden",
@@ -543,25 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Trump's refugee policy: Only white South Africans welcome?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T14:53:00+00:00",
-      "category": "Economy"
+      "title": "Begrüßungsgeld für Babys: Juristin Brosius-Gersdorf: AfD-Forderung verfassungswidrig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/30/juristin-brosius-gersdorf-afd-forderung-verfassungswidrig",
+      "published_date": "2026-07-29T23:02:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Can India's 'Cockroach' protest movement go nationwide?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-india-s-cockroach-protest-movement-go-nationwide/a-78086081?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T14:29:00+00:00",
-      "category": "Economy"
+      "title": "Feuerwehreinsatz: Feuer in Stuttgart: Zwei Autos und Wohnhaus betroffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/29/feuer-in-stuttgart-zwei-autos-und-wohnhaus-betroffen",
+      "published_date": "2026-07-29T21:18:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ECB keeps interest rates unchanged amid Iran war inflation",
+      "title": "Body found in suitcase in Athens is that of 38-year-old British woman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
+      "published_date": "2026-07-29T21:05:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How well are LGBTQ+ rights protected across Europe?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ecb-keeps-interest-rates-unchanged-amid-iran-war-inflation/a-78085650?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T13:54:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T19:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How well are LGBTQ+ rights protected across Europe?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-29T19:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
+      "published_date": "2026-07-29T18:30:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Excessive time spent online linked to stress and worse mood – study",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/29/excessive-time-spent-online-linked-to-stress-and-worse-mood-study",
+      "published_date": "2026-07-29T18:05:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
+      "published_date": "2026-07-29T17:02:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-29T15:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T15:40:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community",
       "published_date": "2026-07-29T04:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan: Strong earthquake hits Kumamoto, several dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-several-dead/a-78143660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T22:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan: Rescue 'race against time' after deadly earthquake hits Kumamoto",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T22:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN says online scam center trafficking is skyrocketing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T19:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guyana: Captain, crew charged with murder in ferry capsizing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/guyana-captain-crew-charged-with-murder-in-ferry-capsizing/a-78151552?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T19:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Berlin Pride attack claims debunked",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-28T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Berlin Pride attack claims debunked",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Ebola patient treated in Frankfurt makes full recovery",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260728/us-ebola-patient-treated-in-frankfurt-makes-full-recovery",
-      "published_date": "2026-07-28T15:08:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach Anschlag in Berlin: NRW prüft Sicherheitskonzepte nach CSD-Anschlag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/28/reul-koennen-keine-hundertprozentige-sicherheit-garantieren",
-      "published_date": "2026-07-28T12:44:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gelsenkirchen: Ermittlungen nach Böllerwürfen am Haus einer AfD-Politikerin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/28/ermittlungen-nach-boellerwuerfen-am-haus-einer-politikerin",
-      "published_date": "2026-07-28T12:40:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German government promises tougher laws after attack on Berlin's Pride",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260728/german-government-promises-tougher-laws-after-attack-on-berlins-pride",
-      "published_date": "2026-07-28T12:14:16+00:00",
       "category": "Local Events"
     }
   ]
