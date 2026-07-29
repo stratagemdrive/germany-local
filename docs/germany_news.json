@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-28T23:52:14.222613+00:00",
+  "last_updated": "2026-07-29T12:56:35.771770+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Wechsel im Amt: Schnieder verzichtet bei Abschied auf Kritik an Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/29/schnieder-verzichtet-bei-abschied-auf-kritik-an-merz",
+      "published_date": "2026-07-29T12:44:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "published_date": "2026-07-29T12:31:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German chancellor comes under fire over chaotic reshuffle",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260729/german-chancellor-comes-under-fire-over-chaotic-reshuffle",
+      "published_date": "2026-07-29T11:03:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US bans Chinese and foreign-made humanoid robots",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T09:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wednesday briefing: Will Zelenskyy’s domestic struggles harm his reputation on the global stage?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/wednesday-briefing-will-zelenskyys-domestic-struggles-harm-his-reputation-on-the-global-stage",
+      "published_date": "2026-07-29T05:46:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU civil protection mechanism: Coordinating Europe's firefighters",
       "source": "Deutsche Welle",
@@ -109,44 +144,30 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Transport Minister Schnieder to asks Merz to remove him",
+      "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-26T18:13:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T08:27:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Transport Minister Schnieder to asks Merz to remove him",
+      "title": "US: Trump's intelligence chief pick Jay Clayton confirmed by Senate",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-26T18:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics",
-      "published_date": "2026-07-26T07:00:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "published_date": "2026-07-25T23:51:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CSD Berlin: Bürgermeister Kai Wegner bestätigt einen Toten – Täter flüchtig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-07/csd-berlin-abgebrochen-verletzte-news-liveblog",
-      "published_date": "2026-07-25T23:43:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T02:54:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: US says Iranian missiles intercepted",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-us-says-iranian-missiles-intercepted/live-78152241?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T23:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-28T23:04:00+00:00",
       "category": "Military"
     },
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Car ramming attacks: Why do they keep happening?",
+      "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/car-ramming-attacks-why-do-they-keep-happening/a-71827106?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T09:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Ukrainian startup taking the missile fight deep into Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia",
-      "published_date": "2026-07-27T06:30:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting",
-      "published_date": "2026-07-27T00:52:45+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T08:32:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why is Germany building roads for yesterday's climate?",
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "​World’s largest meat company faces legal challenge over green credentials of $6bn global expansion",
+      "title": "Unfälle: Wespe löst Unfall aus - 10.000 Euro Schaden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/29/wespe-loest-unfall-aus-10-000-euro-schaden",
+      "published_date": "2026-07-29T12:47:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rüstungsindustrie: Rheinmetall steigert Umsatz und Gewinn",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/rheinmetall-quartalszahlen-unternehmenszahlen-ruestungsindustrie-aktie",
+      "published_date": "2026-07-29T12:12:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan",
-      "published_date": "2026-07-22T06:00:09+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+      "published_date": "2026-07-29T12:02:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany's BMW aims to 'cut 8,000 jobs' by end of 2027",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260729/germanys-bmw-aims-to-cut-8000-jobs-by-end-of-2027",
+      "published_date": "2026-07-29T10:49:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: BMW to cut up to 8,000 jobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-bmw-to-cut-up-to-8-000-jobs/live-78155827?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T10:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Deep breathing: the asthma clinic buried 250 metres into an Armenian salt mine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/respiratory-clinic-armenia-salt-mine-asthma-speleotherapy",
+      "published_date": "2026-07-29T08:00:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany: Low Rhine River levels could push economy into stagnation",
@@ -522,51 +564,86 @@
       "category": "Economy"
     },
     {
-      "title": "ECB keeps interest rates unchanged amid Iran war inflation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ecb-keeps-interest-rates-unchanged-amid-iran-war-inflation/a-78085650?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-23T13:54:00+00:00",
-      "category": "Economy"
+      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
+      "published_date": "2026-07-29T11:55:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Your views: Is Germany's Sunday shopping ban an outdated tradition or a chance for calm?",
+      "title": "Germany: How effective are exit programs for Islamists?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-29T11:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: How effective are exit programs for Islamists?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T11:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How working parents in Germany manage childcare during the summer holiday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260723/your-views-is-germanys-sunday-shopping-ban-an-outdated-tradition-or-a-chance-for-calm",
-      "published_date": "2026-07-23T09:50:43+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260729/how-working-parents-in-germany-manage-childcare-during-the-summer-holiday",
+      "published_date": "2026-07-29T10:09:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EasyJet profits plunge 70% as fuel costs soar amid Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/23/easyjet-profits-plunge-fuel-costs-soar-iran-war",
-      "published_date": "2026-07-23T08:24:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Food price fears after Europe’s heatwave destroys estimated €2bn of crops",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
-      "published_date": "2026-07-22T14:12:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can India become the next semiconductor hub after Taiwan?",
+      "title": "India news: Police issue FIRs over 'abusive' posts against Modi",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-india-become-the-next-semiconductor-hub-after-taiwan/a-78066491?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T13:17:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-police-issue-firs-over-abusive-posts-against-modi/live-78156014?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T09:31:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Prosecutors search Deutsche Bank headquarters",
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260729/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-131",
+      "published_date": "2026-07-29T06:33:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: How weather extremes impact local agriculture",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-prosecutors-search-deutsche-bank-headquarters/live-78063298?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-22T10:55:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-29T06:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: How weather extremes impact local agriculture",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T06:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Solo Sunny review – a rueful East German gem of ambition, loneliness and faded dreams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/29/solo-sunny-review-konrad-wolf",
+      "published_date": "2026-07-29T06:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's leaders say the Berlin Pride attack targeted 'all of us'.  What utter hypocrisy | Fatma Aydemir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community",
+      "published_date": "2026-07-29T04:00:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Japan: Strong earthquake hits Kumamoto, several dead",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-several-dead/a-78143660?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-28T22:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan: Rescue 'race against time' after deadly earthquake hits Kumamoto",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-28T22:08:00+00:00",
       "category": "Local Events"
     },
@@ -624,83 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260728/german-government-promises-tougher-laws-after-attack-on-berlins-pride",
       "published_date": "2026-07-28T12:14:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan: Strong earthquake hits Kumamoto, many feared dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-many-feared-dead/a-78143660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T12:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSD-Anschlag in Berlin: Polizei findet Bekennervideo auf Handy des mutmaßlichen CSD-Angreifers",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-07/csd-anschlag-berlin-bekennervideo-abdul-b-islamismus",
-      "published_date": "2026-07-28T11:55:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dawn raid targets ‘umbrella cheaters’ reserving beach spots in Naples",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/umbrellas-deck-chairs-crackdown-reserving-beach-spots-naples",
-      "published_date": "2026-07-28T11:24:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Amani 'living her dream' at Bayern and WAFCON",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-and-wafcon/a-78141213?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-28T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Amani 'living her dream' at Bayern and WAFCON",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-and-wafcon/a-78141213?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lesvia review – the rise and fall of an amazing lesbian community on Sappho’s actual island home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/28/lesvia-review-the-rise-and-fall-of-an-amazing-lesbian-community-on-sapphos-actual-island-home",
-      "published_date": "2026-07-28T10:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: SPD seeks LGBTQ+ protections in constitution",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-spd-seeks-lgbtq-protections-in-constitution/live-78140446?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T08:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: IS video found on Berlin Pride suspect's phone",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-is-video-found-on-berlin-pride-suspect-s-phone/live-78140446?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T08:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach Anschlag in Berlin: Grünen-Politikerin Gallina: Anschlag intensiv aufarbeiten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/28/gruenen-politikerin-gallina-anschlag-intensiv-aufarbeiten",
-      "published_date": "2026-07-27T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Queere Community: Sozialminister: Regenbogenflagge ist Kampfsymbol geworden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/28/sozialminister-regenbogenflagge-ist-kampfsymbol-geworden",
-      "published_date": "2026-07-27T22:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Briefwahl in den USA: US-Regierung ruft Obersten Gerichtshof im Streit um Wahlreform an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/briefwahl-usa-donald-trump-supreme-court-einschraenkungen",
-      "published_date": "2026-07-27T22:52:42+00:00",
       "category": "Local Events"
     }
   ]
