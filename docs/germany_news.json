@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-30T12:25:50.649428+00:00",
+  "last_updated": "2026-07-30T23:54:27.580322+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Zuwanderung: Spanien mobilisiert Militär nach Andrang von Migranten in Ceuta",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/ceuta-spanien-migranten-andrang-militaer-soldaten-grenze-afrika-eu",
+      "published_date": "2026-07-30T23:35:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU aims to build AI gigafactories of its own",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-aims-to-build-ai-gigafactories-of-its-own/a-78179533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T15:15:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
       "source": "The Guardian",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260728/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-133",
-      "published_date": "2026-07-28T06:34:35+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says Board of Peace agrees on Hamas disarming",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-board-of-peace-agrees-on-hamas-disarming/live-78183794?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T23:40:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tino Sorge: Entlassener Gesundheitsstaatssekretär wirft Merz schlechten Stil vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/tino-sorge-cdu-gesundheitsstaatssekretaer-abloesung-friedrich-merz",
-      "published_date": "2026-07-27T18:17:23+00:00",
-      "category": "Diplomacy"
+      "title": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T19:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain sends extra troops and police to Ceuta after thousands of migrants arrive",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/thousands-enter-spanish-enclave-ceuta-morocco-africa",
+      "published_date": "2026-07-30T18:58:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain will send troops to Ceuta to help with border security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T18:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain will send troops to Ceuta to help with border security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-30T18:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
+      "published_date": "2026-07-30T17:40:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+      "published_date": "2026-07-30T16:59:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – Europe live",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T08:27:00+00:00",
-      "category": "Military"
+      "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
+      "published_date": "2026-07-30T22:47:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How two wars and El Nino could fuel world hunger",
+      "title": "How crypto miners are stealing power in Southeast Asia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-two-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T08:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Trump's intelligence chief pick Jay Clayton confirmed by Senate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T02:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US says Iranian missiles intercepted",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-says-iranian-missiles-intercepted/live-78152241?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T23:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T23:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Netanyahu hails closed-door meeting with Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T21:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T20:33:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T14:08:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
@@ -396,18 +410,32 @@
       "category": "Energy"
     },
     {
-      "title": "Spain's solar eclipse trilogy: spectacle starting August 12",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-s-solar-eclipse-trilogy-spectacle-starting-august-12/a-78041718?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T14:20:00+00:00",
-      "category": "Energy"
+      "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/the-guardian-view-on-kidulthood-britain-prices-young-adults-out-of-independent-life",
+      "published_date": "2026-07-30T17:30:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil prices jump as Hormuz, Red Sea crises deepen",
+      "title": "BMW to Volkswagen: How deep is Germany's auto industry cull?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oil-prices-jump-as-hormuz-red-sea-crises-deepen/a-78078835?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T13:36:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-30T13:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BMW to Volkswagen: How deep is Germany's auto industry cull?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T13:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Eurozone sees GDP growth of 0.4%, most since early 2025",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eurozone-sees-gdp-growth-of-0-4-most-since-early-2025/a-78177668?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T13:12:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Teuerung: Inflationsrate im Juli steigt auf 2,8 Prozent",
@@ -522,32 +550,32 @@
       "category": "Economy"
     },
     {
-      "title": "German sports carmaker Porsche to cut 5,000 jobs by 2035",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/german-sports-carmaker-porsche-to-cut-5000-jobs-by-2035",
-      "published_date": "2026-07-27T15:16:58+00:00",
-      "category": "Economy"
+      "title": "Brandmauer-Debatte: Kretschmer bekräftigt: keine Zusammenarbeit mit der AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/31/kretschmer-bekraeftigt-keine-zusammenarbeit-mit-der-afd",
+      "published_date": "2026-07-30T22:06:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AstraZeneca boss urges western drugmakers to move at ‘Chinese speed’",
+      "title": "French riot police used teargas on people trying to board small boat, charity claims",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/27/astrazeneca-boss-urges-western-drugmakers-to-move-at-chinese-speed",
-      "published_date": "2026-07-27T12:09:41+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+      "published_date": "2026-07-30T19:20:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
+      "title": "Berlin Pride attack: Are German juvenile courts too lenient?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-25T11:09:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/berlin-pride-attack-are-german-juvenile-courts-too-lenient/a-78181294?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-30T16:50:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
+      "title": "Berlin Pride attack: Are German juvenile courts too lenient?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T11:09:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/berlin-pride-attack-are-german-juvenile-courts-too-lenient/a-78181294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T16:50:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why Germany may stand up against FIFA's World Cup sell off",
@@ -581,6 +609,13 @@
       "title": "Germany news: Deutsche Bahn reportedly returns to profit",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-deutsche-bahn-reportedly-returns-to-profit/live-78168639?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T08:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Deutsche Bahn returns to profit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-returns-to-profit/live-78168639?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-30T08:11:00+00:00",
       "category": "Local Events"
     },
@@ -652,41 +687,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
       "published_date": "2026-07-29T17:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-29T15:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T15:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
-      "published_date": "2026-07-29T11:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: How effective are exit programs for Islamists?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-29T11:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: How effective are exit programs for Islamists?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T11:14:00+00:00",
       "category": "Local Events"
     }
   ]
