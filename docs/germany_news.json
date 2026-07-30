@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-29T23:54:26.804804+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-30T12:25:50.649428+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
+      "published_date": "2026-07-30T12:04:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Embattled German chancellor chooses papal pageturner for his beach read",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/german-chancellor-friedrich-merz-chooses-pope-leo-encyclical-for-beach-read",
+      "published_date": "2026-07-30T12:04:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/ki-gigafactory-eu-kommission-infrastruktur-rechenzentren",
+      "published_date": "2026-07-30T11:40:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe is burning – and if Trump’s war on the climate is not met with sanctions, things will only get worse | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house",
+      "published_date": "2026-07-30T11:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Forest fire breaks out on mountain peak in Germany's Chiemgau Alps",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260730/forest-fire-breaks-out-on-mountain-peak-in-germanys-chiemgau-alps",
+      "published_date": "2026-07-30T07:52:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Thorsten Frei: Stimmung mies, aber Revolte vertagt",
       "source": "ZEIT Online",
@@ -109,44 +144,65 @@
       "category": "Diplomacy"
     },
     {
-      "title": "German Chancellor Merz completes cabinet resuffle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-resuffle/a-78133896?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-27T16:03:00+00:00",
-      "category": "Diplomacy"
+      "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
+      "published_date": "2026-07-30T11:55:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "German Chancellor Merz completes cabinet resuffle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-resuffle/a-78133896?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T16:03:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russia accused of violating Polish airspace after missile explosion near village",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+      "published_date": "2026-07-30T11:31:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "German Chancellor Merz completes cabinet reshuffle",
+      "title": "Poland says Russian ballistic missile violated airspace",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-reshuffle/a-78133896?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-27T16:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/poland-says-russian-ballistic-missile-violated-airspace/a-78172288?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T11:25:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "German Chancellor Merz completes cabinet reshuffle",
+      "title": "Danube water levels: Hungary, Romania cut nuclear output",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-reshuffle/a-78133896?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-27T16:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/danube-water-levels-hungary-romania-cut-nuclear-output/a-78171891?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T11:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz completes chaotic cabinet reshuffle",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260727/germanys-merz-completes-chaotic-cabinet-reshuffle",
-      "published_date": "2026-07-27T15:51:20+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: Mutmaßlicher russischer Marschflugkörper stürzt in Polen ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/polen-flugobjekt-absturz-marschflugkoerper-russland-ukraine",
+      "published_date": "2026-07-30T10:46:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deaths in Ukraine after Zelenskyy warns of Russian strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/deaths-in-ukraine-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T09:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
+      "published_date": "2026-07-30T05:00:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: Trump threatens to hit Iran 'very hard'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-trump-threatens-to-hit-iran-very-hard/live-78166958?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-29T22:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US carries out fresh strikes in 'powerful response'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-in-powerful-response/live-78166958?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-29T22:45:00+00:00",
       "category": "Military"
     },
@@ -225,62 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-28T20:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
-      "published_date": "2026-07-28T16:42:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German business morale rises in July for third straight month",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260728/german-business-morale-rises-in-july-for-third-straight-month",
-      "published_date": "2026-07-28T12:37:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Pakistan intervene amid Houthi attacks on Saudi ships?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-pakistan-intervene-amid-houthi-attacks-on-saudi-ships/a-78144890?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T11:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As US-Iran war rages, who's risking the Strait of Hormuz?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-us-iran-war-rages-who-s-risking-the-strait-of-hormuz/a-78130878?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T09:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy to meet Trump as Ukraine seeks stronger air defense",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-to-meet-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T07:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "I thought my life would feel sorted when I turned 40. It doesn’t – and that’s OK | Carolin Würfel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between",
-      "published_date": "2026-07-28T04:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Netanyahu in Washington for meeting with Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T03:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court",
-      "published_date": "2026-07-28T01:51:11+00:00",
       "category": "Military"
     },
     {
@@ -410,18 +410,32 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-      "published_date": "2026-07-23T11:27:00+00:00",
-      "category": "Energy"
+      "title": "Teuerung: Inflationsrate im Juli steigt auf 2,8 Prozent",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/inflationsrate-im-juli-steigt-tankrabatt-ende",
+      "published_date": "2026-07-30T12:21:54+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US citizens are ramping up pressure on data centers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-citizens-are-ramping-up-pressure-on-data-centers/a-78064418?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-23T11:11:00+00:00",
-      "category": "Energy"
+      "title": "Verbraucherpreise: Inflation springt nach Ende des Tankrabatts auf 2,8 Prozent",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/30/inflation-springt-nach-ende-des-tankrabatts-auf-2-8-prozent",
+      "published_date": "2026-07-30T12:11:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Preise: Inflation zieht sprunghaft an: 2,8 Prozent im Juli",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/30/inflation-zieht-sprunghaft-an-2-8-prozent-im-juli",
+      "published_date": "2026-07-30T12:05:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "German economy grows slightly despite Mideast war",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260730/german-economy-grows-slightly-despite-mideast-war",
+      "published_date": "2026-07-30T12:02:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "BMW to cut up to 8,000 jobs",
@@ -536,32 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
+      "title": "Why Germany may stand up against FIFA's World Cup sell off",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T22:40:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/why-germany-may-stand-up-against-fifa-s-world-cup-sell-off/a-78172163?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-30T11:30:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen profits down as competition from China heats up",
+      "title": "Why Germany may stand up against FIFA's World Cup sell off",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germany-may-stand-up-against-fifa-s-world-cup-sell-off/a-78172163?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German lawsuit tests copyright limits for AI music training",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-lawsuit-tests-copyright-limits-for-ai-music-training/a-78152227?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-30T08:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German lawsuit tests copyright limits for AI music training",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-lawsuit-tests-copyright-limits-for-ai-music-training/a-78152227?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T08:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Deutsche Bahn reportedly returns to profit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-reportedly-returns-to-profit/live-78168639?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T08:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Assam flood toll rises to 78, more rain predicted",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-assam-flood-toll-rises-to-78-more-rain-predicted/live-78168101?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T07:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260724/volkswagen-profits-down-as-competition-from-china-heats-up",
-      "published_date": "2026-07-24T13:51:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-24T11:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
-      "published_date": "2026-07-24T10:34:14+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260730/today-in-germany-a-roundup-of-the-latest-news-on-thursday-129",
+      "published_date": "2026-07-30T06:31:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Begrüßungsgeld für Babys: Juristin Brosius-Gersdorf: AfD-Forderung verfassungswidrig",
@@ -652,55 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-29T11:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How working parents in Germany manage childcare during the summer holiday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260729/how-working-parents-in-germany-manage-childcare-during-the-summer-holiday",
-      "published_date": "2026-07-29T10:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Police issue FIRs over 'abusive' posts against Modi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-police-issue-firs-over-abusive-posts-against-modi/live-78156014?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T09:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260729/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-131",
-      "published_date": "2026-07-29T06:33:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: How weather extremes impact local agriculture",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-29T06:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: How weather extremes impact local agriculture",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T06:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Solo Sunny review – a rueful East German gem of ambition, loneliness and faded dreams",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/29/solo-sunny-review-konrad-wolf",
-      "published_date": "2026-07-29T06:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's leaders say the Berlin Pride attack targeted 'all of us'.  What utter hypocrisy | Fatma Aydemir",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community",
-      "published_date": "2026-07-29T04:00:24+00:00",
       "category": "Local Events"
     }
   ]
