@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-30T23:54:27.580322+00:00",
-  "story_count": 98,
+  "last_updated": "2026-07-31T12:51:07.960980+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Flüchtlingskrise in Ceuta: Pedro Sánchez spricht bei Besuch in Ceuta von »Angriff« auf Spanien",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/migration-ceuta-melilla-spanien-marokko-grenze-liveblog",
+      "published_date": "2026-07-31T12:29:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanische Exklave Ceuta: Frankreich und Italien verstärken ihre Grenzkontrollen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/ceuta-migranten-spanien-frankreich-grenzkontrollen-laurent-nunez-gxe",
+      "published_date": "2026-07-31T12:16:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AI labels to be compulsory on authentic-looking content under EU rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+      "published_date": "2026-07-31T11:21:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to know about Ceuta, Spanish city on EU’s border in Africa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa",
+      "published_date": "2026-07-31T09:40:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East: Germany welcomes Hamas disarmament plan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-germany-welcomes-hamas-disarmament-plan/live-78183794?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-30T23:40:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zuwanderung: Spanien mobilisiert Militär nach Andrang von Migranten in Ceuta",
       "source": "ZEIT Online",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Wednesday briefing: Will Zelenskyy’s domestic struggles harm his reputation on the global stage?",
+      "title": "Eco wins: From death strip to nature haven and other green surprises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T12:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceuta: Spain scrambles after thousands breach exclave border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-spain-scrambles-after-thousands-breach-exclave-border/live-78191601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T11:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceuta: Spain scrambles after thousands breach exclave border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-spain-scrambles-after-thousands-breach-exclave-border/live-78191601?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-31T11:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T11:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘It’s too fast, too big’: speed of climate crisis is devastating crops, say farmers",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/wednesday-briefing-will-zelenskyys-domestic-struggles-harm-his-reputation-on-the-global-stage",
-      "published_date": "2026-07-29T05:46:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/environment/2026/jul/31/speed-of-climate-crisis-devastating-crops-say-farmers",
+      "published_date": "2026-07-31T11:00:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU civil protection mechanism: Coordinating Europe's firefighters",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-civil-protection-mechanism-coordinating-europe-s-firefighters/a-78145189?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T14:55:00+00:00",
-      "category": "Diplomacy"
+      "title": "Germany's voluntary military service fails to attract new recruits",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260731/germanys-voluntary-military-service-fails-to-attract-new-recruits",
+      "published_date": "2026-07-31T10:27:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU civil protection mechanism: Coordinating Europe's firefighters",
+      "title": "India: Lawmakers endorse tough exam leak bill after Cockroach protests",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-civil-protection-mechanism-coordinating-europe-s-firefighters/a-78145189?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-28T14:55:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poland: Top court rejects recognizing EU same-sex marriages",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T14:54:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poland: Top court rejects recognizing EU same-sex marriages",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-28T14:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/india-lawmakers-endorse-tough-exam-leak-bill-after-cockroach-protests/a-78184817?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T07:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says Board of Peace agrees on Hamas disarming",
@@ -235,59 +284,52 @@
       "category": "Military"
     },
     {
-      "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
+      "title": "BP puts North Sea oil and gas business up for sale",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
-      "published_date": "2026-07-30T05:00:53+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
+      "published_date": "2026-07-31T12:26:23+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: Trump threatens to hit Iran 'very hard'",
+      "title": "Dozens of miners killed in coal mine explosion in Pakistan",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-threatens-to-hit-iran-very-hard/live-78166958?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T22:45:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/dozens-of-miners-killed-in-coal-mine-explosion-in-pakistan/a-78187479?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T09:58:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: US carries out fresh strikes in 'powerful response'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-in-powerful-response/live-78166958?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T22:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosions reported in Kyiv after Zelenskyy warns of Russian strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/explosions-reported-in-kyiv-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T22:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+      "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
-      "published_date": "2026-07-29T16:36:09+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
+      "published_date": "2026-07-31T07:00:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: Egypt's difficult balancing act",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T16:19:00+00:00",
-      "category": "Military"
+      "title": "‘We can’t make it better again’: what Europe’s wildfires tell us about the climate crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/30/europe-wildfires-climate-crisis-heat-summer",
+      "published_date": "2026-07-31T06:00:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lebanon's pilot zone plan: Can it work?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lebanon-s-pilot-zone-plan-can-it-work/a-78148597?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T13:10:00+00:00",
-      "category": "Military"
+      "title": "Will brutal wildfires force French leaders to take climate crisis seriously?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections",
+      "published_date": "2026-07-31T04:00:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
       "published_date": "2026-07-30T22:47:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "German inflation rises as energy price growth accelerates",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260730/german-inflation-rises-as-energy-price-growth-accelerates",
+      "published_date": "2026-07-30T14:08:05+00:00",
       "category": "Energy"
     },
     {
@@ -382,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
-      "published_date": "2026-07-26T11:30:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eco wins: Cities, creatures, and tech are saving the day",
+      "title": "Small insects, big damage: The global ant trade is booming",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-25T07:25:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T12:20:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "France evacuates Cap Ferret peninsula as Spain battles to prevent wildfires merging near Madrid – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-      "published_date": "2026-07-24T12:03:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France orders total evacuation of Cap Ferret peninsula as wildfire spreads",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-      "published_date": "2026-07-24T11:42:32+00:00",
-      "category": "Energy"
+      "title": "FIFA plans: Infantino under pressure as senior advisor quits",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fifa-plans-infantino-under-pressure-as-senior-advisor-quits/a-78171084?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T12:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
@@ -536,18 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Has Germany's 'migration turnaround' killed its ability to attract foreign workers?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260728/has-germanys-migration-turnaround-killed-its-ability-to-attract-foreign-workers",
-      "published_date": "2026-07-28T15:00:11+00:00",
-      "category": "Economy"
+      "title": "Landgericht Frankfurt: Hausverwalter muss wegen Untreue in Haft",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-07/31/hausverwalter-muss-wegen-untreue-in-haft",
+      "published_date": "2026-07-31T12:30:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "500.000 Euro Sachschaden: A6 Richtung Kaiserslautern nach Brand und Unfall wieder frei",
+      "title": "Spain’s Sánchez blames trafficking gangs as estimated 60,000 migrants reach Ceuta with at least 34 dead – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "published_date": "2026-07-31T12:27:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fifa Forward Enterprise: Hochrangiger Infantino-Berater tritt aus Protest zurück",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/27/a6-richtung-kaiserslautern-wegen-lkw-brand-gesperrt",
-      "published_date": "2026-07-27T22:43:48+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/sport/2026-07/fifa-forward-enterprise-afc-uefa-concacaf-private-investoren-gxe",
+      "published_date": "2026-07-31T12:22:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far right and far left parties face off in Berlin's coming election",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260731/far-right-and-far-left-parties-face-off-in-berlins-coming-election",
+      "published_date": "2026-07-31T12:13:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 34 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "published_date": "2026-07-31T11:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court rules that AI music firm Suno violated copyrights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-07-31T11:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court rules that AI music firm Suno violated copyrights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T11:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's PM visits Ceuta after thousands breached border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-07-31T10:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's PM visits Ceuta after thousands breached border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-07-31T10:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British-Azerbaijani man arrested in Cyprus over alleged spying on UK airbase for Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/british-azerbaijani-man-arrested-cyprus-alleged-spying-uk-airbase-iran",
+      "published_date": "2026-07-31T08:58:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After teargas, protests and legal strife, Turkey has a new opposition party. Is this the man who can defeat Erdoğan? | Kaya Genç",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan",
+      "published_date": "2026-07-31T04:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brandmauer-Debatte: Kretschmer bekräftigt: keine Zusammenarbeit mit der AfD",
@@ -578,6 +669,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Are these the most beautiful natural swimming pools in Bavaria?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260730/are-these-the-most-beautiful-natural-swimming-pools-in-bavaria",
+      "published_date": "2026-07-30T14:44:21+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Why Germany may stand up against FIFA's World Cup sell off",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-germany-may-stand-up-against-fifa-s-world-cup-sell-off/a-78172163?maca=en-rss-en-ger-1023-rdf",
@@ -603,90 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-lawsuit-tests-copyright-limits-for-ai-music-training/a-78152227?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-07-30T08:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Deutsche Bahn reportedly returns to profit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-reportedly-returns-to-profit/live-78168639?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-30T08:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Deutsche Bahn returns to profit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-returns-to-profit/live-78168639?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-30T08:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Assam flood toll rises to 78, more rain predicted",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-assam-flood-toll-rises-to-78-more-rain-predicted/live-78168101?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-30T07:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260730/today-in-germany-a-roundup-of-the-latest-news-on-thursday-129",
-      "published_date": "2026-07-30T06:31:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Begrüßungsgeld für Babys: Juristin Brosius-Gersdorf: AfD-Forderung verfassungswidrig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/30/juristin-brosius-gersdorf-afd-forderung-verfassungswidrig",
-      "published_date": "2026-07-29T23:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feuerwehreinsatz: Feuer in Stuttgart: Zwei Autos und Wohnhaus betroffen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/29/feuer-in-stuttgart-zwei-autos-und-wohnhaus-betroffen",
-      "published_date": "2026-07-29T21:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body found in suitcase in Athens is that of 38-year-old British woman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
-      "published_date": "2026-07-29T21:05:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How well are LGBTQ+ rights protected across Europe?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T19:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How well are LGBTQ+ rights protected across Europe?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-29T19:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
-      "published_date": "2026-07-29T18:30:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Excessive time spent online linked to stress and worse mood – study",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/excessive-time-spent-online-linked-to-stress-and-worse-mood-study",
-      "published_date": "2026-07-29T18:05:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
-      "published_date": "2026-07-29T17:02:07+00:00",
       "category": "Local Events"
     }
   ]
