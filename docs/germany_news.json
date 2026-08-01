@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-07-31T23:54:15.740568+00:00",
+  "last_updated": "2026-08-01T11:58:02.347629+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Krise in Ceuta: 22 EU-Mitgliedstaaten fordern Sondersitzung der Innenminister",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/migrationskrise-ceuta-spanien-eu-friedrich-merz-giorgia-meloni",
+      "published_date": "2026-08-01T11:34:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta: Ein Fest für die Feinde Europas",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/europaeische-regierungen-reaktion-ceuta-zusammenhalt",
+      "published_date": "2026-08-01T11:08:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "published_date": "2026-08-01T10:32:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta: Spain demands EU meeting, blasts 'selfish' response",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-spain-demands-eu-meeting-blasts-selfish-response/live-78191601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-01T08:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta: Spain demands EU meeting, blasts 'selfish' response",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-spain-demands-eu-meeting-blasts-selfish-response/live-78191601?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-01T08:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+      "published_date": "2026-08-01T07:00:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spanische Exklave Ceuta: Rund 48.000 Migranten sind laut Behörden nach Marokko zurückgekehrt",
       "source": "ZEIT Online",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe is burning – and if Trump’s war on the climate is not met with sanctions, things will only get worse | Alexander Hurst",
+      "title": "War in Ukraine: Why Crimea has become a strategic target",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-01T10:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in Ukraine: Why Crimea has become a strategic target",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-01T10:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-01T08:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The final hit: Is Glasgow’s 25-year gruesome gangland feud finally over?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house",
-      "published_date": "2026-07-30T11:00:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Forest fire breaks out on mountain peak in Germany's Chiemgau Alps",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260730/forest-fire-breaks-out-on-mountain-peak-in-germanys-chiemgau-alps",
-      "published_date": "2026-07-30T07:52:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thorsten Frei: Stimmung mies, aber Revolte vertagt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/thorsten-frei-wahl-uunions-fraktionschef-friedrich-merz",
-      "published_date": "2026-07-29T18:45:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany defends deporting non-criminal to Afghanistan",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260729/germany-defends-deporting-non-criminal-to-afghanistan",
-      "published_date": "2026-07-29T15:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Temperatures to soar amid new heatwave",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-29T14:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Temperatures to soar amid new heatwave",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T14:30:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over",
+      "published_date": "2026-08-01T05:00:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Klimaphänomen El Niño: UN-Generalsekretär warnt vor ungewöhnlicher Hitze auch im Herbst",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "title": "Lost income, energy fears and a woolly mammoth: what Europe’s dried-up rivers have yielded",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
-      "published_date": "2026-07-30T17:40:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
-      "published_date": "2026-07-30T16:59:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
-      "published_date": "2026-07-30T11:55:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia accused of violating Polish airspace after missile explosion near village",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
-      "published_date": "2026-07-30T11:31:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
+      "published_date": "2026-08-01T11:00:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why Europe's wildfires are getting harder to stop",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "What is a ‘fire cloud’, and how have they worsened wildfires in Europe?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/27/what-is-a-fire-cloud-pyrocumulonimbus-pyrocb-france-spain-wildfires",
-      "published_date": "2026-07-27T04:43:32+00:00",
-      "category": "Energy"
+      "title": "Landkreis Osterholz: Feuer zerstört Haus – Geschätzter Schaden von 200.000 Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/01/feuer-zerstoert-haus-geschaetzter-schaden-von-200-000-euro",
+      "published_date": "2026-08-01T11:25:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany weighs the future of minijobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-weighs-the-future-of-minijobs/a-78147900?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-01T08:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany weighs the future of minijobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-weighs-the-future-of-minijobs/a-78147900?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-01T08:49:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Humanoid robots: Trump's latest China trade battle?",
@@ -543,25 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Rüstungsindustrie: Rheinmetall steigert Umsatz und Gewinn",
+      "title": "Protest gegen Transitverkehr: Fernpass gesperrt - Kein Chaos in Bayern",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/rheinmetall-quartalszahlen-unternehmenszahlen-ruestungsindustrie-aktie",
-      "published_date": "2026-07-29T12:12:56+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-08/01/fernpass-gesperrt-bislang-kein-chaos-in-bayern",
+      "published_date": "2026-08-01T11:46:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
-      "published_date": "2026-07-29T12:02:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+      "published_date": "2026-08-01T11:34:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany's BMW aims to 'cut 8,000 jobs' by end of 2027",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260729/germanys-bmw-aims-to-cut-8000-jobs-by-end-of-2027",
-      "published_date": "2026-07-29T10:49:58+00:00",
-      "category": "Economy"
+      "title": "Landtagswahlkampf: Wirbel um Hallervorden-Auftritt bei CDU-Kandidat Schulze",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/01/wirbel-um-hallervorden-bei-sven-schulze",
+      "published_date": "2026-08-01T11:26:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scores injured as earthquake hits near Naples in seismic swarm",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
+      "published_date": "2026-08-01T10:26:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Pride marches planned after Berlin attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-pride-marches-planned-after-berlin-attack/live-78199317?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-01T06:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Pride marches planned after Berlin attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-pride-marches-planned-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-01T06:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A symbol of resistance’: the fight to save treehouse built on no man’s land next to Berlin Wall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/fight-to-save-treehouse-berlin-wall-germany",
+      "published_date": "2026-08-01T06:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
+      "published_date": "2026-08-01T04:00:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Christopher Street Day: SPD-Fraktionschef wünscht sich Besuch des Kanzlers beim CSD",
@@ -645,62 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-07-31T11:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German court rules that AI music firm Suno violated copyrights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-court-rules-that-ai-music-firm-suno-violated-copyrights/a-78152227?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T11:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's PM visits Ceuta after thousands breached border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T10:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's PM visits Ceuta after thousands breached border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-07-31T10:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British-Azerbaijani man arrested in Cyprus over alleged spying on UK airbase for Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/31/british-azerbaijani-man-arrested-cyprus-alleged-spying-uk-airbase-iran",
-      "published_date": "2026-07-31T08:58:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After teargas, protests and legal strife, Turkey has a new opposition party. Is this the man who can defeat Erdoğan? | Kaya Genç",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan",
-      "published_date": "2026-07-31T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandmauer-Debatte: Kretschmer bekräftigt: keine Zusammenarbeit mit der AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/31/kretschmer-bekraeftigt-keine-zusammenarbeit-mit-der-afd",
-      "published_date": "2026-07-30T22:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French riot police used teargas on people trying to board small boat, charity claims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
-      "published_date": "2026-07-30T19:20:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin Pride attack: Are German juvenile courts too lenient?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-pride-attack-are-german-juvenile-courts-too-lenient/a-78181294?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-30T16:50:00+00:00",
       "category": "Local Events"
     }
   ]
