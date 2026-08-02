@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-02T11:56:49.151089+00:00",
+  "last_updated": "2026-08-02T23:51:28.218634+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: Russland und Ukraine melden 14 Tote binnen eines Tages",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-08-02T22:28:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/02/eu-citizens-uk-letters-post-brexit-residency-rights-given-in-error",
+      "published_date": "2026-08-02T12:42:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Callas, Beethoven, bee-eaters or storks: competition seeks to redesign euro notes",
       "source": "The Guardian",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spanische Exklave Ceuta: Frankreich und Italien verstärken ihre Grenzkontrollen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/ceuta-migranten-spanien-frankreich-grenzkontrollen-laurent-nunez-gxe",
-      "published_date": "2026-07-31T12:16:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-      "published_date": "2026-07-31T11:21:20+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine hits targets deep inside Russia, killing eight",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-02T17:15:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
@@ -273,13 +280,6 @@
       "title": "Ceuta: Spain scrambles after thousands breach exclave border",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ceuta-spain-scrambles-after-thousands-breach-exclave-border/live-78191601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T11:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ceuta: Spain scrambles after thousands breach exclave border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-spain-scrambles-after-thousands-breach-exclave-border/live-78191601?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-07-31T11:47:00+00:00",
       "category": "Military"
     },
@@ -564,6 +564,62 @@
       "category": "Economy"
     },
     {
+      "title": "Polizeikontrolle in Hannover: Alkohol, Drogen oder beides - und dann auf den E-Scooter",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/03/alkohol-drogen-oder-beides-und-dann-auf-den-e-scooter",
+      "published_date": "2026-08-02T23:04:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamburg: Maskierte dringen in Haus ein – Mann schwer verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/02/maskierte-dringen-in-haus-ein-mann-schwer-verletzt",
+      "published_date": "2026-08-02T21:26:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feuerwehreinsatz: Wohnungsbrand in Düsseldorf – ein Mensch tot",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/02/wohnungsbrand-in-duesseldorf-ein-mensch-tot",
+      "published_date": "2026-08-02T20:44:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-02T19:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
+      "published_date": "2026-08-02T18:29:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+      "published_date": "2026-08-02T17:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greece: Fire brigade helicopters collide as wildfires spread",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-02T15:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "published_date": "2026-08-02T12:25:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-rdf",
@@ -645,62 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/aug/01/rockfall-hits-italian-city-after-earthquake-in-naples-video",
       "published_date": "2026-08-01T16:21:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest gegen Transitverkehr: Fernpass gesperrt - Kein Chaos in Bayern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/01/fernpass-gesperrt-bislang-kein-chaos-in-bayern",
-      "published_date": "2026-08-01T11:46:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "published_date": "2026-08-01T11:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahlkampf: Wirbel um Hallervorden-Auftritt bei CDU-Kandidat Schulze",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/01/wirbel-um-hallervorden-bei-sven-schulze",
-      "published_date": "2026-08-01T11:26:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scores injured as earthquake hits near Naples in seismic swarm",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-      "published_date": "2026-08-01T10:26:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Pride marches planned after Berlin attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-pride-marches-planned-after-berlin-attack/live-78199317?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-01T06:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Pride marches planned after Berlin attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-pride-marches-planned-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T06:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Big turnout for Pride after Berlin attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-01T06:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Big turnout for Pride after Berlin attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T06:39:00+00:00",
       "category": "Local Events"
     }
   ]
