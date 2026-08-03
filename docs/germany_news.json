@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-02T23:51:28.218634+00:00",
+  "last_updated": "2026-08-03T13:34:58.381148+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Spanische Nordafrika-Exklave: EU-Länder streiten: Was folgt aus der Krise in Ceuta?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/03/eu-laender-streiten-was-folgt-aus-der-krise-in-ceuta",
+      "published_date": "2026-08-03T13:31:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
+      "published_date": "2026-08-03T13:29:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanische Exklave Ceuta: Von der Leyen fordert stärkere europäische Außengrenzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/ceuta-marokko-spanien-migranten-eu-grenze",
+      "published_date": "2026-08-03T13:18:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief urges 'united action' on borders after Spain's Ceuta migrant rush",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
+      "published_date": "2026-08-03T13:09:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany and the UK launch simplified travel rules for school groups",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260803/germany-and-the-uk-launch-simplified-travel-rules-for-school-groups",
+      "published_date": "2026-08-03T12:04:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
+      "published_date": "2026-08-03T06:00:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Krieg gegen die Ukraine: Russland und Ukraine melden 14 Tote binnen eines Tages",
       "source": "ZEIT Online",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
-      "published_date": "2026-08-01T07:00:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spanische Exklave Ceuta: Rund 48.000 Migranten sind laut Behörden nach Marokko zurückgekehrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/ceuta-migrationskrise-spanien-marokko-schengen",
-      "published_date": "2026-07-31T22:37:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kabinettsumbau: Güntzler bedauert Probleme durch kurzfristige Absage an Merz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-07/fritz-guentzler-verkehrsminister-rueckzug-friedrich-merz-kabinettsumbildung",
-      "published_date": "2026-07-31T22:37:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK court allows plans for Chinese 'super' embassy to advance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T16:19:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can an EU member state be kicked out of Schengen zone?",
+      "title": "What content creators need to know about Germany's new AI rules",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260731/can-an-eu-member-state-be-kicked-out-of-schengen-zone",
-      "published_date": "2026-07-31T13:18:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260803/what-content-creators-need-to-know-about-germanys-new-ai-rules",
+      "published_date": "2026-08-03T13:25:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Flüchtlingskrise in Ceuta: Pedro Sánchez spricht bei Besuch in Ceuta von »Angriff« auf Spanien",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/migration-ceuta-melilla-spanien-marokko-grenze-liveblog",
-      "published_date": "2026-07-31T12:29:01+00:00",
-      "category": "Diplomacy"
+      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
+      "published_date": "2026-08-03T10:27:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia: Bridge-building with North Korea",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T10:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar: Aung San Suu Kyi meets Red Cross official, junta says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-aung-san-suu-kyi-meets-red-cross-official-junta-says/a-78211532?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T08:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran denies talks with US underway after Trump comments",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-denies-talks-with-us-underway-after-trump-comments/live-78210315?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T07:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Atlas of Disappearance review – forensic quest for thousands of forgotten victims of the Spanish civil war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/03/atlas-of-disappearance-review-forensic-quest-for-families-robbed-of-graves-by-franco",
+      "published_date": "2026-08-03T06:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
+      "published_date": "2026-08-03T06:00:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine hits targets deep inside Russia, killing eight",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "The final hit: Is Glasgow’s 25-year gruesome gangland feud finally over?",
+      "title": "Romanian navy blows up rock in Danube to redirect water to nuclear plant – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over",
-      "published_date": "2026-08-01T05:00:44+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/video/2026/aug/03/romanian-navy-blows-up-rock-danube-redirect-water-nuclear-plant-video",
+      "published_date": "2026-08-03T10:31:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Klimaphänomen El Niño: UN-Generalsekretär warnt vor ungewöhnlicher Hitze auch im Herbst",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-07/el-nino-klimakrise-wetter-2024-wmo",
-      "published_date": "2026-07-31T22:55:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fußballweltmeisterschaft: Fifa will Vergrößerung von WM binnen weniger Wochen prüfen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-07/fifa-fussball-wm-aufstockung-64-teams-untersuchung",
-      "published_date": "2026-07-31T20:13:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
+      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/31/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-07-31T17:04:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
+      "published_date": "2026-08-03T08:16:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Eco wins: From death strip to nature haven and other green surprises",
+      "title": "Cuba suffers yet another nationwide blackout",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T12:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eco wins: From death strip to nature haven and other green surprises",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-31T12:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ceuta: Spain scrambles after thousands breach exclave border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-spain-scrambles-after-thousands-breach-exclave-border/live-78191601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T11:47:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T05:57:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany: As temperatures rise, so does climate skepticism",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
+      "title": "Spain's wildfires: Counting the economic cost",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T08:32:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why is Germany building roads for yesterday's climate?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-28T13:34:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why is Germany building roads for yesterday's climate?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-28T13:34:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/spain-s-wildfires-counting-the-economic-cost/a-78186441?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T05:05:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Landkreis Osterholz: Feuer zerstört Haus – Geschätzter Schaden von 200.000 Euro",
@@ -557,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Unfälle: Wespe löst Unfall aus - 10.000 Euro Schaden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/29/wespe-loest-unfall-aus-10-000-euro-schaden",
-      "published_date": "2026-07-29T12:47:20+00:00",
-      "category": "Economy"
+      "title": "Greece battles wildfires – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/aug/03/greece-battles-wildfires-in-pictures",
+      "published_date": "2026-08-03T12:43:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian court acquits ex-wrestling chief of harassment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indian-court-acquits-ex-wrestling-chief-of-harassment/a-78215415?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T11:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are rainbow Pride flags being banned in Germany?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260803/why-are-rainbow-pride-flags-being-banned-in-germany",
+      "published_date": "2026-08-03T10:41:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What drivers in Germany should know about the 'speed camera marathon'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260803/what-drivers-in-germany-should-know-about-the-speed-camera-marathon",
+      "published_date": "2026-08-03T08:47:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Russian disinformation targets German elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-russian-disinformation-targets-german-elections/a-78193305?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-03T07:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Russian disinformation targets German elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-russian-disinformation-targets-german-elections/a-78193305?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T07:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260803/today-in-germany-a-roundup-of-the-latest-news-on-monday-133",
+      "published_date": "2026-08-03T06:37:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5.0 magnitude earthquake strikes Egypt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/5-0-magnitude-earthquake-strikes-egypt/a-78210318?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T02:22:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Polizeikontrolle in Hannover: Alkohol, Drogen oder beides - und dann auf den E-Scooter",
@@ -645,62 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/wissenschaft/umwelt/2026-08/niedrigwasser-rhein-donau-oliver-krischer-binnenschifffahrt-fahrrinne",
       "published_date": "2026-08-02T11:02:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia: At least 5 dead in ferry fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T10:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Islamism and right-wing extremism — a story of mutual radicalization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-02T09:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Islamism and right-wing extremism — a story of mutual radicalization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T09:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pride march draws hundreds of thousands in Germany week after attack",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260802/pride-march-draws-hundreds-of-thousands-in-germany-week-after-attack",
-      "published_date": "2026-08-02T07:03:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T03:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSD-Demonstration: Sie trauern laut",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-07/csd-demonstration-hamburg-sicherheit-polizei",
-      "published_date": "2026-08-01T19:59:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Generation Deutschland: Funktionär der Generation Deutschland bei Demo in Schwerin verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/generation-deutschland-afd-jugendorganisation-schwerin-michael-schumann",
-      "published_date": "2026-08-01T19:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rockfall hits Italian city after earthquake in Naples – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/01/rockfall-hits-italian-city-after-earthquake-in-naples-video",
-      "published_date": "2026-08-01T16:21:55+00:00",
       "category": "Local Events"
     }
   ]
