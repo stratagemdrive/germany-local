@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-04T12:54:47.357230+00:00",
+  "last_updated": "2026-08-04T23:56:00.194762+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "White House revokes visa of Brazil's ambassador to US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T21:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
+      "published_date": "2026-08-04T16:51:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees to send border aid to Spain after Ceuta talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-agrees-to-send-border-aid-to-spain-after-ceuta-talks/a-78233082?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T13:59:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How does eastern Europe commemorate the Roma Holocaust?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-01T20:08:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine-Krieg: Klitschko: Neuer Angriff auf Kiew mit ballistischen Raketen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/05/klitschko-neuer-angriff-auf-kiew-mit-ballistischen-raketen",
+      "published_date": "2026-08-04T23:15:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU gets new powers over powerful AI from Sunday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260801/eu-gets-new-powers-over-powerful-ai-from-sunday",
-      "published_date": "2026-08-01T14:30:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Three of EU's 15 largest wildfires since 2016 occurred in July",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260801/three-of-eus-15-largest-wildfires-since-2016-occurred-in-july",
-      "published_date": "2026-08-01T12:06:16+00:00",
-      "category": "Diplomacy"
+      "title": "MI6 is top European foreign intelligence service, peer review finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
+      "published_date": "2026-08-04T22:40:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Schifffahrten bei Niedrigwasser: So niedrig steht das Wasser in Donau, Elbe und Rhein",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia",
-      "published_date": "2026-08-02T05:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "title": "South Sudan: How climate change can result in toxic water",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T02:16:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T14:46:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Guatemala: Towns evacuated as Fuego volcano erupts",
@@ -361,6 +368,13 @@
       "category": "Energy"
     },
     {
+      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-02T02:16:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Lost income, energy fears and a woolly mammoth: what Europe’s dried-up rivers have yielded",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
@@ -407,20 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections",
       "published_date": "2026-07-31T04:00:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
-      "published_date": "2026-07-30T22:47:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "German inflation rises as energy price growth accelerates",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260730/german-inflation-rises-as-energy-price-growth-accelerates",
-      "published_date": "2026-07-30T14:08:05+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Italy: Garbage workers help woman find €1 million jackpot",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-garbage-workers-help-woman-find-€1-million-jackpot/a-78237944?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T19:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is responsible for the Ceuta border surge?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T18:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle East: India says commercial ship sunk off Yemen",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T18:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Zambia's opposition stand without Edgar Lungu?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-does-zambia-s-opposition-stand-without-edgar-lungu/a-78231174?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wasserversorgung: SPD-Fraktion fordert rasche Landesstrategie zum Wasser",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/04/spd-fraktion-fordert-rasche-landesstrategie-zum-wasser",
@@ -595,6 +623,13 @@
       "title": "Germany news: Hedgehog triggers police alert",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-hedgehog-triggers-police-alert/live-78225796?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T07:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Hedgehog triggers police alert",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-hedgehog-triggers-police-alert/live-78225796?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-04T07:17:00+00:00",
       "category": "Local Events"
     },
@@ -666,41 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/video/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
       "published_date": "2026-08-03T15:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires rage across Greece, threatening homes – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/03/wildfires-rage-across-greece-threatening-homes-video",
-      "published_date": "2026-08-03T15:42:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The right’s exploitation of the Ceuta migrant ‘crisis’ almost guarantees that it will happen again | Ruben Andersson",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/03/right-exploitation-ceuta-migrant-crisis-happen-again-eu",
-      "published_date": "2026-08-03T13:33:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greece battles wildfires – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/aug/03/greece-battles-wildfires-in-pictures",
-      "published_date": "2026-08-03T12:43:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian court acquits ex-wrestling chief of harassment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indian-court-acquits-ex-wrestling-chief-of-harassment/a-78215415?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T11:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are rainbow Pride flags being banned in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260803/why-are-rainbow-pride-flags-being-banned-in-germany",
-      "published_date": "2026-08-03T10:41:54+00:00",
       "category": "Local Events"
     }
   ]
