@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-04T00:00:23.202836+00:00",
+  "last_updated": "2026-08-04T12:54:47.357230+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
+      "published_date": "2026-08-04T12:42:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Migration: EU-Innenminister ziehen Lehren aus Ceuta-Krise",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/04/evp-chef-weber-zu-ceuta-krise-spanien-muss-kurs-aendern",
+      "published_date": "2026-08-04T12:38:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta: EU-Innenminister loben Spaniens Umgang mit Ceuta-Krise",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/ceuta-eu-innenminister-krisensitzung-migranten-spanien-tote",
+      "published_date": "2026-08-04T12:29:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany prepares civilian service model foreshadowing return of conscription",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260804/germany-prepares-civilian-service-model-foreshadowing-return-of-conscription",
+      "published_date": "2026-08-04T09:42:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ceuta: EU calls borders a 'shared European responsibility'",
       "source": "Deutsche Welle",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU countries call for talks over migrant influx into Spanish enclave",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260801/eu-countries-call-for-talks-over-migrant-influx-into-spanish-enclave",
-      "published_date": "2026-08-01T12:00:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Krise in Ceuta: 22 EU-Mitgliedstaaten fordern Sondersitzung der Innenminister",
+      "title": "Schifffahrten bei Niedrigwasser: So niedrig steht das Wasser in Donau, Elbe und Rhein",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/migrationskrise-ceuta-spanien-eu-friedrich-merz-giorgia-meloni",
-      "published_date": "2026-08-01T11:34:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/mobilitaet/2026-08/schifffahrten-niedrigwasser-rhein-donau-pegelstaende-auswirkungen",
+      "published_date": "2026-08-04T12:36:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ceuta: Ein Fest für die Feinde Europas",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-08/europaeische-regierungen-reaktion-ceuta-zusammenhalt",
-      "published_date": "2026-08-01T11:08:45+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine drone strikes kill five near Moscow, Russia says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-drone-strikes-kill-five-near-moscow-russia-says/live-78227405?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T09:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "published_date": "2026-08-01T10:32:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war",
+      "published_date": "2026-08-04T04:00:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "title": "Guatemala: Towns evacuated as Fuego volcano erupts",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-02T02:16:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/guatemala-towns-evacuated-as-fuego-volcano-erupts/a-78230836?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T11:53:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship",
+      "title": "Price of olive oil expected to rise again as European crops feel the heat",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship",
-      "published_date": "2026-08-02T01:54:19+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+      "published_date": "2026-08-04T04:00:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-      "published_date": "2026-08-02T00:22:48+00:00",
-      "category": "Military"
+      "title": "Cuba: Further blackouts disrupt energy restoration attempts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cuba-further-blackouts-disrupt-energy-restoration-attempts/a-78224862?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T03:23:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Romanian navy blows up rock in Danube to redirect water to nuclear plant – video",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "How crypto miners are stealing power in Southeast Asia",
+      "title": "US: 25 states sue over Trump's new tariffs",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-30T14:08:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/a-decade-on-the-iberian-frontline-has-shown-me-that-europes-climate-emergency-is-impossible-to-deny",
-      "published_date": "2026-07-29T14:35:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran signals gas price hike as fuel crisis looms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-signals-gas-price-hike-as-fuel-crisis-looms/a-78160208?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T13:11:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/us-25-states-sue-over-trump-s-new-tariffs/a-78224794?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T00:28:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Regionalbahnen: Länder fordern Lösung bei Trassenpreisen und warnen vor Zugausfällen",
@@ -557,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "BMW to cut up to 8,000 jobs",
+      "title": "Wasserversorgung: SPD-Fraktion fordert rasche Landesstrategie zum Wasser",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/04/spd-fraktion-fordert-rasche-landesstrategie-zum-wasser",
+      "published_date": "2026-08-04T12:43:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europa Passage Hamburg: Heute ist CSD, sagte er zu Hazeem. Das ist unser Tag. Wir dürfen das.",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-08/europapassage-hamburg-christopher-street-day-sicherheitskraft-zutritt",
+      "published_date": "2026-08-04T11:55:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We launched a war on nature. Now we are in a climate warzone | Rebecca Solnit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone",
+      "published_date": "2026-08-04T10:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+      "published_date": "2026-08-04T09:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Hedgehog triggers police alert",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bmw-to-cut-up-to-8-000-jobs/a-78162615?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-29T14:26:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-hedgehog-triggers-police-alert/live-78225796?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-04T07:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260804/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-134",
+      "published_date": "2026-08-04T06:32:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Summer Book review – Glenn Close powers sweet-natured take on Tove Jansson’s grief classic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/04/the-summer-book-review-glenn-close-powers-sweet-natured-take-on-tove-janssons-kids-classic",
+      "published_date": "2026-08-04T06:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cancer survivors need protection from future discrimination, say German politicians",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/04/cancer-survivors-need-protection-from-future-discrimination-say-german-politicians",
+      "published_date": "2026-08-04T05:00:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why is Ceuta a migration flashpoint and how were so many people able to cross from Morocco?",
@@ -645,62 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260803/why-are-rainbow-pride-flags-being-banned-in-germany",
       "published_date": "2026-08-03T10:41:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What drivers in Germany should know about the 'speed camera marathon'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260803/what-drivers-in-germany-should-know-about-the-speed-camera-marathon",
-      "published_date": "2026-08-03T08:47:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Russian disinformation targets German elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-russian-disinformation-targets-german-elections/a-78193305?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-03T07:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Russian disinformation targets German elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-russian-disinformation-targets-german-elections/a-78193305?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T07:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260803/today-in-germany-a-roundup-of-the-latest-news-on-monday-133",
-      "published_date": "2026-08-03T06:37:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5.0 magnitude earthquake strikes Egypt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/5-0-magnitude-earthquake-strikes-egypt/a-78210318?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T02:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polizeikontrolle in Hannover: Alkohol, Drogen oder beides - und dann auf den E-Scooter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/03/alkohol-drogen-oder-beides-und-dann-auf-den-e-scooter",
-      "published_date": "2026-08-02T23:04:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamburg: Maskierte dringen in Haus ein – Mann schwer verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/02/maskierte-dringen-in-haus-ein-mann-schwer-verletzt",
-      "published_date": "2026-08-02T21:26:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feuerwehreinsatz: Wohnungsbrand in Düsseldorf – ein Mensch tot",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/02/wohnungsbrand-in-duesseldorf-ein-mensch-tot",
-      "published_date": "2026-08-02T20:44:13+00:00",
       "category": "Local Events"
     }
   ]
