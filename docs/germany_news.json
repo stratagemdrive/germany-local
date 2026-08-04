@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-03T13:34:58.381148+00:00",
+  "last_updated": "2026-08-04T00:00:23.202836+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ceuta: EU calls borders a 'shared European responsibility'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta: EU calls borders a 'shared European responsibility'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-03T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spanische Nordafrika-Exklave: EU-Länder streiten: Was folgt aus der Krise in Ceuta?",
       "source": "ZEIT Online",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ceuta: Spain demands EU meeting, blasts 'selfish' response",
+      "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-spain-demands-eu-meeting-blasts-selfish-response/live-78191601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T08:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T17:59:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ceuta: Spain demands EU meeting, blasts 'selfish' response",
+      "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-spain-demands-eu-meeting-blasts-selfish-response/live-78191601?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-01T08:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-03T17:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump tells Iranian leaders to make deal or surrender",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T16:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
+      "published_date": "2026-08-03T15:49:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia says civilians killed in strike on Black Sea resort",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T15:12:00+00:00",
+      "category": "Military"
     },
     {
       "title": "What content creators need to know about Germany's new AI rules",
@@ -246,41 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
       "published_date": "2026-08-02T00:22:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Homemade bomb goes off outside upscale Moscow restaurant state officials say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T22:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Homemade bomb goes off outside upscale Moscow restaurant state officials say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-01T22:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Why Crimea has become a strategic target",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T10:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Why Crimea has become a strategic target",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-01T10:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T08:09:00+00:00",
       "category": "Military"
     },
     {
@@ -424,9 +424,23 @@
       "category": "Energy"
     },
     {
+      "title": "Regionalbahnen: Länder fordern Lösung bei Trassenpreisen und warnen vor Zugausfällen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/trassenpreise-regionalbahnen-eugh-urteil-laender-abestellungen",
+      "published_date": "2026-08-03T23:37:54+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Spain's wildfires: Counting the economic cost",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/spain-s-wildfires-counting-the-economic-cost/a-78186441?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-03T05:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The economic toll of Spain's wildfires",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-economic-toll-of-spain-s-wildfires/a-78186441?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-03T05:05:00+00:00",
       "category": "Economy"
     },
@@ -550,18 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "BMW to cut up to 8,000 jobs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bmw-to-cut-up-to-8-000-jobs/a-78162615?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-29T14:26:00+00:00",
-      "category": "Economy"
+      "title": "Why is Ceuta a migration flashpoint and how were so many people able to cross from Morocco?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa",
+      "published_date": "2026-08-03T20:32:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'The law is absent': How Indians in Germany are exploited in the workforce",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260729/the-law-is-absent-how-indians-in-germany-are-exploited-in-the-workforce",
-      "published_date": "2026-07-29T13:37:39+00:00",
-      "category": "Economy"
+      "title": "Athens suitcase death: suspect admits hiding body but denies murder",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase",
+      "published_date": "2026-08-03T19:36:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+      "published_date": "2026-08-03T17:44:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrants in Spain's Ceuta enclave escorted back to Morocco – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/03/migrants-in-spains-ceuta-enclave-escorted-back-to-morocco-video",
+      "published_date": "2026-08-03T17:42:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on events in Ceuta: chaos and tragedy are weaponised by the far right | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/03/the-guardian-view-on-events-in-ceuta-chaos-and-tragedy-are-weaponised-by-the-far-right",
+      "published_date": "2026-08-03T17:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "published_date": "2026-08-03T16:05:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "published_date": "2026-08-03T15:44:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires rage across Greece, threatening homes – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/03/wildfires-rage-across-greece-threatening-homes-video",
+      "published_date": "2026-08-03T15:42:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The right’s exploitation of the Ceuta migrant ‘crisis’ almost guarantees that it will happen again | Ruben Andersson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/03/right-exploitation-ceuta-migrant-crisis-happen-again-eu",
+      "published_date": "2026-08-03T13:33:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Greece battles wildfires – in pictures",
@@ -638,69 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/02/wohnungsbrand-in-duesseldorf-ein-mensch-tot",
       "published_date": "2026-08-02T20:44:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T19:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
-      "published_date": "2026-08-02T18:29:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
-      "published_date": "2026-08-02T17:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greece: Fire brigade helicopters collide as wildfires spread",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T15:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-      "published_date": "2026-08-02T12:25:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T11:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-02T11:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Dresden-Profi nach Hirnblutung: «Kampf zurück ins Leben»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/02/dresden-profi-nach-hirnblutung-kampf-zurueck-ins-leben",
-      "published_date": "2026-08-02T11:35:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niedrigwasser: Krisenstab soll sich um beeinträchtigte Schifffahrt kümmern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-08/niedrigwasser-rhein-donau-oliver-krischer-binnenschifffahrt-fahrrinne",
-      "published_date": "2026-08-02T11:02:08+00:00",
       "category": "Local Events"
     }
   ]
