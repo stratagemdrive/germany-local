@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-04T23:56:00.194762+00:00",
+  "last_updated": "2026-08-05T12:48:31.831612+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Video game maker EA bought by Saudi-led group for $55bn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group",
+      "published_date": "2026-08-05T06:34:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "White House revokes visa of Brazil's ambassador to US",
       "source": "Deutsche Welle",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How does eastern Europe commemorate the Roma Holocaust?",
+      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "published_date": "2026-08-05T12:10:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungary's Lake Velence is drying up",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T20:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T11:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungary's Lake Velence is drying up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-05T11:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "published_date": "2026-08-05T10:09:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea: Police raid Starbucks HQ over 'Tank Day' fiasco",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco/a-78241294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T08:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 17",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-17/a-78238963?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T07:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Klitschko: Neuer Angriff auf Kiew mit ballistischen Raketen",
@@ -155,6 +197,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
       "published_date": "2026-08-04T22:40:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lufthansa shares nosedive as Germany's biggest airline cuts outlook on Mideast war",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260804/lufthansa-shares-nosedive-as-germanys-biggest-airline-cuts-outlook-on-mideast-war",
+      "published_date": "2026-08-04T14:31:24+00:00",
       "category": "Military"
     },
     {
@@ -235,59 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Myanmar: Aung San Suu Kyi meets Red Cross official, junta says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-aung-san-suu-kyi-meets-red-cross-official-junta-says/a-78211532?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T08:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran denies talks with US underway after Trump comments",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-denies-talks-with-us-underway-after-trump-comments/live-78210315?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T07:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Atlas of Disappearance review – forensic quest for thousands of forgotten victims of the Spanish civil war",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/03/atlas-of-disappearance-review-forensic-quest-for-families-robbed-of-graves-by-franco",
-      "published_date": "2026-08-03T06:00:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
-      "published_date": "2026-08-03T06:00:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hits targets deep inside Russia, killing eight",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T17:15:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T09:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-02T09:24:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "published_date": "2026-08-05T05:54:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "South Sudan: How climate change can result in toxic water",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-04T14:46:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Seven tips for better sleep during a heatwave in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260804/seven-tips-for-better-sleep-during-a-heatwave-in-germany",
+      "published_date": "2026-08-04T14:21:55+00:00",
       "category": "Energy"
     },
     {
@@ -375,6 +389,13 @@
       "category": "Energy"
     },
     {
+      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-02T02:16:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Lost income, energy fears and a woolly mammoth: what Europe’s dried-up rivers have yielded",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
-      "published_date": "2026-07-31T07:00:07+00:00",
-      "category": "Energy"
+      "title": "Nachhaltigkeit: Airlines sollen Strafe für nicht nachhaltiges Kerosin zahlen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/nachhaltigkeit-bundesverkehrsministerium-airlines-kerosin-abgabe-gesetz-gxe",
+      "published_date": "2026-08-05T09:47:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘We can’t make it better again’: what Europe’s wildfires tell us about the climate crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/europe-wildfires-climate-crisis-heat-summer",
-      "published_date": "2026-07-31T06:00:07+00:00",
-      "category": "Energy"
+      "title": "How historically low water levels are affecting life in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260805/how-historically-low-water-levels-are-affecting-life-in-germany",
+      "published_date": "2026-08-05T09:38:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Will brutal wildfires force French leaders to take climate crisis seriously?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections",
-      "published_date": "2026-07-31T04:00:03+00:00",
-      "category": "Energy"
+      "title": "AI ecosystem's 'circular' investment: risk or advantage?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-ecosystem-s-circular-investment-risk-or-advantage/a-78186917?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T06:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Three hard truths for Indians thinking about moving to Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260804/three-hard-truths-for-indians-thinking-about-moving-to-germany",
+      "published_date": "2026-08-04T14:45:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "US: 25 states sue over Trump's new tariffs",
@@ -536,32 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Teuerung: Inflationsrate im Juli steigt auf 2,8 Prozent",
+      "title": "CDU-Bundespolitiker: Nach Unfall unter Verdacht: Bareiß bittet um Entschuldigung",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/inflationsrate-im-juli-steigt-tankrabatt-ende",
-      "published_date": "2026-07-30T12:21:54+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-08/05/nach-unfall-unter-verdacht-bareiss-bittet-um-entschuldigung",
+      "published_date": "2026-08-05T12:34:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Verbraucherpreise: Inflation springt nach Ende des Tankrabatts auf 2,8 Prozent",
+      "title": "Bundespräsidentenwahl 2027: SPD besteht auf Frau als nächstes Staatsoberhaupt",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/30/inflation-springt-nach-ende-des-tankrabatts-auf-2-8-prozent",
-      "published_date": "2026-07-30T12:11:10+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/bundespraesidentenwahl-2027-frauen-spd-thorsten-frei",
+      "published_date": "2026-08-05T12:31:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Preise: Inflation zieht sprunghaft an: 2,8 Prozent im Juli",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-07/30/inflation-zieht-sprunghaft-an-2-8-prozent-im-juli",
-      "published_date": "2026-07-30T12:05:06+00:00",
-      "category": "Economy"
+      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+      "published_date": "2026-08-05T12:13:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German economy grows slightly despite Mideast war",
+      "title": "Fact check: Did misleading claims about Spain's migration law trigger the Ceuta crisis?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-did-misleading-claims-about-spain-s-migration-law-trigger-the-ceuta-crisis/a-78233161?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T11:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone found at German airport after cargo plane collides with object mid-air",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "published_date": "2026-08-05T11:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flughafen Leipzig/Halle: Was sich in der Nacht am Leipziger Flughafen ereignete",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/flughafen-leipzig-halle-drohne-ermittlungen-ukraine-russland",
+      "published_date": "2026-08-05T11:25:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Lightning strike cuts Bavarian town in two",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-lightning-strike-cuts-bavarian-town-in-two/live-78241747?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T09:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig airport suspends flights after suspicious object sighting",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260730/german-economy-grows-slightly-despite-mideast-war",
-      "published_date": "2026-07-30T12:02:04+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260805/leipzig-airport-suspends-flights-after-suspicious-object-sighting",
+      "published_date": "2026-08-05T08:06:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish court orders X to block Imamoglu candidacy account",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkish-court-orders-x-to-block-imamoglu-candidacy-account/a-78239919?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T07:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260805/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-132",
+      "published_date": "2026-08-05T06:39:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
+      "published_date": "2026-08-05T04:29:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats",
+      "published_date": "2026-08-05T04:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe’s rivers are running dry, and the knock-on effects are disastrous | Yiannis Baboulias",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine",
+      "published_date": "2026-08-05T04:00:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Italy: Garbage workers help woman find €1 million jackpot",
@@ -610,97 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone",
       "published_date": "2026-08-04T10:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
-      "published_date": "2026-08-04T09:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Hedgehog triggers police alert",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-hedgehog-triggers-police-alert/live-78225796?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T07:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Hedgehog triggers police alert",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-hedgehog-triggers-police-alert/live-78225796?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-04T07:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260804/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-134",
-      "published_date": "2026-08-04T06:32:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Summer Book review – Glenn Close powers sweet-natured take on Tove Jansson’s grief classic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/04/the-summer-book-review-glenn-close-powers-sweet-natured-take-on-tove-janssons-kids-classic",
-      "published_date": "2026-08-04T06:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cancer survivors need protection from future discrimination, say German politicians",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/04/cancer-survivors-need-protection-from-future-discrimination-say-german-politicians",
-      "published_date": "2026-08-04T05:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Ceuta a migration flashpoint and how were so many people able to cross from Morocco?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa",
-      "published_date": "2026-08-03T20:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Athens suitcase death: suspect admits hiding body but denies murder",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase",
-      "published_date": "2026-08-03T19:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "published_date": "2026-08-03T17:44:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrants in Spain's Ceuta enclave escorted back to Morocco – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/03/migrants-in-spains-ceuta-enclave-escorted-back-to-morocco-video",
-      "published_date": "2026-08-03T17:42:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on events in Ceuta: chaos and tragedy are weaponised by the far right | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/03/the-guardian-view-on-events-in-ceuta-chaos-and-tragedy-are-weaponised-by-the-far-right",
-      "published_date": "2026-08-03T17:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-      "published_date": "2026-08-03T16:05:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-      "published_date": "2026-08-03T15:44:04+00:00",
       "category": "Local Events"
     }
   ]
