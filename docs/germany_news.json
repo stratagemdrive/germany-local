@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-05T12:48:31.831612+00:00",
+  "last_updated": "2026-08-05T23:51:28.782729+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Why Spain’s EU allies turned on Pedro Sanchez over Ceuta: the hard right now sets their agenda on migration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/the-events-at-ceuta-show-how-europes-hard-right-now-set-the-tone-on-immigration",
+      "published_date": "2026-08-05T14:30:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Video game maker EA bought by Saudi-led group for $55bn",
       "source": "The Guardian",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Migrationskrise in Ceuta: Außenminister Wadephul lobt Spanien und Marokko für schnelle Reaktion",
+      "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T19:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Skinny-Trend: Plötzlich will ich wieder skinny sein",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/bundesaussenminister-johann-wadephul-ceuta-spanien-marokko-migration-eu-aussengrenzen-frontex",
-      "published_date": "2026-08-01T22:36:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/zeit-magazin/leben/2026-07/skinny-trend-schoenheitsideal-abnehmen-emanzipation-ozempic-gxe",
+      "published_date": "2026-08-05T18:46:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+      "published_date": "2026-08-05T17:32:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on French cinema’s De Gaulle moment: present anxieties inform a new focus on the past | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/the-guardian-view-on-french-cinemas-de-gaulle-moment-present-anxieties-inform-a-new-focus-on-the-past",
+      "published_date": "2026-08-05T17:16:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Game of drones: inside the 7 August Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/aug/05/game-of-drones-inside-the-7-august-guardian-weekly",
+      "published_date": "2026-08-05T17:00:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia exploits Ukraine’s air defence shortage in deadly attack on Kyiv - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/05/russia-ukraine-air-defence-shortage-the-latest-podcast",
+      "published_date": "2026-08-05T15:45:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fears of renewed conflict in Ethiopia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fears-of-renewed-conflict-in-ethiopia/a-78242293?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T15:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of 'blatant' ceasefire violation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T14:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany jails young members of far-right 'Last Wave of Defence'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260805/germany-jails-young-members-of-far-right-last-wave-of-defence",
+      "published_date": "2026-08-05T13:54:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hiroshima survivors warn against Japan's rearmament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T12:58:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Head of drone manufacturer critically injured in car bomb in Russia",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine drone strikes kill five near Moscow, Russia says",
+      "title": "A glowing future for nuclear power? Mini reactors explained",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-drone-strikes-kill-five-near-moscow-russia-says/live-78227405?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T09:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war",
-      "published_date": "2026-08-04T04:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T17:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-03T17:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump tells Iranian leaders to make deal or surrender",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T16:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
-      "published_date": "2026-08-03T15:49:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says civilians killed in strike on Black Sea resort",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T15:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What content creators need to know about Germany's new AI rules",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260803/what-content-creators-need-to-know-about-germanys-new-ai-rules",
-      "published_date": "2026-08-03T13:25:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
-      "published_date": "2026-08-03T10:27:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia: Bridge-building with North Korea",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T10:26:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/a-glowing-future-for-nuclear-power-mini-reactors-explained/a-77491854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T12:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
@@ -414,13 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
       "published_date": "2026-07-31T12:26:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dozens of miners killed in coal mine explosion in Pakistan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dozens-of-miners-killed-in-coal-mine-explosion-in-pakistan/a-78187479?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T09:58:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,90 @@
       "category": "Economy"
     },
     {
+      "title": "Flughafen Leipzig/Halle: Dobrindt spricht nach Drohnenvorfall von »neuer Gefahrenqualität«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/dobrindt-spricht-nach-drohnen-vorfall-von-neuer-gefahrenqualitaet",
+      "published_date": "2026-08-05T23:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundespräsidenten-Nachfolge: Ruf nach Frau als Staatsoberhaupt auch aus der CDU",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/06/ruf-nach-frau-als-staatsoberhaupt-auch-aus-der-cdu",
+      "published_date": "2026-08-05T23:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vor Berlin-Wahl: Schwerdtner macht Enteignungen zur Bedingung für Koalition",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/06/schwerdtner-macht-enteignungen-zur-bedingung-fuer-koalition",
+      "published_date": "2026-08-05T23:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hallervorden bei CDU: Schulze: Hallervorden-Auftritt steht für Meinungsfreiheit",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/06/schulze-hallervorden-auftritt-steht-fuer-meinungsfreiheit",
+      "published_date": "2026-08-05T22:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutsche Bahn: Bahnstrecke Berlin-Hamburg wird nachts nochmals gesperrt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/bahnstrecke-berlin-hamburg-sperrung-sanierung-zuge",
+      "published_date": "2026-08-05T21:43:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Train crashes through farm trailer after tractor driver stops on tracks in Poland – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/05/train-crashes-through-farm-trailer-after-tractor-driver-stops-on-tracks-in-poland-video",
+      "published_date": "2026-08-05T18:20:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Court jails far-right youth terror cell members",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-05T17:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Court jails far-right youth terror cell members",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T17:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Leipzig explosive drone 'new level of danger' — Minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-05T16:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Leipzig explosive drone 'new level of danger' — Minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T16:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's Gen Z protest enters a new online battle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T14:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election guide: Germany's main political parties explained",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260805/election-guide-s-main-political-parties-explained",
+      "published_date": "2026-08-05T13:41:20+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "CDU-Bundespolitiker: Nach Unfall unter Verdacht: Bareiß bittet um Entschuldigung",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/05/nach-unfall-unter-verdacht-bareiss-bittet-um-entschuldigung",
@@ -617,90 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260805/leipzig-airport-suspends-flights-after-suspicious-object-sighting",
       "published_date": "2026-08-05T08:06:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish court orders X to block Imamoglu candidacy account",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkish-court-orders-x-to-block-imamoglu-candidacy-account/a-78239919?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T07:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260805/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-132",
-      "published_date": "2026-08-05T06:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
-      "published_date": "2026-08-05T04:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats",
-      "published_date": "2026-08-05T04:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s rivers are running dry, and the knock-on effects are disastrous | Yiannis Baboulias",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine",
-      "published_date": "2026-08-05T04:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy: Garbage workers help woman find €1 million jackpot",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-garbage-workers-help-woman-find-€1-million-jackpot/a-78237944?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T19:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is responsible for the Ceuta border surge?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T18:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East: India says commercial ship sunk off Yemen",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T18:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does Zambia's opposition stand without Edgar Lungu?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-does-zambia-s-opposition-stand-without-edgar-lungu/a-78231174?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T14:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasserversorgung: SPD-Fraktion fordert rasche Landesstrategie zum Wasser",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/04/spd-fraktion-fordert-rasche-landesstrategie-zum-wasser",
-      "published_date": "2026-08-04T12:43:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europa Passage Hamburg: Heute ist CSD, sagte er zu Hazeem. Das ist unser Tag. Wir dürfen das.",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-08/europapassage-hamburg-christopher-street-day-sicherheitskraft-zutritt",
-      "published_date": "2026-08-04T11:55:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We launched a war on nature. Now we are in a climate warzone | Rebecca Solnit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone",
-      "published_date": "2026-08-04T10:00:47+00:00",
       "category": "Local Events"
     }
   ]
