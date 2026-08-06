@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-05T23:51:28.782729+00:00",
+  "last_updated": "2026-08-06T12:52:49.205415+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+      "published_date": "2026-08-06T12:34:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260806/today-in-germany-a-roundup-of-the-latest-news-on-thursday-130",
+      "published_date": "2026-08-06T06:35:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain’s Pedro Sánchez is a progressive outlier in Europe – and over Ceuta, he is being made to pay for it | Eoghan Gilmartin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it",
+      "published_date": "2026-08-06T04:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why Spain’s EU allies turned on Pedro Sanchez over Ceuta: the hard right now sets their agenda on migration",
       "source": "The Guardian",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland und Ukraine melden 14 Tote binnen eines Tages",
+      "title": "Himmelsphänomen: Wie haben Sie die letzte Sonnenfinsternis in Deutschland erlebt?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-08-02T22:28:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/wissenschaft/2026-08/totale-sonnenfinsternis-ereignis-1999-aufruf",
+      "published_date": "2026-08-06T12:04:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
+      "title": "Students using AI to cheat will face stricter rules, says Danish government",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/02/eu-citizens-uk-letters-post-brexit-residency-rights-given-in-error",
-      "published_date": "2026-08-02T12:42:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
+      "published_date": "2026-08-06T11:58:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Callas, Beethoven, bee-eaters or storks: competition seeks to redesign euro notes",
+      "title": "We need a wartime mindset to fight the threat of wildfires | Seth Klein",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/european-central-bank-notes-new-design",
-      "published_date": "2026-08-02T06:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
+      "published_date": "2026-08-06T10:00:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany arrests Ukrainian suspected of spying on arms firm",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-arrests-ukrainian-suspected-of-spying-on-arms-firm/a-78262186?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-06T09:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany arrests Ukrainian suspected of spying on arms firm",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-arrests-ukrainian-suspected-of-spying-on-arms-firm/a-78262186?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T09:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
+      "published_date": "2026-08-06T02:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Cut-price Patriot among options in desperate search for missile defence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-war-briefing-cut-price-patriot-among-options-in-desperate-search-for-missile-defence",
+      "published_date": "2026-08-06T01:26:24+00:00",
+      "category": "Military"
     },
     {
       "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-08-05T11:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-      "published_date": "2026-08-05T10:09:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea: Police raid Starbucks HQ over 'Tank Day' fiasco",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco/a-78241294?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T08:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 17",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-17/a-78238963?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T07:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Klitschko: Neuer Angriff auf Kiew mit ballistischen Raketen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/05/klitschko-neuer-angriff-auf-kiew-mit-ballistischen-raketen",
-      "published_date": "2026-08-04T23:15:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MI6 is top European foreign intelligence service, peer review finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
-      "published_date": "2026-08-04T22:40:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa shares nosedive as Germany's biggest airline cuts outlook on Mideast war",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260804/lufthansa-shares-nosedive-as-germanys-biggest-airline-cuts-outlook-on-mideast-war",
-      "published_date": "2026-08-04T14:31:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Schifffahrten bei Niedrigwasser: So niedrig steht das Wasser in Donau, Elbe und Rhein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-08/schifffahrten-niedrigwasser-rhein-donau-pegelstaende-auswirkungen",
-      "published_date": "2026-08-04T12:36:46+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Why is Russia selling its gold?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-is-russia-selling-its-gold/a-78145069?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T08:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA president Infantino to stay on after crisis meeting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fifa-president-infantino-to-stay-on-after-crisis-meeting/a-78258824?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T01:10:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Nachhaltigkeit: Airlines sollen Strafe für nicht nachhaltiges Kerosin zahlen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/wirtschaft/2026-08/nachhaltigkeit-bundesverkehrsministerium-airlines-kerosin-abgabe-gesetz-gxe",
@@ -550,18 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "BMW to Volkswagen: How deep is Germany's auto industry cull?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-30T13:24:00+00:00",
-      "category": "Economy"
+      "title": "Spritpreise: Tausende Verstöße gegen 12-Uhr-Tankregelung in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/06/tausende-verstoesse-gegen-12-uhr-tankregelung-in-berlin",
+      "published_date": "2026-08-06T12:43:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Eurozone sees GDP growth of 0.4%, most since early 2025",
+      "title": "Africa and the ICC: Why most countries are staying",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eurozone-sees-gdp-growth-of-0-4-most-since-early-2025/a-78177668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-30T13:12:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/africa-and-the-icc-why-most-countries-are-staying/a-78253463?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T12:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flughafen Leipzig/Halle: Was wir über die Sprengstoffdrohne am Flughafen Leipzig/Halle wissen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/drohnen-vorfall-leipzig-halle-flughafen",
+      "published_date": "2026-08-06T12:31:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attacker jailed for life for deadly Munich car-ramming",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260806/attacker-jailed-for-life-for-deadly-munich-car-ramming",
+      "published_date": "2026-08-06T12:28:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany arrests Ukrainian accused of spying on arms maker",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260806/germany-arrests-ukrainian-accused-of-spying-on-arms-maker",
+      "published_date": "2026-08-06T12:19:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terror in Berlin: Ahornbaum und Regenbogenbank erinnern an Anschlag beim CSD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/anschlag-csd-berlin-tiergarten-gedenken-queere-community",
+      "published_date": "2026-08-06T12:19:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CDU im Wahlkampf in Ostdeutschland: Aggressive Heulsusen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/34/cdu-ostdeutschland-wahlkampf-afd",
+      "published_date": "2026-08-06T11:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No promises': Decoding the political slogans plastered all over Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260806/no-promises-decoding-the-political-slogans-plastered-all-over-berlin",
+      "published_date": "2026-08-06T11:55:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Munich car-ramming attacker sentenced to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/munich-car-ramming-attacker-sentenced-to-life-in-prison/a-78263683?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-06T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Munich car-ramming attacker sentenced to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/munich-car-ramming-attacker-sentenced-to-life-in-prison/a-78263683?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+      "published_date": "2026-08-06T09:45:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The app helping Berliners track ticket inspections on public transport",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260806/the-app-helping-berliners-track-ticket-inspections-on-public-transport",
+      "published_date": "2026-08-06T08:35:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Student protests in Jharkhand enter 13th day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-student-protests-in-jharkhand-enter-13th-day/live-78260247?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T08:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavaria to introduce 'tap in' ticketing system for public transport",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260806/bavaria-to-introduce-tap-in-tap-out-system-on-public-transport",
+      "published_date": "2026-08-06T08:14:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Search for second drone after Leipzig incident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-search-for-second-drone-after-leipzig-incident/live-78259460?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T07:34:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Flughafen Leipzig/Halle: Dobrindt spricht nach Drohnenvorfall von »neuer Gefahrenqualität«",
@@ -596,111 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/mobilitaet/2026-08/bahnstrecke-berlin-hamburg-sperrung-sanierung-zuge",
       "published_date": "2026-08-05T21:43:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Train crashes through farm trailer after tractor driver stops on tracks in Poland – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/05/train-crashes-through-farm-trailer-after-tractor-driver-stops-on-tracks-in-poland-video",
-      "published_date": "2026-08-05T18:20:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Court jails far-right youth terror cell members",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-05T17:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Court jails far-right youth terror cell members",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T17:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Leipzig explosive drone 'new level of danger' — Minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-05T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Leipzig explosive drone 'new level of danger' — Minister",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's Gen Z protest enters a new online battle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T14:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election guide: Germany's main political parties explained",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260805/election-guide-s-main-political-parties-explained",
-      "published_date": "2026-08-05T13:41:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU-Bundespolitiker: Nach Unfall unter Verdacht: Bareiß bittet um Entschuldigung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/05/nach-unfall-unter-verdacht-bareiss-bittet-um-entschuldigung",
-      "published_date": "2026-08-05T12:34:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundespräsidentenwahl 2027: SPD besteht auf Frau als nächstes Staatsoberhaupt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/bundespraesidentenwahl-2027-frauen-spd-thorsten-frei",
-      "published_date": "2026-08-05T12:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-      "published_date": "2026-08-05T12:13:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Did misleading claims about Spain's migration law trigger the Ceuta crisis?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-did-misleading-claims-about-spain-s-migration-law-trigger-the-ceuta-crisis/a-78233161?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T11:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone found at German airport after cargo plane collides with object mid-air",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
-      "published_date": "2026-08-05T11:37:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flughafen Leipzig/Halle: Was sich in der Nacht am Leipziger Flughafen ereignete",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/flughafen-leipzig-halle-drohne-ermittlungen-ukraine-russland",
-      "published_date": "2026-08-05T11:25:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Lightning strike cuts Bavarian town in two",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-lightning-strike-cuts-bavarian-town-in-two/live-78241747?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T09:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig airport suspends flights after suspicious object sighting",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260805/leipzig-airport-suspends-flights-after-suspicious-object-sighting",
-      "published_date": "2026-08-05T08:06:24+00:00",
       "category": "Local Events"
     }
   ]
