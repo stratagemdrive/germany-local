@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-06T12:52:49.205415+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-07T01:39:51.283320+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Can UN chief's initiative kickstart resolution for Cyprus?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-un-chief-s-initiative-kickstart-resolution-for-cyprus/a-78264788?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T13:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can UN chief's initiative kickstart resolution for Cyprus?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-un-chief-s-initiative-kickstart-resolution-for-cyprus/a-78264788?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-06T13:58:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
       "source": "The Guardian",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany and the UK launch simplified travel rules for school groups",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260803/germany-and-the-uk-launch-simplified-travel-rules-for-school-groups",
-      "published_date": "2026-08-03T12:04:28+00:00",
-      "category": "Diplomacy"
+      "title": "Russland: Nawalnaja ruft Russen zur Wahl der kriegskritischen Partei Jabloko auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/julia-nawalnaja-jabloko-partei-russland-opposition-ukrainekrieg",
+      "published_date": "2026-08-06T21:41:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
+      "title": "The Guardian view on Italy’s new far-right party: the rise of a rogue general | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
-      "published_date": "2026-08-03T06:00:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-italys-new-far-right-party-the-rise-of-a-rogue-general",
+      "published_date": "2026-08-06T17:29:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Officials deny reports of drone near munitions-laden plane",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-officials-deny-reports-of-drone-near-munitions-laden-plane/live-78259460?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-06T16:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Officials deny reports of drone near munitions-laden plane",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-officials-deny-reports-of-drone-near-munitions-laden-plane/live-78259460?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T16:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Himmelsphänomen: Wie haben Sie die letzte Sonnenfinsternis in Deutschland erlebt?",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Hiroshima survivors warn against Japan's rearmament",
+      "title": "How drought threatens electricity supplies in Europe",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T12:58:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T19:55:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
-      "published_date": "2026-08-05T12:10:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary's Lake Velence is drying up",
+      "title": "How drought threatens electricity supplies in Europe",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T11:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary's Lake Velence is drying up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-05T11:25:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-06T19:55:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "A glowing future for nuclear power? Mini reactors explained",
@@ -407,20 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
       "published_date": "2026-08-01T11:00:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why Europe's wildfires are getting harder to stop",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T16:10:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "BP puts North Sea oil and gas business up for sale",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
-      "published_date": "2026-07-31T12:26:23+00:00",
       "category": "Energy"
     },
     {
@@ -550,18 +550,74 @@
       "category": "Economy"
     },
     {
-      "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/the-guardian-view-on-kidulthood-britain-prices-young-adults-out-of-independent-life",
-      "published_date": "2026-07-30T17:30:50+00:00",
-      "category": "Economy"
+      "title": "Argentina: Milei's property bill triggers protests, anger",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/argentina-milei-s-property-bill-triggers-protests-anger/a-78272866?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T01:21:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BMW to Volkswagen: How deep is Germany's auto industry cull?",
+      "title": "Sprengstoffdrohne: CDU-Politiker fordert zentrale Zuständigkeit für Drohnenabwehr",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/sprengstoff-drohne-leipziger-flughafen-drohnenabwehr-thomas-roewekamp",
+      "published_date": "2026-08-07T01:19:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump signs new orders restricting birthright citizenship",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-30T13:24:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
+      "published_date": "2026-08-06T15:06:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Mata Hari affair: Courtesan, spy, legend",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
+      "published_date": "2026-08-06T13:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD threatens to cut funding for 'modern-thinking' culture",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-threatens-to-cut-funding-for-modern-thinking-culture/a-78071511?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-06T13:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD threatens to cut funding for 'modern-thinking' culture",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-threatens-to-cut-funding-for-modern-thinking-culture/a-78071511?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T13:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Leipzig airport drone attack sets off alarm bells",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-leipzig-airport-drone-attack-sets-off-alarm-bells/a-78265397?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-06T12:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Leipzig airport drone attack sets off alarm bells",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-leipzig-airport-drone-attack-sets-off-alarm-bells/a-78265397?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T12:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spritpreise: Tausende Verstöße gegen 12-Uhr-Tankregelung in Berlin",
@@ -631,76 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/munich-car-ramming-attacker-sentenced-to-life-in-prison/a-78263683?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-06T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
-      "published_date": "2026-08-06T09:45:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The app helping Berliners track ticket inspections on public transport",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260806/the-app-helping-berliners-track-ticket-inspections-on-public-transport",
-      "published_date": "2026-08-06T08:35:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Student protests in Jharkhand enter 13th day",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-student-protests-in-jharkhand-enter-13th-day/live-78260247?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavaria to introduce 'tap in' ticketing system for public transport",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260806/bavaria-to-introduce-tap-in-tap-out-system-on-public-transport",
-      "published_date": "2026-08-06T08:14:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Search for second drone after Leipzig incident",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-search-for-second-drone-after-leipzig-incident/live-78259460?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T07:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flughafen Leipzig/Halle: Dobrindt spricht nach Drohnenvorfall von »neuer Gefahrenqualität«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/dobrindt-spricht-nach-drohnen-vorfall-von-neuer-gefahrenqualitaet",
-      "published_date": "2026-08-05T23:01:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundespräsidenten-Nachfolge: Ruf nach Frau als Staatsoberhaupt auch aus der CDU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/06/ruf-nach-frau-als-staatsoberhaupt-auch-aus-der-cdu",
-      "published_date": "2026-08-05T23:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vor Berlin-Wahl: Schwerdtner macht Enteignungen zur Bedingung für Koalition",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/06/schwerdtner-macht-enteignungen-zur-bedingung-fuer-koalition",
-      "published_date": "2026-08-05T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hallervorden bei CDU: Schulze: Hallervorden-Auftritt steht für Meinungsfreiheit",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/06/schulze-hallervorden-auftritt-steht-fuer-meinungsfreiheit",
-      "published_date": "2026-08-05T22:10:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn: Bahnstrecke Berlin-Hamburg wird nachts nochmals gesperrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-08/bahnstrecke-berlin-hamburg-sperrung-sanierung-zuge",
-      "published_date": "2026-08-05T21:43:14+00:00",
       "category": "Local Events"
     }
   ]
