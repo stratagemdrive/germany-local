@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-07T01:39:51.283320+00:00",
+  "last_updated": "2026-08-07T11:39:42.107725+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260807/today-in-germany-a-roundup-of-the-latest-news-on-friday-134",
+      "published_date": "2026-08-07T06:39:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can UN chief's initiative kickstart resolution for Cyprus?",
       "source": "Deutsche Welle",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU chief urges 'united action' on borders after Spain's Ceuta migrant rush",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
-      "published_date": "2026-08-03T13:09:23+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T10:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Testosterone and fertility: the trade-off men aren't told about",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/testosterone-and-fertility-the-trade-off-men-aren-t-told-about/a-78216799?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T08:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay",
+      "published_date": "2026-08-07T06:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
+      "published_date": "2026-08-07T01:38:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Russland: Nawalnaja ruft Russen zur Wahl der kriegskritischen Partei Jabloko auf",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia exploits Ukraine’s air defence shortage in deadly attack on Kyiv - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/05/russia-ukraine-air-defence-shortage-the-latest-podcast",
-      "published_date": "2026-08-05T15:45:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fears of renewed conflict in Ethiopia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fears-of-renewed-conflict-in-ethiopia/a-78242293?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T15:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of 'blatant' ceasefire violation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T14:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany jails young members of far-right 'Last Wave of Defence'",
+      "title": "How to view the solar eclipse from Germany on August 12th",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260805/germany-jails-young-members-of-far-right-last-wave-of-defence",
-      "published_date": "2026-08-05T13:54:52+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.de/20260807/how-to-view-the-solar-eclipse-from-germany-on-august-12th",
+      "published_date": "2026-08-07T08:44:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "How drought threatens electricity supplies in Europe",
@@ -298,9 +305,30 @@
       "category": "Energy"
     },
     {
+      "title": "Drought threatens power supplies in Danube countries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/drought-threatens-power-supplies-in-danube-countries/a-78269916?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T19:55:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Drought threatens power supplies in Danube countries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/drought-threatens-power-supplies-in-danube-countries/a-78269916?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-06T19:55:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "A glowing future for nuclear power? Mini reactors explained",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/a-glowing-future-for-nuclear-power-mini-reactors-explained/a-77491854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-05T12:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The hidden problem with small modular nuclear reactors",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-hidden-problem-with-small-modular-nuclear-reactors/a-77491854?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-05T12:54:00+00:00",
       "category": "Energy"
     },
@@ -393,34 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-08-02T06:57:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Climate change kills’: Pedro Sánchez speaks plain truth to Spain’s deniers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/02/climate-change-kills-pedro-sanchez-speaks-plain-truth-to-spains-deniers",
-      "published_date": "2026-08-02T04:00:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-02T02:16:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T02:16:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Lost income, energy fears and a woolly mammoth: what Europe’s dried-up rivers have yielded",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
-      "published_date": "2026-08-01T11:00:51+00:00",
       "category": "Energy"
     },
     {
@@ -550,6 +550,55 @@
       "category": "Economy"
     },
     {
+      "title": "Germany: Far-right AfD extends its lead in nationwide polls",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T11:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drohnenvorfall am Flughafen: Polizei durchkämmt Nordpiste am Leipziger Flughafen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/drohnen-flughafen-leipzig-halle-polizei",
+      "published_date": "2026-08-07T11:28:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verteidigungsabkommen: Türkei, Saudi-Arabien und Pakistan unterzeichnen Verteidigungspakt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/verteidigungspakt-tuerkei-saudi-arabien-pakistan-recep-tayyip-erdogan-mohammed-bin-salman-shehbaz-sharif-dschiddah-gxe",
+      "published_date": "2026-08-07T11:20:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trockenheit: Rheinpegel bei Düsseldorf sinkt auf historischen Tiefstand",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-08/rheinpegel-duesseldorf-niedrigwasser-rekord-schifffahrt",
+      "published_date": "2026-08-07T11:05:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Exports and factory data lift economic outlook",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-exports-and-factory-data-lift-economic-outlook/live-78274476?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T08:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thailand: Several killed in school shooting north of Bangkok",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T05:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Corbusier’s social housing was meant to be the dream. In a summer of extreme heat, it is a nightmare | Anna Richards",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/le-corbusier-social-housing-france-dream-summer-extreme-heat-nightmare",
+      "published_date": "2026-08-07T04:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Argentina: Milei's property bill triggers protests, anger",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/argentina-milei-s-property-bill-triggers-protests-anger/a-78272866?maca=en-rss-en-all-1573-rdf",
@@ -581,6 +630,13 @@
       "title": "The Mata Hari affair: Courtesan, spy, legend",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Mata Hari affair: Courtesan, spy, legend",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-08-06T14:35:00+00:00",
       "category": "Local Events"
     },
@@ -631,62 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/africa-and-the-icc-why-most-countries-are-staying/a-78253463?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-06T12:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flughafen Leipzig/Halle: Was wir über die Sprengstoffdrohne am Flughafen Leipzig/Halle wissen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-08/drohnen-vorfall-leipzig-halle-flughafen",
-      "published_date": "2026-08-06T12:31:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacker jailed for life for deadly Munich car-ramming",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260806/attacker-jailed-for-life-for-deadly-munich-car-ramming",
-      "published_date": "2026-08-06T12:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany arrests Ukrainian accused of spying on arms maker",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260806/germany-arrests-ukrainian-accused-of-spying-on-arms-maker",
-      "published_date": "2026-08-06T12:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terror in Berlin: Ahornbaum und Regenbogenbank erinnern an Anschlag beim CSD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/anschlag-csd-berlin-tiergarten-gedenken-queere-community",
-      "published_date": "2026-08-06T12:19:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU im Wahlkampf in Ostdeutschland: Aggressive Heulsusen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/34/cdu-ostdeutschland-wahlkampf-afd",
-      "published_date": "2026-08-06T11:55:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No promises': Decoding the political slogans plastered all over Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260806/no-promises-decoding-the-political-slogans-plastered-all-over-berlin",
-      "published_date": "2026-08-06T11:55:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Munich car-ramming attacker sentenced to life in prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/munich-car-ramming-attacker-sentenced-to-life-in-prison/a-78263683?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-06T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Munich car-ramming attacker sentenced to life in prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/munich-car-ramming-attacker-sentenced-to-life-in-prison/a-78263683?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T11:07:00+00:00",
       "category": "Local Events"
     }
   ]
