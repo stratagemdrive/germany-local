@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-07T11:39:42.107725+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-07T23:25:50.170862+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Verteidigungsabkommen: Türkei verteidigt Militärabkommen mit Saudi-Arabien und Pakistan",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/tuerkei-saudi-arabien-pakistan-verteidigungsabkommen-nato-iran",
+      "published_date": "2026-08-07T23:04:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland’s EU vote: A nation divided over Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iceland-s-eu-vote-a-nation-divided-over-europe/a-78285133?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T19:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland’s EU vote: A nation divided over Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iceland-s-eu-vote-a-nation-divided-over-europe/a-78285133?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-07T19:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T15:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German national security council meets on explosive drone find",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260807/german-national-security-council-meets-on-explosive-drone-find",
+      "published_date": "2026-08-07T12:11:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Weather tracker: central and western Europe brace for more sweltering heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/07/weather-tracker-central-western-europe-brace-more-sweltering-heat",
+      "published_date": "2026-08-07T11:59:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Today in Germany: A roundup of the latest news on Friday",
       "source": "The Local Germany",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany prepares civilian service model foreshadowing return of conscription",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260804/germany-prepares-civilian-service-model-foreshadowing-return-of-conscription",
-      "published_date": "2026-08-04T09:42:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ceuta: EU calls borders a 'shared European responsibility'",
+      "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T16:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T19:34:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ceuta: EU calls borders a 'shared European responsibility'",
+      "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-03T16:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-07T19:34:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanische Nordafrika-Exklave: EU-Länder streiten: Was folgt aus der Krise in Ceuta?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/03/eu-laender-streiten-was-folgt-aus-der-krise-in-ceuta",
-      "published_date": "2026-08-03T13:31:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
+      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
-      "published_date": "2026-08-03T13:29:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spanische Exklave Ceuta: Von der Leyen fordert stärkere europäische Außengrenzen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/ceuta-marokko-spanien-migranten-eu-grenze",
-      "published_date": "2026-08-03T13:18:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
+      "published_date": "2026-08-07T16:35:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
@@ -200,6 +221,20 @@
       "category": "Military"
     },
     {
+      "title": "Mata Hari: Celebrated dancer turns WWI spy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mata-hari-celebrated-dancer-turns-wwi-spy/a-78263857?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-06T14:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mata Hari: Celebrated dancer turns WWI spy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mata-hari-celebrated-dancer-turns-wwi-spy/a-78263857?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-06T14:35:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Himmelsphänomen: Wie haben Sie die letzte Sonnenfinsternis in Deutschland erlebt?",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/wissenschaft/2026-08/totale-sonnenfinsternis-ereignis-1999-aufruf",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+      "title": "Eco wins: Hungary goes solar, marmots go viral and Rome gets an upgrade",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T19:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Skinny-Trend: Plötzlich will ich wieder skinny sein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-07/skinny-trend-schoenheitsideal-abnehmen-emanzipation-ozempic-gxe",
-      "published_date": "2026-08-05T18:46:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
-      "published_date": "2026-08-05T17:32:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on French cinema’s De Gaulle moment: present anxieties inform a new focus on the past | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/the-guardian-view-on-french-cinemas-de-gaulle-moment-present-anxieties-inform-a-new-focus-on-the-past",
-      "published_date": "2026-08-05T17:16:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Game of drones: inside the 7 August Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/aug/05/game-of-drones-inside-the-7-august-guardian-weekly",
-      "published_date": "2026-08-05T17:00:23+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/eco-wins-hungary-goes-solar-marmots-go-viral-and-rome-gets-an-upgrade/a-78281783?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T14:06:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "How to view the solar eclipse from Germany on August 12th",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "On the front line of Europe's battle against wildfires",
+      "title": "Berlin clubs struggle as drink sales dry up and costs rise",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-02T06:57:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-07T14:44:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Berlin clubs struggle as drink sales dry up and costs rise",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T14:44:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why is Russia selling its gold?",
@@ -515,44 +529,65 @@
       "category": "Economy"
     },
     {
-      "title": "Humanoid robots: Trump's latest China trade battle?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T13:06:00+00:00",
-      "category": "Economy"
+      "title": "CDU und AfD: CDU-Spitze würde AfD-Zusammenarbeit im Osten nicht dulden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/08/cdu-spitze-wuerde-afd-zusammenarbeit-im-osten-nicht-dulden",
+      "published_date": "2026-08-07T23:05:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Unemployment tops 3 million as industry slumps",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-unemployment-tops-3-million-as-industry-slumps/live-78191048?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-07-31T12:50:00+00:00",
-      "category": "Economy"
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "published_date": "2026-08-07T21:44:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Unemployment tops 3 million as industry slumps",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-unemployment-tops-3-million-as-industry-slumps/live-78191048?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T12:50:00+00:00",
-      "category": "Economy"
+      "title": "Niedrigwasser im Rhein: Mehrere Bundesländer setzen Sonntagsfahrverbot für Lkw-Transporte aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/niedrigwasser-rhein-lkw-sonn-und-feiertagsfahrverbot-ausnahmeregelung-rheinland-pfalz",
+      "published_date": "2026-08-07T20:34:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Small insects, big damage: The global ant trade is booming",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T12:20:00+00:00",
-      "category": "Economy"
+      "title": "Weißes Haus: US-Gericht stoppt Bau von Donald Trumps Ballsaal",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/ballsaal-weisses-haus-donald-trump-bau-stopp",
+      "published_date": "2026-08-07T20:25:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA plans: Infantino under pressure as senior advisor quits",
+      "title": "Businessman was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
+      "published_date": "2026-08-07T17:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump to appeal ballroom construction halt to Supreme Court",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fifa-plans-infantino-under-pressure-as-senior-advisor-quits/a-78171084?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-07-31T12:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T17:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scramble to house hundreds camping in Rome heatwave after squat eviction",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/07/hundreds-camping-rome-heatwave-squat-eviction",
+      "published_date": "2026-08-07T12:35:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany: Far-right AfD extends its lead in nationwide polls",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T11:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Far-right AfD extends its lead in nationwide polls",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-07T11:31:00+00:00",
       "category": "Local Events"
     },
@@ -581,6 +616,13 @@
       "title": "Germany news: Exports and factory data lift economic outlook",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-exports-and-factory-data-lift-economic-outlook/live-78274476?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-07T08:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Exports and factory data lift economic outlook",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-exports-and-factory-data-lift-economic-outlook/live-78274476?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-07T08:51:00+00:00",
       "category": "Local Events"
     },
@@ -624,69 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
       "published_date": "2026-08-06T15:06:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Mata Hari affair: Courtesan, spy, legend",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Mata Hari affair: Courtesan, spy, legend",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-06T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
-      "published_date": "2026-08-06T13:32:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD threatens to cut funding for 'modern-thinking' culture",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afd-threatens-to-cut-funding-for-modern-thinking-culture/a-78071511?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-06T13:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD threatens to cut funding for 'modern-thinking' culture",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afd-threatens-to-cut-funding-for-modern-thinking-culture/a-78071511?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T13:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Leipzig airport drone attack sets off alarm bells",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-leipzig-airport-drone-attack-sets-off-alarm-bells/a-78265397?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-06T12:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Leipzig airport drone attack sets off alarm bells",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-leipzig-airport-drone-attack-sets-off-alarm-bells/a-78265397?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T12:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spritpreise: Tausende Verstöße gegen 12-Uhr-Tankregelung in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/06/tausende-verstoesse-gegen-12-uhr-tankregelung-in-berlin",
-      "published_date": "2026-08-06T12:43:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa and the ICC: Why most countries are staying",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/africa-and-the-icc-why-most-countries-are-staying/a-78253463?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T12:32:00+00:00",
       "category": "Local Events"
     }
   ]
