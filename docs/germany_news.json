@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-08T11:21:49.910782+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-08T23:19:30.393978+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Medienberichte: Putin könnte Entschlossenheit der Nato laut US-Berichten testen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/russland-nato-angriff-us-medien-geheimdienste",
+      "published_date": "2026-08-08T21:31:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Verteidigungsabkommen: Verteidigungspakt gleicht Türkei zufolge Nato-Beistandsverpflichtung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/verteidigungsabkommen-tuerkei-pakistan-saudi-arabien-nato-erweiterung",
+      "published_date": "2026-08-08T20:27:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kosovan lawmaker hurls eggs at the prime minister – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/08/lawmaker-hurls-eggs-at-kosovo-prime-minister-video",
+      "published_date": "2026-08-08T15:24:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260808/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking",
+      "published_date": "2026-08-08T14:00:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T13:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bulgaria: Unknown drone explodes near Romanian border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T11:58:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU holds talks with big tech over Ceuta misinformation",
       "source": "Deutsche Welle",
@@ -22,6 +64,20 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-wary-of-potential-100-us-tariffs-over-russian-oil/live-78287317?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-08T08:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside Germany: Holiday plans, holy guidance and a 639-year concert",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260808/inside-germany-holiday-plans-holy-guidance-and-a-639-year-concert",
+      "published_date": "2026-08-08T07:06:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia-linked group blamed for fake Merz resignation video",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260808/russia-linked-group-blamed-for-fake-merz-resignation-video",
+      "published_date": "2026-08-08T06:43:46+00:00",
       "category": "Diplomacy"
     },
     {
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+      "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-      "published_date": "2026-08-06T12:34:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
+      "published_date": "2026-08-08T20:03:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260806/today-in-germany-a-roundup-of-the-latest-news-on-thursday-130",
-      "published_date": "2026-08-06T06:35:45+00:00",
-      "category": "Diplomacy"
+      "title": "Nato-Luftraum: In Bulgarien explodierte Drohne stammte mutmaßlich aus der Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/bulgarien-drohne-ukraine-luftraum-explosion",
+      "published_date": "2026-08-08T18:18:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spain’s Pedro Sánchez is a progressive outlier in Europe – and over Ceuta, he is being made to pay for it | Eoghan Gilmartin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it",
-      "published_date": "2026-08-06T04:00:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Spain’s EU allies turned on Pedro Sanchez over Ceuta: the hard right now sets their agenda on migration",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/the-events-at-ceuta-show-how-europes-hard-right-now-set-the-tone-on-immigration",
-      "published_date": "2026-08-05T14:30:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Video game maker EA bought by Saudi-led group for $55bn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group",
-      "published_date": "2026-08-05T06:34:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "White House revokes visa of Brazil's ambassador to US",
+      "title": "US Senate confirms Trump loyalist Todd Blanche as new AG",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T21:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-senate-confirms-trump-loyalist-todd-blanche-as-new-ag/a-78289397?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T14:25:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
-      "published_date": "2026-08-04T16:51:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU agrees to send border aid to Spain after Ceuta talks",
+      "title": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-agrees-to-send-border-aid-to-spain-after-ceuta-talks/a-78233082?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T13:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T14:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T13:33:00+00:00",
+      "category": "Military"
     },
     {
       "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Officials deny reports of drone near munitions-laden plane",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-officials-deny-reports-of-drone-near-munitions-laden-plane/live-78259460?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-06T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Officials deny reports of drone near munitions-laden plane",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-officials-deny-reports-of-drone-near-munitions-laden-plane/live-78259460?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T16:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mata Hari: Celebrated dancer turns WWI spy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mata-hari-celebrated-dancer-turns-wwi-spy/a-78263857?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T14:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mata Hari: Celebrated dancer turns WWI spy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mata-hari-celebrated-dancer-turns-wwi-spy/a-78263857?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-06T14:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Himmelsphänomen: Wie haben Sie die letzte Sonnenfinsternis in Deutschland erlebt?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/2026-08/totale-sonnenfinsternis-ereignis-1999-aufruf",
-      "published_date": "2026-08-06T12:04:53+00:00",
-      "category": "Military"
+      "title": "Europe readies for solar eclipse dip in power generation",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260808/europe-readies-for-solar-eclipse-dip-in-power-generation",
+      "published_date": "2026-08-08T11:31:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Germany: As temperatures rise, so does climate skepticism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T08:44:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Berlin clubs struggle as drink sales dry up and costs rise",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-ger-1023-rdf",
@@ -508,11 +508,25 @@
       "category": "Economy"
     },
     {
-      "title": "Landkreis Osterholz: Feuer zerstört Haus – Geschätzter Schaden von 200.000 Euro",
+      "title": "Lars Klingbeil: Union kritisiert Steuerpläne des Finanzministers",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/01/feuer-zerstoert-haus-geschaetzter-schaden-von-200-000-euro",
-      "published_date": "2026-08-01T11:25:03+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/lars-klingbeil-kritik-steuer-plaene-union",
+      "published_date": "2026-08-08T23:01:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wohl nur Heißluftballon: Flugbetrieb in Hamburg nach Drohnenalarm kurz unterbrochen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/08/flugbetrieb-in-hamburg-nach-drohnenalarm-kurz-unterbrochen",
+      "published_date": "2026-08-08T20:56:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands attend Prague Pride parade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thousands-attend-prague-pride-parade/a-78290467?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T16:55:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lkw-Fahrverbot an Sonntagen: BUND kritisiert Lockerung des Sonntagsfahrverbots für Lkw",
@@ -631,27 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-exports-and-factory-data-lift-economic-outlook/live-78274476?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-07T08:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand: Several killed in school shooting north of Bangkok",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T05:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Corbusier’s social housing was meant to be the dream. In a summer of extreme heat, it is a nightmare | Anna Richards",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/le-corbusier-social-housing-france-dream-summer-extreme-heat-nightmare",
-      "published_date": "2026-08-07T04:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina: Milei's property bill triggers protests, anger",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/argentina-milei-s-property-bill-triggers-protests-anger/a-78272866?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T01:21:00+00:00",
       "category": "Local Events"
     }
   ]
