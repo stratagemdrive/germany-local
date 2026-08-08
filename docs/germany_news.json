@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-07T23:25:50.170862+00:00",
-  "story_count": 95,
+  "last_updated": "2026-08-08T11:21:49.910782+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "EU holds talks with big tech over Ceuta misinformation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-holds-talks-with-big-tech-over-ceuta-misinformation/a-78288214?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T11:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bundesregierung: Prien setzt auf EU-weite Regeln für Kinder bei Social Media",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/08/prien-setzt-auf-eu-weite-regeln-fuer-kinder-bei-social-media",
+      "published_date": "2026-08-08T10:59:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India wary of potential 100% US tariffs over Russian oil",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-wary-of-potential-100-us-tariffs-over-russian-oil/live-78287317?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T08:25:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Verteidigungsabkommen: Türkei verteidigt Militärabkommen mit Saudi-Arabien und Pakistan",
       "source": "ZEIT Online",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – Europe live",
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "published_date": "2026-08-04T12:42:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
+      "published_date": "2026-08-08T11:00:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Migration: EU-Innenminister ziehen Lehren aus Ceuta-Krise",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/04/evp-chef-weber-zu-ceuta-krise-spanien-muss-kurs-aendern",
-      "published_date": "2026-08-04T12:38:18+00:00",
-      "category": "Diplomacy"
+      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "published_date": "2026-08-08T10:55:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ceuta: EU-Innenminister loben Spaniens Umgang mit Ceuta-Krise",
+      "title": "Uwe Danker: »Mich stört der verengte Fokus auf Mitgliedschaften«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/ceuta-eu-innenminister-krisensitzung-migranten-spanien-tote",
-      "published_date": "2026-08-04T12:29:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/zeit-magazin/leben/2026-08/uwe-danker-nationalsozialismus-akten-datenbanken-gefahren",
+      "published_date": "2026-08-08T09:49:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany debates reintroducing mandatory civilian service",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-debates-reintroducing-mandatory-civilian-service/a-78264088?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-08T05:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany debates reintroducing mandatory civilian service",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-debates-reintroducing-mandatory-civilian-service/a-78264088?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T05:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border",
+      "published_date": "2026-08-08T02:26:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Students using AI to cheat will face stricter rules, says Danish government",
+      "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
-      "published_date": "2026-08-06T11:58:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "We need a wartime mindset to fight the threat of wildfires | Seth Klein",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
-      "published_date": "2026-08-06T10:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany arrests Ukrainian suspected of spying on arms firm",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-arrests-ukrainian-suspected-of-spying-on-arms-firm/a-78262186?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-06T09:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany arrests Ukrainian suspected of spying on arms firm",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-arrests-ukrainian-suspected-of-spying-on-arms-firm/a-78262186?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T09:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
-      "published_date": "2026-08-06T02:00:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Cut-price Patriot among options in desperate search for missile defence",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-war-briefing-cut-price-patriot-among-options-in-desperate-search-for-missile-defence",
-      "published_date": "2026-08-06T01:26:24+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse",
+      "published_date": "2026-08-08T07:00:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Eco wins: Hungary goes solar, marmots go viral and Rome gets an upgrade",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "On the front line of Europe's battle against wildfires",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-02T06:57:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Berlin clubs struggle as drink sales dry up and costs rise",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-ger-1023-rdf",
@@ -515,18 +515,25 @@
       "category": "Economy"
     },
     {
-      "title": "Germany weighs the future of minijobs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-weighs-the-future-of-minijobs/a-78147900?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-01T08:49:00+00:00",
-      "category": "Economy"
+      "title": "Lkw-Fahrverbot an Sonntagen: BUND kritisiert Lockerung des Sonntagsfahrverbots für Lkw",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/lkw-fahrverbot-sonntag-lockerung-niedrigwasser-bund-steffen-bilger-gxe",
+      "published_date": "2026-08-08T11:07:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany weighs the future of minijobs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-weighs-the-future-of-minijobs/a-78147900?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-01T08:49:00+00:00",
-      "category": "Economy"
+      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
+      "published_date": "2026-08-08T09:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+      "published_date": "2026-08-08T05:00:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "CDU und AfD: CDU-Spitze würde AfD-Zusammenarbeit im Osten nicht dulden",
@@ -645,27 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/argentina-milei-s-property-bill-triggers-protests-anger/a-78272866?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-07T01:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sprengstoffdrohne: CDU-Politiker fordert zentrale Zuständigkeit für Drohnenabwehr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/sprengstoff-drohne-leipziger-flughafen-drohnenabwehr-thomas-roewekamp",
-      "published_date": "2026-08-07T01:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump signs new orders restricting birthright citizenship",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T23:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
-      "published_date": "2026-08-06T15:06:28+00:00",
       "category": "Local Events"
     }
   ]
