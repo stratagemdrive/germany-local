@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-09T11:22:14.163123+00:00",
-  "story_count": 92,
+  "last_updated": "2026-08-09T23:22:03.510093+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/hamish-falconer-uk-minister-european-relations-eu",
+      "published_date": "2026-08-09T18:00:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "published_date": "2026-08-09T18:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
+      "published_date": "2026-08-09T14:59:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "I Rarely Wake Up Dreaming review – brilliant bulletin from Ukrainian frontline dives deep into culture war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/09/i-rarely-wake-up-dreaming-review",
+      "published_date": "2026-08-09T14:34:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+      "published_date": "2026-08-09T14:30:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Blame game as Brussels builds ‘Europe’s largest frying pan’ instead of shady square",
       "source": "The Guardian",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
+      "title": "Syria says deal agreed with Russia on future of military bases",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T15:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T17:19:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "German national security council meets on explosive drone find",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260807/german-national-security-council-meets-on-explosive-drone-find",
-      "published_date": "2026-08-07T12:11:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Weather tracker: central and western Europe brace for more sweltering heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/weather-tracker-central-western-europe-brace-more-sweltering-heat",
-      "published_date": "2026-08-07T11:59:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260807/today-in-germany-a-roundup-of-the-latest-news-on-friday-134",
-      "published_date": "2026-08-07T06:39:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can UN chief's initiative kickstart resolution for Cyprus?",
+      "title": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-un-chief-s-initiative-kickstart-resolution-for-cyprus/a-78264788?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T13:58:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T11:53:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
@@ -267,20 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-07T10:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Testosterone and fertility: the trade-off men aren't told about",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/testosterone-and-fertility-the-trade-off-men-aren-t-told-about/a-78216799?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T08:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay",
-      "published_date": "2026-08-07T06:00:11+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Feuerwehr im Einsatz: Scheune bei Brand zerstört - Halbe Million Euro Schaden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/10/scheune-bei-brand-zerstoert-halbe-million-euro-schaden",
+      "published_date": "2026-08-09T22:21:24+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Berlin clubs struggle as drink sales dry up and costs rise",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-ger-1023-rdf",
@@ -506,6 +513,55 @@
       "url": "https://www.dw.com/en/the-economic-toll-of-spain-s-wildfires/a-78186441?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-03T05:05:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Kriminalität: Schüsse auf eine Person in Berlin – Polizei im Einsatz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/10/schuesse-auf-eine-person-in-berlin-polizei-im-einsatz",
+      "published_date": "2026-08-09T22:56:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/alleged-irish-crime-boss-kinahan-charged-with-directing-criminal-organisation/a-78297919?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T20:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged crime boss Daniel Kinahan’s return to Ireland ends global game of cat-and-mouse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/daniel-kinahan-return-ireland-ends-global-game-cat-and-mouse",
+      "published_date": "2026-08-09T18:18:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denmark: Several wounded in suspected gang shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T16:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin to step up drone security research",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-09T16:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin to step up drone security research",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T16:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada: British Columbia wildfires burning out of control",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T14:25:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Proteste gegen die AfD: Fast 10.000 Menschen demonstrieren bundesweit für AfD-Verbotsverfahren",
@@ -596,55 +652,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/08/cdu-spitze-wuerde-afd-zusammenarbeit-im-osten-nicht-dulden",
       "published_date": "2026-08-07T23:05:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "published_date": "2026-08-07T21:44:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niedrigwasser im Rhein: Mehrere Bundesländer setzen Sonntagsfahrverbot für Lkw-Transporte aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-08/niedrigwasser-rhein-lkw-sonn-und-feiertagsfahrverbot-ausnahmeregelung-rheinland-pfalz",
-      "published_date": "2026-08-07T20:34:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weißes Haus: US-Gericht stoppt Bau von Donald Trumps Ballsaal",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/ballsaal-weisses-haus-donald-trump-bau-stopp",
-      "published_date": "2026-08-07T20:25:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessman was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
-      "published_date": "2026-08-07T17:40:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump to appeal ballroom construction halt to Supreme Court",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T17:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scramble to house hundreds camping in Rome heatwave after squat eviction",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/hundreds-camping-rome-heatwave-squat-eviction",
-      "published_date": "2026-08-07T12:35:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Far-right AfD extends its lead in nationwide polls",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T11:31:00+00:00",
       "category": "Local Events"
     }
   ]
