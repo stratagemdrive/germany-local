@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-08T23:19:30.393978+00:00",
+  "last_updated": "2026-08-09T11:22:14.163123+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Blame game as Brussels builds ‘Europe’s largest frying pan’ instead of shady square",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/blame-brussels-eu-quarter-schuman-square",
+      "published_date": "2026-08-09T04:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Medienberichte: Putin könnte Entschlossenheit der Nato laut US-Berichten testen",
       "source": "ZEIT Online",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can UN chief's initiative kickstart resolution for Cyprus?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-un-chief-s-initiative-kickstart-resolution-for-cyprus/a-78264788?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-06T13:58:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
+      "published_date": "2026-08-09T07:00:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones sighted above army site in west Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260809/drones-sighted-above-army-site-in-west-germany",
+      "published_date": "2026-08-09T06:37:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
+      "published_date": "2026-08-09T01:16:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy",
+      "title": "Home Office ‘error’ leaves Italian man’s wife with no right to stay in UK",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
-      "published_date": "2026-08-07T01:38:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russland: Nawalnaja ruft Russen zur Wahl der kriegskritischen Partei Jabloko auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/julia-nawalnaja-jabloko-partei-russland-opposition-ukrainekrieg",
-      "published_date": "2026-08-06T21:41:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on Italy’s new far-right party: the rise of a rogue general | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-italys-new-far-right-party-the-rise-of-a-rogue-general",
-      "published_date": "2026-08-06T17:29:21+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/aug/09/home-office-error-leaves-italian-mans-wife-with-no-right-to-stay-in-uk",
+      "published_date": "2026-08-09T09:00:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe readies for solar eclipse dip in power generation",
@@ -337,6 +344,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/drought-threatens-power-supplies-in-danube-countries/a-78269916?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-08-06T19:55:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+      "published_date": "2026-08-06T14:18:55+00:00",
       "category": "Energy"
     },
     {
@@ -407,20 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
       "published_date": "2026-08-03T08:16:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba suffers yet another nationwide blackout",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T05:57:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany: As temperatures rise, so does climate skepticism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-02T08:44:00+00:00",
       "category": "Energy"
     },
     {
@@ -508,6 +508,41 @@
       "category": "Economy"
     },
     {
+      "title": "Proteste gegen die AfD: Fast 10.000 Menschen demonstrieren bundesweit für AfD-Verbotsverfahren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/proteste-afd-verbot-verbotsverfahren-buergerinitiative-pruef",
+      "published_date": "2026-08-09T11:15:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hitzeschutz: Hitze, Feuer, Wassermangel: Warum schweigt ihr?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/hitzeschutz-politik-klimawandel-felix-banaszak-thomas-heilmann-nina-scheer",
+      "published_date": "2026-08-09T11:12:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T07:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-09T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-09T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Lars Klingbeil: Union kritisiert Steuerpläne des Finanzministers",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/lars-klingbeil-kritik-steuer-plaene-union",
@@ -526,6 +561,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/thousands-attend-prague-pride-parade/a-78290467?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-08T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran war: Houthis claim attack on Saudi oil facility",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-houthis-claim-attack-on-saudi-oil-facility/live-78289364?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-08T13:33:00+00:00",
       "category": "Local Events"
     },
     {
@@ -603,48 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-07T11:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Far-right AfD extends its lead in nationwide polls",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-07T11:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drohnenvorfall am Flughafen: Polizei durchkämmt Nordpiste am Leipziger Flughafen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/drohnen-flughafen-leipzig-halle-polizei",
-      "published_date": "2026-08-07T11:28:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verteidigungsabkommen: Türkei, Saudi-Arabien und Pakistan unterzeichnen Verteidigungspakt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/verteidigungspakt-tuerkei-saudi-arabien-pakistan-recep-tayyip-erdogan-mohammed-bin-salman-shehbaz-sharif-dschiddah-gxe",
-      "published_date": "2026-08-07T11:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trockenheit: Rheinpegel bei Düsseldorf sinkt auf historischen Tiefstand",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-08/rheinpegel-duesseldorf-niedrigwasser-rekord-schifffahrt",
-      "published_date": "2026-08-07T11:05:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Exports and factory data lift economic outlook",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-exports-and-factory-data-lift-economic-outlook/live-78274476?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T08:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Exports and factory data lift economic outlook",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-exports-and-factory-data-lift-economic-outlook/live-78274476?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-07T08:51:00+00:00",
       "category": "Local Events"
     }
   ]
