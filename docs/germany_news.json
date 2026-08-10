@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-10T11:42:25.430808+00:00",
-  "story_count": 92,
+  "last_updated": "2026-08-10T23:26:16.747806+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Which country is the new Mecca defense pact targeting?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T14:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Western Europe experienced hottest June-July on record",
       "source": "The Local Germany",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Inside Germany: Holiday plans, holy guidance and a 639-year concert",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260808/inside-germany-holiday-plans-holy-guidance-and-a-639-year-concert",
-      "published_date": "2026-08-08T07:06:23+00:00",
-      "category": "Diplomacy"
+      "title": "BND und Verfassungsschutz: CDU-Politiker fordert mehr Rechte für Nachrichtendienste",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/gesetzesreform-bnd-verfassungsschutz-nachrichtendienste-marc-henrichmann-cdu",
+      "published_date": "2026-08-10T22:51:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey MPs back historic law on reintegrating PKK militants",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T22:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey MPs back historic law on reintegrating PKK militants",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-10T22:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Iran wants US concessions before opening Hormuz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T13:07:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Demografie: Anteil junger Menschen in Deutschland auf historischem Tief",
@@ -189,6 +217,13 @@
       "title": "Iran War:  Is Iran’s middle class being pushed into poverty?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T04:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Iran's middle class being pushed into poverty?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-10T04:46:00+00:00",
       "category": "Military"
     },
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "US Senate confirms Trump loyalist Todd Blanche as new AG",
+      "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-senate-confirms-trump-loyalist-todd-blanche-as-new-ag/a-78289397?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T14:25:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T15:06:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T14:10:00+00:00",
-      "category": "Military"
+      "title": "What to do if you can't find eclipse glasses in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/what-to-do-if-you-cant-find-eclipse-glasses-in-germany",
+      "published_date": "2026-08-10T15:02:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
+      "title": "How climate change is reshaping Africa's malaria risk",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T13:33:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T13:24:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "title": "People flocking to Spain to view solar eclipse could spark more ‘devastating’ wildfires",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
-      "published_date": "2026-08-08T11:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "published_date": "2026-08-08T10:55:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/aug/10/spain-tourists-solar-eclipse-increased-wildfires-risk",
+      "published_date": "2026-08-10T13:21:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Home Office ‘error’ leaves Italian man’s wife with no right to stay in UK",
@@ -396,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Price of olive oil expected to rise again as European crops feel the heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
-      "published_date": "2026-08-04T04:00:13+00:00",
-      "category": "Energy"
+      "title": "Why the Rhine drought is bad news for Germany's recovery",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-10T15:55:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Cuba: Further blackouts disrupt energy restoration attempts",
+      "title": "Why the Rhine drought is bad news for Germany's recovery",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-further-blackouts-disrupt-energy-restoration-attempts/a-78224862?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T03:23:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T15:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From Dubai luxury to an Irish jail cell: Daniel Kinahan’s drastic lifestyle shift",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/daniel-kinahan-lifestyle-shift-dubai-luxury-irish-prison-cell",
+      "published_date": "2026-08-10T13:54:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ASEAN closing ranks as cyberscam threat escalates",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T12:56:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Parts of Germany's Rhine becoming unnavigable as water levels drop",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/parts-of-germanys-rhine-becoming-unnavigable-as-water-levels-drop",
+      "published_date": "2026-08-10T12:33:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
@@ -508,6 +557,62 @@
       "category": "Economy"
     },
     {
+      "title": "Wahlen: Ramelow für Zusammenarbeit Linke und CDU in Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/11/ramelow-fuer-zusammenarbeit-linke-und-cdu-in-sachsen-anhalt",
+      "published_date": "2026-08-10T22:15:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia: Top court bans opposition anti-war party from vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T20:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anschlag in Leipzig: Flughafen Leipzig/Halle stellt Besucherangebote vorerst ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/drohne-flughafen-leipzig-halle-sprengstoff-bundespolizei-besucher",
+      "published_date": "2026-08-10T20:49:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anschlag in Leipzig: Wir sind nicht wehrlos",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/anschlag-leipzig-russland-resilienz-abschreckung",
+      "published_date": "2026-08-10T18:43:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "published_date": "2026-08-10T16:25:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
+      "published_date": "2026-08-10T15:55:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gelato for lunch? Bedlinen in the freezer? Heatwave tips from southern Europe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/gelato-for-lunch-bedlinen-in-the-freezer-heatwave-tips-from-southern-europe",
+      "published_date": "2026-08-10T13:46:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Anger over exam irregularities spreads to Jharkhand",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-anger-over-exam-irregularities-spreads-to-jharkhand/a-78304059?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T12:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "SPD-Parteitag: SPD-Gruppe fordert Sonderparteitag zur Wahl einer neuen Parteispitze",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/spd-gruppe-parteitag-wahl-parteispitze-baerbel-bas-lars-klingbeil",
@@ -525,6 +630,13 @@
       "title": "UEFA, CONCACAF and AFC accuse Infantino of 'breach of trust'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T11:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UEFA, other football federations unite against Infantino",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uefa-other-football-federations-unite-against-infantino/a-78301601?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-10T11:10:00+00:00",
       "category": "Local Events"
     },
@@ -582,69 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-10T06:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Low water on Rhine could sever freight route",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T06:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Schüsse auf eine Person in Berlin – Polizei im Einsatz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/10/schuesse-auf-eine-person-in-berlin-polizei-im-einsatz",
-      "published_date": "2026-08-09T22:56:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/alleged-irish-crime-boss-kinahan-charged-with-directing-criminal-organisation/a-78297919?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T20:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged crime boss Daniel Kinahan’s return to Ireland ends global game of cat-and-mouse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/daniel-kinahan-return-ireland-ends-global-game-cat-and-mouse",
-      "published_date": "2026-08-09T18:18:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark: Several wounded in suspected gang shooting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T16:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin to step up drone security research",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-09T16:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin to step up drone security research",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T16:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada: British Columbia wildfires burning out of control",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T14:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste gegen die AfD: Fast 10.000 Menschen demonstrieren bundesweit für AfD-Verbotsverfahren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/proteste-afd-verbot-verbotsverfahren-buergerinitiative-pruef",
-      "published_date": "2026-08-09T11:15:41+00:00",
       "category": "Local Events"
     }
   ]
