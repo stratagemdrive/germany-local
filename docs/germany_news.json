@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-09T23:22:03.510093+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-10T11:42:25.430808+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Western Europe experienced hottest June-July on record",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/western-europe-experienced-hottest-june-july-on-record",
+      "published_date": "2026-08-10T08:35:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British widow, 78, told to leave Sweden under Brexit rules after living there for 21 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/british-widow-78-told-to-leave-sweden-under-brexit-rules-after-living-there-for-21-years",
+      "published_date": "2026-08-10T04:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Movie paradise? How Malta became a magnet for big film shoots",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots",
+      "published_date": "2026-08-10T04:00:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
+      "published_date": "2026-08-10T02:00:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
       "source": "The Guardian",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia-linked group blamed for fake Merz resignation video",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260808/russia-linked-group-blamed-for-fake-merz-resignation-video",
-      "published_date": "2026-08-08T06:43:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Verteidigungsabkommen: Türkei verteidigt Militärabkommen mit Saudi-Arabien und Pakistan",
+      "title": "Demografie: Anteil junger Menschen in Deutschland auf historischem Tief",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/tuerkei-saudi-arabien-pakistan-verteidigungsabkommen-nato-iran",
-      "published_date": "2026-08-07T23:04:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/jugendliche-15-24-deutschland-ost-eu-anteil",
+      "published_date": "2026-08-10T10:57:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iceland’s EU vote: A nation divided over Europe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iceland-s-eu-vote-a-nation-divided-over-europe/a-78285133?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T19:37:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: 13 Tote nach ukrainischem Drohnenangriff in Region Tatarstan",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-08-10T10:52:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iceland’s EU vote: A nation divided over Europe",
+      "title": "Ukrainian drone attack kills at least 13 in central Russia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iceland-s-eu-vote-a-nation-divided-over-europe/a-78285133?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-07T19:37:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T08:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "When extreme heat threatens Europe's nuclear power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T07:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "When extreme heat threatens Europe's nuclear power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-10T07:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "It’s not just the Odyssey effect: poetry is booming because it’s the only language for these times of violence and chaos | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/poetry-boom-language-violence-chaos-odyssey-ukraine-gaza",
+      "published_date": "2026-08-10T07:00:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran War:  Is Iran’s middle class being pushed into poverty?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T04:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy",
+      "published_date": "2026-08-10T01:18:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria says deal agreed with Russia on future of military bases",
@@ -225,62 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
       "published_date": "2026-08-08T10:55:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uwe Danker: »Mich stört der verengte Fokus auf Mitgliedschaften«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-08/uwe-danker-nationalsozialismus-akten-datenbanken-gefahren",
-      "published_date": "2026-08-08T09:49:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany debates reintroducing mandatory civilian service",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-debates-reintroducing-mandatory-civilian-service/a-78264088?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-08T05:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany debates reintroducing mandatory civilian service",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-debates-reintroducing-mandatory-civilian-service/a-78264088?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T05:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border",
-      "published_date": "2026-08-08T02:26:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T19:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-07T19:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "published_date": "2026-08-07T16:35:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T10:48:00+00:00",
       "category": "Military"
     },
     {
@@ -410,18 +410,25 @@
       "category": "Energy"
     },
     {
-      "title": "Romanian navy blows up rock in Danube to redirect water to nuclear plant – video",
+      "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/03/romanian-navy-blows-up-rock-danube-redirect-water-nuclear-plant-video",
-      "published_date": "2026-08-03T10:31:57+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/10/record-cross-channel-uk-people-smugglers-mega-dinghies-france",
+      "published_date": "2026-08-10T10:55:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
+      "title": "Millions of workers in Germany are earning less than minimum wage",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/millions-of-workers-in-germany-are-earning-less-than-minimum-wage",
+      "published_date": "2026-08-10T09:21:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ancient Roman pottery discovered in shipwreck off Sicilian coast – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-      "published_date": "2026-08-03T08:16:38+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/video/2026/aug/10/ancient-roman-pottery-discovered-in-shipwreck-off-sicilian-coast-video",
+      "published_date": "2026-08-10T08:22:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Feuerwehr im Einsatz: Scheune bei Brand zerstört - Halbe Million Euro Schaden",
@@ -501,18 +508,88 @@
       "category": "Economy"
     },
     {
-      "title": "Spain's wildfires: Counting the economic cost",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-s-wildfires-counting-the-economic-cost/a-78186441?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T05:05:00+00:00",
-      "category": "Economy"
+      "title": "SPD-Parteitag: SPD-Gruppe fordert Sonderparteitag zur Wahl einer neuen Parteispitze",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/spd-gruppe-parteitag-wahl-parteispitze-baerbel-bas-lars-klingbeil",
+      "published_date": "2026-08-10T11:32:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The economic toll of Spain's wildfires",
+      "title": "Fußball: Union Berlin beim Pflichtspiel-Auftakt wohl ohne Quartett",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/10/union-berlin-beim-pflichtspiel-auftakt-wohl-ohne-quartett",
+      "published_date": "2026-08-10T11:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UEFA, CONCACAF and AFC accuse Infantino of 'breach of trust'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-economic-toll-of-spain-s-wildfires/a-78186441?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-03T05:05:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T11:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
+      "published_date": "2026-08-10T10:53:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/aug/10/roman-shipwreck-with-500-amphorae-found-off-coast-of-sicily",
+      "published_date": "2026-08-10T10:44:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will baby boomer homes soon flood the German property market?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/will-baby-boomer-homes-soon-flood-the-german-property-market",
+      "published_date": "2026-08-10T10:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thai ex-lawmaker shoots local official dead over loan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T07:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Kerala arrest highlights online harassment of women at CJP protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-kerala-arrest-highlights-online-harassment-of-women-at-cjp-protest/live-78299334?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T07:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T06:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260810/today-in-germany-a-roundup-of-the-latest-news-on-monday-134",
+      "published_date": "2026-08-10T06:31:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Low water on Rhine could sever freight route",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-10T06:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Low water on Rhine could sever freight route",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-10T06:22:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kriminalität: Schüsse auf eine Person in Berlin – Polizei im Einsatz",
@@ -568,90 +645,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/proteste-afd-verbot-verbotsverfahren-buergerinitiative-pruef",
       "published_date": "2026-08-09T11:15:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitzeschutz: Hitze, Feuer, Wassermangel: Warum schweigt ihr?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/hitzeschutz-politik-klimawandel-felix-banaszak-thomas-heilmann-nina-scheer",
-      "published_date": "2026-08-09T11:12:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T07:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-09T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lars Klingbeil: Union kritisiert Steuerpläne des Finanzministers",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/lars-klingbeil-kritik-steuer-plaene-union",
-      "published_date": "2026-08-08T23:01:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wohl nur Heißluftballon: Flugbetrieb in Hamburg nach Drohnenalarm kurz unterbrochen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/08/flugbetrieb-in-hamburg-nach-drohnenalarm-kurz-unterbrochen",
-      "published_date": "2026-08-08T20:56:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands attend Prague Pride parade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thousands-attend-prague-pride-parade/a-78290467?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T16:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran war: Houthis claim attack on Saudi oil facility",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-houthis-claim-attack-on-saudi-oil-facility/live-78289364?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T13:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lkw-Fahrverbot an Sonntagen: BUND kritisiert Lockerung des Sonntagsfahrverbots für Lkw",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/lkw-fahrverbot-sonntag-lockerung-niedrigwasser-bund-steffen-bilger-gxe",
-      "published_date": "2026-08-08T11:07:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
-      "published_date": "2026-08-08T09:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "published_date": "2026-08-08T05:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU und AfD: CDU-Spitze würde AfD-Zusammenarbeit im Osten nicht dulden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/08/cdu-spitze-wuerde-afd-zusammenarbeit-im-osten-nicht-dulden",
-      "published_date": "2026-08-07T23:05:04+00:00",
       "category": "Local Events"
     }
   ]
