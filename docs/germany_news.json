@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-11T11:38:50.987106+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-11T23:30:45.312264+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Künstliche Intelligenz: Anthropic will KI-Texte mit unsichtbarem Wasserzeichen versehen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/2026-08/anthropic-claude-wasserzeichen-ki-inhalte-eu",
+      "published_date": "2026-08-11T22:08:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
       "source": "The Guardian",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU holds talks with big tech over Ceuta misinformation",
+      "title": "Drohnen: Bundeswehr registriert mehrere Hundert Zwischenfälle mit Drohnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/drohnenueberfluege-bundeswehr-zwischenfaelle-hybride-bedrohung-russland",
+      "published_date": "2026-08-11T20:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-Marine released and returning to US from Russian prison",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-holds-talks-with-big-tech-over-ceuta-misinformation/a-78288214?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T11:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ex-marine-released-and-returning-to-us-from-russian-prison/a-78327699?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T17:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France’s complex picture of collaborating with and combating Nazis | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/11/france-complex-picture-of-collaborating-with-and-combating-nazis",
+      "published_date": "2026-08-11T16:57:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulgaria drone crash a wake-up call for country's defenses",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T11:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulgaria drone crash a wake-up call for country's defenses",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-11T11:46:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Syria says deal agreed with Russia on future of military bases",
+      "title": "Disrupted monsoons force India to face climate threat",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T17:19:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/disrupted-monsoons-force-india-to-face-climate-threat/a-78324753?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T14:35:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-09T11:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
-      "published_date": "2026-08-09T07:00:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drones sighted above army site in west Germany",
+      "title": "Solar eclipse sparks scramble for protective glasses across Europe",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260809/drones-sighted-above-army-site-in-west-germany",
-      "published_date": "2026-08-09T06:37:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
-      "published_date": "2026-08-09T01:16:58+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.de/20260811/solar-eclipse-sparks-scramble-for-protective-glasses-across-europe",
+      "published_date": "2026-08-11T12:40:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hotel prices in Europe jump before total solar eclipse",
@@ -301,6 +315,20 @@
       "title": "How one German city is preparing for climate extremes",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T07:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How one German city plans to challenge climate extremes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-one-german-city-plans-to-challenge-climate-extremes/a-78278373?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-11T07:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How one German city plans to challenge climate extremes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-one-german-city-plans-to-challenge-climate-extremes/a-78278373?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-11T07:25:00+00:00",
       "category": "Energy"
     },
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-      "published_date": "2026-08-06T14:18:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A glowing future for nuclear power? Mini reactors explained",
+      "title": "UNESCO: 2.4 million girls barred from school in Afghanistan",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/a-glowing-future-for-nuclear-power-mini-reactors-explained/a-77491854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T12:54:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T22:49:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The hidden problem with small modular nuclear reactors",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-hidden-problem-with-small-modular-nuclear-reactors/a-77491854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-05T12:54:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-      "published_date": "2026-08-05T05:54:54+00:00",
-      "category": "Energy"
+      "title": "Munich cafe goes viral for defending staff for not speaking German",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260811/munich-cafe-goes-viral-for-defending-staff-for-not-speaking-german",
+      "published_date": "2026-08-11T14:05:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Vietnam's VinSpace taps SpaceX for first satellite launches",
@@ -550,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Three hard truths for Indians thinking about moving to Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260804/three-hard-truths-for-indians-thinking-about-moving-to-germany",
-      "published_date": "2026-08-04T14:45:30+00:00",
-      "category": "Economy"
+      "title": "Landtagswahl in Sachsen-Anhalt: Wagenknecht würde in Sachsen-Anhalt Weg für AfD-Regierung freimachen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/sahra-wagenknecht-bsw-thueringen-afd-brandmauer",
+      "published_date": "2026-08-11T22:02:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niedrigwasser: Baubranche warnt vor Engpässen durch Niedrigwasser",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/niedrigwasser-fluesse-baubranche-engpaesse-transport",
+      "published_date": "2026-08-11T22:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wie weiter nach der Wahl?: BSW für AfD-Einbindung nach Landtagswahl in Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/12/bsw-fuer-afd-einbindung-nach-landtagswahl-in-sachsen-anhalt",
+      "published_date": "2026-08-11T22:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary's parliament elects Orban critic as new president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary's parliament elects Orban critic as new president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-11T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Key issues in Zambia's 2026 general election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T13:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghanistan-five-years-of-taliban-rule-has-germany-kept-its-promises/a-78319745?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-11T12:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afghanistan-five-years-of-taliban-rule-has-germany-kept-its-promises/a-78319745?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T12:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Seelische Nöte: Ein Schulpsychologe für 5.000 Schüler in NRW",
@@ -585,9 +648,23 @@
       "category": "Local Events"
     },
     {
+      "title": "Heathrow says need for expansion clear as it loses title of Europe’s busiest airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/11/heathrow-expansion-not-europe-busiest-airport-istanbul",
+      "published_date": "2026-08-11T08:02:59+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "India news: Jharkhand student leader hospitalized after police use force",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-jharkhand-student-leader-hospitalized-after-police-use-force/live-78314106?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T07:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Cockroach party backs Jharkhand student leader Devendra Nath Mahto",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cockroach-party-backs-jharkhand-student-leader-devendra-nath-mahto/live-78314106?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-11T07:14:00+00:00",
       "category": "Local Events"
     },
@@ -624,76 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/anschlag-leipzig-russland-resilienz-abschreckung",
       "published_date": "2026-08-10T18:43:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "published_date": "2026-08-10T16:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
-      "published_date": "2026-08-10T15:55:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gelato for lunch? Bedlinen in the freezer? Heatwave tips from southern Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/gelato-for-lunch-bedlinen-in-the-freezer-heatwave-tips-from-southern-europe",
-      "published_date": "2026-08-10T13:46:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Anger over exam irregularities spreads to Jharkhand",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-anger-over-exam-irregularities-spreads-to-jharkhand/a-78304059?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T12:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD-Parteitag: SPD-Gruppe fordert Sonderparteitag zur Wahl einer neuen Parteispitze",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/spd-gruppe-parteitag-wahl-parteispitze-baerbel-bas-lars-klingbeil",
-      "published_date": "2026-08-10T11:32:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: Union Berlin beim Pflichtspiel-Auftakt wohl ohne Quartett",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/10/union-berlin-beim-pflichtspiel-auftakt-wohl-ohne-quartett",
-      "published_date": "2026-08-10T11:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA, CONCACAF and AFC accuse Infantino of 'breach of trust'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T11:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA, other football federations unite against Infantino",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uefa-other-football-federations-unite-against-infantino/a-78301601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T11:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
-      "published_date": "2026-08-10T10:53:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/10/roman-shipwreck-with-500-amphorae-found-off-coast-of-sicily",
-      "published_date": "2026-08-10T10:44:54+00:00",
       "category": "Local Events"
     }
   ]
