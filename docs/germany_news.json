@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-10T23:26:16.747806+00:00",
+  "last_updated": "2026-08-11T11:38:50.987106+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "published_date": "2026-08-11T11:34:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East: Trump took secret flight out of Turkey over Iran threat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T06:05:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Which country is the new Mecca defense pact targeting?",
       "source": "Deutsche Welle",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bundesregierung: Prien setzt auf EU-weite Regeln für Kinder bei Social Media",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/08/prien-setzt-auf-eu-weite-regeln-fuer-kinder-bei-social-media",
-      "published_date": "2026-08-08T10:59:50+00:00",
-      "category": "Diplomacy"
+      "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/airbnb-type-rentals-drugs-crime-gangs-belgium",
+      "published_date": "2026-08-11T07:47:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "India wary of potential 100% US tariffs over Russian oil",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-wary-of-potential-100-us-tariffs-over-russian-oil/live-78287317?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-08T08:25:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Russia bans voting against the war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict",
+      "published_date": "2026-08-11T01:38:25+00:00",
+      "category": "Military"
     },
     {
       "title": "BND und Verfassungsschutz: CDU-Politiker fordert mehr Rechte für Nachrichtendienste",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
+      "title": "Hotel prices in Europe jump before total solar eclipse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
-      "published_date": "2026-08-08T20:03:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
+      "published_date": "2026-08-11T10:50:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nato-Luftraum: In Bulgarien explodierte Drohne stammte mutmaßlich aus der Ukraine",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/bulgarien-drohne-ukraine-luftraum-explosion",
-      "published_date": "2026-08-08T18:18:33+00:00",
-      "category": "Military"
+      "title": "How one German city is preparing for climate extremes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-11T07:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How one German city is preparing for climate extremes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T07:25:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "South Sudan: How climate change can result in toxic water",
+      "title": "Vietnam's VinSpace taps SpaceX for first satellite launches",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T14:46:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/vietnam-s-vinspace-taps-spacex-for-first-satellite-launches/a-78315984?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T09:10:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Seven tips for better sleep during a heatwave in Germany",
+      "title": "What happens to my unemployment benefit if I miss an appointment in Germany?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260804/seven-tips-for-better-sleep-during-a-heatwave-in-germany",
-      "published_date": "2026-08-04T14:21:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Guatemala: Towns evacuated as Fuego volcano erupts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/guatemala-towns-evacuated-as-fuego-volcano-erupts/a-78230836?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T11:53:00+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.de/20260811/what-happens-to-my-unemployment-benefit-if-i-miss-an-appointment-in-germany",
+      "published_date": "2026-08-11T08:11:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why the Rhine drought is bad news for Germany's recovery",
@@ -543,18 +557,46 @@
       "category": "Economy"
     },
     {
-      "title": "US: 25 states sue over Trump's new tariffs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-25-states-sue-over-trump-s-new-tariffs/a-78224794?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-04T00:28:00+00:00",
-      "category": "Economy"
+      "title": "Seelische Nöte: Ein Schulpsychologe für 5.000 Schüler in NRW",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/11/ein-schulpsychologe-fuer-5-000-schueler-in-nrw",
+      "published_date": "2026-08-11T11:16:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Regionalbahnen: Länder fordern Lösung bei Trassenpreisen und warnen vor Zugausfällen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-08/trassenpreise-regionalbahnen-eugh-urteil-laender-abestellungen",
-      "published_date": "2026-08-03T23:37:54+00:00",
-      "category": "Economy"
+      "title": "Germany scoops three spots on list of Europe's most beautiful ice cream parlours",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260811/germany-scoops-three-spots-on-list-of-europes-most-beautiful-ice-cream-parlours",
+      "published_date": "2026-08-11T10:56:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents in German state of Hesse urged to save water as wildfires rage",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260811/residents-in-german-state-of-hesse-urged-to-save-water-as-wildfires-rage",
+      "published_date": "2026-08-11T09:14:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria sentences Bashar Assad to death in absentia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/syria-sentences-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T08:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Jharkhand student leader hospitalized after police use force",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-jharkhand-student-leader-hospitalized-after-police-use-force/live-78314106?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-11T07:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260811/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-135",
+      "published_date": "2026-08-11T06:35:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wahlen: Ramelow für Zusammenarbeit Linke und CDU in Sachsen-Anhalt",
@@ -652,48 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/science/2026/aug/10/roman-shipwreck-with-500-amphorae-found-off-coast-of-sicily",
       "published_date": "2026-08-10T10:44:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will baby boomer homes soon flood the German property market?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/will-baby-boomer-homes-soon-flood-the-german-property-market",
-      "published_date": "2026-08-10T10:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thai ex-lawmaker shoots local official dead over loan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T07:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Kerala arrest highlights online harassment of women at CJP protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-kerala-arrest-highlights-online-harassment-of-women-at-cjp-protest/live-78299334?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T07:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T06:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/today-in-germany-a-roundup-of-the-latest-news-on-monday-134",
-      "published_date": "2026-08-10T06:31:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Low water on Rhine could sever freight route",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-10T06:22:00+00:00",
       "category": "Local Events"
     }
   ]
