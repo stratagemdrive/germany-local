@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-12T11:41:28.953237+00:00",
+  "last_updated": "2026-08-12T23:31:31.392669+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
+      "published_date": "2026-08-12T18:20:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eritrea: An emerging key player in the geopolitical gamble at the Horn",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eritrea-an-emerging-key-player-in-the-geopolitical-gamble-at-the-horn/a-78335316?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T15:40:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU curbs on 'forever chemicals' in food packaging kick in",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260812/eu-curbs-on-forever-chemicals-in-food-packaging-kick-in",
+      "published_date": "2026-08-12T14:28:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/12/this-is-europe-venice-film-festival-politics-alex-gibney-sergei-loznitsa",
+      "published_date": "2026-08-12T14:15:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany approves lifting curbs on spy agencies in security ‘revolution’",
       "source": "The Guardian",
@@ -21,6 +49,20 @@
       "title": "EU packaging rules: Why small firms are sounding the alarm",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-packaging-rules-why-small-firms-are-sounding-the-alarm/a-78326555?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-12T09:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU waste packaging rules: Why small businesses are worried",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-waste-packaging-rules-why-small-businesses-are-worried/a-78326555?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T09:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU waste packaging rules: Why small businesses are worried",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-waste-packaging-rules-why-small-businesses-are-worried/a-78326555?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-08-12T09:21:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/hamish-falconer-uk-minister-european-relations-eu",
-      "published_date": "2026-08-09T18:00:22+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine-Krieg: Stromausfall auf der Krim nach ukrainischem Drohnenangriff",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/13/stromausfall-auf-der-krim-nach-ukrainischem-drohnenangriff",
+      "published_date": "2026-08-12T22:27:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
-      "published_date": "2026-08-09T18:00:21+00:00",
-      "category": "Diplomacy"
+      "title": "Eurovision bars countries at war from hosting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eurovision-bars-countries-at-war-from-hosting/a-78341915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T18:53:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
-      "published_date": "2026-08-09T14:59:39+00:00",
-      "category": "Diplomacy"
+      "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T17:56:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "I Rarely Wake Up Dreaming review – brilliant bulletin from Ukrainian frontline dives deep into culture war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/09/i-rarely-wake-up-dreaming-review",
-      "published_date": "2026-08-09T14:34:32+00:00",
-      "category": "Diplomacy"
+      "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-12T17:56:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
-      "published_date": "2026-08-09T14:30:58+00:00",
-      "category": "Diplomacy"
+      "title": "No oil, no salary: Iraqi state employees are feeling the crunch of the Hormuz blockade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/no-oil-no-salary-iraqi-state-employees-are-feeling-the-crunch-of-the-hormuz-blockade/a-78341409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T17:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Blame game as Brussels builds ‘Europe’s largest frying pan’ instead of shady square",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/blame-brussels-eu-quarter-schuman-square",
-      "published_date": "2026-08-09T04:00:05+00:00",
-      "category": "Diplomacy"
+      "title": "Unconstitutional? German intelligence to receive more powers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/unconstitutional-german-intelligence-to-receive-more-powers/a-78341313?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-12T15:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Unconstitutional? German intelligence to receive more powers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/unconstitutional-german-intelligence-to-receive-more-powers/a-78341313?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T15:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War impact on European travel bookings fading",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260812/war-impact-on-european-travel-bookings-fading",
+      "published_date": "2026-08-12T13:47:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T11:43:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-12T11:43:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
@@ -214,74 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Russia bans voting against the war",
+      "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict",
-      "published_date": "2026-08-11T01:38:25+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "published_date": "2026-08-12T21:00:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "BND und Verfassungsschutz: CDU-Politiker fordert mehr Rechte für Nachrichtendienste",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/gesetzesreform-bnd-verfassungsschutz-nachrichtendienste-marc-henrichmann-cdu",
-      "published_date": "2026-08-10T22:51:29+00:00",
-      "category": "Military"
+      "title": "Solar eclipse visible over Houses of Parliament and Big Ben in London – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/video/2026/aug/12/solar-eclipse-visible-over-houses-of-parliament-and-big-ben-in-london-video",
+      "published_date": "2026-08-12T20:49:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Turkey MPs back historic law on reintegrating PKK militants",
+      "title": "Total solar eclipse darkens sky in Spain – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/12/spain-total-solar-eclipse",
+      "published_date": "2026-08-12T20:28:12+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Solar eclipse 2026 across Europe: in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2026-across-europe-in-pictures",
+      "published_date": "2026-08-12T20:21:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Iceland in complete darkness during total solar eclipse - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/video/2026/aug/12/iceland-in-complete-darkness-during-total-solar-eclipse-video",
+      "published_date": "2026-08-12T19:18:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Gulf states scramble for Strait of Hormuz alternative",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T22:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey MPs back historic law on reintegrating PKK militants",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-10T22:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Iran wants US concessions before opening Hormuz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T13:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Demografie: Anteil junger Menschen in Deutschland auf historischem Tief",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/jugendliche-15-24-deutschland-ost-eu-anteil",
-      "published_date": "2026-08-10T10:57:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: 13 Tote nach ukrainischem Drohnenangriff in Region Tatarstan",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-08-10T10:52:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone attack kills at least 13 in central Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T08:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "When extreme heat threatens Europe's nuclear power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T07:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "When extreme heat threatens Europe's nuclear power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-10T07:04:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T13:35:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "How to make the most of the solar eclipse in Germany",
@@ -382,46 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "What to do if you can't find eclipse glasses in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/what-to-do-if-you-cant-find-eclipse-glasses-in-germany",
-      "published_date": "2026-08-10T15:02:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How climate change is reshaping Africa's malaria risk",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T13:24:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "People flocking to Spain to view solar eclipse could spark more ‘devastating’ wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/10/spain-tourists-solar-eclipse-increased-wildfires-risk",
-      "published_date": "2026-08-10T13:21:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Home Office ‘error’ leaves Italian man’s wife with no right to stay in UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/09/home-office-error-leaves-italian-mans-wife-with-no-right-to-stay-in-uk",
-      "published_date": "2026-08-09T09:00:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe readies for solar eclipse dip in power generation",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260808/europe-readies-for-solar-eclipse-dip-in-power-generation",
-      "published_date": "2026-08-08T11:31:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse",
-      "published_date": "2026-08-08T07:00:40+00:00",
-      "category": "Energy"
+      "title": "Kolumbien: Leo XIV. stellt 100.000 Euro Erdbebenhilfe für Kolumbien bereit",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/erdbeben-kolumbien-pereira-abelardo-de-la-espriella-rettung",
+      "published_date": "2026-08-12T20:29:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Klimaanpassung: Carsten Schneider warnt vor hohen Kosten wegen fehlendem Klimaschutz",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Why is Russia selling its gold?",
+      "title": "Russia: Why is the Yabloko party barred from the elections?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-russia-selling-its-gold/a-78145069?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-06T08:21:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T18:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia: Why is the Yabloko party barred from the elections?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-12T18:37:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sicherheit des Stromnetzes: Neue Zäune und Kameras: Berlin schützt Stromnetz besser",
@@ -610,6 +624,13 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260812/sauna-temperatures-how-hot-will-it-get-in-germany-this-week",
       "published_date": "2026-08-12T09:04:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia's 2026 election: Key issues to watch",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambia-s-2026-election-key-issues-to-watch/a-78320087?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T08:57:00+00:00",
       "category": "Local Events"
     },
     {
@@ -680,27 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/mobilitaet/2026-08/niedrigwasser-fluesse-baubranche-engpaesse-transport",
       "published_date": "2026-08-11T22:01:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wie weiter nach der Wahl?: BSW für AfD-Einbindung nach Landtagswahl in Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/12/bsw-fuer-afd-einbindung-nach-landtagswahl-in-sachsen-anhalt",
-      "published_date": "2026-08-11T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary's parliament elects Orban critic as new president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary's parliament elects Orban critic as new president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-11T16:00:00+00:00",
       "category": "Local Events"
     }
   ]
