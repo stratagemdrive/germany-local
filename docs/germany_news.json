@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-13T11:41:09.106079+00:00",
+  "last_updated": "2026-08-13T23:32:25.458675+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
+      "published_date": "2026-08-13T19:32:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli military moves as settlers besiege 3 West Bank homes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T15:19:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "published_date": "2026-08-13T14:21:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+      "published_date": "2026-08-13T12:56:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hitze in Europa: Grüne fordern Hitzegipfel im Kanzleramt",
       "source": "ZEIT Online",
@@ -116,37 +144,65 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Middle East: Trump took secret flight out of Turkey over Iran threat",
+      "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T06:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T21:21:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Which country is the new Mecca defense pact targeting?",
+      "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T14:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-13T21:21:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Western Europe experienced hottest June-July on record",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/western-europe-experienced-hottest-june-july-on-record",
-      "published_date": "2026-08-10T08:35:47+00:00",
-      "category": "Diplomacy"
+      "title": "US disputes reports of trying conditions on carrier in Gulf",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-disputes-reports-of-trying-conditions-on-carrier-in-gulf/a-78359084?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T19:02:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "British widow, 78, told to leave Sweden under Brexit rules after living there for 21 years",
+      "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/british-widow-78-told-to-leave-sweden-under-brexit-rules-after-living-there-for-21-years",
-      "published_date": "2026-08-10T04:00:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
+      "published_date": "2026-08-13T17:13:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian cathedrals, Gaza’s archives, Iranian squares – modern war is systematically erasing human history | Simon Jenkins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war",
+      "published_date": "2026-08-13T16:04:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's monthly civilian casualties highest since 2022",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T12:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's monthly civilian casualties highest since 2022",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-13T12:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "What would a North Korean surge mean for Ukraine war?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T10:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What would a North Korean troop surge mean for Ukraine war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-13T10:54:00+00:00",
       "category": "Military"
     },
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Unconstitutional? German intelligence to receive more powers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/unconstitutional-german-intelligence-to-receive-more-powers/a-78341313?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-12T15:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unconstitutional? German intelligence to receive more powers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/unconstitutional-german-intelligence-to-receive-more-powers/a-78341313?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T15:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War impact on European travel bookings fading",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/war-impact-on-european-travel-bookings-fading",
-      "published_date": "2026-08-12T13:47:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T11:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-12T11:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
+      "title": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/12/iran-war-high-living-costs-fuel-last-minute-holiday-bookings-tui",
-      "published_date": "2026-08-12T10:45:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Cabinet approves intelligence service reforms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-cabinet-approves-intelligence-service-reforms/live-78330003?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-12T09:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Cabinet approves intelligence service reforms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-cabinet-approves-intelligence-service-reforms/live-78330003?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T09:28:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
+      "published_date": "2026-08-13T15:19:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Does the clean energy transition need forever chemicals?",
@@ -413,13 +420,6 @@
       "title": "How one German city is preparing for climate extremes",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T07:25:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How one German city plans to challenge climate extremes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-one-german-city-plans-to-challenge-climate-extremes/a-78278373?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-11T07:25:00+00:00",
       "category": "Energy"
     },
@@ -564,6 +564,69 @@
       "category": "Economy"
     },
     {
+      "title": "Thüringen: Linkenpolitiker kritisieren Nähe zwischen AfD und BSW",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/bjoern-hoecke-sahra-wagenknecht-afd-bsw-thueringen-ministerpraesidentin",
+      "published_date": "2026-08-13T23:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brände: Hochhausbrand in Dresden - Flammen in 13. Etage",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/13/hochhausbrand-in-dresden-flammen-in-13-etage",
+      "published_date": "2026-08-13T21:53:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 100 children detained as adults under UK-France migration deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+      "published_date": "2026-08-13T18:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Officials warn against East Germany nostalgia on Berlin Wall anniversary",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/officials-warn-against-east-germany-nostalgia-on-berlin-wall-anniversary",
+      "published_date": "2026-08-13T14:09:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EES delays cause wait times to double at major German airports",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/ees-delays-cause-wait-times-to-double-at-major-german-airports",
+      "published_date": "2026-08-13T13:41:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian businessman admits organising bomb attack ‘to boost friend’s security’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
+      "published_date": "2026-08-13T13:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Railway traffic disrupted in Bavaria following bomb scare",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/railway-traffic-disrupted-in-bavaria-following-bomb-scare",
+      "published_date": "2026-08-13T13:16:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Germany's drone defense fails",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-13T12:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Germany's drone defense fails",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T12:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wegen offener Geldforderung: Gericht erlässt Haftbefehl gegen AfD-Politiker Krah",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/13/gericht-erlaesst-haftbefehl-gegen-afd-politiker-krah",
@@ -589,6 +652,20 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/35/ties-rabe-bildungspolitik-hamburg-schulen-kinder-unterricht",
       "published_date": "2026-08-13T10:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Buildings evacuated over suspected explosive",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-buildings-evacuated-over-suspected-explosive/a-78351636?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-13T10:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Buildings evacuated over suspected explosive",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-buildings-evacuated-over-suspected-explosive/a-78351636?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T10:40:00+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/13/married-vegas-europe-copenhagen-romantic-brexit-visa-rules-love",
       "published_date": "2026-08-13T04:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia: Why is the Yabloko party barred from the elections?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T18:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia: Why is the Yabloko party barred from the elections?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-12T18:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sicherheit des Stromnetzes: Neue Zäune und Kameras: Berlin schützt Stromnetz besser",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/12/neue-zaeune-und-kameras-berlin-schuetzt-stromnetz-besser",
-      "published_date": "2026-08-12T11:34:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Umfrage sieht AfD bei 43 Prozent in Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/landtagswahl-sachsen-anhalt-afd-umfrage-pollytix-campact",
-      "published_date": "2026-08-12T11:33:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Von Frankfurt nach Köln: Neun Stunden im Main – So geht es Extremschwimmerin Pohl",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/12/neun-stunden-im-main-so-geht-es-extremschwimmerin-pohl",
-      "published_date": "2026-08-12T11:30:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schusswaffengewalt: Erneut Schüsse in Berlin – 40-Jähriger in Bar verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/12/erneut-schuesse-in-berlin-40-jaehriger-in-bar-verletzt",
-      "published_date": "2026-08-12T11:26:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niedrige Pegelstände: Auch Berlin, Brandenburg und Thüringen lockern Lkw-Fahrverbot",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-08/lkw-fahrverbot-berlin-brandenburg-niedrigwasser-binnenschifffahrt-gxe",
-      "published_date": "2026-08-12T10:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can a WhatsApp reporting channel clean up Berlin's 'Kotti' station?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/can-a-whatsapp-reporting-channel-clean-up-berlins-kotti-station",
-      "published_date": "2026-08-12T09:36:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Sauna temperatures': How hot will it get in Germany this week?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/sauna-temperatures-how-hot-will-it-get-in-germany-this-week",
-      "published_date": "2026-08-12T09:04:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia's 2026 election: Key issues to watch",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-s-2026-election-key-issues-to-watch/a-78320087?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T08:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TELL US: Do you need to speak fluent German to live in Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/tell-us-do-you-need-to-speak-fluent-german-to-live-in-germany",
-      "published_date": "2026-08-12T08:38:23+00:00",
       "category": "Local Events"
     }
   ]
