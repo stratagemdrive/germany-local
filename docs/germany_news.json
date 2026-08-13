@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-12T23:31:31.392669+00:00",
+  "last_updated": "2026-08-13T11:41:09.106079+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hitze in Europa: Grüne fordern Hitzegipfel im Kanzleramt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hitze-europa-duerre-niedrigwasser-waldbrand-live",
+      "published_date": "2026-08-13T11:31:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T06:06:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
       "source": "The Guardian",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Movie paradise? How Malta became a magnet for big film shoots",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots",
-      "published_date": "2026-08-10T04:00:34+00:00",
-      "category": "Diplomacy"
+      "title": "What would a North Korean surge mean for Ukraine war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T10:54:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "title": "Eurovision to bar countries at war from hosting",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/eurovision-to-bar-countries-at-war-from-hosting",
+      "published_date": "2026-08-13T07:35:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/today-in-germany-a-roundup-of-the-latest-news-on-thursday-131",
+      "published_date": "2026-08-13T06:32:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How North Korea has profited from its support for Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T05:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A bungled bomb plot in Poland exposed a spy – but whose spy was he?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-      "published_date": "2026-08-10T02:00:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
+      "published_date": "2026-08-13T04:00:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-war-briefing-kyiv-outlines-battlefield-gains",
+      "published_date": "2026-08-13T01:37:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Stromausfall auf der Krim nach ukrainischem Drohnenangriff",
@@ -175,6 +217,13 @@
       "title": "No oil, no salary: Iraqi state employees are feeling the crunch of the Hormuz blockade",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/no-oil-no-salary-iraqi-state-employees-are-feeling-the-crunch-of-the-hormuz-blockade/a-78341409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T17:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Due to the Iran war, Iraq is running out of money",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-12T17:00:00+00:00",
       "category": "Military"
     },
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "North Korea tests missile ahead of US-South Korea drills",
+      "title": "Does the clean energy transition need forever chemicals?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T03:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drohnen: Bundeswehr registriert mehrere Hundert Zwischenfälle mit Drohnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/drohnenueberfluege-bundeswehr-zwischenfaelle-hybride-bedrohung-russland",
-      "published_date": "2026-08-11T20:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-Marine released and returning to US from Russian prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-marine-released-and-returning-to-us-from-russian-prison/a-78327699?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T17:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France’s complex picture of collaborating with and combating Nazis | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/11/france-complex-picture-of-collaborating-with-and-combating-nazis",
-      "published_date": "2026-08-11T16:57:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bulgaria drone crash a wake-up call for country's defenses",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T11:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bulgaria drone crash a wake-up call for country's defenses",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-11T11:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/airbnb-type-rentals-drugs-crime-gangs-belgium",
-      "published_date": "2026-08-11T07:47:13+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T07:13:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
@@ -322,6 +329,13 @@
       "title": "Gulf states scramble for Strait of Hormuz alternative",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-12T13:35:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Gulf states scramble for Strait of Hormuz alternatives",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternatives/a-78336679?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-12T13:35:00+00:00",
       "category": "Energy"
     },
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "How one German city plans to challenge climate extremes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-one-german-city-plans-to-challenge-climate-extremes/a-78278373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T07:25:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T15:06:00+00:00",
-      "category": "Energy"
+      "title": "Too smart to eat? Why octopus farms are such a slippery problem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
+      "published_date": "2026-08-13T04:00:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Kolumbien: Leo XIV. stellt 100.000 Euro Erdbebenhilfe für Kolumbien bereit",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Berlin clubs struggle as drink sales dry up and costs rise",
+      "title": "Wegen offener Geldforderung: Gericht erlässt Haftbefehl gegen AfD-Politiker Krah",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/13/gericht-erlaesst-haftbefehl-gegen-afd-politiker-krah",
+      "published_date": "2026-08-13T11:32:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahl: AfD baut Vorsprung aus – BSW könnte Machtfaktor werden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/10/afd-baut-vorsprung-aus-bsw-koennte-machtfaktor-werden",
+      "published_date": "2026-08-13T11:25:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is Volt and how does it plan to 'unf*ck' Berlin?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/what-is-volt-and-how-does-it-plan-to-unfck-berlin",
+      "published_date": "2026-08-13T10:59:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ties Rabe: »Andere Länder haben mehr Ehrgeiz«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/35/ties-rabe-bildungspolitik-hamburg-schulen-kinder-unterricht",
+      "published_date": "2026-08-13T10:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD-Parteispitze: Es rumort in der SPD. Schon seit Wochen. Droht ein Umsturz?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/spd-parteispitze-lars-klingbeil-baerbel-bas-parteitag-absetzung",
+      "published_date": "2026-08-13T10:38:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Far-right leader backs left-wing populist",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-07T14:44:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-far-right-leader-backs-left-wing-populist/live-78347793?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-13T09:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Far-right leader backs left-wing populist",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-leader-backs-left-wing-populist/live-78347793?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T09:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's dry rivers spark battle on engineering vs restoration",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260813/germanys-dry-rivers-spark-battle-on-engineering-vs-restoration",
+      "published_date": "2026-08-13T06:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I got married in the Vegas of Europe. It was the most romantic 20 minutes of my life | Jules Darmanin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/married-vegas-europe-copenhagen-romantic-brexit-visa-rules-love",
+      "published_date": "2026-08-13T04:00:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russia: Why is the Yabloko party barred from the elections?",
@@ -638,69 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260812/tell-us-do-you-need-to-speak-fluent-german-to-live-in-germany",
       "published_date": "2026-08-12T08:38:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: IndiGo engine failure triggers airport emergency",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-indigo-engine-failure-triggers-airport-emergency/live-78329904?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T07:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hanover Airport disrupted by drone week after Leipzig explosives find",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/hanover-airport-disrupted-by-drone-week-after-leipzig-explosives-find",
-      "published_date": "2026-08-12T06:42:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘If we exhibited all the Balkan jokes, we wouldn’t have opened’: a trip to Slovenia’s Bullshit Museum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/12/slovenia-ljubljana-bullshit-museum-balkan-humour",
-      "published_date": "2026-08-12T06:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia: Passengers rescued after Bali ferry catches fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indonesia-passengers-rescued-after-bali-ferry-catches-fire/a-78329620?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T05:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British man with dementia told to leave Sweden after losing migration case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/british-man-dementia-leave-sweden-brexit-migration-case",
-      "published_date": "2026-08-12T04:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: North Korean missiles hit Zaporizhzhia in deadly attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/ukraine-war-briefing-north-korean-missiles-attack-zaporizhzhia",
-      "published_date": "2026-08-12T01:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone attack hits Libya's largest oil refinery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/drone-attack-hits-libya-s-largest-oil-refinery/a-78328962?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T00:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Wagenknecht würde in Sachsen-Anhalt Weg für AfD-Regierung freimachen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/sahra-wagenknecht-bsw-thueringen-afd-brandmauer",
-      "published_date": "2026-08-11T22:02:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niedrigwasser: Baubranche warnt vor Engpässen durch Niedrigwasser",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-08/niedrigwasser-fluesse-baubranche-engpaesse-transport",
-      "published_date": "2026-08-11T22:01:21+00:00",
       "category": "Local Events"
     }
   ]
