@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-14T11:39:25.374805+00:00",
+  "last_updated": "2026-08-14T23:13:17.400954+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "published_date": "2026-08-14T16:58:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In Germany record heat meets climate action fatigue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-14T16:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In Germany record heat meets climate action fatigue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T16:54:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘This is hell’: British widow ‘sick’ with worry after losing Brexit deportation appeal",
       "source": "The Guardian",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T06:42:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ceuta showed just how easily Europe can be divided",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/ceuta-showed-just-how-easy-it-is-to-divide-europe",
-      "published_date": "2026-08-12T04:00:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Künstliche Intelligenz: Anthropic will KI-Texte mit unsichtbarem Wasserzeichen versehen",
+      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor Engpässen bei weltweiter Lebensmittelversorgung",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/2026-08/anthropic-claude-wasserzeichen-ki-inhalte-eu",
-      "published_date": "2026-08-11T22:08:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-08-14T22:40:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "published_date": "2026-08-14T21:05:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/14/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-08-14T18:04:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin’s recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
+      "published_date": "2026-08-14T13:00:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Patriot missiles have been a godsend for Ukraine against Putin, but they’re running out. Kyiv needs help and fast | Jack Watling",
@@ -256,32 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine-Krieg: Stromausfall auf der Krim nach ukrainischem Drohnenangriff",
+      "title": "Waldbrand bei Hürtgenwald: Wind dreht – Feuerwehr verlegt Einsatzzentrale wegen Rauchs",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/13/stromausfall-auf-der-krim-nach-ukrainischem-drohnenangriff",
-      "published_date": "2026-08-12T22:27:34+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/news/2026-08/15/wind-dreht-feuerwehr-verlegt-einsatzzentrale-wegen-rauchs",
+      "published_date": "2026-08-14T23:02:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Eurovision bars countries at war from hosting",
+      "title": "Donald Trump to declare Hormuz US territory 'soon'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eurovision-bars-countries-at-war-from-hosting/a-78341915?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T18:53:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T22:14:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
+      "title": "Vast German wildfire forces evacuation in Eifel forest",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T17:56:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-14T19:32:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
+      "title": "Vast German wildfire forces evacuation in Eifel forest",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-12T17:56:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T19:32:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Vast German wildfire forces evacuation in Eifel forest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-14T19:32:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Eco wins: A Dutch lab for crops, a climate-ready city, and a beaver comeback",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eco-wins-a-dutch-lab-for-crops-a-climate-ready-city-and-a-beaver-comeback/a-78372639?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T14:11:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
@@ -382,46 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Europe is the world’s fastest warming continent. What is to blame?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/europe-worlds-fastest-warming-continent-climate-crisis-explainer",
-      "published_date": "2026-08-12T06:00:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘It’s going to be spectacular’: Millions flock to Spain seeking best view of total solar eclipse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/12/its-going-to-be-spectacular-millions-flock-to-spain-seeking-best-view-of-total-solar-eclipse",
-      "published_date": "2026-08-12T04:00:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Disrupted monsoons force India to face climate threat",
+      "title": "Germany news: Car industry hemorrhaging jobs",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/disrupted-monsoons-force-india-to-face-climate-threat/a-78324753?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T14:35:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-14T15:04:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Solar eclipse sparks scramble for protective glasses across Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260811/solar-eclipse-sparks-scramble-for-protective-glasses-across-europe",
-      "published_date": "2026-08-11T12:40:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hotel prices in Europe jump before total solar eclipse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
-      "published_date": "2026-08-11T10:50:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How one German city is preparing for climate extremes",
+      "title": "Germany news: Car industry hemorrhaging jobs",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-11T07:25:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T15:04:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Konjunktur: Dax-Konzerne machen Rekordgeschäfte - und streichen Jobs",
@@ -550,18 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Ancient Roman pottery discovered in shipwreck off Sicilian coast – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/10/ancient-roman-pottery-discovered-in-shipwreck-off-sicilian-coast-video",
-      "published_date": "2026-08-10T08:22:26+00:00",
-      "category": "Economy"
+      "title": "Wahl zum Abgeordnetenhaus: Neue Umfrage sieht CDU in Berlin knapp vor Linken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/15/neue-umfrage-sieht-cdu-in-berlin-knapp-vor-linken",
+      "published_date": "2026-08-14T22:05:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Feuerwehr im Einsatz: Scheune bei Brand zerstört - Halbe Million Euro Schaden",
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T22:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moskau: Russland erklärt Forschungsstelle Osteuropa für »unerwünscht«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/10/scheune-bei-brand-zerstoert-halbe-million-euro-schaden",
-      "published_date": "2026-08-09T22:21:24+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/russland-uni-bremen-forschungsstelle-osteuropa",
+      "published_date": "2026-08-14T22:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rauchsäule: Flachdach-Brand in Stuttgart mit weitreichenden Folgen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/14/dachstuhlbrand-in-stuttgart-mit-weitreichenden-folgen",
+      "published_date": "2026-08-14T21:09:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD: Politiker soll Jugendliche wegen Plakatbeschädigung angegriffen haben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/afd-sachsen-anhalt-wahlplakate-angriff",
+      "published_date": "2026-08-14T20:40:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court blocks Macron’s social media ban for under-15s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+      "published_date": "2026-08-14T17:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luigi Mangione pleads guilty to federal stalking charges in Brian Thompson death",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/luigi-mangione-pleads-guilty-to-federal-stalking-charges-in-brian-thompson-death/a-78375740?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T15:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police release new CCTV of art heist from Italian museum – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/14/police-release-new-cctv-of-art-heist-from-italian-museum-video",
+      "published_date": "2026-08-14T15:19:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
+      "published_date": "2026-08-14T15:07:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian police recover paintings by Cézanne, Renoir and Matisse after heist",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/italian-police-recover-stolen-paintings-cezanne-renoir-matisse",
+      "published_date": "2026-08-14T13:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congo: Ebola cases are rising at record pace",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T13:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NATO jets shoot down drone over Latvia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T12:17:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
@@ -574,6 +658,13 @@
       "title": "Zambia suspends vote count after violence",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/zambia-suspends-vote-count-after-violence/a-78368601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T10:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia vote count resumes after suspension amid reports of violence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambia-vote-count-resumes-after-suspension-amid-reports-of-violence/a-78368601?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-14T10:56:00+00:00",
       "category": "Local Events"
     },
@@ -610,97 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/14/albanian-ambassador-attacks-uk-right-wing-fixation-2022-migrant-surge",
       "published_date": "2026-08-14T09:29:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire forces evacuation of 1,800 people in North Rhine-Westphalia",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260814/wildfire-forces-evacuation-of-1800-people-in-north-rhine-westphalia",
-      "published_date": "2026-08-14T08:02:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Nigel Farage beats a trash can in Clacton by-election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T07:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 7 dead, 3 trapped in Uttarakhand tunnel collapse",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse/live-78361577?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T06:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260814/today-in-germany-a-roundup-of-the-latest-news-on-friday-135",
-      "published_date": "2026-08-14T06:38:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can childhood trauma be prevented with a drug?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-childhood-trauma-be-prevented-with-a-drug/a-78301961?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T06:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thüringen: Linkenpolitiker kritisieren Nähe zwischen AfD und BSW",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/bjoern-hoecke-sahra-wagenknecht-afd-bsw-thueringen-ministerpraesidentin",
-      "published_date": "2026-08-13T23:12:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brände: Hochhausbrand in Dresden - Flammen in 13. Etage",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/13/hochhausbrand-in-dresden-flammen-in-13-etage",
-      "published_date": "2026-08-13T21:53:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 100 children detained as adults under UK-France migration deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
-      "published_date": "2026-08-13T18:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Officials warn against East Germany nostalgia on Berlin Wall anniversary",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260813/officials-warn-against-east-germany-nostalgia-on-berlin-wall-anniversary",
-      "published_date": "2026-08-13T14:09:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EES delays cause wait times to double at major German airports",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260813/ees-delays-cause-wait-times-to-double-at-major-german-airports",
-      "published_date": "2026-08-13T13:41:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian businessman admits organising bomb attack ‘to boost friend’s security’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
-      "published_date": "2026-08-13T13:26:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Railway traffic disrupted in Bavaria following bomb scare",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260813/railway-traffic-disrupted-in-bavaria-following-bomb-scare",
-      "published_date": "2026-08-13T13:16:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Germany's drone defense fails",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-13T12:17:00+00:00",
       "category": "Local Events"
     }
   ]
