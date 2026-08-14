@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-13T23:32:25.458675+00:00",
+  "last_updated": "2026-08-14T11:39:25.374805+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘This is hell’: British widow ‘sick’ with worry after losing Brexit deportation appeal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/british-widow-joyce-thomas-sweden-deported-brexit-policy",
+      "published_date": "2026-08-14T07:00:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
       "source": "The Guardian",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "title": "Patriot missiles have been a godsend for Ukraine against Putin, but they’re running out. Kyiv needs help and fast | Jack Watling",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "published_date": "2026-08-11T11:34:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger",
+      "published_date": "2026-08-14T08:54:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected",
+      "published_date": "2026-08-14T02:05:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "No oil, no salary: Iraqi state employees are feeling the crunch of the Hormuz blockade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-oil-no-salary-iraqi-state-employees-are-feeling-the-crunch-of-the-hormuz-blockade/a-78341409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T17:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Due to the Iran war, Iraq is running out of money",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T17:00:00+00:00",
-      "category": "Military"
+      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
+      "published_date": "2026-08-14T01:20:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "How one German city is preparing for climate extremes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T07:25:00+00:00",
-      "category": "Energy"
+      "title": "Konjunktur: Dax-Konzerne machen Rekordgeschäfte - und streichen Jobs",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/14/dax-konzerne-machen-rekordgeschaefte-und-streichen-jobs",
+      "published_date": "2026-08-14T11:29:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "Too smart to eat? Why octopus farms are such a slippery problem",
@@ -557,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Berlin clubs struggle as drink sales dry up and costs rise",
+      "title": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+      "published_date": "2026-08-14T11:16:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia suspends vote count after violence",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-clubs-struggle-as-drink-sales-dry-up-and-costs-rise/a-78283343?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-07T14:44:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/zambia-suspends-vote-count-after-violence/a-78368601?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T10:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin's Russian House: A hub for propaganda and espionage?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-s-russian-house-a-hub-for-propaganda-and-espionage/a-73037945?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T10:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mario Voigt: BSW-Spitze fordert Rücktritt von Thüringens Ministerpräsident Voigt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/mario-voigt-cdu-doktortitel-ruecktritt-bsw-thueringen-gxe",
+      "published_date": "2026-08-14T10:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Ulrich Siegmund, the AfD hardliner who wants to lead Saxony-Anhalt?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260814/who-is-ulrich-siegmund-the-afd-politician-who-wants-to-lead-saxony-anhalt",
+      "published_date": "2026-08-14T10:49:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amira Mohamed Ali: BSW-Vorsitzende Amira Mohamed Ali lehnt Koalition mit der AfD ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/amira-mohamed-ali-bsw-afd-koalition-sachsen-anhalt-gxe",
+      "published_date": "2026-08-14T10:25:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/albanian-ambassador-attacks-uk-right-wing-fixation-2022-migrant-surge",
+      "published_date": "2026-08-14T09:29:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire forces evacuation of 1,800 people in North Rhine-Westphalia",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260814/wildfire-forces-evacuation-of-1800-people-in-north-rhine-westphalia",
+      "published_date": "2026-08-14T08:02:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Nigel Farage beats a trash can in Clacton by-election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T07:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: 7 dead, 3 trapped in Uttarakhand tunnel collapse",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse/live-78361577?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T06:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260814/today-in-germany-a-roundup-of-the-latest-news-on-friday-135",
+      "published_date": "2026-08-14T06:38:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can childhood trauma be prevented with a drug?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-childhood-trauma-be-prevented-with-a-drug/a-78301961?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-14T06:22:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thüringen: Linkenpolitiker kritisieren Nähe zwischen AfD und BSW",
@@ -617,90 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-13T12:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Germany's drone defense fails",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T12:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wegen offener Geldforderung: Gericht erlässt Haftbefehl gegen AfD-Politiker Krah",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/13/gericht-erlaesst-haftbefehl-gegen-afd-politiker-krah",
-      "published_date": "2026-08-13T11:32:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl: AfD baut Vorsprung aus – BSW könnte Machtfaktor werden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/10/afd-baut-vorsprung-aus-bsw-koennte-machtfaktor-werden",
-      "published_date": "2026-08-13T11:25:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is Volt and how does it plan to 'unf*ck' Berlin?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260813/what-is-volt-and-how-does-it-plan-to-unfck-berlin",
-      "published_date": "2026-08-13T10:59:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ties Rabe: »Andere Länder haben mehr Ehrgeiz«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/35/ties-rabe-bildungspolitik-hamburg-schulen-kinder-unterricht",
-      "published_date": "2026-08-13T10:40:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Buildings evacuated over suspected explosive",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-buildings-evacuated-over-suspected-explosive/a-78351636?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-13T10:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Buildings evacuated over suspected explosive",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-buildings-evacuated-over-suspected-explosive/a-78351636?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T10:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD-Parteispitze: Es rumort in der SPD. Schon seit Wochen. Droht ein Umsturz?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/spd-parteispitze-lars-klingbeil-baerbel-bas-parteitag-absetzung",
-      "published_date": "2026-08-13T10:38:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Far-right leader backs left-wing populist",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-leader-backs-left-wing-populist/live-78347793?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-13T09:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Far-right leader backs left-wing populist",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-leader-backs-left-wing-populist/live-78347793?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T09:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's dry rivers spark battle on engineering vs restoration",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260813/germanys-dry-rivers-spark-battle-on-engineering-vs-restoration",
-      "published_date": "2026-08-13T06:53:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I got married in the Vegas of Europe. It was the most romantic 20 minutes of my life | Jules Darmanin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/married-vegas-europe-copenhagen-romantic-brexit-visa-rules-love",
-      "published_date": "2026-08-13T04:00:49+00:00",
       "category": "Local Events"
     }
   ]
