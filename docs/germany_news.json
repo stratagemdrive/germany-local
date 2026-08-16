@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-15T23:12:03.974041+00:00",
+  "last_updated": "2026-08-16T11:14:12.051800+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T05:31:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
       "source": "The Guardian",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU curbs on 'forever chemicals' in food packaging kick in",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/eu-curbs-on-forever-chemicals-in-food-packaging-kick-in",
-      "published_date": "2026-08-12T14:28:43+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine launches one of its largest attacks of war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T10:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Unser Personal Trainer: Der Treppensprung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/sprung-treppe-fitnessuebung-personal-trainer",
+      "published_date": "2026-08-16T09:34:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Troops from North Korea to boost Russia's Ukraine forces",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T06:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Troops from North Korea to boost Russia's Ukraine forces",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-16T06:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The spirit of resistance’: De Gaulle biopic turns into surprise hit for France’s younger viewers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france",
+      "published_date": "2026-08-16T06:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network",
+      "published_date": "2026-08-16T02:22:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T01:38:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Waldbrand im Hürtgenwald: Die Frage war: Wer könnte den Profis das Wasser reichen?",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US disputes reports of trying conditions on carrier in Gulf",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-disputes-reports-of-trying-conditions-on-carrier-in-gulf/a-78359084?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T19:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
-      "published_date": "2026-08-13T17:13:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian cathedrals, Gaza’s archives, Iranian squares – modern war is systematically erasing human history | Simon Jenkins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war",
-      "published_date": "2026-08-13T16:04:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's monthly civilian casualties highest since 2022",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T12:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's monthly civilian casualties highest since 2022",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-13T12:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What would a North Korean surge mean for Ukraine war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T10:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What would a North Korean troop surge mean for Ukraine war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T10:54:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "published_date": "2026-08-16T10:37:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hawaii under state of emergency ahead of historic hurricane",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Solar eclipse: What to look forward to",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/solar-eclipse-what-to-look-forward-to/a-78330594?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T07:50:00+00:00",
-      "category": "Energy"
+      "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+      "published_date": "2026-08-16T08:00:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany news: Car industry hemorrhaging jobs",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Millions of workers in Germany are earning less than minimum wage",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/millions-of-workers-in-germany-are-earning-less-than-minimum-wage",
-      "published_date": "2026-08-10T09:21:03+00:00",
-      "category": "Economy"
+      "title": "Alternative für Deutschland: Die erstaunliche Leerstelle der AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/alternative-fuer-deutschland-migration-inhalte-peter-r-neumann",
+      "published_date": "2026-08-16T11:05:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+      "published_date": "2026-08-16T11:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus crash in Hungary kills at least 12",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T09:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus crash in Hungary kills at least 12",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-16T09:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
+      "published_date": "2026-08-16T07:00:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T05:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Germany supports recovery of Berlin Pride attack victims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-16T05:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Germany supports recovery of Berlin Pride attack victims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T05:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgium battles record wildfire at German border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T02:49:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Musik-Demo in Berlin: Hitzeschlacht im Techno-Takt: Parade gegen Terrorangst",
@@ -638,69 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-berlin-techno-fans-pause-for-pride-attack-victims/live-78378773?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-15T07:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Berlin techno fans pause for Pride attack victims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-berlin-techno-fans-pause-for-pride-attack-victims/live-78378773?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-15T07:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Their Strength Through Joy conversation is killing me’: Samuel Beckett’s German diaries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/15/samuel-beckett-german-diaries-nazism",
-      "published_date": "2026-08-15T06:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘In the heatwaves, it’s crucial’: the fight to save France’s rural swimming pools",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/rural-swimming-pools-france-funding-threat",
-      "published_date": "2026-08-15T04:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Neue Umfrage sieht CDU in Berlin knapp vor Linken",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/15/neue-umfrage-sieht-cdu-in-berlin-knapp-vor-linken",
-      "published_date": "2026-08-14T22:05:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T22:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moskau: Russland erklärt Forschungsstelle Osteuropa für »unerwünscht«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/russland-uni-bremen-forschungsstelle-osteuropa",
-      "published_date": "2026-08-14T22:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rauchsäule: Flachdach-Brand in Stuttgart mit weitreichenden Folgen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/14/dachstuhlbrand-in-stuttgart-mit-weitreichenden-folgen",
-      "published_date": "2026-08-14T21:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD: Politiker soll Jugendliche wegen Plakatbeschädigung angegriffen haben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/afd-sachsen-anhalt-wahlplakate-angriff",
-      "published_date": "2026-08-14T20:40:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Firefighters say Eifel wildfire now under control",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-firefighters-say-eifel-wildfire-now-under-control/live-78361311?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-14T19:32:00+00:00",
       "category": "Local Events"
     }
   ]
