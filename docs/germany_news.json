@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-16T11:14:12.051800+00:00",
+  "last_updated": "2026-08-16T23:11:38.884065+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T17:31:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
       "source": "Deutsche Welle",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eritrea: An emerging key player in the geopolitical gamble at the Horn",
+      "title": "Krieg gegen die Ukraine: Moskau: Ökonom sagt Russland Niederlage voraus - Entlassung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/16/moskau-oekonom-sagt-russland-niederlage-voraus-entlassung",
+      "published_date": "2026-08-16T21:27:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine attacks Wildberries, Russia's biggest online market",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eritrea-an-emerging-key-player-in-the-geopolitical-gamble-at-the-horn/a-78335316?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T15:40:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T15:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine attacks Wildberries, Russia's biggest online market",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-16T15:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Warehouse near Moscow on fire after Ukrainian drone attack – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/16/moscow-warehouse-on-fire-ukrainian-drone-attack-video",
+      "published_date": "2026-08-16T12:31:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine launches one of its largest attacks of war",
@@ -253,34 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
       "published_date": "2026-08-14T13:00:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Patriot missiles have been a godsend for Ukraine against Putin, but they’re running out. Kyiv needs help and fast | Jack Watling",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger",
-      "published_date": "2026-08-14T08:54:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected",
-      "published_date": "2026-08-14T02:05:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T21:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-13T21:21:00+00:00",
       "category": "Military"
     },
     {
@@ -564,10 +564,59 @@
       "category": "Economy"
     },
     {
+      "title": "Reform des Unterhaltsvorschusses: SPD lehnt Kürzung von Unterhaltsvorschuss für Jugendliche ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/unterhaltsvorschuss-spd-cdu-karin-prien-alleinerziehende",
+      "published_date": "2026-08-16T22:44:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
+      "published_date": "2026-08-16T21:50:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires kill two in Greece and torch Belgian nature reserve",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+      "published_date": "2026-08-16T21:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waldbrände in NRW und Belgien: Hürtgenwald-Brand unter Kontrolle – Belgien fordert deutsche Hilfe an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/waldbrand-nrw-huertgenwald-belgien-monschau-hohes-venn",
+      "published_date": "2026-08-16T18:43:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+      "published_date": "2026-08-16T13:44:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus carrying Polish pilgrims crashes in Hungary, leaving 12 dead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
+      "published_date": "2026-08-16T11:07:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Alternative für Deutschland: Die erstaunliche Leerstelle der AfD",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/2026-08/alternative-fuer-deutschland-migration-inhalte-peter-r-neumann",
       "published_date": "2026-08-16T11:05:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds flee as Belgium battles wildfire at German border",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T11:05:00+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-15T11:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heim-Turnier in Düsseldorf: WM-Aus: Deutsche Flag-Footballer verpassen Olympia-Tickets",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/15/wm-aus-deutsche-flag-footballer-verpassen-olympia-tickets",
-      "published_date": "2026-08-15T11:01:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin-Wilmersdorf: Antisemitische Beleidigung in Berliner U-Bahn",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/15/antisemitische-beleidigung-in-berliner-u-bahn",
-      "published_date": "2026-08-15T10:56:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "35 Grad in Berlin: Schwimmbad vor Berliner Volksbühne wieder offen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/15/schwimmbad-vor-berliner-volksbuehne-wieder-offen",
-      "published_date": "2026-08-15T10:45:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Steffen Krach: Berliner SPD-Spitzenkandidat kritisiert Reformen der Bundesregierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/steffen-krach-spd-berlin-reformpaket-bundesregierung-wohngeld-kuerzung",
-      "published_date": "2026-08-15T10:36:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Looking for hospitality and Berlin's bizarre political messages",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260815/inside-germany-looking-for-hospitality-and-berlins-bizarre-political-messages",
-      "published_date": "2026-08-15T08:11:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Russia lists research body as 'undesirable'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-russia-lists-research-body-as-undesirable/live-78378773?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-15T07:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Berlin techno fans pause for Pride attack victims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-berlin-techno-fans-pause-for-pride-attack-victims/live-78378773?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-15T07:58:00+00:00",
       "category": "Local Events"
     }
   ]
