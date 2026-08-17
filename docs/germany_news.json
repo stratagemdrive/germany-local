@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-17T11:19:01.482176+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-17T23:14:34.106416+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Indonesia neutrality tested by joint naval drill with China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T13:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German government split on plan to amend law to promote climate action",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260817/german-government-split-on-plan-to-amend-law-to-promote-climate-action",
+      "published_date": "2026-08-17T11:52:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europäische Union: Apple ändert in der EU die Abfrage zu App-Tracking",
       "source": "ZEIT Online",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-      "published_date": "2026-08-13T12:56:57+00:00",
-      "category": "Diplomacy"
+      "title": "UAE economy: On the verge of collapse or on way to recovery?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T17:46:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hitze in Europa: Grüne fordern Hitzegipfel im Kanzleramt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hitze-europa-duerre-niedrigwasser-waldbrand-live",
-      "published_date": "2026-08-13T11:31:53+00:00",
-      "category": "Diplomacy"
+      "title": "Russia: Prison for opposition leader over war criticism",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T16:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany: Bundeswehr troop numbers reach 13-year high",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-17T15:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany: Bundeswehr troop numbers reach 13-year high",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T15:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Finland halts deportation of Russian family who ‘risked everything’ to oppose Ukraine invasion",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/17/finland-halts-deportation-russian-family-opposed-ukraine-invasion",
+      "published_date": "2026-08-17T14:04:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T12:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin visited Kuril Islands to 'punish' Japan over Ukraine stance",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T11:47:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Bundeswehr: So viele Bundeswehrsoldaten wie seit Jahren nicht mehr",
@@ -200,6 +249,20 @@
       "category": "Military"
     },
     {
+      "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-16T15:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-16T15:45:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Warehouse near Moscow on fire after Ukrainian drone attack – video",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/aug/16/moscow-warehouse-on-fire-ukrainian-drone-attack-video",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Troops from North Korea to boost Russia's Ukraine forces",
+      "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T06:49:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T12:55:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Troops from North Korea to boost Russia's Ukraine forces",
+      "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-16T06:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘The spirit of resistance’: De Gaulle biopic turns into surprise hit for France’s younger viewers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france",
-      "published_date": "2026-08-16T06:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network",
-      "published_date": "2026-08-16T02:22:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T01:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Waldbrand im Hürtgenwald: Die Frage war: Wer könnte den Profis das Wasser reichen?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/2026-08/waldbrand-huertgenwald-dueren-eifel-nordrhein-westfalen",
-      "published_date": "2026-08-15T17:26:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russians snap up new homes built on Ukraine 'graveyard'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-15T11:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russians snap up new homes built on Ukraine 'graveyard'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-15T11:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's Latin America allies open arms to Israel",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-15T11:35:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-17T12:55:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energiewende: Suedlink quert die Elbe: 700 Kilometer Kabel in den Süden",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Gulf states scramble for Strait of Hormuz alternatives",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternatives/a-78336679?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T13:35:00+00:00",
-      "category": "Energy"
+      "title": "Vorpommern-Greifswald: Überholmanöver führt zu Unfall: über 30.000 Euro Sachschaden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/18/ueberholmanoever-fuehrt-zu-unfall-ueber-30-000-euro-sachschaden",
+      "published_date": "2026-08-17T23:01:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How to make the most of the solar eclipse in Germany",
+      "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
+      "published_date": "2026-08-17T15:13:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How closely will Germany's Finanzamt look at your tax return?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/how-to-make-the-most-of-the-solar-eclipse-in-germany",
-      "published_date": "2026-08-12T09:59:32+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.de/20260817/how-closely-will-germanys-finanzamt-look-at-your-tax-return",
+      "published_date": "2026-08-17T13:56:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fatty food raises risk of colorectal cancer",
@@ -536,32 +557,39 @@
       "category": "Economy"
     },
     {
-      "title": "Why the Rhine drought is bad news for Germany's recovery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-10T15:55:00+00:00",
-      "category": "Economy"
+      "title": "Transport: Warnstreik im Hamburger Hafen hat begonnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/17/warnstreik-im-hamburger-hafen-hat-begonnen",
+      "published_date": "2026-08-17T21:20:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why the Rhine drought is bad news for Germany's recovery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T15:55:00+00:00",
-      "category": "Economy"
+      "title": "Diskussion um Frührente: SPD-Arbeitnehmerflügel: abschlagsfreie Frührente beibehalten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/17/spd-arbeitnehmerfluegel-abschlagsfreie-fruehrente-beibehalten",
+      "published_date": "2026-08-17T20:33:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How the Rhine drought threatens Germany's economic recovery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-rhine-drought-threatens-germany-s-economic-recovery/a-78300076?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-10T15:55:00+00:00",
-      "category": "Economy"
+      "title": "Wegen Rückenbeschwerden: Vor Supercup in Hamburg: Weltmeister Obst fällt aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/17/vor-supercup-in-hamburg-weltmeister-obst-faellt-aus",
+      "published_date": "2026-08-17T20:23:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How the Rhine drought threatens Germany's economic recovery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-rhine-drought-threatens-germany-s-economic-recovery/a-78300076?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T15:55:00+00:00",
-      "category": "Economy"
+      "title": "Next year’s Eurovision host is Burgas, not Sofia. Some Bulgarians are baffled",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/next-years-eurovision-host-is-burgas-not-sofia-some-bulgarians-are-baffled",
+      "published_date": "2026-08-17T14:04:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's shrinking youth population highlights dependency on migration",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260817/germanys-shrinking-youth-population-highlights-dependency-on-migration",
+      "published_date": "2026-08-17T11:57:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wählerschaft der AfD: Warum ist die AfD so stark?",
@@ -606,9 +634,23 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany's AfD is labeled far right, populist or extremist",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-17T10:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Germany news: Belgium blaze kept out of Germany for now",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T06:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Belgium blaze kept out of Germany for now",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-17T06:42:00+00:00",
       "category": "Local Events"
     },
@@ -652,55 +694,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/waldbrand-nrw-huertgenwald-belgien-monschau-hohes-venn",
       "published_date": "2026-08-16T18:43:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-      "published_date": "2026-08-16T13:44:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus carrying Polish pilgrims crashes in Hungary, leaving 12 dead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
-      "published_date": "2026-08-16T11:07:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alternative für Deutschland: Die erstaunliche Leerstelle der AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-08/alternative-fuer-deutschland-migration-inhalte-peter-r-neumann",
-      "published_date": "2026-08-16T11:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds flee as Belgium battles wildfire at German border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T11:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-      "published_date": "2026-08-16T11:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus crash in Hungary kills at least 12",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T09:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus crash in Hungary kills at least 12",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-16T09:47:00+00:00",
       "category": "Local Events"
     }
   ]
