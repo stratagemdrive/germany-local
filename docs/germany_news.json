@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-16T23:11:38.884065+00:00",
+  "last_updated": "2026-08-17T11:19:01.482176+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Europäische Union: Apple ändert in der EU die Abfrage zu App-Tracking",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/2026-08/apple-iphone-app-tracking-abfrage-aenderung-bundeskartellamt-gxe",
+      "published_date": "2026-08-17T09:26:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "My generation had no voice on Brexit – but Burnham gives the young fresh hope on Europe | Ceira Sergeant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/young-people-brexit-burnham-europe-opportunities",
+      "published_date": "2026-08-17T07:00:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
       "source": "Deutsche Welle",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T06:06:00+00:00",
-      "category": "Diplomacy"
+      "title": "Bundeswehr: So viele Bundeswehrsoldaten wie seit Jahren nicht mehr",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/bundeswehr-soldaten-zahl-bewerbungen-wehrdienst-wehrerfassung",
+      "published_date": "2026-08-17T10:55:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
+      "title": "Senior Russian banker fired after scathing speech on wartime economy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
-      "published_date": "2026-08-12T18:20:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
+      "published_date": "2026-08-17T10:29:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Conversations with an Executioner: a chilling classic reveals the mind of a Nazi mass murderer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/aug/17/conversations-with-an-executioner-a-chilling-classic-reveals-the-mind-of-a-nazi-mass-murderer",
+      "published_date": "2026-08-17T06:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US-South Korea military drills to be scaled back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T01:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
+      "published_date": "2026-08-17T00:51:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Moskau: Ökonom sagt Russland Niederlage voraus - Entlassung",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy warns Egypt of food supply threat caused by Russian strikes in Black Sea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/ukraine-war-briefing-zelenskyy-warns-egypt-of-food-supply-threat-caused-by-russian-strikes-in-black-sea",
-      "published_date": "2026-08-15T01:53:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor Engpässen bei weltweiter Lebensmittelversorgung",
+      "title": "Energiewende: Suedlink quert die Elbe: 700 Kilometer Kabel in den Süden",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-08-14T22:40:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "published_date": "2026-08-14T21:05:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/14/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-08-14T18:04:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin’s recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
-      "published_date": "2026-08-14T13:00:27+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/news/2026-08/17/suedlink-quert-die-elbe-700-kilometer-kabel-in-den-sueden",
+      "published_date": "2026-08-17T11:13:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "FACTS: What to know about Europe's total solar eclipse",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260812/facts-what-to-know-about-europes-total-solar-eclipse",
-      "published_date": "2026-08-12T08:28:13+00:00",
-      "category": "Energy"
+      "title": "Fatty food raises risk of colorectal cancer",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-17T06:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fatty food raises risk of colorectal cancer",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T06:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
+      "published_date": "2026-08-17T05:47:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Italy’s mythic ‘month off’ in August was hard won. It would be good for us all | Jamie Mackay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity",
+      "published_date": "2026-08-17T04:00:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
@@ -536,32 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "From Dubai luxury to an Irish jail cell: Daniel Kinahan’s drastic lifestyle shift",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/daniel-kinahan-lifestyle-shift-dubai-luxury-irish-prison-cell",
-      "published_date": "2026-08-10T13:54:04+00:00",
-      "category": "Economy"
+      "title": "Wählerschaft der AfD: Warum ist die AfD so stark?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/waehlerschaft-afd-typen-forschung-merkmale",
+      "published_date": "2026-08-17T11:16:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ASEAN closing ranks as cyberscam threat escalates",
+      "title": "Jellycat in Berlin: Anstehen für Plüsch-Bratwürste auf dem Grill",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/17/anstehen-fuer-pluesch-bratwuerste-auf-dem-grill",
+      "published_date": "2026-08-17T11:10:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French PM booed on visit to wildfire-affected region as Belgium tackles enormous blaze – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "published_date": "2026-08-17T11:10:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verfassungsschutz in Sachsen-Anhalt: Innenminister Maier will AfD von Verfassungsschutzinfos ausschließen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/verfassungsschutz-afd-sachsen-anhalt-georg-maier",
+      "published_date": "2026-08-17T11:03:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schulstart in Hamburg: Barmer: Kinder im Kita-Alter mit Sprech- oder Sprachstörung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/17/barmer-kinder-im-kita-alter-mit-sprech-oder-sprachstoerung",
+      "published_date": "2026-08-17T10:59:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's AfD is labeled far-right, populist or extremist",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-10T12:56:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T10:51:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Parts of Germany's Rhine becoming unnavigable as water levels drop",
+      "title": "Germany news: Belgium blaze kept out of Germany for now",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T06:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260810/parts-of-germanys-rhine-becoming-unnavigable-as-water-levels-drop",
-      "published_date": "2026-08-10T12:33:11+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260817/today-in-germany-a-roundup-of-the-latest-news-on-monday-135",
+      "published_date": "2026-08-17T06:27:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/10/record-cross-channel-uk-people-smugglers-mega-dinghies-france",
-      "published_date": "2026-08-10T10:55:55+00:00",
-      "category": "Economy"
+      "title": "India temple stampede in Bihar kills 7",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-temple-stampede-in-bihar-kills-7/a-78390719?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T04:41:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reform des Unterhaltsvorschusses: SPD lehnt Kürzung von Unterhaltsvorschuss für Jugendliche ab",
@@ -638,69 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-08-16T09:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
-      "published_date": "2026-08-16T07:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T05:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Germany supports recovery of Berlin Pride attack victims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-16T05:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Germany supports recovery of Berlin Pride attack victims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T05:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgium battles record wildfire at German border",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T02:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Musik-Demo in Berlin: Hitzeschlacht im Techno-Takt: Parade gegen Terrorangst",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/15/tausende-stroemen-zu-techno-parade-in-berlin",
-      "published_date": "2026-08-15T21:11:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body found in Romania believed to be missing British hiker George Smyth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
-      "published_date": "2026-08-15T17:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghan allies still waiting for the safety Germany promised",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-15T11:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghan allies still waiting for the safety Germany promised",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-15T11:44:00+00:00",
       "category": "Local Events"
     }
   ]
