@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-17T23:14:34.106416+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-18T11:18:49.342043+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "published_date": "2026-08-18T11:01:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Indonesia neutrality tested by joint naval drill with China",
       "source": "Deutsche Welle",
@@ -137,16 +144,51 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T09:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-18T09:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia warns UK of ‘consequences’ over reports Ukraine using British drones in attacks",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-      "published_date": "2026-08-13T14:21:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
+      "published_date": "2026-08-18T07:34:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260818/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-136",
+      "published_date": "2026-08-18T06:27:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-war-briefing-russian-campaign-to-weaponise-winter-under-way",
+      "published_date": "2026-08-18T00:58:25+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE economy: On the verge of collapse or on way to recovery?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T17:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE economy: On the brink or bouncing back?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uae-economy-on-the-brink-or-bouncing-back/a-78402980?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-17T17:46:00+00:00",
       "category": "Military"
     },
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-16T15:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-16T15:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T15:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-16T15:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Warehouse near Moscow on fire after Ukrainian drone attack – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/16/moscow-warehouse-on-fire-ukrainian-drone-attack-video",
-      "published_date": "2026-08-16T12:31:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine launches one of its largest attacks of war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T10:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unser Personal Trainer: Der Treppensprung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/sprung-treppe-fitnessuebung-personal-trainer",
-      "published_date": "2026-08-16T09:34:51+00:00",
       "category": "Military"
     },
     {
@@ -543,18 +543,109 @@
       "category": "Economy"
     },
     {
-      "title": "Vietnam's VinSpace taps SpaceX for first satellite launches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vietnam-s-vinspace-taps-spacex-for-first-satellite-launches/a-78315984?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T09:10:00+00:00",
-      "category": "Economy"
+      "title": "Personalien CDU: Voigt stellt sich der Wiederwahl als Thüringer CDU-Chef",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/18/voigt-stellt-sich-der-wiederwahl-als-thueringer-cdu-chef",
+      "published_date": "2026-08-18T11:16:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What happens to my unemployment benefit if I miss an appointment in Germany?",
+      "title": "‘Migration has been weaponised’: Italy’s security law criticised after death of Moroccan man in police restraint",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/italy-security-law-death-moroccan-man-police-custody-abderrahim-fakir",
+      "published_date": "2026-08-18T10:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why an unresolved housing referendum is shaping Berlin’s election campaign",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260811/what-happens-to-my-unemployment-benefit-if-i-miss-an-appointment-in-germany",
-      "published_date": "2026-08-11T08:11:29+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260818/why-an-unresolved-housing-referendum-is-shaping-berlins-election-campaign",
+      "published_date": "2026-08-18T10:44:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
+      "published_date": "2026-08-18T10:36:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: Jüdischer Student geht gegen Freie Universität in Berufung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/lahav-shapira-antisemitismus-freie-universitaet-berlin-ovg",
+      "published_date": "2026-08-18T10:32:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Make effort early': Foreigners share how much German you need to live in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260818/make-effort-early-foreigners-share-how-much-german-you-need-to-live-in-germany",
+      "published_date": "2026-08-18T09:11:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan top court orders Imran Khan moved from jail to hospital",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T09:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia's election marred by irregularities and 'militia' arrests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T09:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meta trial over social media harm to children begins",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meta-trial-over-social-media-harm-to-children-begins/a-78408050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany updates: New drone research center to be opened",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-updates-new-drone-research-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T07:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Never seen one like it': German pensioners flee wildfire",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260818/never-seen-one-like-it-german-pensioners-flee-wildfire",
+      "published_date": "2026-08-18T07:12:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tupac Shakur murder trial opens as prosecutors say 'Keffe D' ordered 1996 killing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tupac-shakur-murder-trial-opens-as-prosecutors-say-keffe-d-ordered-1996-killing/a-78407221?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T06:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philippines: Student livestreams school shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T04:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia's Hichilema wins second presidential term",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T04:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the far right is tightening its grip over the EU – from the inside | Alberto Alemanno",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/far-right-grip-eu-centrist-coalition-afd-national-rally",
+      "published_date": "2026-08-18T04:00:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Transport: Warnstreik im Hamburger Hafen hat begonnen",
@@ -589,111 +680,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260817/germanys-shrinking-youth-population-highlights-dependency-on-migration",
       "published_date": "2026-08-17T11:57:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wählerschaft der AfD: Warum ist die AfD so stark?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/waehlerschaft-afd-typen-forschung-merkmale",
-      "published_date": "2026-08-17T11:16:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jellycat in Berlin: Anstehen für Plüsch-Bratwürste auf dem Grill",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/17/anstehen-fuer-pluesch-bratwuerste-auf-dem-grill",
-      "published_date": "2026-08-17T11:10:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM booed on visit to wildfire-affected region as Belgium tackles enormous blaze – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-      "published_date": "2026-08-17T11:10:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verfassungsschutz in Sachsen-Anhalt: Innenminister Maier will AfD von Verfassungsschutzinfos ausschließen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/verfassungsschutz-afd-sachsen-anhalt-georg-maier",
-      "published_date": "2026-08-17T11:03:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schulstart in Hamburg: Barmer: Kinder im Kita-Alter mit Sprech- oder Sprachstörung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/17/barmer-kinder-im-kita-alter-mit-sprech-oder-sprachstoerung",
-      "published_date": "2026-08-17T10:59:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's AfD is labeled far-right, populist or extremist",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T10:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's AfD is labeled far right, populist or extremist",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-17T10:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Belgium blaze kept out of Germany for now",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T06:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Belgium blaze kept out of Germany for now",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-17T06:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260817/today-in-germany-a-roundup-of-the-latest-news-on-monday-135",
-      "published_date": "2026-08-17T06:27:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India temple stampede in Bihar kills 7",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-temple-stampede-in-bihar-kills-7/a-78390719?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T04:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform des Unterhaltsvorschusses: SPD lehnt Kürzung von Unterhaltsvorschuss für Jugendliche ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/unterhaltsvorschuss-spd-cdu-karin-prien-alleinerziehende",
-      "published_date": "2026-08-16T22:44:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
-      "published_date": "2026-08-16T21:50:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires kill two in Greece and torch Belgian nature reserve",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-      "published_date": "2026-08-16T21:27:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Waldbrände in NRW und Belgien: Hürtgenwald-Brand unter Kontrolle – Belgien fordert deutsche Hilfe an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/waldbrand-nrw-huertgenwald-belgien-monschau-hohes-venn",
-      "published_date": "2026-08-16T18:43:04+00:00",
       "category": "Local Events"
     }
   ]
