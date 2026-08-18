@@ -1,13 +1,55 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-18T11:18:49.342043+00:00",
-  "story_count": 97,
+  "last_updated": "2026-08-18T23:13:38.511291+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T21:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Sweden deporting Britons faster than any other EU country post-Brexit? | David Milstead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/sweding-deporting-britons-eu-country-brexit",
+      "published_date": "2026-08-18T14:38:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria, US condemn Israeli strikes on military base",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/syria-us-condemn-israeli-strikes-on-military-base/a-78417507?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T14:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What new EU banking law means for foreigners in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260818/what-new-eu-banking-law-means-for-foreigners-in-germany",
+      "published_date": "2026-08-18T14:23:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is behind Russia’s ‘consequences’ threat over UK sending drones to Ukraine?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/russia-consequences-threat-uk-drones-ukraine",
+      "published_date": "2026-08-18T13:22:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
       "published_date": "2026-08-18T11:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "published_date": "2026-08-17T15:48:39+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "In Germany record heat meets climate action fatigue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-14T16:54:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: Ukrainischer Ex-Verteidigungsminister Fedorow fordert Wahlen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-08-18T23:03:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "In Germany record heat meets climate action fatigue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T16:54:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Not a word': German top leadership silent on sky-rocketing heat deaths",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260814/not-a-word-german-top-leadership-silent-on-sky-rocketing-heat-deaths",
-      "published_date": "2026-08-14T15:09:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘This is hell’: British widow ‘sick’ with worry after losing Brexit deportation appeal",
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/british-widow-joyce-thomas-sweden-deported-brexit-policy",
-      "published_date": "2026-08-14T07:00:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+      "published_date": "2026-08-18T22:21:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "title": "How credible is Russia’s threat against UK? - The Latest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
-      "published_date": "2026-08-13T19:32:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/video/2026/aug/18/how-credible-is-russias-threat-against-uk-the-latest",
+      "published_date": "2026-08-18T16:13:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli military moves as settlers besiege 3 West Bank homes",
+      "title": "Russia threatens UK over supplying drones to Ukraine — The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/18/russia-threatens-uk-over-supplying-drones-to-ukraine-the-latest",
+      "published_date": "2026-08-18T15:44:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Should India be worried about the Mecca defense pact?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T15:19:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T14:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact check: How do I spot AI-generated images?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T13:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's North Korea overture triggers fears for US alliances",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T12:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
+      "published_date": "2026-08-18T11:43:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
@@ -225,62 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-17T12:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin visited Kuril Islands to 'punish' Japan over Ukraine stance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T11:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehr: So viele Bundeswehrsoldaten wie seit Jahren nicht mehr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/bundeswehr-soldaten-zahl-bewerbungen-wehrdienst-wehrerfassung",
-      "published_date": "2026-08-17T10:55:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior Russian banker fired after scathing speech on wartime economy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
-      "published_date": "2026-08-17T10:29:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Conversations with an Executioner: a chilling classic reveals the mind of a Nazi mass murderer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/aug/17/conversations-with-an-executioner-a-chilling-classic-reveals-the-mind-of-a-nazi-mass-murderer",
-      "published_date": "2026-08-17T06:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US-South Korea military drills to be scaled back",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T01:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
-      "published_date": "2026-08-17T00:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Moskau: Ökonom sagt Russland Niederlage voraus - Entlassung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/16/moskau-oekonom-sagt-russland-niederlage-voraus-entlassung",
-      "published_date": "2026-08-16T21:27:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T15:45:00+00:00",
       "category": "Military"
     },
     {
@@ -529,18 +529,74 @@
       "category": "Economy"
     },
     {
-      "title": "UNESCO: 2.4 million girls barred from school in Afghanistan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-11T22:49:00+00:00",
-      "category": "Economy"
+      "title": "CDU und Reformen: Laumann nennt Umfragen für CDU «schlimm»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/19/laumann-nennt-umfragen-fuer-cdu-schlimm",
+      "published_date": "2026-08-18T22:41:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Munich cafe goes viral for defending staff for not speaking German",
+      "title": "US-Zölle: USA und Kanada verhandeln noch kurz vor Ablauf der Zoll-Frist",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/us-zoelle-kanada-mark-carney-donald-trump-freihandelsabkommen",
+      "published_date": "2026-08-18T22:09:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD-Spitze: Klingbeil: Alle froh in SPD über Persönlichkeit wie Schwesig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/19/klingbeil-alle-froh-in-spd-ueber-persoenlichkeit-wie-schwesig",
+      "published_date": "2026-08-18T22:03:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Umfragestärke der AfD: Knobloch über AfD und NSDAP: «Vergleichen sollte man»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/19/knobloch-ueber-afd-und-nsdap-vergleichen-sollte-man",
+      "published_date": "2026-08-18T22:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FC Bayern München : Musiala erklärt Zusammenbrüche mit »neurologischer Dysfunktion«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/jamal-musiala-neurologische-dysfunktion-zusammenbrueche-fc-bayern",
+      "published_date": "2026-08-18T20:50:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
+      "published_date": "2026-08-18T18:44:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Dozens killed in Plateau state attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T16:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TELL US: Are you worried about an AfD victory in Saxony-Anhalt or Mecklenburg-Western Pomerania?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260811/munich-cafe-goes-viral-for-defending-staff-for-not-speaking-german",
-      "published_date": "2026-08-11T14:05:18+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260818/tell-us-are-you-worried-about-an-afd-victory-in-saxony-anhalt-or-mecklenburg-western-pomerania",
+      "published_date": "2026-08-18T13:26:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court convicts Ukrainian man over Russia parcel plot",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-18T12:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court convicts Ukrainian man over Russia parcel plot",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T12:54:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Personalien CDU: Voigt stellt sich der Wiederwahl als Thüringer CDU-Chef",
@@ -599,87 +655,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Zambia election marred by irregularities, 'militia' arrests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambia-election-marred-by-irregularities-militia-arrests/a-78400154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-18T09:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Meta trial over social media harm to children begins",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/meta-trial-over-social-media-harm-to-children-begins/a-78408050?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-18T08:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany updates: New drone research center to be opened",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-updates-new-drone-research-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T07:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Never seen one like it': German pensioners flee wildfire",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260818/never-seen-one-like-it-german-pensioners-flee-wildfire",
-      "published_date": "2026-08-18T07:12:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tupac Shakur murder trial opens as prosecutors say 'Keffe D' ordered 1996 killing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tupac-shakur-murder-trial-opens-as-prosecutors-say-keffe-d-ordered-1996-killing/a-78407221?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T06:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Philippines: Student livestreams school shooting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T04:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia's Hichilema wins second presidential term",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T04:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the far right is tightening its grip over the EU – from the inside | Alberto Alemanno",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/far-right-grip-eu-centrist-coalition-afd-national-rally",
-      "published_date": "2026-08-18T04:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transport: Warnstreik im Hamburger Hafen hat begonnen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/17/warnstreik-im-hamburger-hafen-hat-begonnen",
-      "published_date": "2026-08-17T21:20:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diskussion um Frührente: SPD-Arbeitnehmerflügel: abschlagsfreie Frührente beibehalten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/17/spd-arbeitnehmerfluegel-abschlagsfreie-fruehrente-beibehalten",
-      "published_date": "2026-08-17T20:33:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wegen Rückenbeschwerden: Vor Supercup in Hamburg: Weltmeister Obst fällt aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/17/vor-supercup-in-hamburg-weltmeister-obst-faellt-aus",
-      "published_date": "2026-08-17T20:23:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Next year’s Eurovision host is Burgas, not Sofia. Some Bulgarians are baffled",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/next-years-eurovision-host-is-burgas-not-sofia-some-bulgarians-are-baffled",
-      "published_date": "2026-08-17T14:04:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's shrinking youth population highlights dependency on migration",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260817/germanys-shrinking-youth-population-highlights-dependency-on-migration",
-      "published_date": "2026-08-17T11:57:58+00:00",
       "category": "Local Events"
     }
   ]
