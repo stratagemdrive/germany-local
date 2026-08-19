@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-18T23:13:38.511291+00:00",
-  "story_count": 95,
+  "last_updated": "2026-08-19T11:18:57.817037+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Israelischer Sicherheitsminister: Friedrich Merz verurteilt Aussagen von Itamar Ben-Gvir",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/itamar-ben-gvir-friedrich-merz-cdu-israel-gezielte-toetungen",
+      "published_date": "2026-08-19T11:05:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The flag culture wars have come to an unlikely place: progressive Iceland | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/flag-culture-wars-progressive-iceland-far-right",
+      "published_date": "2026-08-19T04:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
       "source": "Deutsche Welle",
@@ -116,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "In Germany, record heat meets climate action fatigue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-15T14:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EU pushes back as US revives trade pressure on bloc",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260815/eu-pushes-back-as-us-revives-trade-pressure-on-bloc",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
-      "published_date": "2026-08-15T09:00:53+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine: Mitarbeiterin von Selenskyj soll in Korruptionsfall verwickelt sein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/ukraine-verteidigungsminister-mychajlo-fedorow-jewhenij-chmara-antikorruption",
+      "published_date": "2026-08-19T11:13:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
+      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
-      "published_date": "2026-08-15T05:00:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "published_date": "2026-08-19T10:39:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "title": "Germany news: Minister wants to help renters to install AC",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T09:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine updates: Ousted minister Fedorov calls for elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-updates-ousted-minister-fedorov-calls-for-elections/live-78421712?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T08:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany opens drone research centre as security threats mount",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260819/germany-opens-drone-research-centre-as-security-threats-mount",
+      "published_date": "2026-08-19T07:15:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German defence startup CEO in hiding after Russian plot",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260819/german-defence-startup-ceo-in-hiding-after-russian-plot",
+      "published_date": "2026-08-19T06:53:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, South Korea cut short joint drills after Trump criticism",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T05:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Would-be parcel bomber convicted in German court",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "published_date": "2026-08-14T16:58:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/19/ukraine-war-briefing-would-be-parcel-bomber-convicted-in-german-court",
+      "published_date": "2026-08-19T01:37:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Ukrainischer Ex-Verteidigungsminister Fedorow fordert Wahlen",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way",
+      "title": "Nord Stream: Second suspect arrested over pipeline blasts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nord-stream-second-suspect-arrested-over-pipeline-blasts/a-78427413?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-19T09:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nord Stream: Second suspect arrested over pipeline blasts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nord-stream-second-suspect-arrested-over-pipeline-blasts/a-78427413?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T09:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-war-briefing-russian-campaign-to-weaponise-winter-under-way",
-      "published_date": "2026-08-18T00:58:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE economy: On the verge of collapse or on way to recovery?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T17:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE economy: On the brink or bouncing back?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uae-economy-on-the-brink-or-bouncing-back/a-78402980?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T17:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia: Prison for opposition leader over war criticism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T16:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Bundeswehr troop numbers reach 13-year high",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-17T15:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Bundeswehr troop numbers reach 13-year high",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T15:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland halts deportation of Russian family who ‘risked everything’ to oppose Ukraine invasion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/finland-halts-deportation-russian-family-opposed-ukraine-invasion",
-      "published_date": "2026-08-17T14:04:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T12:01:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
+      "published_date": "2026-08-19T05:00:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
@@ -382,6 +403,13 @@
       "category": "Energy"
     },
     {
+      "title": "Can we go green without forever chemicals?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-13T07:13:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
@@ -396,32 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Total solar eclipse darkens sky in Spain – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/12/spain-total-solar-eclipse",
-      "published_date": "2026-08-12T20:28:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar eclipse 2026 across Europe: in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2026-across-europe-in-pictures",
-      "published_date": "2026-08-12T20:21:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iceland in complete darkness during total solar eclipse - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/video/2026/aug/12/iceland-in-complete-darkness-during-total-solar-eclipse-video",
-      "published_date": "2026-08-12T19:18:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gulf states scramble for Strait of Hormuz alternative",
+      "title": "Nigeria: Campaign kicks off for 2027 presidential election",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-12T13:35:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T08:06:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Vorpommern-Greifswald: Überholmanöver führt zu Unfall: über 30.000 Euro Sachschaden",
@@ -515,18 +522,67 @@
       "category": "Economy"
     },
     {
-      "title": "Klimaanpassung: Carsten Schneider warnt vor hohen Kosten wegen fehlendem Klimaschutz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/klimaanpassung-carsten-schneider-wirtschaftsleistung-grundgesetz-wasserknappheit",
-      "published_date": "2026-08-12T11:14:48+00:00",
-      "category": "Economy"
+      "title": "Amanal Petros: From refugee to European champion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/amanal-petros-from-refugee-to-european-champion/a-78428504?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T11:07:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+      "title": "Is Bulgarian prime minister Rumen Radev sizing up the EU’s Orbán-shaped hole?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
-      "published_date": "2026-08-12T04:00:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/19/is-bulgarian-prime-minister-rumen-radev-sizing-up-eu-orban-shaped-hole",
+      "published_date": "2026-08-19T10:47:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich's Jamal Musiala collapses on pitch again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayern-munich-s-jamal-musiala-collapses-on-pitch-again/a-78426021?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-19T10:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich's Jamal Musiala collapses on pitch again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayern-munich-s-jamal-musiala-collapses-on-pitch-again/a-78426021?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T10:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe's free movement in question as Germany extends border controls",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260819/europes-free-movement-in-question-as-germany-extends-border-controls",
+      "published_date": "2026-08-19T09:51:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan government to challenge ex-PM Khan hospital move",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-government-to-challenge-ex-pm-khan-hospital-move/a-78421894?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T08:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Several killed in Kolkata hotel fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-several-killed-in-kolkata-hotel-fire/live-78421640?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T06:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T02:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German Africa Prize goes to Kenyan social entrepreneur",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T02:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "CDU und Reformen: Laumann nennt Umfragen für CDU «schlimm»",
@@ -603,69 +659,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/18/voigt-stellt-sich-der-wiederwahl-als-thueringer-cdu-chef",
       "published_date": "2026-08-18T11:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Migration has been weaponised’: Italy’s security law criticised after death of Moroccan man in police restraint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/italy-security-law-death-moroccan-man-police-custody-abderrahim-fakir",
-      "published_date": "2026-08-18T10:55:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why an unresolved housing referendum is shaping Berlin’s election campaign",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260818/why-an-unresolved-housing-referendum-is-shaping-berlins-election-campaign",
-      "published_date": "2026-08-18T10:44:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
-      "published_date": "2026-08-18T10:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Jüdischer Student geht gegen Freie Universität in Berufung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/lahav-shapira-antisemitismus-freie-universitaet-berlin-ovg",
-      "published_date": "2026-08-18T10:32:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Make effort early': Foreigners share how much German you need to live in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260818/make-effort-early-foreigners-share-how-much-german-you-need-to-live-in-germany",
-      "published_date": "2026-08-18T09:11:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan top court orders Imran Khan moved from jail to hospital",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia's election marred by irregularities and 'militia' arrests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia election marred by irregularities, 'militia' arrests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-election-marred-by-irregularities-militia-arrests/a-78400154?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta trial over social media harm to children begins",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meta-trial-over-social-media-harm-to-children-begins/a-78408050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T08:02:00+00:00",
       "category": "Local Events"
     }
   ]
