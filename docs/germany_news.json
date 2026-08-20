@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-19T23:14:52.258448+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-20T11:19:52.178609+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Schwarzes Meer: Rumänischer Kampfjet zerstört mit Sprengstoff beladene Marinedrohne",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/drohne-rumaenien-f-16-schwarzes-meer-neptun-deep",
+      "published_date": "2026-08-20T11:08:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T08:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260820/today-in-germany-a-roundup-of-the-latest-news-on-thursday-132",
+      "published_date": "2026-08-20T06:32:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East updates: Trump warns 'economic consequences' for nations helping Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-updates-trump-warns-economic-consequences-for-nations-helping-iran/live-78438056?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T05:39:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "ICC slams US sanctions on court as 'flagrant attack'",
       "source": "Deutsche Welle",
@@ -21,6 +49,20 @@
       "title": "Germany condemns Israeli minister's call to 'remove' Palestinians",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-condemns-israeli-minister-s-call-to-remove-palestinians/a-78435299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T16:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany condemns Israeli minister's Gaza 'killings' remarks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-condemns-israeli-minister-s-gaza-killings-remarks/a-78435299?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-19T16:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany condemns Israeli minister's Gaza 'killings' remarks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-condemns-israeli-minister-s-gaza-killings-remarks/a-78435299?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-19T16:29:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Indonesia neutrality tested by joint naval drill with China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T13:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German government split on plan to amend law to promote climate action",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260817/german-government-split-on-plan-to-amend-law-to-promote-climate-action",
-      "published_date": "2026-08-17T11:52:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europäische Union: Apple ändert in der EU die Abfrage zu App-Tracking",
+      "title": "Grenzschutz: Litauen baut nahe Belarus Camp für Bundeswehr- und Nato-Soldaten",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/2026-08/apple-iphone-app-tracking-abfrage-aenderung-bundeskartellamt-gxe",
-      "published_date": "2026-08-17T09:26:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/militaercamp-litauen-rudninkai-nato-bundeswehr",
+      "published_date": "2026-08-20T10:54:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "My generation had no voice on Brexit – but Burnham gives the young fresh hope on Europe | Ceira Sergeant",
+      "title": "Jasmin Müller-Stoy: Liebe Jasmin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/zeit-magazin/2026/36/jasmin-mueller-stoy-art-direktorin-zeitmagazin",
+      "published_date": "2026-08-20T10:43:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/young-people-brexit-burnham-europe-opportunities",
-      "published_date": "2026-08-17T07:00:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "published_date": "2026-08-20T10:33:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+      "title": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T17:31:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T08:59:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-16T05:31:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Russia running on imported gasoline, government confirms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-war-briefing-russia-running-on-imported-gasoline-government-confirms",
+      "published_date": "2026-08-20T00:54:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Todesopfer bei russischem Angriff auf Kiew",
@@ -249,39 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Ukrainischer Ex-Verteidigungsminister Fedorow fordert Wahlen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-08-18T23:03:05+00:00",
-      "category": "Military"
+      "title": "LISTED: The new direct flights from Germany in Autumn 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260820/listed-the-new-direct-flights-from-germany-in-autumn-2026",
+      "published_date": "2026-08-20T09:44:05+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
-      "published_date": "2026-08-18T22:21:59+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
+      "published_date": "2026-08-20T09:01:47+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How credible is Russia’s threat against UK? - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/aug/18/how-credible-is-russias-threat-against-uk-the-latest",
-      "published_date": "2026-08-18T16:13:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia threatens UK over supplying drones to Ukraine — The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/18/russia-threatens-uk-over-supplying-drones-to-ukraine-the-latest",
-      "published_date": "2026-08-18T15:44:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Should India be worried about the Mecca defense pact?",
+      "title": "How to better protect Europe from wildfires",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T14:25:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-20T09:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How to better protect Europe from wildfires",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T09:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
+      "published_date": "2026-08-20T04:00:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Unwetter: Zwei Schwerzverletzte durch umgestürzten Baum in Rheinland-Pfalz",
@@ -347,6 +382,13 @@
       "category": "Energy"
     },
     {
+      "title": "Can the cool north handle a surge in climate tourism?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-the-cool-north-handle-a-surge-in-climate-tourism/a-78362462?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-17T11:03:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
@@ -379,48 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-14T19:32:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Vast German wildfire forces evacuation in Eifel forest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T19:32:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Vast German wildfire forces evacuation in Eifel forest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-14T19:32:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eco wins: A Dutch lab for crops, a climate-ready city, and a beaver comeback",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eco-wins-a-dutch-lab-for-crops-a-climate-ready-city-and-a-beaver-comeback/a-78372639?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T14:11:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
-      "published_date": "2026-08-14T01:20:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
-      "published_date": "2026-08-13T15:19:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Does the clean energy transition need forever chemicals?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-13T07:13:00+00:00",
       "category": "Energy"
     },
     {
@@ -515,11 +515,67 @@
       "category": "Economy"
     },
     {
-      "title": "Too smart to eat? Why octopus farms are such a slippery problem",
+      "title": "Schiffbauindustrie: Schiffbau wächst – Sorge um Fachkräfte und AfD-Einfluss",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/20/schiffbau-waechst-sorge-um-fachkraefte-und-afd-einfluss",
+      "published_date": "2026-08-20T11:07:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ladebordstein: Pilotprojekt: E-Autos an der Bordsteinkante in Leipzig laden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/20/pilotprojekt-e-autos-an-der-bordsteinkante-in-leipzig-laden",
+      "published_date": "2026-08-20T11:05:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa's ANC faces voter backlash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T11:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erlebnis-Zoo Hannover: Vier Riesenschildkröten ziehen in neues Warmhaus im Zoo ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/20/vier-riesenschildkroeten-ziehen-in-neues-warmhaus-im-zoo-ein",
+      "published_date": "2026-08-20T10:54:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/europe/migration-wie-die-eu-sich-von-warlords-der-haftar-familie-erpressen-laesst-1787217281-a-9d6ea35f-75ce-49e2-95fc-268abe54936b#ref=rss",
+      "published_date": "2026-08-20T09:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bernadette Amani 'living her dream' at Bayern Munich",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-munich/a-78141213?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T08:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Powerful storms damage homes, leave 1 dead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
-      "published_date": "2026-08-13T04:00:50+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "published_date": "2026-08-20T07:08:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T07:04:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Migration: Deutschland und Italien wollen bei Migration enger zusammenarbeiten",
@@ -585,80 +641,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Extreme heat feeds water conflict around Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/extreme-heat-feeds-water-conflict-around-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-19T12:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Could Pakistan's jailed ex-PM Imran Khan make a new deal?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/could-pakistan-s-jailed-ex-pm-imran-khan-make-a-new-deal/a-78429070?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-19T11:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amanal Petros: From refugee to European champion",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/amanal-petros-from-refugee-to-european-champion/a-78428504?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amanal Petros: From refugee to European champion",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/amanal-petros-from-refugee-to-european-champion/a-78428504?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-19T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Medical researcher who touted Covid ‘cure’ and was hailed by Dr Oz under fire over ethics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/19/french-medical-researcher-covid-ethics",
-      "published_date": "2026-08-19T11:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Bulgarian prime minister Rumen Radev sizing up the EU’s Orbán-shaped hole?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/is-bulgarian-prime-minister-rumen-radev-sizing-up-eu-orban-shaped-hole",
-      "published_date": "2026-08-19T10:47:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich's Jamal Musiala collapses on pitch again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-s-jamal-musiala-collapses-on-pitch-again/a-78426021?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-19T10:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich's Jamal Musiala collapses on pitch again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-s-jamal-musiala-collapses-on-pitch-again/a-78426021?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T10:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe's free movement in question as Germany extends border controls",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260819/europes-free-movement-in-question-as-germany-extends-border-controls",
-      "published_date": "2026-08-19T09:51:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan government to challenge ex-PM Khan hospital move",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-government-to-challenge-ex-pm-khan-hospital-move/a-78421894?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Several killed in Kolkata hotel fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-several-killed-in-kolkata-hotel-fire/live-78421640?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T06:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T02:18:00+00:00",
       "category": "Local Events"
     }
   ]
