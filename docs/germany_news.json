@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-21T11:19:16.129544+00:00",
-  "story_count": 95,
+  "last_updated": "2026-08-21T23:15:09.941500+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T18:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-21T18:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to do when wildfires trigger trauma",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-21T13:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to do when wildfires trigger trauma",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T13:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
+      "published_date": "2026-08-21T12:00:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
       "source": "The Guardian",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israelischer Sicherheitsminister: Friedrich Merz verurteilt Aussagen von Itamar Ben-Gvir",
+      "title": "Krieg gegen die Ukraine: Viele Tote bei russischem Angriff auf Einkaufszentrum in der Ukraine",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/itamar-ben-gvir-friedrich-merz-cdu-israel-gezielte-toetungen",
-      "published_date": "2026-08-19T11:05:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/krywyj-rih-drohnenangriff-einkaufszentrum-ukraine-wolodymyr-selenskyj",
+      "published_date": "2026-08-21T19:36:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "The flag culture wars have come to an unlikely place: progressive Iceland | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/flag-culture-wars-progressive-iceland-far-right",
-      "published_date": "2026-08-19T04:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
+      "title": "German army helps Poland construct a defensive barrier against Russia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T21:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-21T18:44:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why is Sweden deporting Britons faster than any other EU country post-Brexit? | David Milstead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/sweding-deporting-britons-eu-country-brexit",
-      "published_date": "2026-08-18T14:38:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria, US condemn Israeli strikes on military base",
+      "title": "German army helps Poland construct a defensive barrier against Russia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-us-condemn-israeli-strikes-on-military-base/a-78417507?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-18T14:27:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T18:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German army helps Poland construct a defensive barrier against Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-21T18:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's president: Time to end war in 'position of strength'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T15:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T13:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-21T13:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany investigates arms cache found in woods near Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-21T12:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany investigates arms cache found in woods near Berlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T12:39:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Alaska charter flight crash kills 8",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
+      "title": "40 years after the Lake Nyos disaster in Cameroon",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T08:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia running on imported gasoline, government confirms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-war-briefing-russia-running-on-imported-gasoline-government-confirms",
-      "published_date": "2026-08-20T00:54:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Todesopfer bei russischem Angriff auf Kiew",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/20/todesopfer-bei-russischem-angriff-auf-kiew",
-      "published_date": "2026-08-19T22:52:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/volodymyr-zelenskyy-sacks-senior-aide-amid-ukraine-corruption-crisis",
-      "published_date": "2026-08-19T17:14:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sacking turns former Zelenskyy loyalist into potent political opponent",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine",
-      "published_date": "2026-08-19T15:52:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's rusting sea munitions are a toxic time bomb",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-rusting-sea-munitions-are-a-toxic-time-bomb/a-78419545?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-19T13:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's rusting sea munitions are a toxic time bomb",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-rusting-sea-munitions-are-a-toxic-time-bomb/a-78419545?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T13:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military to open criminal probes into 2 Gaza attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Mitarbeiterin von Selenskyj soll in Korruptionsfall verwickelt sein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/ukraine-verteidigungsminister-mychajlo-fedorow-jewhenij-chmara-antikorruption",
-      "published_date": "2026-08-19T11:13:59+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T14:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "What happens to people’s health when air pollution is reduced?",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Hawaii under state of emergency ahead of historic hurricane",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-15T12:11:00+00:00",
-      "category": "Energy"
+      "title": "Schaden von einer Million Euro: Wohnhaus in Flammen - eine Person verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/22/wohnhaus-in-flammen-eine-person-verletzt",
+      "published_date": "2026-08-21T22:03:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany recognises record number of foreign qualifications",
@@ -508,25 +515,67 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Car industry hemorrhaging jobs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-14T15:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Germany news: Car industry hemorrhaging jobs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-14T15:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Konjunktur: Dax-Konzerne machen Rekordgeschäfte - und streichen Jobs",
+      "title": "DFB-Pokal: Rostock ohne Chance: Neuer Stuttgart-Stürmer trifft dreimal",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/14/dax-konzerne-machen-rekordgeschaefte-und-streichen-jobs",
-      "published_date": "2026-08-14T11:29:30+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-08/21/rostock-ohne-chance-neuer-stuttgart-stuermer-trifft-drei-mal",
+      "published_date": "2026-08-21T20:59:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFB-Pokal, 1. Runde: Stuttgart gewinnt klar gegen Rostock, Spielunterbrechung in Mannheim",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/dfb-pokal-erste-runde-frankfurt-toenis-karlsruhe-muenster",
+      "published_date": "2026-08-21T20:57:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFB-Pokal: 4:0 in Rostock: Neuer Stuttgart-Stürmer trifft dreimal",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/21/4-0-in-rostock-neuer-stuttgart-stuermer-trifft-drei-mal",
+      "published_date": "2026-08-21T20:48:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden: One killed in school sword attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T19:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Culture minister defends Germany's iconic Bauhaus against 'populist attacks'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260821/culture-minister-defends-germanys-iconic-bauhaus-against-populist-attacks",
+      "published_date": "2026-08-21T14:48:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six smaller parties running in Berlin's state elections",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260821/six-smaller-parties-running-in-berlins-state-elections",
+      "published_date": "2026-08-21T14:35:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Home Office could be blocked from deporting trafficking victims to Albania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
+      "published_date": "2026-08-21T12:25:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Disaster for democracy': Readers sound the alarm on AfD in Saxony Anhalt",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260821/disaster-for-democracy-readers-sound-the-alarm-on-afd-in-saxony-anhalt",
+      "published_date": "2026-08-21T12:06:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T11:55:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fußball-Bundesligist: Borussia Dortmund verbucht zweistelligen Millionen-Verlust",
@@ -564,10 +613,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Berlin losing its appeal for many Germans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-21T08:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
       "published_date": "2026-08-21T08:05:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: CJP team assaulted while inspecting school 'in a buffalo shed' in Rajasthan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cjp-team-assaulted-while-inspecting-school-in-a-buffalo-shed-in-rajasthan/live-78453085?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T07:11:00+00:00",
       "category": "Local Events"
     },
     {
@@ -589,83 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pakistan-former-pm-khan-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-20T21:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Former PM Khan briefly moved to private hospital",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T21:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-      "published_date": "2026-08-20T15:37:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IN NUMBERS: How expensive are drinks at Oktoberfest in 2026?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260820/in-numbers-how-expensive-are-drinks-at-oktoberfest-in-2026",
-      "published_date": "2026-08-20T14:49:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Powerful storms turn deadly",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-20T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Powerful storms turn deadly",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Iran, contact with foreigners could soon be a crime",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T12:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
-      "published_date": "2026-08-20T11:45:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-20T11:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T11:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schiffbauindustrie: Schiffbau wächst – Sorge um Fachkräfte und AfD-Einfluss",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/20/schiffbau-waechst-sorge-um-fachkraefte-und-afd-einfluss",
-      "published_date": "2026-08-20T11:07:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ladebordstein: Pilotprojekt: E-Autos an der Bordsteinkante in Leipzig laden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/20/pilotprojekt-e-autos-an-der-bordsteinkante-in-leipzig-laden",
-      "published_date": "2026-08-20T11:05:50+00:00",
       "category": "Local Events"
     }
   ]
