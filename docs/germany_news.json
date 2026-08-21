@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-20T23:17:09.145002+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-21T11:19:16.129544+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
+      "published_date": "2026-08-21T10:13:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260821/today-in-germany-a-roundup-of-the-latest-news-on-friday-136",
+      "published_date": "2026-08-21T06:41:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Militär in der Arktis: Nato-Mitglied Norwegen rüstet Brigade nahe russischer Grenze auf",
       "source": "ZEIT Online",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What new EU banking law means for foreigners in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260818/what-new-eu-banking-law-means-for-foreigners-in-germany",
-      "published_date": "2026-08-18T14:23:12+00:00",
-      "category": "Diplomacy"
+      "title": "Alaska charter flight crash kills 8",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/alaska-charter-flight-crash-kills-8/a-78453258?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T07:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What is behind Russia’s ‘consequences’ threat over UK sending drones to Ukraine?",
+      "title": "Russia’s missile tests around disputed islands anger Japan",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/russia-consequences-threat-uk-drones-ukraine",
-      "published_date": "2026-08-18T13:22:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
+      "published_date": "2026-08-21T04:54:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/ukraine-war-briefing-kyiv-protest-organiser-disowns-mykhailo-fedorovs-call-for-elections",
+      "published_date": "2026-08-21T01:23:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Why is Israel's military presence growing in Syria?",
@@ -161,6 +182,20 @@
       "title": "Why are Germany's gas storage levels so low?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-are-germany-s-gas-storage-levels-so-low/a-78440677?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T14:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Germany's gas storage levels are so low",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germany-s-gas-storage-levels-are-so-low/a-78440677?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-20T14:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Germany's gas storage levels are so low",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germany-s-gas-storage-levels-are-so-low/a-78440677?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-20T14:36:00+00:00",
       "category": "Military"
     },
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
+      "title": "What happens to people’s health when air pollution is reduced?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
-      "published_date": "2026-08-19T10:39:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Minister wants to help renters to install AC",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T09:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Minister wants to help renters to install AC",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-19T09:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine updates: Ousted minister Fedorov calls for elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-ousted-minister-fedorov-calls-for-elections/live-78421712?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T08:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany opens drone research centre as security threats mount",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260819/germany-opens-drone-research-centre-as-security-threats-mount",
-      "published_date": "2026-08-19T07:15:24+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/21/what-happens-peoples-health-when-air-pollution-reduced",
+      "published_date": "2026-08-21T05:00:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Waldbrand bei Hürtgenwald: Wind dreht – Feuerwehr verlegt Einsatzzentrale wegen Rauchs",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/15/wind-dreht-feuerwehr-verlegt-einsatzzentrale-wegen-rauchs",
-      "published_date": "2026-08-14T23:02:14+00:00",
-      "category": "Energy"
+      "title": "Germany recognises record number of foreign qualifications",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260821/germany-recognises-record-number-of-foreign-qualifications-2",
+      "published_date": "2026-08-21T09:39:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
+      "published_date": "2026-08-21T04:00:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
@@ -515,9 +529,72 @@
       "category": "Economy"
     },
     {
+      "title": "Fußball-Bundesligist: Borussia Dortmund verbucht zweistelligen Millionen-Verlust",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/21/borussia-dortmund-verbucht-zweistelligen-millionen-verlust",
+      "published_date": "2026-08-21T11:05:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waffenversteck in Brandenburg: Bei Berlin entdecktes Waffenversteck soll mit Russland verbunden sein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-08/waffenversteck-brandenburg-russische-geheimdienste-verfassungsschutz-generalbundesanwalt",
+      "published_date": "2026-08-21T10:39:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-21T10:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T10:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin losing its appeal for many Germans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T08:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
+      "published_date": "2026-08-21T08:05:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Morocco: Migrants caught between Ceuta dreams and reality",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/morocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T04:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie",
+      "published_date": "2026-08-21T04:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pakistan: Former PM Khan moved to private hospital",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pakistan-former-pm-khan-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-20T21:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan: Former PM Khan briefly moved to private hospital",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-20T21:56:00+00:00",
       "category": "Local Events"
     },
@@ -589,69 +666,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/20/pilotprojekt-e-autos-an-der-bordsteinkante-in-leipzig-laden",
       "published_date": "2026-08-20T11:05:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa's ANC faces voter backlash",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T11:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erlebnis-Zoo Hannover: Vier Riesenschildkröten ziehen in neues Warmhaus im Zoo ein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/20/vier-riesenschildkroeten-ziehen-in-neues-warmhaus-im-zoo-ein",
-      "published_date": "2026-08-20T10:54:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/europe/migration-wie-die-eu-sich-von-warlords-der-haftar-familie-erpressen-laesst-1787217281-a-9d6ea35f-75ce-49e2-95fc-268abe54936b#ref=rss",
-      "published_date": "2026-08-20T09:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Amani 'living her dream' at Bayern Munich",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-munich/a-78141213?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T08:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Powerful storms damage homes, leave 1 dead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T08:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "published_date": "2026-08-20T07:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T07:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Deutschland und Italien wollen bei Migration enger zusammenarbeiten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/migration-europa-deutschland-italien-dublin-verordnung",
-      "published_date": "2026-08-19T21:16:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia: Mundubile seeks to overturn election result in court",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-mundubile-seeks-to-overturn-election-result-in-court/a-78436788?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T18:42:00+00:00",
       "category": "Local Events"
     }
   ]
