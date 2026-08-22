@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-22T11:14:40.046845+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-22T23:12:12.763364+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Germany news: Friedrich Merz visits area struck by fires",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-22T15:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Friedrich Merz visits area struck by fires",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T15:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-22T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Estland: Ehemaliger EU-Kommissar Siim Kallas ist tot",
       "source": "ZEIT Online",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Romania destroys drone near gas project, blames Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-destroys-drone-near-gas-project-blames-russia/a-78447040?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T13:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Schwarzes Meer: Rumänischer Kampfjet zerstört mit Sprengstoff beladene Marinedrohne",
+      "title": "Russland: Putin droht Ukraine nach Angriffen auf wirtschaftliche Infrastruktur",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/drohne-rumaenien-f-16-schwarzes-meer-neptun-deep",
-      "published_date": "2026-08-20T11:08:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/wladimir-putin-ukraine-vergeltungsschlaege-luftabwehr-oelraffinerien",
+      "published_date": "2026-08-22T22:19:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+      "title": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T08:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260820/today-in-germany-a-roundup-of-the-latest-news-on-thursday-132",
-      "published_date": "2026-08-20T06:32:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T11:49:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Luftalarm in Kyjiw während Wadephul-Besuch",
@@ -214,6 +228,20 @@
       "category": "Military"
     },
     {
+      "title": "German army helps Poland protect itself against Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-21T18:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German army helps Poland protect itself against Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-21T18:44:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran's president: Time to end war in 'position of strength'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/alaska-charter-flight-crash-kills-8/a-78453258?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-21T07:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s missile tests around disputed islands anger Japan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
-      "published_date": "2026-08-21T04:54:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/ukraine-war-briefing-kyiv-protest-organiser-disowns-mykhailo-fedorovs-call-for-elections",
-      "published_date": "2026-08-21T01:23:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Israel's military presence growing in Syria?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T17:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why are Germany's gas storage levels so low?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-are-germany-s-gas-storage-levels-so-low/a-78440677?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-20T14:36:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T22:12:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Schaden von einer Million Euro: Wohnhaus in Flammen - eine Person verletzt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/22/wohnhaus-in-flammen-eine-person-verletzt",
@@ -515,6 +522,62 @@
       "category": "Economy"
     },
     {
+      "title": "Fußball: VfB Stuttgart muss erneut auf Nartey verzichten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/22/vfb-stuttgart-muss-erneut-auf-nartey-verzichten",
+      "published_date": "2026-08-22T20:50:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Franz-Beckenbauer-Supercup: Bayern gewinnt Supercup gegen den BVB",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/supercup-bayern-muenchen-borussia-dortmund-franz-beckenbauer",
+      "published_date": "2026-08-22T20:45:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migration: Matteo Salvini schürt Konflikt mit Deutschland um Sekundärmigranten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/italien-migration-matteo-salvini-migranten-eu-migrationspakt",
+      "published_date": "2026-08-22T19:53:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFB-Pokal, 1. Runde: Leipzig siegt souverän in Trier",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/dfb-pokal-bayer-leverkusen-sv-wehen-wiesbaden-fc-augsburg-energie-cottbus",
+      "published_date": "2026-08-22T19:02:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+      "published_date": "2026-08-22T18:11:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T16:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain battles forest fire a short drive from flash flood",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain battles forest fire a short drive from flash flood",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-22T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Elektromobilität: Braucht es bald Steuern auf E-Autos?",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/mobilitaet/2026-08/elektromobilitaet-besteuerung-e-autos-autoindustrie-bundesregierung",
@@ -596,62 +659,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260821/six-smaller-parties-running-in-berlins-state-elections",
       "published_date": "2026-08-21T14:35:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Home Office could be blocked from deporting trafficking victims to Albania",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
-      "published_date": "2026-08-21T12:25:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Disaster for democracy': Readers sound the alarm on AfD in Saxony Anhalt",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260821/disaster-for-democracy-readers-sound-the-alarm-on-afd-in-saxony-anhalt",
-      "published_date": "2026-08-21T12:06:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T11:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball-Bundesligist: Borussia Dortmund verbucht zweistelligen Millionen-Verlust",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/21/borussia-dortmund-verbucht-zweistelligen-millionen-verlust",
-      "published_date": "2026-08-21T11:05:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Waffenversteck in Brandenburg: Bei Berlin entdecktes Waffenversteck soll mit Russland verbunden sein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-08/waffenversteck-brandenburg-russische-geheimdienste-verfassungsschutz-generalbundesanwalt",
-      "published_date": "2026-08-21T10:39:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-21T10:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T10:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin losing its appeal for many Germans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T08:51:00+00:00",
       "category": "Local Events"
     }
   ]
