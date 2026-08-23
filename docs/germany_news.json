@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-23T11:14:56.722288+00:00",
+  "last_updated": "2026-08-23T23:12:38.333553+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Präsidentschaftswahl in Frankreich: Raphaël Glucksmann will in Frankreich für Präsidentschaft kandidieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/raphael-glucksmann-praesidentschaft-frankreich-place-publique-ps",
+      "published_date": "2026-08-23T22:20:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Klimaschutz: Die Grünen fordern Merz zu Kurswechsel in der Klimapolitik auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/klima-notfallplan-gruene-friedrich-merz-cdu-klimapolitik-waldbrand-huertgenwald",
+      "published_date": "2026-08-23T20:08:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on Andy Burnham’s foreign policy: work in progress | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
+      "published_date": "2026-08-23T17:30:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
       "source": "The Guardian",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-21T18:59:00+00:00",
-      "category": "Diplomacy"
+      "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+      "published_date": "2026-08-23T23:01:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "What to do when wildfires trigger trauma",
+      "title": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-21T13:36:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T19:50:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What to do when wildfires trigger trauma",
+      "title": "Iran: President defends deal with US as best option for peace",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T13:36:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T14:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T14:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-23T14:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "published_date": "2026-08-23T11:50:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Zelenskyy rejects wartime elections",
@@ -228,59 +270,17 @@
       "category": "Military"
     },
     {
-      "title": "As Russian missiles rain down on Kyiv, casualties mount and the mood darkens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/russian-missiles-kyiv-ukraine-casualties-mood-darkens",
-      "published_date": "2026-08-22T04:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon fires military newspaper leadership for 'insubordination'",
+      "title": "Germany investigates arms cache found in woods near Berlin",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T02:55:00+00:00",
+      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-22T04:31:00+00:00",
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Viele Tote bei russischem Angriff auf Einkaufszentrum in der Ukraine",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/krywyj-rih-drohnenangriff-einkaufszentrum-ukraine-wolodymyr-selenskyj",
-      "published_date": "2026-08-21T19:36:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German army helps Poland construct a defensive barrier against Russia",
+      "title": "Germany investigates arms cache found in woods near Berlin",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-21T18:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German army helps Poland construct a defensive barrier against Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T18:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German army helps Poland construct a defensive barrier against Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-21T18:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German army helps Poland protect itself against Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T18:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German army helps Poland protect itself against Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-21T18:44:00+00:00",
+      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-22T04:31:00+00:00",
       "category": "Military"
     },
     {
@@ -522,6 +522,76 @@
       "category": "Economy"
     },
     {
+      "title": "DFB-Pokal, 1. Runde: Rot-Weiss Essen wirft St. Pauli raus, Freiburg besiegt Düsseldorf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/dfb-pokal-1-fc-heidenheim-ssv-jeddeloh-ii-frank-schmidt",
+      "published_date": "2026-08-23T22:15:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan parliamentary vote cements president's power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-cements-president-s-power/a-78474598?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T20:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greece: Migrants clash with police at detention center",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-23T18:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greece: Migrants clash with police at detention center",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T18:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the new Hungary: de-Orbánising at pace | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-the-new-hungary-de-orbanising-at-pace",
+      "published_date": "2026-08-23T17:29:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The far right is steering the EU’s response on migration | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/far-right-is-steering-eu-response-on-migration",
+      "published_date": "2026-08-23T16:57:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congo, M23 rebels agree to peace roadmap",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/congo-m23-rebels-agree-to-peace-roadmap/a-78476169?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T12:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry Kane named footballer of the year in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-23T12:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry Kane named footballer of the year in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T12:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+      "published_date": "2026-08-23T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Attacke in Berlin: Mann in Berlin geschlagen und rassistisch beleidigt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/23/mann-in-berlin-geschlagen-und-rassistisch-beleidigt",
@@ -585,80 +655,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Mexican governor facing US drug charges says leaving office",
+      "title": "Sydney Marathon medal wrongly shows German landmark",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T04:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: VfB Stuttgart muss erneut auf Nartey verzichten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/22/vfb-stuttgart-muss-erneut-auf-nartey-verzichten",
-      "published_date": "2026-08-22T20:50:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Franz-Beckenbauer-Supercup: Bayern gewinnt Supercup gegen den BVB",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/supercup-bayern-muenchen-borussia-dortmund-franz-beckenbauer",
-      "published_date": "2026-08-22T20:45:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Matteo Salvini schürt Konflikt mit Deutschland um Sekundärmigranten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/italien-migration-matteo-salvini-migranten-eu-migrationspakt",
-      "published_date": "2026-08-22T19:53:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFB-Pokal, 1. Runde: Leipzig siegt souverän in Trier",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/dfb-pokal-bayer-leverkusen-sv-wehen-wiesbaden-fc-augsburg-energie-cottbus",
-      "published_date": "2026-08-22T19:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
-      "published_date": "2026-08-22T18:11:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T16:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain battles forest fire a short drive from flash flood",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain battles forest fire a short drive from flash flood",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-22T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elektromobilität: Braucht es bald Steuern auf E-Autos?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-08/elektromobilitaet-besteuerung-e-autos-autoindustrie-bundesregierung",
-      "published_date": "2026-08-22T09:58:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niclas Füllkrug: Ach, diese Lücke!",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/niclas-fuellkrug-rueckkehr-werder-bremen-bundesliga-fussball",
-      "published_date": "2026-08-22T09:47:49+00:00",
+      "url": "https://www.dw.com/en/sydney-marathon-medal-wrongly-shows-german-landmark/a-78473705?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-23T06:35:00+00:00",
       "category": "Local Events"
     }
   ]
