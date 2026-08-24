@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-23T23:12:38.333553+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-24T11:20:36.079172+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Germany news: State premier visits VW for crisis talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T07:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260824/today-in-germany-a-roundup-of-the-latest-news-on-monday-136",
+      "published_date": "2026-08-24T06:37:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Präsidentschaftswahl in Frankreich: Raphaël Glucksmann will in Frankreich für Präsidentschaft kandidieren",
       "source": "ZEIT Online",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
+      "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-      "published_date": "2026-08-22T01:12:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "published_date": "2026-08-24T11:13:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+      "title": "Ahmed Hassun: Syrisches Gericht verurteilt früheren Großmufti zu lebenslanger Haft",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/ahmed-hassun-grossmufti-syrien-haft-buergerkrieg-damaskus",
+      "published_date": "2026-08-24T11:07:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
+      "published_date": "2026-08-24T10:49:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine news: UK PM Burnham arrives in Kyiv to show support",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T18:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-arrives-in-kyiv-to-show-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T06:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On Donetsk’s ‘life or death’ highway with the Khyzhak brigade – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/24/on-donetsks-life-or-death-highway-with-the-khyzhak-brigade-photo-essay",
+      "published_date": "2026-08-24T06:00:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The war leaked into every lesson’: learning Ukrainian in a country under siege – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/24/the-war-leaked-into-every-lesson-learning-ukrainian-in-a-country-under-siege-podcast",
+      "published_date": "2026-08-24T04:00:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Luftalarm in Kyjiw während Wadephul-Besuch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-08-22T10:42:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
+      "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished",
-      "published_date": "2026-08-22T09:54:03+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo",
+      "published_date": "2026-08-24T10:26:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Matthias Lilienthal: »Ich werde solche Sachen immer wieder tun. Ich kann penetrant sein«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/feuilleton/2026-08/matthias-lilienthal-intendant-berliner-volksbuehne-volksbad-theater",
-      "published_date": "2026-08-22T09:52:26+00:00",
-      "category": "Military"
+      "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T05:18:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "A bridge too far? Why link to Sicily is still a dream despite 2,000 years of plans",
+      "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/sicily-italy-bridge-plans-strait-of-messina",
-      "published_date": "2026-08-22T06:00:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany investigates arms cache found in woods near Berlin",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-22T04:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany investigates arms cache found in woods near Berlin",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T04:31:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
+      "published_date": "2026-08-24T05:00:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Six EU countries urge windfall tax on energy firms",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T12:55:00+00:00",
-      "category": "Energy"
+      "title": "Volkswagen boss warns carmaker's situation 'more than critical'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260824/volkswagen-boss-warns-carmakers-situation-more-than-critical",
+      "published_date": "2026-08-24T08:40:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
+      "title": "Spiraling health costs force Iranians to delay care",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-17T12:55:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energiewende: Suedlink quert die Elbe: 700 Kilometer Kabel in den Süden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/17/suedlink-quert-die-elbe-700-kilometer-kabel-in-den-sueden",
-      "published_date": "2026-08-17T11:13:41+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T08:13:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump hits out at Canada over retaliatory tariffs",
@@ -494,32 +508,53 @@
       "category": "Economy"
     },
     {
-      "title": "Fatty food raises risk of colorectal cancer",
+      "title": "Wahlen in Berlin: Abgeordnetenhauswahl: Wahl-O-Mat ist online",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/24/abgeordnetenhauswahl-wahl-o-mat-ist-online",
+      "published_date": "2026-08-24T11:08:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch pull out of 'no longer neutral' Eurovision",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-17T06:49:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/dutch-pull-out-of-no-longer-neutral-eurovision/a-78482430?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T08:43:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fatty food raises risk of colorectal cancer",
+      "title": "Teacher shortage meets record number of school children in Berlin and Brandenburg",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260824/teacher-shortage-in-berlin-and-brandenburg-meets-record-number-of-school-children",
+      "published_date": "2026-08-24T08:34:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Police used 'excessive force' on CJP protesters",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-17T06:49:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-police-used-excessive-force-on-cjp-protesters/live-78480551?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T08:05:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
-      "published_date": "2026-08-17T05:47:23+00:00",
-      "category": "Economy"
+      "title": "New Zealand proposes social media ban for under-16s",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T05:45:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Italy’s mythic ‘month off’ in August was hard won. It would be good for us all | Jamie Mackay",
+      "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity",
-      "published_date": "2026-08-17T04:00:45+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
+      "published_date": "2026-08-24T04:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen's career has been resurrected – and she is a bigger threat than ever | Mujtaba Rahman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/marine-le-pen-presidential-election-france",
+      "published_date": "2026-08-24T04:00:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "DFB-Pokal, 1. Runde: Rot-Weiss Essen wirft St. Pauli raus, Freiburg besiegt Düsseldorf",
@@ -610,55 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures",
       "published_date": "2026-08-23T10:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the 'political firewall' against Germany's far-right AfD?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-23T09:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the 'political firewall' against Germany's far-right AfD?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T09:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan parliamentary vote to cement president's power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-to-cement-president-s-power/a-78474598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T08:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anger over slow pace of reconstruction in Italian town devastated by earthquake in 2016",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/italian-town-amatrice-marks-10-years-since-devastating-earthquake",
-      "published_date": "2026-08-23T07:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia confirms H5N1 bird flu case in local mammal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-confirms-h5n1-bird-flu-case-in-local-mammal/a-78473874?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T06:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red faces as Sydney Marathon medal shows German stadium",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T06:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sydney Marathon medal wrongly shows German landmark",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sydney-marathon-medal-wrongly-shows-german-landmark/a-78473705?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T06:35:00+00:00",
       "category": "Local Events"
     }
   ]
