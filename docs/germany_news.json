@@ -1,12 +1,33 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-24T11:20:36.079172+00:00",
-  "story_count": 92,
+  "last_updated": "2026-08-24T23:15:07.889335+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "New York: Annalena Baerbock wird offenbar Professorin an Columbia University",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/annalena-baerbock-professorin-new-york-columbia-university",
+      "published_date": "2026-08-24T20:57:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Friedrich Merz: Kann er die Regierung nach den Wahlen im Osten zusammenhalten?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/friedrich-merz-sachsen-anhalt-landtagswahl-bundesregierung",
+      "published_date": "2026-08-24T18:17:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany news: State premier visits VW for crisis talks",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T07:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: State premier visits VW for crisis talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-24T07:29:00+00:00",
       "category": "Diplomacy"
     },
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T08:28:00+00:00",
-      "category": "Diplomacy"
+      "title": "Künstliche Intelligenz: Ukraine und Großbritannien wollen KI für Militär gemeinsam nutzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/militaerische-ki-ukraine-grossbritannien-drohnen-daten",
+      "published_date": "2026-08-24T22:49:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Friedrich Merz to visit area struck by fires",
+      "title": "Sudan: US proposes expanding UN arms embargo",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-friedrich-merz-to-visit-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T08:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T19:39:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US imposes 50% tariffs on some Canadian products as trade talks fail",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T01:26:00+00:00",
-      "category": "Diplomacy"
+      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+      "published_date": "2026-08-24T18:16:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on Britain helping Ukraine: build the weapons independence Kyiv needs | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/the-guardian-view-on-britain-helping-ukraine-build-the-weapons-independence-kyiv-needs",
+      "published_date": "2026-08-24T17:53:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "published_date": "2026-08-24T16:59:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "published_date": "2026-08-24T16:33:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham hands secret missile technology to Ukraine in first foreign trip - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-in-first-foreign-trip-the-latest",
+      "published_date": "2026-08-24T16:11:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham hands secret missile technology to Ukraine – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-the-latest",
+      "published_date": "2026-08-24T15:45:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nicola Jennings on Ukraine’s independence day – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/24/nicola-jennings-ukraine-independence-day-cartoon",
+      "published_date": "2026-08-24T15:34:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
@@ -168,6 +231,13 @@
       "title": "Ukraine news: UK PM Burnham arrives in Kyiv to show support",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-arrives-in-kyiv-to-show-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T06:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham likens Ukraine fight to British stand against Nazis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/burnham-likens-ukraine-fight-to-british-stand-against-nazis/live-78479580?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-24T06:07:00+00:00",
       "category": "Military"
     },
@@ -211,76 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-23T14:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-23T14:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "published_date": "2026-08-23T11:50:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Zelenskyy rejects wartime elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T10:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Zelenskyy rejects wartime elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-23T10:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T05:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-23T05:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
-      "published_date": "2026-08-23T04:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify",
-      "published_date": "2026-08-23T01:04:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russland: Putin droht Ukraine nach Angriffen auf wirtschaftliche Infrastruktur",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/wladimir-putin-ukraine-vergeltungsschlaege-luftabwehr-oelraffinerien",
-      "published_date": "2026-08-22T22:19:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T11:49:00+00:00",
       "category": "Military"
     },
     {
@@ -487,25 +487,53 @@
       "category": "Economy"
     },
     {
-      "title": "Vorpommern-Greifswald: Überholmanöver führt zu Unfall: über 30.000 Euro Sachschaden",
+      "title": "Briefwahl in den USA: Supreme Court macht Weg für Trumps umstrittene Briefwahlregeln frei",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/18/ueberholmanoever-fuehrt-zu-unfall-ueber-30-000-euro-sachschaden",
-      "published_date": "2026-08-17T23:01:30+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/briefwahl-usa-donald-trump-usps-bundesrichterin",
+      "published_date": "2026-08-24T22:05:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+      "title": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/us-sanktionen-iran-wirtschaft-handelspartner-scott-bessent",
+      "published_date": "2026-08-24T21:33:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Sunday and the Italian month off | Brief letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
-      "published_date": "2026-08-17T15:13:40+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/24/french-sunday-and-the-italian-month-off",
+      "published_date": "2026-08-24T17:32:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How closely will Germany's Finanzamt look at your tax return?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260817/how-closely-will-germanys-finanzamt-look-at-your-tax-return",
-      "published_date": "2026-08-17T13:56:26+00:00",
-      "category": "Economy"
+      "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
+      "published_date": "2026-08-24T14:31:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran protest victim: 'They were shooting to kill'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T13:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Myanmar: Why Rohingya refugees can't return",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-why-rohingya-refugees-can-t-return/a-78485340?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T13:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria sentences Assad-era top Muslim cleric to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/syria-sentences-assad-era-top-muslim-cleric-to-life-in-prison/a-78485344?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-24T11:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wahlen in Berlin: Abgeordnetenhauswahl: Wahl-O-Mat ist online",
@@ -596,55 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/23/far-right-is-steering-eu-response-on-migration",
       "published_date": "2026-08-23T16:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Congo, M23 rebels agree to peace roadmap",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/congo-m23-rebels-agree-to-peace-roadmap/a-78476169?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T12:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane named footballer of the year in Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-23T12:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane named footballer of the year in Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T12:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
-      "published_date": "2026-08-23T11:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacke in Berlin: Mann in Berlin geschlagen und rassistisch beleidigt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/23/mann-in-berlin-geschlagen-und-rassistisch-beleidigt",
-      "published_date": "2026-08-23T10:51:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: CDU-Abgeordneter offen für Gespräche mit Linken in Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/cdu-linke-sachsen-anhalt-zusammenarbeit-unvereinbarkeitsbeschluss-landtagswahl",
-      "published_date": "2026-08-23T10:34:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finland tried to end homelessness. What can we learn from its runaway success – and recent failures?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures",
-      "published_date": "2026-08-23T10:00:30+00:00",
       "category": "Local Events"
     }
   ]
