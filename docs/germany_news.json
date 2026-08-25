@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-24T23:15:07.889335+00:00",
-  "story_count": 89,
+  "last_updated": "2026-08-25T11:20:42.476622+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Hitzewelle in Deutschland: Friedrich Merz kündigt Konsequenzen aus Hitzewelle an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/hitzewelle-deutschland-friedrich-merz-tote-cdu",
+      "published_date": "2026-08-25T10:40:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East: Iran vows response to fresh US sanctions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T10:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Q&A: What to know about holding a foreign bank account in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/qa-what-to-know-about-holding-a-foreign-bank-account-in-germany",
+      "published_date": "2026-08-25T10:10:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+      "published_date": "2026-08-25T04:00:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New York: Annalena Baerbock wird offenbar Professorin an Columbia University",
       "source": "ZEIT Online",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T14:42:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-22T14:42:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Estland: Ehemaliger EU-Kommissar Siim Kallas ist tot",
+      "title": "Hind Rajab: 335 Kugeln, ein totes Kind",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/siim-kallas-estland-eu-kommissar-kaja-kallas-tod",
-      "published_date": "2026-08-22T10:50:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/hind-rajab-tod-israel-sanitaeter-ermittlung",
+      "published_date": "2026-08-25T11:19:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "published_date": "2026-08-22T09:00:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "published_date": "2026-08-25T11:13:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/25/yorkshireman-briton-die-fighting-russia-ukraine",
+      "published_date": "2026-08-25T09:51:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+      "published_date": "2026-08-25T08:27:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reader Q&A: ask international correspondent Luke Harding a question now",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
+      "published_date": "2026-08-25T07:00:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Künstliche Intelligenz: Ukraine und Großbritannien wollen KI für Militär gemeinsam nutzen",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "‘The war leaked into every lesson’: learning Ukrainian in a country under siege – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/24/the-war-leaked-into-every-lesson-learning-ukrainian-in-a-country-under-siege-podcast",
-      "published_date": "2026-08-24T04:00:50+00:00",
-      "category": "Military"
+      "title": "Germany can expect more intense weather extremes, warns climate expert",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/germany-can-expect-more-intense-weather-extremes-warns-climate-expert",
+      "published_date": "2026-08-25T09:54:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-      "published_date": "2026-08-23T23:01:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
+      "title": "Trees are vital for cooler cities, but they need help too",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T19:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: President defends deal with US as best option for peace",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T14:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T14:42:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T09:39:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Nord Stream: Second suspect arrested over pipeline blasts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-second-suspect-arrested-over-pipeline-blasts/a-78427413?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T09:38:00+00:00",
-      "category": "Energy"
+      "title": "Volkswagen-Umbau: VW sieht »etwa die Hälfte« der Stellenstreichungen in Deutschland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-08/volkswagen-umbau-oliver-blume-standorte-werkschliessungen",
+      "published_date": "2026-08-25T11:17:10+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
-      "published_date": "2026-08-19T05:00:06+00:00",
-      "category": "Energy"
+      "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T10:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T09:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "German economic growth stronger than expected despite Iran war",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/german-economic-growth-stronger-than-expected-despite-iran-war",
+      "published_date": "2026-08-25T08:50:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-137",
+      "published_date": "2026-08-25T06:31:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen boss warns carmaker's situation 'more than critical'",
@@ -485,6 +520,69 @@
       "url": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-19T08:06:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Tiere in Hamburg: Stint, Aal und Co. - Viele Hamburger Fische sind gefährdet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/25/stint-aal-und-co-viele-hamburger-fische-sind-gefaehrdet",
+      "published_date": "2026-08-25T11:03:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sabotageverdacht: Staatsschutz ermittelt nach Beschädigung von Kabeln bei Stuttgart",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/sabotage-bahn-backnang-kabel-polizei-staatsschutz-gxe",
+      "published_date": "2026-08-25T11:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abflug von Leipzig/Halle: Neue Sammelabschiebung nach Afghanistan",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/25/neue-sammelabschiebung-nach-afghanistan",
+      "published_date": "2026-08-25T10:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migration: Frank-Walter Steinmeier wendet sich gegen Ausgrenzung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/frank-walter-steinmeier-zuwanderung-rede-berlin",
+      "published_date": "2026-08-25T10:51:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T06:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T04:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tornado in France damages homes, injures dozens",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tornado-in-france-damages-homes-injures-dozens/a-78491206?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T02:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/25/ukraine-war-briefing-ozon-next-in-kyivs-sights-as-sheds-of-wildberries-rival-burn",
+      "published_date": "2026-08-25T01:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haiti: Gang members kill dozens near Port-au-Prince",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/haiti-gang-members-kill-dozens-near-port-au-prince/a-78491117?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T01:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Briefwahl in den USA: Supreme Court macht Weg für Trumps umstrittene Briefwahlregeln frei",
@@ -561,69 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-police-used-excessive-force-on-cjp-protesters/live-78480551?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-24T08:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Zealand proposes social media ban for under-16s",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T05:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
-      "published_date": "2026-08-24T04:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen's career has been resurrected – and she is a bigger threat than ever | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/marine-le-pen-presidential-election-france",
-      "published_date": "2026-08-24T04:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFB-Pokal, 1. Runde: Rot-Weiss Essen wirft St. Pauli raus, Freiburg besiegt Düsseldorf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/dfb-pokal-1-fc-heidenheim-ssv-jeddeloh-ii-frank-schmidt",
-      "published_date": "2026-08-23T22:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan parliamentary vote cements president's power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-cements-president-s-power/a-78474598?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T20:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greece: Migrants clash with police at detention center",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-23T18:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greece: Migrants clash with police at detention center",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T18:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the new Hungary: de-Orbánising at pace | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-the-new-hungary-de-orbanising-at-pace",
-      "published_date": "2026-08-23T17:29:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The far right is steering the EU’s response on migration | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/far-right-is-steering-eu-response-on-migration",
-      "published_date": "2026-08-23T16:57:13+00:00",
       "category": "Local Events"
     }
   ]
