@@ -1,13 +1,62 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-25T11:20:42.476622+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-25T23:17:32.798593+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Bundesregierung: Unionsfraktionschef Frei: Rückzug nie ein Thema für Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/26/unionsfraktionschef-frei-rueckzug-nie-ein-thema-fuer-merz",
+      "published_date": "2026-08-25T22:37:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "published_date": "2026-08-25T16:00:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As Iceland votes on the EU, which countries could be next to join?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/as-iceland-votes-on-the-eu-which-countries-could-be-next-to-join",
+      "published_date": "2026-08-25T15:24:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Germany's drone defense fails",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-25T14:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Germany's drone defense fails",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T14:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German chancellor Merz pledges government action on climate",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/german-chancellor-merz-pledges-government-action-on-climate",
+      "published_date": "2026-08-25T14:17:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hitzewelle in Deutschland: Friedrich Merz kündigt Konsequenzen aus Hitzewelle an",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/hitzewelle-deutschland-friedrich-merz-tote-cdu",
       "published_date": "2026-08-25T10:40:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can new US sanctions cripple Iran's shadow economy?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-new-us-sanctions-cripple-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T10:34:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FPÖ-Politiker in China: Die blaue China-Connection",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/36/fpoe-china-mario-kunasek-udo-landbauer-kontakte-wirtschaft",
-      "published_date": "2026-08-23T09:52:16+00:00",
-      "category": "Diplomacy"
+      "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T18:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Pretty shambolic’: new EU border checks cause stress for UK travellers",
+      "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-25T18:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CIA director in Moscow for meetings — US media reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T16:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T15:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Third drone and suspected military explosives found near Leipzig airport",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues",
-      "published_date": "2026-08-23T07:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/25/germany-drone-suspected-military-explosives-found-near-leipzig-airport",
+      "published_date": "2026-08-25T12:37:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran warns countries against joining US 'economic war'",
+      "title": "Will Iran withdraw from nuclear non-proliferation treaty?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T00:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Friedrich Merz visits area struck by fires",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-22T15:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Friedrich Merz visits area struck by fires",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T15:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Most voters expect Merz to leave office early",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-most-voters-expect-merz-to-leave-office-early/live-78467416?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-22T15:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Most voters expect Merz to leave office early",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-most-voters-expect-merz-to-leave-office-early/live-78467416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T15:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T12:01:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Hind Rajab: 335 Kugeln, ein totes Kind",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "published_date": "2026-08-24T11:13:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ahmed Hassun: Syrisches Gericht verurteilt früheren Großmufti zu lebenslanger Haft",
+      "title": "Konzernumbau: Siemens Energy will Sparte TI verselbstständigen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/ahmed-hassun-grossmufti-syrien-haft-buergerkrieg-damaskus",
-      "published_date": "2026-08-24T11:07:58+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/news/2026-08/25/siemens-energy-will-sparte-ti-verselbststaendigen",
+      "published_date": "2026-08-25T20:28:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
-      "published_date": "2026-08-24T10:49:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine news: UK PM Burnham arrives in Kyiv to show support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-arrives-in-kyiv-to-show-support/live-78479580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T06:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham likens Ukraine fight to British stand against Nazis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/burnham-likens-ukraine-fight-to-british-stand-against-nazis/live-78479580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T06:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On Donetsk’s ‘life or death’ highway with the Khyzhak brigade – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/24/on-donetsks-life-or-death-highway-with-the-khyzhak-brigade-photo-essay",
-      "published_date": "2026-08-24T06:00:53+00:00",
-      "category": "Military"
+      "title": "'We're heading for catastrophe': The summer climate change hit Europe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/were-heading-for-catastrophe-the-summer-climate-change-hit-europe",
+      "published_date": "2026-08-25T15:51:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany can expect more intense weather extremes, warns climate expert",
@@ -410,18 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Ukrainian diver arrested in Croatia over Nord Stream pipeline bombings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings",
-      "published_date": "2026-08-19T14:14:54+00:00",
-      "category": "Energy"
+      "title": "ByteDance: TikTok muss in Brasilien mehr als 25 Millionen Euro Strafe zahlen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/2026-08/tiktok-brasilien-datenschutz-anpd-bytedance-minderjaehrige",
+      "published_date": "2026-08-25T21:52:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nord Stream: Second suspect arrested over pipeline blasts",
+      "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
+      "published_date": "2026-08-25T15:47:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada announces retaliatory tariffs on US goods",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-second-suspect-arrested-over-pipeline-blasts/a-78427413?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-19T09:38:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T15:17:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will Volkswagen's crunch week decide Germany's auto future?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-25T13:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will Volkswagen's crunch week decide Germany's auto future?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T13:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germans swap friends for screens in their free time",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germans-swap-friends-for-screens-in-their-free-time/a-78497420?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-25T13:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germans swap friends for screens in their free time",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germans-swap-friends-for-screens-in-their-free-time/a-78497420?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T13:16:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen-Umbau: VW sieht »etwa die Hälfte« der Stellenstreichungen in Deutschland",
@@ -515,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Nigeria: Campaign kicks off for 2027 presidential election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-19T08:06:00+00:00",
-      "category": "Economy"
+      "title": "Vor Landtagswahl: IWH: AfD-Regierung könnte Wirtschaftswachstum reduzieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/26/iwh-afd-regierung-koennte-wirtschaftswachstum-reduzieren",
+      "published_date": "2026-08-25T22:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Manuela Schwesig schließt SPD-Parteivorsitz aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/manuela-schwesig-spd-parteivorsitz-landtagswahl-mecklenburg-vorpommern",
+      "published_date": "2026-08-25T21:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vor der Landtagswahl: Umgang mit der AfD - Spitzenkandidaten üben Selbstkritik",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/25/umgang-mit-der-afd-spitzenkandidaten-ueben-selbstkritik",
+      "published_date": "2026-08-25T20:59:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the French left: division makes Marine Le Pen’s path to the Élysée more straightforward | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/the-guardian-view-on-the-french-left-division-makes-marine-le-pens-path-to-the-elysee-more-straightforward",
+      "published_date": "2026-08-25T17:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FACT CHECK: How does postal voting in Germany really work?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260825/fact-check-how-does-postal-voting-in-germany-really-work",
+      "published_date": "2026-08-25T11:54:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tiere in Hamburg: Stint, Aal und Co. - Viele Hamburger Fische sind gefährdet",
@@ -553,6 +630,13 @@
       "title": "Germany news: Third drone found in Leipzig airport probe",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T06:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-25T06:10:00+00:00",
       "category": "Local Events"
     },
@@ -617,48 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-24T13:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Myanmar: Why Rohingya refugees can't return",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-why-rohingya-refugees-can-t-return/a-78485340?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T13:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria sentences Assad-era top Muslim cleric to life in prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-sentences-assad-era-top-muslim-cleric-to-life-in-prison/a-78485344?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T11:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlen in Berlin: Abgeordnetenhauswahl: Wahl-O-Mat ist online",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/24/abgeordnetenhauswahl-wahl-o-mat-ist-online",
-      "published_date": "2026-08-24T11:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch pull out of 'no longer neutral' Eurovision",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dutch-pull-out-of-no-longer-neutral-eurovision/a-78482430?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T08:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher shortage meets record number of school children in Berlin and Brandenburg",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260824/teacher-shortage-in-berlin-and-brandenburg-meets-record-number-of-school-children",
-      "published_date": "2026-08-24T08:34:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Police used 'excessive force' on CJP protesters",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-police-used-excessive-force-on-cjp-protesters/live-78480551?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T08:05:00+00:00",
       "category": "Local Events"
     }
   ]
