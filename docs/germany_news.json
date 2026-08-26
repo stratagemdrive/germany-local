@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-25T23:17:32.798593+00:00",
+  "last_updated": "2026-08-26T11:22:36.660667+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Koalitionsklausur: Jetzt live: Merz, Klingbeil und Dobrindt zum Ende der Kabinettsklausur",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/koalitionsklausur-neuhardenberg-ergebnisse-reformen-pressekonferenz-live",
+      "published_date": "2026-08-26T10:46:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANALYSIS: The five big challenges facing Germany this September",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260826/analysis-the-five-big-challenges-facing-germany-this-september",
+      "published_date": "2026-08-26T08:16:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260826/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-135",
+      "published_date": "2026-08-26T06:13:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bundesregierung: Unionsfraktionschef Frei: Rückzug nie ein Thema für Merz",
       "source": "ZEIT Online",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Klimaschutz: Die Grünen fordern Merz zu Kurswechsel in der Klimapolitik auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/klima-notfallplan-gruene-friedrich-merz-cdu-klimapolitik-waldbrand-huertgenwald",
-      "published_date": "2026-08-23T20:08:49+00:00",
-      "category": "Diplomacy"
+      "title": "De Gaulle: Résistance review – a galloping bromance for Churchill and France’s wartime hero",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero",
+      "published_date": "2026-08-26T10:00:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on Andy Burnham’s foreign policy: work in progress | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
-      "published_date": "2026-08-23T17:30:38+00:00",
-      "category": "Diplomacy"
+      "title": "Despite international bans, landmines are back in force",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T05:18:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
+      "title": "US military kills 4 in Caribbean boat strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T04:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Poland, compassion for Ukrainians has turned to contempt. The consequences could be dramatic | Mateusz Mazzini",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-      "published_date": "2026-08-23T10:37:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/26/poland-ukrainians-compassion-contempt-warsaw-refugees-kyiv",
+      "published_date": "2026-08-26T04:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more",
+      "published_date": "2026-08-26T02:05:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
-      "published_date": "2026-08-24T16:59:53+00:00",
-      "category": "Military"
+      "title": "India: Assam tea industry faces climate-driven labor crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-assam-tea-industry-faces-climate-driven-labor-crisis/a-78506414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T11:03:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+      "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
-      "published_date": "2026-08-24T16:33:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham hands secret missile technology to Ukraine in first foreign trip - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-in-first-foreign-trip-the-latest",
-      "published_date": "2026-08-24T16:11:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham hands secret missile technology to Ukraine – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-the-latest",
-      "published_date": "2026-08-24T15:45:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nicola Jennings on Ukraine’s independence day – cartoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/24/nicola-jennings-ukraine-independence-day-cartoon",
-      "published_date": "2026-08-24T15:34:49+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+      "published_date": "2026-08-26T04:00:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Konzernumbau: Siemens Energy will Sparte TI verselbstständigen",
@@ -410,18 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Unwetter: Zwei Schwerzverletzte durch umgestürzten Baum in Rheinland-Pfalz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-08/unwetter-rheinland-pfalz-brandenburg-sturm",
-      "published_date": "2026-08-19T22:45:08+00:00",
-      "category": "Energy"
+      "title": "Gamescom 2026 highlights gaming industry's strength, AI challenges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gamescom-2026-highlights-gaming-industry-s-strength-ai-challenges/a-78502849?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-26T11:15:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany says Ukrainian man arrested over Nord Stream sabotage",
+      "title": "Gamescom 2026 highlights gaming industry's strength, AI challenges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gamescom-2026-highlights-gaming-industry-s-strength-ai-challenges/a-78502849?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T11:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VW-Betriebsversammlungen: VW will Management um ein Viertel verkleinern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/vw-sparkurs-oliver-blume-werke-emden-zwickau-hannover-neckarsulm-stellenabbau",
+      "published_date": "2026-08-26T11:14:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fußball-Bundesliga: Medien: Rückkehr von Diaby zu Bayer Leverkusen perfekt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/26/medien-rueckkehr-von-diaby-zu-bayer-leverkusen-perfekt",
+      "published_date": "2026-08-26T11:13:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Which drinks will Germany's coming 'sugar tax' really apply to?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260819/germany-says-ukrainian-man-arrested-over-nord-stream-sabotage",
-      "published_date": "2026-08-19T15:25:38+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.de/20260826/which-drinks-will-germanys-coming-sugar-tax-really-apply-to",
+      "published_date": "2026-08-26T11:02:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Digitales Bezahlen: Bundesbank will Wero und digitalen Euro verzahnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/wero-european-payments-initiative-digitaler-euro-bundesbank-lutz-lienenkaemper",
+      "published_date": "2026-08-26T10:41:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Sugar tax plan leaves sour taste",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-sugar-tax-plan-leaves-sour-taste/live-78504011?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-26T08:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Sugar tax plan leaves sour taste",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-sugar-tax-plan-leaves-sour-taste/live-78504011?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T08:45:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "ByteDance: TikTok muss in Brasilien mehr als 25 Millionen Euro Strafe zahlen",
@@ -455,6 +511,20 @@
       "title": "Will Volkswagen's crunch week decide Germany's auto future?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T13:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VW's future could shape Germany's car industry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vw-s-future-could-shape-germany-s-car-industry/a-78483715?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-25T13:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VW's future could shape Germany's car industry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vw-s-future-could-shape-germany-s-car-industry/a-78483715?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-25T13:57:00+00:00",
       "category": "Economy"
     },
@@ -494,74 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "German economic growth stronger than expected despite Iran war",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/german-economic-growth-stronger-than-expected-despite-iran-war",
-      "published_date": "2026-08-25T08:50:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-137",
-      "published_date": "2026-08-25T06:31:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen boss warns carmaker's situation 'more than critical'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260824/volkswagen-boss-warns-carmakers-situation-more-than-critical",
-      "published_date": "2026-08-24T08:40:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Spiraling health costs force Iranians to delay care",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T08:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump hits out at Canada over retaliatory tariffs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-23T07:31:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-22T22:12:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Schaden von einer Million Euro: Wohnhaus in Flammen - eine Person verletzt",
+      "title": "Manuela Schwesig: Schwesig gibt Bundesregierung Mitschuld an Umfragewerten der AfD",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/22/wohnhaus-in-flammen-eine-person-verletzt",
-      "published_date": "2026-08-21T22:03:26+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/manuela-schwesig-landtagswahl-mecklenburg-vorpommern-spd-afd",
+      "published_date": "2026-08-26T11:02:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany recognises record number of foreign qualifications",
+      "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/deadly-flash-flood-wipes-away-villages-in-nepal-tibet/a-78505576?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T09:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No first or second-class citizens': German president attacks ethno-nationalist ideology",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260821/germany-recognises-record-number-of-foreign-qualifications-2",
-      "published_date": "2026-08-21T09:39:23+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260826/no-first-or-second-class-citizens-german-president-attacks-ethno-nationalist-ideology",
+      "published_date": "2026-08-26T09:31:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
-      "published_date": "2026-08-21T04:00:24+00:00",
-      "category": "Economy"
+      "title": "Germany: Carnivalgoers rescued after being trapped on ride",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-carnivalgoers-rescued-after-being-trapped-on-ride/a-78504830?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-26T09:11:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
+      "title": "Germany: Carnivalgoers rescued after being trapped on ride",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-carnivalgoers-rescued-after-being-trapped-on-ride/a-78504830?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T09:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NYC: Mamdani opposes rally with Hindu nationalist leader",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nyc-mamdani-opposes-rally-with-hindu-nationalist-leader/a-78502850?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US robotaxi firm Waymo plans to launch in Munich",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260826/us-robotaxi-firm-waymo-plans-to-launch-in-munich",
+      "published_date": "2026-08-26T06:34:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan: Islamabad hospital fire kills at least 14 infants",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-at-least-14-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T05:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
-      "published_date": "2026-08-19T15:12:36+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
+      "published_date": "2026-08-26T04:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haiti: UN chief condemns Haiti attack that killed 47",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T01:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vor Landtagswahl: IWH: AfD-Regierung könnte Wirtschaftswachstum reduzieren",
@@ -592,6 +662,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Can Germany defend itself against drone attacks?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-germany-defend-itself-against-drone-attacks/a-78353414?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-25T14:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Germany defend itself against drone attacks?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-germany-defend-itself-against-drone-attacks/a-78353414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T14:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "FACT CHECK: How does postal voting in Germany really work?",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260825/fact-check-how-does-postal-voting-in-germany-really-work",
@@ -617,90 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/25/neue-sammelabschiebung-nach-afghanistan",
       "published_date": "2026-08-25T10:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Frank-Walter Steinmeier wendet sich gegen Ausgrenzung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/frank-walter-steinmeier-zuwanderung-rede-berlin",
-      "published_date": "2026-08-25T10:51:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T06:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-25T06:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T04:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tornado in France damages homes, injures dozens",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tornado-in-france-damages-homes-injures-dozens/a-78491206?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T02:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/25/ukraine-war-briefing-ozon-next-in-kyivs-sights-as-sheds-of-wildberries-rival-burn",
-      "published_date": "2026-08-25T01:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haiti: Gang members kill dozens near Port-au-Prince",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/haiti-gang-members-kill-dozens-near-port-au-prince/a-78491117?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T01:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Briefwahl in den USA: Supreme Court macht Weg für Trumps umstrittene Briefwahlregeln frei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/briefwahl-usa-donald-trump-usps-bundesrichterin",
-      "published_date": "2026-08-24T22:05:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/us-sanktionen-iran-wirtschaft-handelspartner-scott-bessent",
-      "published_date": "2026-08-24T21:33:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Sunday and the Italian month off | Brief letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/french-sunday-and-the-italian-month-off",
-      "published_date": "2026-08-24T17:32:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
-      "published_date": "2026-08-24T14:31:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran protest victim: 'They were shooting to kill'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T13:40:00+00:00",
       "category": "Local Events"
     }
   ]
