@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-27T04:09:24.707126+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-27T20:52:30.722802+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Friedrich Merz: Kanzler in der Krise",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/friedrich-merz-vertrauen-regierung-reformen-afd",
+      "published_date": "2026-08-27T17:55:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU demands Meta 'protect our kids' after US settlement",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260827/eu-demands-meta-to-protect-our-kids-after-us-settlement",
+      "published_date": "2026-08-27T14:13:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could new US sanctions tear China and Iran apart?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-new-us-sanctions-tear-china-and-iran-apart/a-78526205?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T12:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany hosts Denmark, Austria ahead of EU budget battle",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260827/germany-hosts-denmark-austria-ahead-of-eu-budget-battle",
+      "published_date": "2026-08-27T11:57:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CDU's Volkmann: Ukraine aid is not charity",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T08:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CDU's Volkmann: Ukraine aid is not charity",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-27T08:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz courts 'frugals' to trim EU budget",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-courts-frugals-to-trim-eu-budget/live-78519551?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-27T07:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz courts 'frugals' to trim EU budget",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-courts-frugals-to-trim-eu-budget/live-78519551?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T07:51:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Drohnenvorfall in Leipzig: »Sie werden dafür bezahlen« – aber wie?",
       "source": "ZEIT Online",
@@ -88,60 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can new US sanctions cripple Iran's shadow economy?",
+      "title": "The man behind Srebrenica: Ratko Mladic dies at 84",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-new-us-sanctions-cripple-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T10:34:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T19:28:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Middle East: Iran vows response to fresh US sanctions",
+      "title": "The man behind Srebrenica: Ratko Mladic dies at 84",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T10:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-27T19:28:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Q&A: What to know about holding a foreign bank account in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/qa-what-to-know-about-holding-a-foreign-bank-account-in-germany",
-      "published_date": "2026-08-25T10:10:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+      "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
-      "published_date": "2026-08-25T04:00:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
+      "published_date": "2026-08-27T19:26:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "New York: Annalena Baerbock wird offenbar Professorin an Columbia University",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/annalena-baerbock-professorin-new-york-columbia-university",
-      "published_date": "2026-08-24T20:57:10+00:00",
-      "category": "Diplomacy"
+      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
+      "published_date": "2026-08-27T16:12:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Friedrich Merz: Kann er die Regierung nach den Wahlen im Osten zusammenhalten?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/friedrich-merz-sachsen-anhalt-landtagswahl-bundesregierung",
-      "published_date": "2026-08-24T18:17:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: State premier visits VW for crisis talks",
+      "title": "Russian serviceman dies in car blast in St. Petersburg",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T07:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russian-serviceman-dies-in-car-blast-in-st-petersburg/a-78523656?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T16:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: State premier visits VW for crisis talks",
+      "title": "Ex-Bosnian Serb military leader Ratko Mladic dead at 84",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-24T07:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ex-bosnian-serb-military-leader-ratko-mladic-dead-at-84/a-78531323?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T12:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-Bosnian Serb military leader Ratko Mladic dead at 84",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ex-bosnian-serb-military-leader-ratko-mladic-dead-at-84/a-78531323?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-27T12:52:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US Army to spend $2 billion nuclear microreactors for bases",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T15:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Third drone and suspected military explosives found near Leipzig airport",
+      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/25/germany-drone-suspected-military-explosives-found-near-leipzig-airport",
-      "published_date": "2026-08-25T12:37:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Iran withdraw from nuclear non-proliferation treaty?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T12:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hind Rajab: 335 Kugeln, ein totes Kind",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/hind-rajab-tod-israel-sanitaeter-ermittlung",
-      "published_date": "2026-08-25T11:19:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "published_date": "2026-08-25T11:13:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/25/yorkshireman-briton-die-fighting-russia-ukraine",
-      "published_date": "2026-08-25T09:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-      "published_date": "2026-08-25T08:27:08+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
+      "published_date": "2026-08-27T08:00:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "The flat-pack skyscraper: how wood can shape the cities of the future",
@@ -294,6 +301,13 @@
       "title": "No, this wasn't a \"completely normal summer\", despite far-right climate denial",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T16:44:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Was the heat of this summer really 'normal?'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/was-the-heat-of-this-summer-really-normal/a-78513682?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-26T16:44:00+00:00",
       "category": "Energy"
     },
@@ -396,32 +410,25 @@
       "category": "Energy"
     },
     {
-      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
-      "published_date": "2026-08-20T17:41:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "LISTED: The new direct flights from Germany in Autumn 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260820/listed-the-new-direct-flights-from-germany-in-autumn-2026",
-      "published_date": "2026-08-20T09:44:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
-      "published_date": "2026-08-20T09:01:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How to better protect Europe from wildfires",
+      "title": "DW users on life in Russia: 'People are mad as hell'",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-20T09:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/dw-users-on-life-in-russia-people-are-mad-as-hell/a-78523454?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T11:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "DW users on life in Russia: 'People are mad as hell'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dw-users-on-life-in-russia-people-are-mad-as-hell/a-78523454?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-27T11:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why social media harms are hard to regulate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-social-media-harms-are-hard-to-regulate/a-78482023?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T09:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Flight attendant’s breast cancer was occupational disease, court rules",
@@ -441,6 +448,13 @@
       "title": "Gamescom 2026 highlights gaming industry's strength, AI challenges",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gamescom-2026-highlights-gaming-industry-s-strength-ai-challenges/a-78502849?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T11:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gamescom 2026: What's next for the gaming industry?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gamescom-2026-what-s-next-for-the-gaming-industry/a-78502849?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-26T11:15:00+00:00",
       "category": "Economy"
     },
@@ -536,32 +550,81 @@
       "category": "Economy"
     },
     {
-      "title": "Why Germany's Volkswagen could cut 100,000 jobs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-germany-s-volkswagen-could-cut-100-000-jobs/a-78483715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T13:57:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Germans swap friends for screens in their free time",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-swap-friends-for-screens-in-their-free-time/a-78497420?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-25T13:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Germans swap friends for screens in their free time",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-swap-friends-for-screens-in-their-free-time/a-78497420?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T13:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen-Umbau: VW sieht »etwa die Hälfte« der Stellenstreichungen in Deutschland",
+      "title": "Handball-Bundesliga: Füchse Berlin gewinnen Auftaktmatch gegen Melsungen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-08/volkswagen-umbau-oliver-blume-standorte-werkschliessungen",
-      "published_date": "2026-08-25T11:17:10+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-08/27/fuechse-berlin-gewinnen-auftaktmatch-gegen-melsungen",
+      "published_date": "2026-08-27T19:41:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions-League-Auslosung: Bayern München und BVB treffen in Gruppenphase auf Arsenal London",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/champions-league-auslosung-2024-ligaphase-modus-bayern-muenchen-borussia-dortmund-rb-leipzig-vfb-stuttgart",
+      "published_date": "2026-08-27T18:03:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambian opposition leader in police custody: state media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambian-opposition-leader-in-police-custody-state-media/a-78531338?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T15:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bronze age treasure stolen in four-minute Spanish museum heist",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist",
+      "published_date": "2026-08-27T15:47:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany",
+      "published_date": "2026-08-27T15:23:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal flooding: 'We are disconnected from Kathmandu'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nepal-flooding-we-are-disconnected-from-kathmandu/a-78536034?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T15:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two left dead in 'violent incident' at school near Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260827/two-dead-in-violent-incident-at-school-near-berlin",
+      "published_date": "2026-08-27T15:10:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Saxony-Anhalt's election mean for migrants?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-does-saxony-anhalt-s-election-mean-for-migrants/a-78504553?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-27T12:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Saxony-Anhalt's election mean for migrants?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-does-saxony-anhalt-s-election-mean-for-migrants/a-78504553?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T12:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who can vote in Germany's high-stakes state elections this September?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260827/who-can-vote-in-germanys-high-stakes-state-elections-this-september",
+      "published_date": "2026-08-27T10:41:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260827/today-in-germany-a-roundup-of-the-latest-news-on-thursday-133",
+      "published_date": "2026-08-27T06:34:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Nazis drove Bauhaus out of town. Now the far right is waging another war against the movement",
@@ -620,87 +683,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Frankfurt Airport workers die after malaria infection",
+      "title": "Saxony-Anhalt election: Why the AfD is so strong",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/frankfurt-airport-workers-die-after-malaria-infection/a-78512056?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-26T14:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frankfurt Airport workers die after malaria infection",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/frankfurt-airport-workers-die-after-malaria-infection/a-78512056?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T14:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant-owned shops close in Saxony-Anhalt as warning against far-right",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/migrant-owned-shops-close-in-saxony-anhalt-as-warning-against-far-right",
-      "published_date": "2026-08-26T13:47:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schufa: German credit-scoring agency accused of misusing customer data",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/schufa-german-credit-scoring-agency-accused-of-misusing-customer-data",
-      "published_date": "2026-08-26T13:35:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia after the polls: A test for democracy in Africa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambia-after-the-polls-a-test-for-democracy-in-africa/a-78509362?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T11:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manuela Schwesig: Schwesig gibt Bundesregierung Mitschuld an Umfragewerten der AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/manuela-schwesig-landtagswahl-mecklenburg-vorpommern-spd-afd",
-      "published_date": "2026-08-26T11:02:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deadly-flash-flood-wipes-away-villages-in-nepal-tibet/a-78505576?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T09:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No first or second-class citizens': German president attacks ethno-nationalist ideology",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/no-first-or-second-class-citizens-german-president-attacks-ethno-nationalist-ideology",
-      "published_date": "2026-08-26T09:31:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Carnivalgoers rescued after being trapped on ride",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-carnivalgoers-rescued-after-being-trapped-on-ride/a-78504830?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-26T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Carnivalgoers rescued after being trapped on ride",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-carnivalgoers-rescued-after-being-trapped-on-ride/a-78504830?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYC: Mamdani opposes rally with Hindu nationalist leader",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nyc-mamdani-opposes-rally-with-hindu-nationalist-leader/a-78502850?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T07:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Mamdani opposes RSS chief Mohan Bhagwat's NYC event",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-mamdani-opposes-rss-chief-mohan-bhagwat-s-nyc-event/a-78502850?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T07:54:00+00:00",
+      "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T14:24:00+00:00",
       "category": "Local Events"
     }
   ]
