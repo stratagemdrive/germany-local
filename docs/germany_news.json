@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-26T11:22:36.660667+00:00",
+  "last_updated": "2026-08-27T04:09:24.707126+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Drohnenvorfall in Leipzig: »Sie werden dafür bezahlen« – aber wie?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/drohne-leipzig-flughafen-friedrich-merz-nachrichtenpodcast",
+      "published_date": "2026-08-27T04:06:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump downplays Moscow visit by CIA director as ‘semi-routine’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit",
+      "published_date": "2026-08-26T18:21:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Koalitionsklausur: Jetzt live: Merz, Klingbeil und Dobrindt zum Ende der Kabinettsklausur",
       "source": "ZEIT Online",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260824/today-in-germany-a-roundup-of-the-latest-news-on-monday-136",
-      "published_date": "2026-08-24T06:37:19+00:00",
-      "category": "Diplomacy"
+      "title": "US Army to spend $2 billion nuclear microreactors for bases",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-army-to-spend-2-billion-nuclear-microreactors-for-bases/a-78518374?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T01:55:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Präsidentschaftswahl in Frankreich: Raphaël Glucksmann will in Frankreich für Präsidentschaft kandidieren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/raphael-glucksmann-praesidentschaft-frankreich-place-publique-ps",
-      "published_date": "2026-08-23T22:20:27+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Reboot of ‘fortress belt’ defences as Zelenskyy visits frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/27/ukraine-war-briefing-reboot-of-fortress-belt-defences-as-zelenskyy-visits-frontline",
+      "published_date": "2026-08-27T01:34:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-airstrike-on-bus-in-russian-occupied-luhansk-kills-9/a-78516673?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T17:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Evacuations planned after unexploded WWII bomb found in Berlin-Neukölln",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260826/evacuations-planned-after-unexploded-wwii-bomb-found-in-berlin-neukolln",
+      "published_date": "2026-08-26T13:50:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Syria become the focus of an Israeli-Turkish conflict?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T13:14:00+00:00",
+      "category": "Military"
     },
     {
       "title": "De Gaulle: Résistance review – a galloping bromance for Churchill and France’s wartime hero",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Reader Q&A: ask international correspondent Luke Harding a question now",
+      "title": "The flat-pack skyscraper: how wood can shape the cities of the future",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
-      "published_date": "2026-08-25T07:00:51+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/27/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future",
+      "published_date": "2026-08-27T04:00:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Künstliche Intelligenz: Ukraine und Großbritannien wollen KI für Militär gemeinsam nutzen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/militaerische-ki-ukraine-grossbritannien-drohnen-daten",
-      "published_date": "2026-08-24T22:49:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan: US proposes expanding UN arms embargo",
+      "title": "No, this wasn't a \"completely normal summer\", despite far-right climate denial",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T19:39:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T16:44:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+      "title": "​W​hy are European leaders staying silent after our summer of climate shock?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-      "published_date": "2026-08-24T18:16:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on Britain helping Ukraine: build the weapons independence Kyiv needs | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/the-guardian-view-on-britain-helping-ukraine-build-the-weapons-independence-kyiv-needs",
-      "published_date": "2026-08-24T17:53:47+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/26/why-are-european-leaders-staying-silent-after-our-summer-of-climate-shock",
+      "published_date": "2026-08-26T14:40:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "India: Assam tea industry faces climate-driven labor crisis",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "How to better protect Europe from wildfires",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T09:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How Europe can better protect against extreme wildfires",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-europe-can-better-protect-against-extreme-wildfires/a-78435243?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-20T09:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
+      "title": "Flight attendant’s breast cancer was occupational disease, court rules",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
-      "published_date": "2026-08-20T04:00:43+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease",
+      "published_date": "2026-08-26T14:36:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gamescom 2026 highlights gaming industry's strength, AI challenges",
@@ -529,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "Why Germany's Volkswagen could cut 100,000 jobs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germany-s-volkswagen-could-cut-100-000-jobs/a-78483715?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-25T13:57:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Germans swap friends for screens in their free time",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germans-swap-friends-for-screens-in-their-free-time/a-78497420?maca=en-rss-en-ger-1023-rdf",
@@ -550,18 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T10:34:00+00:00",
-      "category": "Economy"
+      "title": "The Nazis drove Bauhaus out of town. Now the far right is waging another war against the movement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/27/the-nazis-drove-bauhaus-out-of-town-now-the-far-right-is-waging-another-war-against-the-movement",
+      "published_date": "2026-08-27T04:00:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: »Seit der Elbphilharmonie lieben wir Baustellen!«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-08/elbvertiefung-27-08-2026",
+      "published_date": "2026-08-27T04:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "My home state is set to hand a breakthrough to the German far right. It’s a disaster decades in the making | Marcus Böick",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/27/fellow-east-germans-frustrations-afd-state-elections",
+      "published_date": "2026-08-27T04:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahlarena in Sachsen-Anhalt: Und auf einmal ist Ulrich Siegmund blank",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/wahlarena-mdr-sachsen-anhalt-ulrich-siegmund-sven-schulze",
+      "published_date": "2026-08-27T03:50:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Car rams crowd at bus stop in Caen",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T09:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T22:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Escape wizard’ who has broken out of four prisons is arrested in Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails",
+      "published_date": "2026-08-26T16:22:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: an AfD stronghold in Germany's east",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-26T14:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: an AfD stronghold in Germany's east",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T14:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frankfurt Airport workers die after malaria infection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/frankfurt-airport-workers-die-after-malaria-infection/a-78512056?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-26T14:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frankfurt Airport workers die after malaria infection",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/frankfurt-airport-workers-die-after-malaria-infection/a-78512056?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T14:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrant-owned shops close in Saxony-Anhalt as warning against far-right",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260826/migrant-owned-shops-close-in-saxony-anhalt-as-warning-against-far-right",
+      "published_date": "2026-08-26T13:47:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schufa: German credit-scoring agency accused of misusing customer data",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260826/schufa-german-credit-scoring-agency-accused-of-misusing-customer-data",
+      "published_date": "2026-08-26T13:35:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia after the polls: A test for democracy in Africa",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zambia-after-the-polls-a-test-for-democracy-in-africa/a-78509362?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T11:47:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Manuela Schwesig: Schwesig gibt Bundesregierung Mitschuld an Umfragewerten der AfD",
@@ -606,101 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "US robotaxi firm Waymo plans to launch in Munich",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/us-robotaxi-firm-waymo-plans-to-launch-in-munich",
-      "published_date": "2026-08-26T06:34:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Islamabad hospital fire kills at least 14 infants",
+      "title": "Why Mamdani opposes RSS chief Mohan Bhagwat's NYC event",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-at-least-14-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T05:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
-      "published_date": "2026-08-26T04:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haiti: UN chief condemns Haiti attack that killed 47",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T01:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vor Landtagswahl: IWH: AfD-Regierung könnte Wirtschaftswachstum reduzieren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/26/iwh-afd-regierung-koennte-wirtschaftswachstum-reduzieren",
-      "published_date": "2026-08-25T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Manuela Schwesig schließt SPD-Parteivorsitz aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/manuela-schwesig-spd-parteivorsitz-landtagswahl-mecklenburg-vorpommern",
-      "published_date": "2026-08-25T21:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vor der Landtagswahl: Umgang mit der AfD - Spitzenkandidaten üben Selbstkritik",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/25/umgang-mit-der-afd-spitzenkandidaten-ueben-selbstkritik",
-      "published_date": "2026-08-25T20:59:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the French left: division makes Marine Le Pen’s path to the Élysée more straightforward | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/the-guardian-view-on-the-french-left-division-makes-marine-le-pens-path-to-the-elysee-more-straightforward",
-      "published_date": "2026-08-25T17:27:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Germany defend itself against drone attacks?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-germany-defend-itself-against-drone-attacks/a-78353414?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-25T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Germany defend itself against drone attacks?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-germany-defend-itself-against-drone-attacks/a-78353414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FACT CHECK: How does postal voting in Germany really work?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/fact-check-how-does-postal-voting-in-germany-really-work",
-      "published_date": "2026-08-25T11:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiere in Hamburg: Stint, Aal und Co. - Viele Hamburger Fische sind gefährdet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/25/stint-aal-und-co-viele-hamburger-fische-sind-gefaehrdet",
-      "published_date": "2026-08-25T11:03:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabotageverdacht: Staatsschutz ermittelt nach Beschädigung von Kabeln bei Stuttgart",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-08/sabotage-bahn-backnang-kabel-polizei-staatsschutz-gxe",
-      "published_date": "2026-08-25T11:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abflug von Leipzig/Halle: Neue Sammelabschiebung nach Afghanistan",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/25/neue-sammelabschiebung-nach-afghanistan",
-      "published_date": "2026-08-25T10:54:24+00:00",
+      "url": "https://www.dw.com/en/why-mamdani-opposes-rss-chief-mohan-bhagwat-s-nyc-event/a-78502850?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-26T07:54:00+00:00",
       "category": "Local Events"
     }
   ]
