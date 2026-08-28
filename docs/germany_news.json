@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-28T06:26:20.438983+00:00",
-  "story_count": 97,
+  "last_updated": "2026-08-28T21:18:27.788448+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "UK urged to ban imports of Brazilian meat over health concerns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns",
+      "published_date": "2026-08-28T15:13:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T12:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-28T12:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What's the difference between Schengen and EU free movement rules?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260828/whats-the-difference-between-schengen-and-eu-free-movement-rules",
+      "published_date": "2026-08-28T09:36:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260828/today-in-germany-a-roundup-of-the-latest-news-on-friday-137",
+      "published_date": "2026-08-28T06:44:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Referendum zu Gesprächen: Heißes Votum im Norden – Island stimmt über EU-Kurs ab",
       "source": "ZEIT Online",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bundesregierung: Unionsfraktionschef Frei: Rückzug nie ein Thema für Merz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/26/unionsfraktionschef-frei-rueckzug-nie-ein-thema-fuer-merz",
-      "published_date": "2026-08-25T22:37:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-      "published_date": "2026-08-25T16:00:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
+      "published_date": "2026-08-28T17:05:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "As Iceland votes on the EU, which countries could be next to join?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/as-iceland-votes-on-the-eu-which-countries-could-be-next-to-join",
-      "published_date": "2026-08-25T15:24:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Germany's drone defense fails",
+      "title": "South Korea leans toward military conscription for women",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-25T14:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/south-korea-leans-toward-military-conscription-for-women/a-78547426?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T12:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "How Germany's drone defense fails",
+      "title": "Why Germany's military is betting on gamers",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T14:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/why-germany-s-military-is-betting-on-gamers/a-78536462?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-28T10:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Germany's military is betting on gamers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-germany-s-military-is-betting-on-gamers/a-78536462?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T10:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US judge rules Pentagon's blacklisting of Anthropic unlawful",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-judge-rules-pentagon-s-blacklisting-of-anthropic-unlawful/a-78542307?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T08:48:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Mondfinsternis: Wolken nahmen Sicht auf partielle Mondfinsternis",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "De Gaulle: Résistance review – a galloping bromance for Churchill and France’s wartime hero",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero",
-      "published_date": "2026-08-26T10:00:40+00:00",
-      "category": "Military"
+      "title": "Germany expected to miss its climate goal in 2026",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260828/germany-on-track-to-miss-its-climate-goal-in-2026",
+      "published_date": "2026-08-28T14:59:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Despite international bans, landmines are back in force",
+      "title": "What 'The Odyssey' can teach us about climate chaos",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T05:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military kills 4 in Caribbean boat strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T04:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Poland, compassion for Ukrainians has turned to contempt. The consequences could be dramatic | Mateusz Mazzini",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/26/poland-ukrainians-compassion-contempt-warsaw-refugees-kyiv",
-      "published_date": "2026-08-26T04:00:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more",
-      "published_date": "2026-08-26T02:05:52+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/what-the-odyssey-can-teach-us-about-climate-chaos/a-78545407?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T12:52:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
@@ -396,11 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "40 years after the Lake Nyos disaster in Cameroon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-21T14:00:00+00:00",
-      "category": "Energy"
+      "title": "Generation Deutschland: AfD-Jugendorganisation distanziert sich von Austritt aus dem Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/generation-deutschland-afd-euro-austritt-jean-pascal-hohm",
+      "published_date": "2026-08-28T20:38:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "DW users on life in Russia: 'People are mad as hell'",
@@ -536,11 +550,130 @@
       "category": "Economy"
     },
     {
-      "title": "VW's future could shape Germany's car industry",
+      "title": "Bundesliga, 1. Spieltag – Freitag: Bayern schlägt Stuttgart im Auftaktspiel der Bundesliga",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/bundeslilga-erster-spieltag-bayern-muenchen-vfb-stuttgart",
+      "published_date": "2026-08-28T20:52:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fußball-Bundesliga: Bayern-Traumstart mit Zauberer Olise gegen Stuttgart",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/28/bayern-traumstart-mit-zauberer-olise-gegen-stuttgart",
+      "published_date": "2026-08-28T20:46:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Baltic summit plans hybrid-threat task force",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vw-s-future-could-shape-germany-s-car-industry/a-78483715?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-25T13:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-baltic-summit-plans-hybrid-threat-task-force/live-78540334?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-28T19:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Baltic summit plans hybrid-threat task force",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-baltic-summit-plans-hybrid-threat-task-force/live-78540334?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T19:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dennis Radtke: »War schon schön, aber ist jetzt so«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/dennis-radtke-cdu-europaparlament-migration-shitstorm",
+      "published_date": "2026-08-28T18:45:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/28/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-08-28T18:06:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New heart attack definition promises better care for women",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/28/doctors-care-revolution-agree-first-universal-definition-heart-attack",
+      "published_date": "2026-08-28T17:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Man gets life in jail for US tourist's rape, murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-man-gets-life-in-jail-for-us-tourist-s-rape-murder/a-78550472?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-28T15:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Man gets life in jail for US tourist's rape, murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-man-gets-life-in-jail-for-us-tourist-s-rape-murder/a-78550472?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T15:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+      "published_date": "2026-08-28T14:46:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Harald V of Norway obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/king-harald-v-of-norway-obituary",
+      "published_date": "2026-08-28T14:07:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rwanda genocide: Dutch court sentences man to life in prison",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rwanda-genocide-dutch-court-sentences-man-to-life-in-prison/a-78547749?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T12:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's citizen-led school audits test limits of activism",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T11:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal-Tibet flood deaths pass 500, thousands still missing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nepal-tibet-flood-deaths-pass-500-thousands-still-missing/a-78539559?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T11:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Which countries have citizens killed or missing after Nepal-Tibet flash flood?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/which-countries-citizens-dead-missing-nepal-tibet-flash-flood",
+      "published_date": "2026-08-28T10:55:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could your next apartment in Germany be in a former office building?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260828/could-your-next-apartment-in-germany-be-in-a-former-office-building",
+      "published_date": "2026-08-28T10:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southern Germany lashed by strong winds and supercell storms on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260828/southern-germany-lashed-by-strong-winds-and-supercell-storms-on-friday",
+      "published_date": "2026-08-28T09:23:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cross-border transport between Salzburg and Bavaria to get easier after EU funding boost",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260828/cross-border-transport-between-salzburg-and-bavaria-to-get-easier-after-eu-funding-boost",
+      "published_date": "2026-08-28T08:20:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nepal-China floods: Death toll climbs amid new flood risk",
@@ -554,132 +687,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller",
       "published_date": "2026-08-28T06:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erneute Drohnensichtung: Wieder Aufsehen wegen Drohne in Halle/Leipzig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/28/wieder-aufsehen-wegen-drohne-in-halle-leipzig",
-      "published_date": "2026-08-28T05:55:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From maligned second city to Insta magnet: Marseille isFrance’s new capital of overtourism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/28/from-maligned-second-city-to-insta-magnet-marseille-is-frances-new-capital-of-overtourism",
-      "published_date": "2026-08-28T04:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters set fire to migrant camp in Ceuta",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T00:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters set fire to migrant camp in Ceuta",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-28T00:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tech giants urge global response to AI cybersecurity threats",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tech-giants-urge-global-response-to-ai-cybersecurity-threats/a-78538592?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T21:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Handball-Bundesliga: Füchse Berlin gewinnen Auftaktmatch gegen Melsungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/27/fuechse-berlin-gewinnen-auftaktmatch-gegen-melsungen",
-      "published_date": "2026-08-27T19:41:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions-League-Auslosung: Bayern München und BVB treffen in Gruppenphase auf Arsenal London",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/champions-league-auslosung-2024-ligaphase-modus-bayern-muenchen-borussia-dortmund-rb-leipzig-vfb-stuttgart",
-      "published_date": "2026-08-27T18:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambian opposition leader in police custody: state media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/zambian-opposition-leader-in-police-custody-state-media/a-78531338?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T15:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bronze age treasure stolen in four-minute Spanish museum heist",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist",
-      "published_date": "2026-08-27T15:47:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany",
-      "published_date": "2026-08-27T15:23:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal flooding: 'We are disconnected from Kathmandu'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-flooding-we-are-disconnected-from-kathmandu/a-78536034?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T15:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two left dead in 'violent incident' at school near Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260827/two-dead-in-violent-incident-at-school-near-berlin",
-      "published_date": "2026-08-27T15:10:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does Saxony-Anhalt's election mean for migrants?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-does-saxony-anhalt-s-election-mean-for-migrants/a-78504553?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-27T12:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does Saxony-Anhalt's election mean for migrants?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-does-saxony-anhalt-s-election-mean-for-migrants/a-78504553?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T12:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who can vote in Germany's high-stakes state elections this September?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260827/who-can-vote-in-germanys-high-stakes-state-elections-this-september",
-      "published_date": "2026-08-27T10:41:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260827/today-in-germany-a-roundup-of-the-latest-news-on-thursday-133",
-      "published_date": "2026-08-27T06:34:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Nazis drove Bauhaus out of town. Now the far right is waging another war against the movement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/the-nazis-drove-bauhaus-out-of-town-now-the-far-right-is-waging-another-war-against-the-movement",
-      "published_date": "2026-08-27T04:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: »Seit der Elbphilharmonie lieben wir Baustellen!«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-08/elbvertiefung-27-08-2026",
-      "published_date": "2026-08-27T04:00:06+00:00",
       "category": "Local Events"
     }
   ]
