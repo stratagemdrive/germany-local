@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-27T20:52:30.722802+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-28T06:26:20.438983+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Referendum zu Gesprächen: Heißes Votum im Norden – Island stimmt über EU-Kurs ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/28/heisses-votum-im-norden-island-stimmt-ueber-eu-kurs-ab",
+      "published_date": "2026-08-28T06:00:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Friedrich Merz: Kanzler in der Krise",
       "source": "ZEIT Online",
@@ -42,6 +49,13 @@
       "title": "CDU's Volkmann: Ukraine aid is not charity",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-27T08:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CDU's Volkmann: Ukraine aid is not charity",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-08-27T08:30:00+00:00",
       "category": "Diplomacy"
     },
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "German chancellor Merz pledges government action on climate",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/german-chancellor-merz-pledges-government-action-on-climate",
-      "published_date": "2026-08-25T14:17:09+00:00",
-      "category": "Diplomacy"
+      "title": "Mondfinsternis: Wolken nahmen Sicht auf partielle Mondfinsternis",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/mondfinsternis-partiell-deutschland-sichtbarkeit-wetter",
+      "published_date": "2026-08-28T06:03:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hitzewelle in Deutschland: Friedrich Merz kündigt Konsequenzen aus Hitzewelle an",
+      "title": "Gesellschaftlicher Wandel: Von Russland lernen, heißt verlieren lernen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/hitzewelle-deutschland-friedrich-merz-tote-cdu",
-      "published_date": "2026-08-25T10:40:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/gesellschaftlicher-wandel-russland-usa-deutschland-demokratie",
+      "published_date": "2026-08-28T05:38:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Missiles shot down during long Russian attack wave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/ukraine-war-briefing-missiles-shot-down-during-long-russian-attack-wave",
+      "published_date": "2026-08-28T01:12:08+00:00",
+      "category": "Military"
     },
     {
       "title": "The man behind Srebrenica: Ratko Mladic dies at 84",
@@ -260,27 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more",
       "published_date": "2026-08-26T02:05:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T18:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-25T18:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CIA director in Moscow for meetings — US media reports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T16:23:00+00:00",
       "category": "Military"
     },
     {
@@ -403,13 +403,6 @@
       "category": "Energy"
     },
     {
-      "title": "What happens to people’s health when air pollution is reduced?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/what-happens-peoples-health-when-air-pollution-reduced",
-      "published_date": "2026-08-21T05:00:26+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "DW users on life in Russia: 'People are mad as hell'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/dw-users-on-life-in-russia-people-are-mad-as-hell/a-78523454?maca=en-rss-en-all-1573-rdf",
@@ -427,6 +420,13 @@
       "title": "Why social media harms are hard to regulate",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-social-media-harms-are-hard-to-regulate/a-78482023?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T09:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why social media addiction is so hard to regulate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-social-media-addiction-is-so-hard-to-regulate/a-78482023?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-27T09:25:00+00:00",
       "category": "Economy"
     },
@@ -543,11 +543,53 @@
       "category": "Economy"
     },
     {
-      "title": "VW's future could shape Germany's car industry",
+      "title": "Nepal-China floods: Death toll climbs amid new flood risk",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/vw-s-future-could-shape-germany-s-car-industry/a-78483715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T13:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/nepal-china-floods-death-toll-climbs-amid-new-flood-risk/a-78539559?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T06:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Secret Woman review – Claes Bang is dastardly gaslighter in Danish amnesia thriller",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller",
+      "published_date": "2026-08-28T06:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erneute Drohnensichtung: Wieder Aufsehen wegen Drohne in Halle/Leipzig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/28/wieder-aufsehen-wegen-drohne-in-halle-leipzig",
+      "published_date": "2026-08-28T05:55:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From maligned second city to Insta magnet: Marseille isFrance’s new capital of overtourism",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/28/from-maligned-second-city-to-insta-magnet-marseille-is-frances-new-capital-of-overtourism",
+      "published_date": "2026-08-28T04:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters set fire to migrant camp in Ceuta",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T00:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters set fire to migrant camp in Ceuta",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-28T00:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tech giants urge global response to AI cybersecurity threats",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tech-giants-urge-global-response-to-ai-cybersecurity-threats/a-78538592?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T21:44:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Handball-Bundesliga: Füchse Berlin gewinnen Auftaktmatch gegen Melsungen",
@@ -638,55 +680,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/hamburg/2026-08/elbvertiefung-27-08-2026",
       "published_date": "2026-08-27T04:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My home state is set to hand a breakthrough to the German far right. It’s a disaster decades in the making | Marcus Böick",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/27/fellow-east-germans-frustrations-afd-state-elections",
-      "published_date": "2026-08-27T04:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlarena in Sachsen-Anhalt: Und auf einmal ist Ulrich Siegmund blank",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/wahlarena-mdr-sachsen-anhalt-ulrich-siegmund-sven-schulze",
-      "published_date": "2026-08-27T03:50:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Car rams crowd at bus stop in Caen",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T22:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Escape wizard’ who has broken out of four prisons is arrested in Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails",
-      "published_date": "2026-08-26T16:22:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: an AfD stronghold in Germany's east",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-26T14:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: an AfD stronghold in Germany's east",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T14:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt election: Why the AfD is so strong",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T14:24:00+00:00",
       "category": "Local Events"
     }
   ]
