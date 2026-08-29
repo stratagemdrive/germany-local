@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-28T21:18:27.788448+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-29T03:58:14.169022+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Island: Island stimmt ab – zurück an den EU-Verhandlungstisch?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/island-eu-beitrittsverhandlungen-nachrichtenpodcast",
+      "published_date": "2026-08-29T03:55:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain asks EU's Frontex for help in processing Ceuta migrants",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-asks-eu-s-frontex-for-help-in-processing-ceuta-migrants/a-78553545?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T21:23:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK urged to ban imports of Brazilian meat over health concerns",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ANALYSIS: The five big challenges facing Germany this September",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/analysis-the-five-big-challenges-facing-germany-this-september",
-      "published_date": "2026-08-26T08:16:27+00:00",
-      "category": "Diplomacy"
+      "title": "Niger: Gunfire and explosions heard in capital",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/niger-gunfire-and-explosions-heard-in-capital/a-78554001?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T03:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-135",
-      "published_date": "2026-08-26T06:13:43+00:00",
-      "category": "Diplomacy"
+      "title": "Bundesnachrichtendienst: Spione bitten zum Gaming: BND umwirbt Nachwuchs auf Gamescom",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/29/spione-bitten-zum-gaming-bnd-umwirbt-nachwuchs-auf-gamescom",
+      "published_date": "2026-08-29T03:05:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-briefing-long-range-strikes-on-russia-tripled",
+      "published_date": "2026-08-29T01:26:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+      "title": "US, Venezuela announce 'historic' oil deal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-airstrike-on-bus-in-russian-occupied-luhansk-kills-9/a-78516673?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T17:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evacuations planned after unexploded WWII bomb found in Berlin-Neukölln",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/evacuations-planned-after-unexploded-wwii-bomb-found-in-berlin-neukolln",
-      "published_date": "2026-08-26T13:50:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Syria become the focus of an Israeli-Turkish conflict?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T13:14:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-28T23:23:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany expected to miss its climate goal in 2026",
@@ -550,6 +557,27 @@
       "category": "Economy"
     },
     {
+      "title": "Elektronische Fußfessel: CDU kritisiert Umgang mit Gefährdern in Hamburg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/29/cdu-kritisiert-umgang-mit-gefaehrdern-in-hamburg",
+      "published_date": "2026-08-29T03:30:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sexualisierte Gewalt im Netz: CDU-Frauen wollen schärfere Maßnahmen gegen digitale Gewalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/29/cdu-frauen-wollen-schaerfere-massnahmen-gegen-digitale-gewalt",
+      "published_date": "2026-08-29T03:15:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reformvorhaben: Bärbel Bas stellt geplante Krankschreibung ab erstem Tag infrage",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/attestpflicht-krankschreibung-beschaeftigte-baerbel-bas-spd",
+      "published_date": "2026-08-29T01:56:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bundesliga, 1. Spieltag – Freitag: Bayern schlägt Stuttgart im Auftaktspiel der Bundesliga",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-08/bundeslilga-erster-spieltag-bayern-muenchen-vfb-stuttgart",
@@ -666,27 +694,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260828/southern-germany-lashed-by-strong-winds-and-supercell-storms-on-friday",
       "published_date": "2026-08-28T09:23:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cross-border transport between Salzburg and Bavaria to get easier after EU funding boost",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260828/cross-border-transport-between-salzburg-and-bavaria-to-get-easier-after-eu-funding-boost",
-      "published_date": "2026-08-28T08:20:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal-China floods: Death toll climbs amid new flood risk",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-china-floods-death-toll-climbs-amid-new-flood-risk/a-78539559?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T06:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Secret Woman review – Claes Bang is dastardly gaslighter in Danish amnesia thriller",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller",
-      "published_date": "2026-08-28T06:00:50+00:00",
       "category": "Local Events"
     }
   ]
