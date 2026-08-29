@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-29T03:58:14.169022+00:00",
+  "last_updated": "2026-08-29T15:23:50.479643+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Abschiebezentren in Ruanda: Ruanda bestätigt Gespräche mit EU-Staaten über Abschiebezentren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/ruanda-abschiebezentren-eu-asyl-deutschland",
+      "published_date": "2026-08-29T15:09:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia keeps EU, Russia in play ahead of key election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T07:19:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia keeps EU, Russia in play ahead of key election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-29T07:19:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland holds knife-edge referendum on EU membership talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iceland-holds-knife-edge-referendum-on-eu-membership-talks/a-78554025?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T06:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: PM Modi leaves for Central Asian tour",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-pm-modi-leaves-for-central-asian-tour/live-78554796?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T06:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sovereignty, farming and fishing: Iceland votes on its future with the EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/sovereignty-farming-and-fishing-iceland-votes-on-its-future-with-the-eu",
+      "published_date": "2026-08-29T06:00:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Island: Island stimmt ab – zurück an den EU-Verhandlungstisch?",
       "source": "ZEIT Online",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "CDU's Volkmann: Ukraine aid is not charity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-27T08:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz courts 'frugals' to trim EU budget",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-courts-frugals-to-trim-eu-budget/live-78519551?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-27T07:51:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz courts 'frugals' to trim EU budget",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-courts-frugals-to-trim-eu-budget/live-78519551?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T07:51:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Drohnenvorfall in Leipzig: »Sie werden dafür bezahlen« – aber wie?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-08/drohne-leipzig-flughafen-friedrich-merz-nachrichtenpodcast",
-      "published_date": "2026-08-27T04:06:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump downplays Moscow visit by CIA director as ‘semi-routine’",
+      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit",
-      "published_date": "2026-08-26T18:21:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
+      "published_date": "2026-08-29T15:06:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Koalitionsklausur: Jetzt live: Merz, Klingbeil und Dobrindt zum Ende der Kabinettsklausur",
+      "title": "Krieg gegen die Ukraine: Selenskyj kritisiert Lagerung von Munition nahe Wohngebieten",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/koalitionsklausur-neuhardenberg-ergebnisse-reformen-pressekonferenz-live",
-      "published_date": "2026-08-26T10:46:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-08-29T14:42:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger's defense ministry says soldiers attempted mutiny",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/niger-s-defense-ministry-says-soldiers-attempted-mutiny/a-78554001?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T12:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Love under anti-drone nets: Ukrainian couple wed in Kramatorsk combat zone",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-family-wedding-eastern-frontline-russia",
+      "published_date": "2026-08-29T06:00:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Niger: Gunfire and explosions heard in capital",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ex-Bosnian Serb military leader Ratko Mladic dead at 84",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-bosnian-serb-military-leader-ratko-mladic-dead-at-84/a-78531323?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T12:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-Bosnian Serb military leader Ratko Mladic dead at 84",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-bosnian-serb-military-leader-ratko-mladic-dead-at-84/a-78531323?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-27T12:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Army to spend $2 billion nuclear microreactors for bases",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-army-to-spend-2-billion-nuclear-microreactors-for-bases/a-78518374?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T01:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Reboot of ‘fortress belt’ defences as Zelenskyy visits frontline",
+      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraine-war-briefing-reboot-of-fortress-belt-defences-as-zelenskyy-visits-frontline",
-      "published_date": "2026-08-27T01:34:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+      "published_date": "2026-08-29T05:00:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "US, Venezuela announce 'historic' oil deal",
@@ -407,13 +414,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260823/six-eu-countries-urge-windfall-tax-on-energy-firms",
       "published_date": "2026-08-23T10:37:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260822/heatwave-hit-europe-logs-over-30000-excess-summer-deaths",
-      "published_date": "2026-08-22T08:53:02+00:00",
       "category": "Energy"
     },
     {
@@ -557,6 +557,62 @@
       "category": "Economy"
     },
     {
+      "title": "Russian strike on ammunition depot near Kyiv kills dozens",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-strike-on-ammunition-depot-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T14:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sachsen-Anhalt: Sachsen-Anhalt – verblühte Landschaften?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-08/sachsen-anhalt-menschen-afd-nachrichtenpodcast",
+      "published_date": "2026-08-29T14:31:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drohnenvorfall in Leipzig: Bundesregierung sieht offenbar Russland hinter Drohnenvorfall",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/drohnenanschlag-flughafen-leipzig-russland-sprengstoff-drohne-gxe",
+      "published_date": "2026-08-29T14:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+      "published_date": "2026-08-29T13:34:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Sick leave wage bill doubles in 15 years",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-sick-leave-wage-bill-doubles-in-15-years/live-78555302?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-29T12:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Sick leave wage bill doubles in 15 years",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-sick-leave-wage-bill-doubles-in-15-years/live-78555302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T12:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US, Ecuador forces strike alleged drug smuggling boat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-ecuador-forces-strike-alleged-drug-smuggling-boat/a-78555711?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 200,000 forced deportees received by Haiti, UN says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nearly-200-000-forced-deportees-received-by-haiti-un-says/a-78554006?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T04:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Elektronische Fußfessel: CDU kritisiert Umgang mit Gefährdern in Hamburg",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/29/cdu-kritisiert-umgang-mit-gefaehrdern-in-hamburg",
@@ -638,62 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-man-gets-life-in-jail-for-us-tourist-s-rape-murder/a-78550472?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-28T15:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-      "published_date": "2026-08-28T14:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Harald V of Norway obituary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/king-harald-v-of-norway-obituary",
-      "published_date": "2026-08-28T14:07:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rwanda genocide: Dutch court sentences man to life in prison",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rwanda-genocide-dutch-court-sentences-man-to-life-in-prison/a-78547749?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's citizen-led school audits test limits of activism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T11:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal-Tibet flood deaths pass 500, thousands still missing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-tibet-flood-deaths-pass-500-thousands-still-missing/a-78539559?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T11:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Which countries have citizens killed or missing after Nepal-Tibet flash flood?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/which-countries-citizens-dead-missing-nepal-tibet-flash-flood",
-      "published_date": "2026-08-28T10:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could your next apartment in Germany be in a former office building?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260828/could-your-next-apartment-in-germany-be-in-a-former-office-building",
-      "published_date": "2026-08-28T10:28:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southern Germany lashed by strong winds and supercell storms on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260828/southern-germany-lashed-by-strong-winds-and-supercell-storms-on-friday",
-      "published_date": "2026-08-28T09:23:16+00:00",
       "category": "Local Events"
     }
   ]
