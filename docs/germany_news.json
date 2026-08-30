@@ -1,13 +1,41 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-29T15:23:50.479643+00:00",
+  "last_updated": "2026-08-30T00:55:09.798462+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-29T23:09:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T23:09:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T15:34:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Abschiebezentren in Ruanda: Ruanda bestätigt Gespräche mit EU-Staaten über Abschiebezentren",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/2026-08/ruanda-abschiebezentren-eu-asyl-deutschland",
       "published_date": "2026-08-29T15:09:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland votes on whether to resume EU membership talks",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260829/iceland-votes-on-whether-to-resume-eu-membership-talks",
+      "published_date": "2026-08-29T11:01:44+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Could new US sanctions tear China and Iran apart?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-new-us-sanctions-tear-china-and-iran-apart/a-78526205?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T12:37:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg in der Ukraine: AKW Saporischschja seit mehr als einer Woche vom Stromnetz getrennt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/akw-saporischschja-stromversorgung-iaea-russland-ukraine",
+      "published_date": "2026-08-29T22:41:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany hosts Denmark, Austria ahead of EU budget battle",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260827/germany-hosts-denmark-austria-ahead-of-eu-budget-battle",
-      "published_date": "2026-08-27T11:57:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CDU's Volkmann: Ukraine aid is not charity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T08:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CDU's Volkmann: Ukraine aid is not charity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cdu-s-volkmann-ukraine-aid-is-not-charity/a-78517659?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-27T08:30:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russland: Finnlands Präsident hält russischen Nato-Angriff für unwahrscheinlich",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/alexander-stubb-finnland-russland-nato-angriff-2029",
+      "published_date": "2026-08-29T22:02:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
@@ -263,24 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
-      "published_date": "2026-08-27T19:26:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "published_date": "2026-08-27T16:12:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian serviceman dies in car blast in St. Petersburg",
+      "title": "Ratko Mladic, the man behind Srebrenica massacre, dies at 84",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-serviceman-dies-in-car-blast-in-st-petersburg/a-78523656?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T16:00:00+00:00",
+      "url": "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-27T19:28:00+00:00",
       "category": "Military"
     },
     {
@@ -417,6 +417,20 @@
       "category": "Energy"
     },
     {
+      "title": "Russian-American heads Trump's planned Caucasus trade route",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T16:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Russian-American heads Trump's planned Caucasus trade route",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-08-29T16:20:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Generation Deutschland: AfD-Jugendorganisation distanziert sich von Austritt aus dem Euro",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/generation-deutschland-afd-euro-austritt-jean-pascal-hohm",
@@ -543,18 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Will Volkswagen's crunch week decide Germany's auto future?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-25T13:57:00+00:00",
-      "category": "Economy"
+      "title": "Für mehr Solidarität: Tausende Teilnehmer bei Demo-Rave in Hamburg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/30/tausende-teilnehmer-bei-demo-rave-in-hamburg",
+      "published_date": "2026-08-29T23:49:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Will Volkswagen's crunch week decide Germany's auto future?",
+      "title": "Ehemalige Bundeskanzlerin: Angela Merkel ruft zu Kampf für Demokratie auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/angela-merkel-afd-sachsen-anhalt-landtagswahl-demokratie",
+      "published_date": "2026-08-29T21:29:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers attack Palestinian homes in West Bank",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T13:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T19:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 1. Spieltag – Samstag: Dortmund siegt gegen Hamburg, Aufsteiger Elversberg schlägt Leverkusen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-08/fussball-bundesliga-1-spieltag-2026-27-borussia-dortmund-hamburger-sv-bayer-leverkusen",
+      "published_date": "2026-08-29T18:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zimbabwe crash involving church minibus kills 27",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zimbabwe-crash-involving-church-minibus-kills-27/a-78558710?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T17:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt election: Why the AfD is so strong",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-29T16:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt election: Why the AfD is so strong",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-29T16:17:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russian strike on ammunition depot near Kyiv kills dozens",
@@ -599,10 +648,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Berlin mayor says city being 'blackmailed' after cyberattack",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260829/berlin-being-blackmailed-after-cyberattack",
+      "published_date": "2026-08-29T11:26:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US, Ecuador forces strike alleged drug smuggling boat",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-ecuador-forces-strike-alleged-drug-smuggling-boat/a-78555711?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-29T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: The fascist urge to attack Bauhaus and the 'real' city of love",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260829/inside-germany-the-fascist-urge-to-attack-bauhaus-and-the-real-city-of-love",
+      "published_date": "2026-08-29T07:44:07+00:00",
       "category": "Local Events"
     },
     {
@@ -631,69 +694,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/attestpflicht-krankschreibung-beschaeftigte-baerbel-bas-spd",
       "published_date": "2026-08-29T01:56:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 1. Spieltag – Freitag: Bayern schlägt Stuttgart im Auftaktspiel der Bundesliga",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/bundeslilga-erster-spieltag-bayern-muenchen-vfb-stuttgart",
-      "published_date": "2026-08-28T20:52:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball-Bundesliga: Bayern-Traumstart mit Zauberer Olise gegen Stuttgart",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/28/bayern-traumstart-mit-zauberer-olise-gegen-stuttgart",
-      "published_date": "2026-08-28T20:46:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Baltic summit plans hybrid-threat task force",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-baltic-summit-plans-hybrid-threat-task-force/live-78540334?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-28T19:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Baltic summit plans hybrid-threat task force",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-baltic-summit-plans-hybrid-threat-task-force/live-78540334?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T19:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dennis Radtke: »War schon schön, aber ist jetzt so«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/dennis-radtke-cdu-europaparlament-migration-shitstorm",
-      "published_date": "2026-08-28T18:45:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/28/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-08-28T18:06:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New heart attack definition promises better care for women",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/28/doctors-care-revolution-agree-first-universal-definition-heart-attack",
-      "published_date": "2026-08-28T17:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Man gets life in jail for US tourist's rape, murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-man-gets-life-in-jail-for-us-tourist-s-rape-murder/a-78550472?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-28T15:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Man gets life in jail for US tourist's rape, murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-man-gets-life-in-jail-for-us-tourist-s-rape-murder/a-78550472?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T15:22:00+00:00",
       "category": "Local Events"
     }
   ]
