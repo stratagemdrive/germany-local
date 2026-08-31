@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-30T15:07:57.809063+00:00",
+  "last_updated": "2026-08-31T01:00:39.530138+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Fact check: Germany's Merz misstates record in ARD interview",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-30T19:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fact check: Germany's Merz misstates record in ARD interview",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-30T19:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Friedrich Merz: Mit der Kraft der Schildkröte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/friedrich-merz-sommerinterview-bundeskanzler",
+      "published_date": "2026-08-30T19:40:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jason Arday accuser given three-month teaching ban but can continue research",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
+      "published_date": "2026-08-30T15:35:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU wants drones to spray pesticides — but it could backfire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-30T15:11:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
       "source": "The Guardian",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Island: Island stimmt ab – zurück an den EU-Verhandlungstisch?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-08/island-eu-beitrittsverhandlungen-nachrichtenpodcast",
-      "published_date": "2026-08-29T03:55:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain asks EU's Frontex for help in processing Ceuta migrants",
+      "title": "Iran war: US military strikes Iran's Larak Island",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-asks-eu-s-frontex-for-help-in-processing-ceuta-migrants/a-78553545?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T21:23:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK urged to ban imports of Brazilian meat over health concerns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns",
-      "published_date": "2026-08-28T15:13:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T12:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-28T12:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T00:20:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ratko Mladić, the ‘Butcher of Bosnia’, could not escape death. But his fascist ideas and ideology live on | Ed Vulliamy",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "The man behind Srebrenica: Ratko Mladic dies at 84",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T19:28:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
@@ -408,6 +408,13 @@
       "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
       "published_date": "2026-08-24T05:00:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
+      "published_date": "2026-08-30T16:30:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russian-American heads Trump's planned Caucasus trade route",
@@ -543,11 +550,39 @@
       "category": "Economy"
     },
     {
-      "title": "Canada announces retaliatory tariffs on US goods",
+      "title": "Germany news: Merz warns of 'problems' in Saxony-Anhalt under AfD",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-25T15:17:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-30T18:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Merz warns of 'problems' in Saxony-Anhalt under AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-30T18:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the rise of Germany’s AfD: mainstream parties must deliver a bolder response | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-the-rise-of-germanys-afd-mainstream-parties-must-deliver-a-bolder-response",
+      "published_date": "2026-08-30T16:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Christian Churches take a stand against far right",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-30T15:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Christian Churches take a stand against far right",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-30T15:56:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deutsche Eishockey Liga: Eisbären Berlin gewinnen Test gegen Lausitzer Füchse mit 3:1",
@@ -652,41 +687,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/30/sweden-neo-nazi-resistance-2016-tess-asplund-far-right",
       "published_date": "2026-08-30T07:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal issues fresh flood warning as 3,000 still missing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T06:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Für mehr Solidarität: Tausende Teilnehmer bei Demo-Rave in Hamburg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/30/tausende-teilnehmer-bei-demo-rave-in-hamburg",
-      "published_date": "2026-08-29T23:49:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ehemalige Bundeskanzlerin: Angela Merkel ruft zu Kampf für Demokratie auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/angela-merkel-afd-sachsen-anhalt-landtagswahl-demokratie",
-      "published_date": "2026-08-29T21:29:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers attack Palestinian homes in West Bank",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T19:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 1. Spieltag – Samstag: Dortmund siegt gegen Hamburg, Aufsteiger Elversberg schlägt Leverkusen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-08/fussball-bundesliga-1-spieltag-2026-27-borussia-dortmund-hamburger-sv-bayer-leverkusen",
-      "published_date": "2026-08-29T18:32:13+00:00",
       "category": "Local Events"
     }
   ]
