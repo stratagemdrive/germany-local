@@ -1,8 +1,92 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-31T01:00:39.530138+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-31T17:47:00.776245+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "G20-Treffen in den USA: Klingbeil kritisiert Teilnahme Russlands bei G20-Finanzministertreffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/g20-treffen-asheville-lars-klingbeil-russland-anton-siluanow",
+      "published_date": "2026-08-31T17:32:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern : Merz bei erstem Wahlkampfauftritt in Mecklenburg-Vorpommern beschimpft",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/friedrich-merz-cdu-wahlkampf-kuehlungsborn-mecklenburg-vorpommern",
+      "published_date": "2026-08-31T16:42:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BYD, Geely, Xpeng: Germany’s Vaunted Auto Industry in Dire Straits Amid Chinese Surge",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/business/byd-geely-xpeng-germany-vaunted-auto-industry-in-dire-straits-amid-chinese-surge-a-6a3dfa2e-b95f-4c12-83a4-9cc5add8d5a6#ref=rss",
+      "published_date": "2026-08-31T16:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Court says India must uphold Pakistan water treaty",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/court-says-india-must-uphold-pakistan-water-treaty/a-78579010?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T14:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/31/germany-leipzig-drone-attack-ukrainian-plane",
+      "published_date": "2026-08-31T14:14:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU puts ChatGPT, Reddit and Roblox under stricter rules",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T13:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin-Modi meeting at SCO: Can Russia-India ties hold?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/putin-modi-meeting-at-sco-can-russia-india-ties-hold/a-78575121?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T12:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sweden ends aid to Liberia in a hammer blow to women’s rights and healthcare",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/aug/31/sweden-ends-aid-liberia-hammer-blow-womens-healthcare",
+      "published_date": "2026-08-31T11:00:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
+      "published_date": "2026-08-31T10:21:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Warning to Europe': How Iceland's 'No' vote is a blow to the EU",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260831/warning-to-europe-how-icelands-no-vote-is-a-blow-to-the-eu",
+      "published_date": "2026-08-31T08:12:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260831/today-in-germany-a-roundup-of-the-latest-news-on-monday-137",
+      "published_date": "2026-08-31T06:40:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics",
+      "published_date": "2026-08-31T06:00:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fact check: Germany's Merz misstates record in ARD interview",
       "source": "Deutsche Welle",
@@ -60,88 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iceland votes 'No' to resuming EU talks",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260830/iceland-votes-no-to-resuming-eu-talks",
-      "published_date": "2026-08-30T10:01:37+00:00",
-      "category": "Diplomacy"
+      "title": "At Venice Film Festival, politics take center stage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/at-venice-film-festival-politics-take-center-stage/a-78493761?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T14:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
+      "title": "Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T13:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger's failed coup exposes cracks in the military — and Russia's influence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T11:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel signs €3 billion arms export deal with Greece",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-signs-€3-billion-arms-export-deal-with-greece/a-78572062?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T10:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Black Garden review – haunting study of growing up in war-torn Nagorno-Karabakh",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
-      "published_date": "2026-08-30T09:37:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-29T23:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T23:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T15:34:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abschiebezentren in Ruanda: Ruanda bestätigt Gespräche mit EU-Staaten über Abschiebezentren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-08/ruanda-abschiebezentren-eu-asyl-deutschland",
-      "published_date": "2026-08-29T15:09:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland votes on whether to resume EU membership talks",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260829/iceland-votes-on-whether-to-resume-eu-membership-talks",
-      "published_date": "2026-08-29T11:01:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Serbia keeps EU, Russia in play ahead of key election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T07:19:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Serbia keeps EU, Russia in play ahead of key election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-29T07:19:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland holds knife-edge referendum on EU membership talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iceland-holds-knife-edge-referendum-on-eu-membership-talks/a-78554025?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T06:35:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: PM Modi leaves for Central Asian tour",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-pm-modi-leaves-for-central-asian-tour/live-78554796?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T06:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sovereignty, farming and fishing: Iceland votes on its future with the EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/29/sovereignty-farming-and-fishing-iceland-votes-on-its-future-with-the-eu",
-      "published_date": "2026-08-29T06:00:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/aug/31/the-black-garden-review-haunting-study-of-growing-up-in-war-torn-nagorno-karabakh",
+      "published_date": "2026-08-31T06:00:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: US military strikes Iran's Larak Island",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why Germany's military is betting on gamers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-germany-s-military-is-betting-on-gamers/a-78536462?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T10:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US judge rules Pentagon's blacklisting of Anthropic unlawful",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-judge-rules-pentagon-s-blacklisting-of-anthropic-unlawful/a-78542307?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T08:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mondfinsternis: Wolken nahmen Sicht auf partielle Mondfinsternis",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/mondfinsternis-partiell-deutschland-sichtbarkeit-wetter",
-      "published_date": "2026-08-28T06:03:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gesellschaftlicher Wandel: Von Russland lernen, heißt verlieren lernen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/gesellschaftlicher-wandel-russland-usa-deutschland-demokratie",
-      "published_date": "2026-08-28T05:38:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Missiles shot down during long Russian attack wave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/ukraine-war-briefing-missiles-shot-down-during-long-russian-attack-wave",
-      "published_date": "2026-08-28T01:12:08+00:00",
-      "category": "Military"
+      "title": "Global comparison reveals Germany has highest energy prices in the G20",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260831/global-comparison-reveals-germany-has-highest-energy-prices-in-the-g20",
+      "published_date": "2026-08-31T08:42:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
@@ -389,25 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo",
-      "published_date": "2026-08-24T10:26:03+00:00",
-      "category": "Energy"
+      "title": "German inflation rises with energy costs as US-Iran war drags on",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260831/german-inflation-rises-with-energy-costs-as-us-iran-war-drags-on",
+      "published_date": "2026-08-31T14:54:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+      "title": "Tariffs spat: Carney bets Canada can defy Trump",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-24T05:18:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
-      "published_date": "2026-08-24T05:00:53+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T13:38:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
@@ -536,18 +536,88 @@
       "category": "Economy"
     },
     {
-      "title": "ByteDance: TikTok muss in Brasilien mehr als 25 Millionen Euro Strafe zahlen",
+      "title": "Landtagswahl in Sachsen-Anhalt: Kubicki verweist auf Verfassungsrecht gegen mögliche AfD-Regierung",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/2026-08/tiktok-brasilien-datenschutz-anpd-bytedance-minderjaehrige",
-      "published_date": "2026-08-25T21:52:30+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/wolfgang-kubicki-afd-sachsen-anhalt-regierung-art-37-gg",
+      "published_date": "2026-08-31T17:35:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
+      "title": "AfD: AfD-Landeschef Holm für gezielte Zuwanderung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-08/31/afd-landeschef-holm-fuer-gezielte-zuwanderung",
+      "published_date": "2026-08-31T17:16:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet the woman who photographed Germany from its trains",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260831/meet-the-woman-who-photographed-germany-from-its-trains",
+      "published_date": "2026-08-31T14:57:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How China buried Tibet flood images after Nepal disaster",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T14:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Saxony-Anhalt, Sven Schulze takes on far-right AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-saxony-anhalt-sven-schulze-takes-on-far-right-afd/a-78509861?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-31T12:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Saxony-Anhalt, Sven Schulze takes on far-right AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-saxony-anhalt-sven-schulze-takes-on-far-right-afd/a-78509861?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T12:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is the AfD pushing for a harder German citizenship test?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260831/why-is-the-afd-pushing-for-a-harder-german-citizenship-test",
+      "published_date": "2026-08-31T11:30:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swiss police arrest man over deadly rave shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/swiss-police-arrest-man-over-deadly-rave-shooting/a-78575110?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T11:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 20 people still missing after ferry capsizes ⁠off northern Cyprus",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
-      "published_date": "2026-08-25T15:47:56+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/31/missing-ferry-capsizes-cyprus",
+      "published_date": "2026-08-31T09:49:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya: Passengers stranded amid airport staff strike",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kenya-passengers-stranded-amid-airport-staff-strike/a-78570644?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T09:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Summer was 2nd hottest of the century — DWD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-summer-was-2nd-hottest-of-the-century-dwd/live-78568957?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I’m giving birth as a battle rages over maternity care in Ireland. We shouldn’t have to pay to feel safe | Caelainn Hogan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/ireland-maternity-care-birth-pay-safe-state-care",
+      "published_date": "2026-08-31T04:00:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany news: Merz warns of 'problems' in Saxony-Anhalt under AfD",
@@ -585,108 +655,24 @@
       "category": "Local Events"
     },
     {
+      "title": "German churches speak out against AfD ahead of state election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-churches-speak-out-against-afd-ahead-of-state-election/a-78482465?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-30T15:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German churches speak out against AfD ahead of state election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-churches-speak-out-against-afd-ahead-of-state-election/a-78482465?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-30T15:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Deutsche Eishockey Liga: Eisbären Berlin gewinnen Test gegen Lausitzer Füchse mit 3:1",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-08/30/eisbaeren-berlin-gewinnen-test-gegen-lausitzer-fuechse-mit-3-1",
       "published_date": "2026-08-30T15:05:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Schuss ins Bein: Mann in Bremen schwer verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/30/schuss-ins-bein-mann-in-bremen-schwer-verletzt",
-      "published_date": "2026-08-30T15:03:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 22, killed and five injured in shooting at Swiss rave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
-      "published_date": "2026-08-30T15:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NRW-Fest in Münster: «Hunderttausende Besucher» - Land zufrieden mit NRW-Fest",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/30/hunderttausende-besucher-land-zufrieden-mit-nrw-fest",
-      "published_date": "2026-08-30T14:57:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes – latest updates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
-      "published_date": "2026-08-30T14:41:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested over fatal stabbing of British woman in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/man-arrested-fatal-stabbing-british-woman-germany-rosenheim-train-station",
-      "published_date": "2026-08-30T13:27:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six dead after ferry carrying nearly 270 capsizes off northern Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-      "published_date": "2026-08-30T13:14:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Politicians call for ban on radical AfD state branches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-politicians-call-for-ban-on-radical-afd-state-branches/live-78555302?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-30T13:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Politicians call for ban on radical AfD state branches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-politicians-call-for-ban-on-radical-afd-state-branches/live-78555302?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T13:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutschland spricht: An diesen Orten diskutieren heute Tausende Menschen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/deutschland-spricht-debatte-diskussion-gespraeche-karte",
-      "published_date": "2026-08-30T13:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy may ban staring at your phone while crossing the street. Why stop there? | Dave Schilling",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/italy-phone-street-ban",
-      "published_date": "2026-08-30T11:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's citizen-led school audits test limits of activism",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manhunt underway after woman killed in Swiss rave shooting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/manhunt-underway-after-woman-killed-in-swiss-rave-shooting/a-78561106?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T08:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Some migrants ready to pack bags fearing far-right win in east German state",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260830/some-migrants-ready-to-pack-bags-fearing-far-right-win-in-east-german-state",
-      "published_date": "2026-08-30T08:48:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A lone Black woman’s defiance of Swedish neo-Nazis, 10 years on",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/sweden-neo-nazi-resistance-2016-tess-asplund-far-right",
-      "published_date": "2026-08-30T07:00:50+00:00",
       "category": "Local Events"
     }
   ]
