@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-08-31T17:47:00.776245+00:00",
+  "last_updated": "2026-09-01T01:31:22.239532+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Ukraine war briefing: Pressure stays on Russian economy until war is over, says Bessent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent",
+      "published_date": "2026-09-01T01:03:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Freihandel: EU stoppt Fleischimporte aus Brasilien wegen Antibiotikaregeln",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/eu-einfuhrstopp-fleisch-brasilien-antibiotika-importe-mercosur",
+      "published_date": "2026-09-01T00:00:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "G20-Treffen in den USA: Klingbeil kritisiert Teilnahme Russlands bei G20-Finanzministertreffen",
       "source": "ZEIT Online",
@@ -88,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
+      "published_date": "2026-08-31T04:00:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Fact check: Germany's Merz misstates record in ARD interview",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-ger-1023-rdf",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-      "published_date": "2026-08-30T14:57:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Referendum in Island : Island stimmt gegen EU-Beitrittsverhandlungen",
+      "title": "Édouard Balladur: Früherer französischer Premierminister Balladur ist tot",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/referendum-island-eu-beitrittsgespraeche-ergebnis-gxe",
-      "published_date": "2026-08-30T13:45:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland voters reject EU accession talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iceland-voters-reject-eu-accession-talks/a-78560633?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T10:21:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-08/edouard-balladur-frankreich-premierminister-tod",
+      "published_date": "2026-08-31T20:55:22+00:00",
+      "category": "Military"
     },
     {
       "title": "At Venice Film Festival, politics take center stage",
@@ -274,13 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/south-korea-leans-toward-military-conscription-for-women/a-78547426?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-28T12:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Germany's military is betting on gamers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-germany-s-military-is-betting-on-gamers/a-78536462?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-28T10:03:00+00:00",
       "category": "Military"
     },
     {
@@ -536,6 +536,34 @@
       "category": "Economy"
     },
     {
+      "title": "Weißes Haus: Supreme Court erlaubt vorerst \nWeiterbau von Trumps Ballsaal",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-ballsaal-weisses-haus-supreme-court",
+      "published_date": "2026-09-01T00:39:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court allows Trump ballroom project to proceed",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T21:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland launches sabotage probe in drone factory fire",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-launches-sabotage-probe-in-drone-factory-fire/a-78580918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-08-31T19:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
+      "published_date": "2026-08-31T18:37:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Landtagswahl in Sachsen-Anhalt: Kubicki verweist auf Verfassungsrecht gegen mögliche AfD-Regierung",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-08/wolfgang-kubicki-afd-sachsen-anhalt-regierung-art-37-gg",
@@ -613,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Summer was 2nd hottest of the century — DWD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-summer-was-2nd-hottest-of-the-century-dwd/live-78568957?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-08-31T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "I’m giving birth as a battle rages over maternity care in Ireland. We shouldn’t have to pay to feel safe | Caelainn Hogan",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/31/ireland-maternity-care-birth-pay-safe-state-care",
@@ -638,41 +673,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-the-rise-of-germanys-afd-mainstream-parties-must-deliver-a-bolder-response",
       "published_date": "2026-08-30T16:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Christian Churches take a stand against far right",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-30T15:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Christian Churches take a stand against far right",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T15:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German churches speak out against AfD ahead of state election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-churches-speak-out-against-afd-ahead-of-state-election/a-78482465?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-08-30T15:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German churches speak out against AfD ahead of state election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-churches-speak-out-against-afd-ahead-of-state-election/a-78482465?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T15:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: Eisbären Berlin gewinnen Test gegen Lausitzer Füchse mit 3:1",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/30/eisbaeren-berlin-gewinnen-test-gegen-lausitzer-fuechse-mit-3-1",
-      "published_date": "2026-08-30T15:05:08+00:00",
       "category": "Local Events"
     }
   ]
