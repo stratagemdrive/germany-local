@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-01T15:21:03.839609+00:00",
+  "last_updated": "2026-09-02T00:42:00.127171+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+      "published_date": "2026-09-01T17:52:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "War and sanctions deepen Iran's fuel crisis",
       "source": "Deutsche Welle",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Warning to Europe': How Iceland's 'No' vote is a blow to the EU",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260831/warning-to-europe-how-icelands-no-vote-is-a-blow-to-the-eu",
-      "published_date": "2026-08-31T08:12:13+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Russian sky full of our drones and not safe, Zelenskyy warns airlines",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/02/ukraine-war-briefing-russian-sky-full-of-our-drones-and-not-safe-zelenskyy-warns-airlines",
+      "published_date": "2026-09-02T00:35:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj warnt Airlines vor Flügen über Russland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-09-02T00:20:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russischer Angriffskrieg: Putin spricht bei Vormarsch in der Ukraine von Fortschritten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/02/putin-spricht-bei-vormarsch-in-der-ukraine-von-fortschritten",
+      "published_date": "2026-09-01T22:24:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: US, Tehran trade fire in new flare-up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-01T20:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
+      "published_date": "2026-09-01T17:23:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Mladic's death, Bosnia and Serbia's unfinished reckoning",
@@ -249,44 +284,23 @@
       "category": "Military"
     },
     {
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, could not escape death. But his fascist ideas and ideology live on | Ed Vulliamy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/ratko-mladic-butcher-bosnia-death-legacy-serbia",
-      "published_date": "2026-08-30T13:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guinea-Bissau votes to reshape presidency",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/guinea-bissau-votes-to-reshape-presidency/a-78562523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-30T12:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg in der Ukraine: AKW Saporischschja seit mehr als einer Woche vom Stromnetz getrennt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/akw-saporischschja-stromversorgung-iaea-russland-ukraine",
-      "published_date": "2026-08-29T22:41:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russland: Finnlands Präsident hält russischen Nato-Angriff für unwahrscheinlich",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/alexander-stubb-finnland-russland-nato-angriff-2029",
-      "published_date": "2026-08-29T22:02:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
-      "published_date": "2026-08-29T15:06:07+00:00",
-      "category": "Military"
+      "title": "Explosives used in sabotage attack on German power lines",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260901/explosives-used-in-sabotage-attack-on-german-power-lines",
+      "published_date": "2026-09-01T21:13:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany news: Explosive devices found near power plant",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-explosive-devices-found-near-power-plant/live-78583741?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-01T10:07:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany news: Explosive devices found near power plant",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-explosive-devices-found-near-power-plant/live-78583741?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-01T10:07:00+00:00",
       "category": "Energy"
     },
@@ -382,18 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "Konzernumbau: Siemens Energy will Sparte TI verselbstständigen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/25/siemens-energy-will-sparte-ti-verselbststaendigen",
-      "published_date": "2026-08-25T20:28:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'We're heading for catastrophe': The summer climate change hit Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260825/were-heading-for-catastrophe-the-summer-climate-change-hit-europe",
-      "published_date": "2026-08-25T15:51:09+00:00",
-      "category": "Energy"
+      "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+      "published_date": "2026-09-01T18:52:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cyberangriff : Berliner Senat bestätigt Millionenforderung von Hackern",
@@ -529,11 +536,67 @@
       "category": "Economy"
     },
     {
-      "title": "Which drinks will Germany's coming 'sugar tax' really apply to?",
+      "title": "Germany blames Russia for drone attack at Leipzig airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+      "published_date": "2026-09-01T23:48:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahl: SPD holt laut Umfrage in Mecklenburg-Vorpommern auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-umfrage-afd-spd-manuela-schwesig",
+      "published_date": "2026-09-01T23:06:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-01T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-01T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-01T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens arrested after fatal pre-dawn shootout in Dutch village",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village",
+      "published_date": "2026-09-01T22:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany terminates lease for Berlin's Russian House",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-01T16:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany terminates lease for Berlin's Russian House",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-01T16:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin rainbow bench commemorating Pride attack victims vandalised",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260826/which-drinks-will-germanys-coming-sugar-tax-really-apply-to",
-      "published_date": "2026-08-26T11:02:58+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260901/berlin-rainbow-bench-commemorating-pride-attack-victims-vandalised",
+      "published_date": "2026-09-01T15:31:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Autobahnsperrung: A7 bei Hamburg am Wochenende 55 Stunden voll gesperrt",
@@ -592,87 +655,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany's center-left SPD is fighting for survival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-center-left-spd-is-fighting-for-survival/a-78586448?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-01T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's center-left SPD is fighting for survival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-center-left-spd-is-fighting-for-survival/a-78586448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-01T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "German word of the day: Eingewöhnen",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260901/german-word-of-the-day-eingewohnen",
       "published_date": "2026-09-01T11:01:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal flood: Death toll tops 1,000 as rescue continues",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T10:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Times Square stabbing in NYC leaves 1 dead, assailant killed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/times-square-stabbing-in-nyc-leaves-1-dead-assailant-killed/a-78582543?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ulrich Siegmund wants to make Saxony-Anhalt a model for AfD rule",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ulrich-siegmund-wants-to-make-saxony-anhalt-a-model-for-afd-rule/a-78579499?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-01T04:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ulrich Siegmund wants to make Saxony-Anhalt a model for AfD rule",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ulrich-siegmund-wants-to-make-saxony-anhalt-a-model-for-afd-rule/a-78579499?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T04:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weißes Haus: Supreme Court erlaubt vorerst \nWeiterbau von Trumps Ballsaal",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-ballsaal-weisses-haus-supreme-court",
-      "published_date": "2026-09-01T00:39:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court allows Trump ballroom project to proceed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-31T21:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland launches sabotage probe in drone factory fire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-launches-sabotage-probe-in-drone-factory-fire/a-78580918?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-31T19:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
-      "published_date": "2026-08-31T18:37:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Kubicki verweist auf Verfassungsrecht gegen mögliche AfD-Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/wolfgang-kubicki-afd-sachsen-anhalt-regierung-art-37-gg",
-      "published_date": "2026-08-31T17:35:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD: AfD-Landeschef Holm für gezielte Zuwanderung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-08/31/afd-landeschef-holm-fuer-gezielte-zuwanderung",
-      "published_date": "2026-08-31T17:16:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet the woman who photographed Germany from its trains",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260831/meet-the-woman-who-photographed-germany-from-its-trains",
-      "published_date": "2026-08-31T14:57:03+00:00",
       "category": "Local Events"
     }
   ]
