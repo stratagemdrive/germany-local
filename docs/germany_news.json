@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-02T14:52:49.693084+00:00",
-  "story_count": 94,
+  "last_updated": "2026-09-03T00:52:39.079522+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+      "published_date": "2026-09-02T23:47:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "published_date": "2026-09-02T21:30:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions halt TOEFL and GRE tests in Iran, disrupting study plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-sanctions-halt-toefl-and-gre-tests-in-iran-disrupting-study-plans/a-78764639?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-02T14:56:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Außenministertreffen in Irland: Nach Leipzig: Russland droht massives Sanktionspaket der EU",
       "source": "ZEIT Online",
@@ -67,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany hits Russia with sanctions over airport drone 'hybrid attack'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260901/germany-expected-to-blame-russia-for-airport-drone-incident",
+      "published_date": "2026-09-01T13:05:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Will Bangladesh join the Mecca defense alliance?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/will-bangladesh-join-the-mecca-defense-alliance/a-78613944?maca=en-rss-en-all-1573-rdf",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine war briefing: Pressure stays on Russian economy until war is over, says Bessent",
+      "title": "Flugsicherheit: UN-Organisation ruft zu verstärktem Schutz von Passagiermaschinen auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-09/icao-passagierflugzeuge-russischer-luftraum-wolodymyr-selenskyj",
+      "published_date": "2026-09-02T22:58:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bayeux tapestry loan symbolises ‘entente amicale’ between France and UK, says King Charles",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent",
-      "published_date": "2026-09-01T01:03:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Freihandel: EU stoppt Fleischimporte aus Brasilien wegen Antibiotikaregeln",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-08/eu-einfuhrstopp-fleisch-brasilien-antibiotika-importe-mercosur",
-      "published_date": "2026-09-01T00:00:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G20-Treffen in den USA: Klingbeil kritisiert Teilnahme Russlands bei G20-Finanzministertreffen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/g20-treffen-asheville-lars-klingbeil-russland-anton-siluanow",
-      "published_date": "2026-08-31T17:32:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern : Merz bei erstem Wahlkampfauftritt in Mecklenburg-Vorpommern beschimpft",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/friedrich-merz-cdu-wahlkampf-kuehlungsborn-mecklenburg-vorpommern",
-      "published_date": "2026-08-31T16:42:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/02/bayeux-tapestry-loan-symbolises-entente-amicale-between-france-and-uk-says-king-charles",
+      "published_date": "2026-09-02T18:58:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Édouard Balladur: Früherer französischer Premierminister Balladur ist tot",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-08/edouard-balladur-frankreich-premierminister-tod",
-      "published_date": "2026-08-31T20:55:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At Venice Film Festival, politics take center stage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/at-venice-film-festival-politics-take-center-stage/a-78493761?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-31T14:05:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Germany investigates two acts of sabotage on its power grid",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260902/germany-investigates-two-acts-of-sabotage-on-its-power-grid",
@@ -301,6 +301,13 @@
       "title": "Germany news: Police probe suspected power station attacks",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-police-probe-suspected-power-station-attacks/live-78669282?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-02T06:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany news: Police probe suspected power station attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-probe-suspected-power-station-attacks/live-78669282?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-02T06:30:00+00:00",
       "category": "Energy"
     },
@@ -379,20 +386,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/27/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future",
       "published_date": "2026-08-27T04:00:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "No, this wasn't a \"completely normal summer\", despite far-right climate denial",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T16:44:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Was the heat of this summer really 'normal?'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/was-the-heat-of-this-summer-really-normal/a-78513682?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-26T16:44:00+00:00",
       "category": "Energy"
     },
     {
@@ -522,6 +515,55 @@
       "category": "Economy"
     },
     {
+      "title": "US: 3 dead including suspect in Minneapolis shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T00:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rheinland-Pfalz: Flüssigkeitsattacke auf AfD-Stand verletzt neun Menschen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/afd-infostand-angriff-bad-kreuznach-rheinland-pfalz",
+      "published_date": "2026-09-02T22:02:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin's punitive measures unlikely to deter Putin: experts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-02T17:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin's punitive measures unlikely to deter Putin: experts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-02T17:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig airport attack fallout exposes Germany’s deepening divide over Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/02/leipzig-airport-attack-fallout-lays-bare-germanys-polarisation-on-russia",
+      "published_date": "2026-09-02T17:07:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia's hybrid attacks on Germany: When is it 'war?'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-02T15:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia's hybrid attacks on Germany: When is it 'war?'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-02T15:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
@@ -610,55 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-01T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens arrested after fatal pre-dawn shootout in Dutch village",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village",
-      "published_date": "2026-09-01T22:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany terminates lease for Berlin's Russian House",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-01T16:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany terminates lease for Berlin's Russian House",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T16:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin rainbow bench commemorating Pride attack victims vandalised",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260901/berlin-rainbow-bench-commemorating-pride-attack-victims-vandalised",
-      "published_date": "2026-09-01T15:31:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Autobahnsperrung: A7 bei Hamburg am Wochenende 55 Stunden voll gesperrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/01/a7-bei-hamburg-am-wochenende-55-stunden-voll-gesperrt",
-      "published_date": "2026-09-01T15:11:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drohnenvorfall in Leipzig: Jetzt auch offiziell Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-09/drohnenvorfall-leipzig-flughafen-nachrichtenpodcast",
-      "published_date": "2026-09-01T15:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Auseinandersetzung: AfD fordert Antworten nach Auseinandersetzung in Mannheim",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/01/afd-fordert-antworten-nach-auseinandersetzung-in-mannheim",
-      "published_date": "2026-09-01T15:00:04+00:00",
       "category": "Local Events"
     }
   ]
