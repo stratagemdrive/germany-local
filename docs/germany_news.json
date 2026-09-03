@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-03T00:52:39.079522+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-03T14:49:58.040741+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Rise of far-right Vannacci poses dilemma for Meloni as she celebrates Italian milestone",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/roberto-vannacci-far-right-party-futuro-nazionale-dilemma-meloni",
+      "published_date": "2026-09-03T14:25:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Malaysia's middle path between China and US faces new tests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/malaysia-s-middle-path-between-china-and-us-faces-new-tests/a-78865212?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran bets on shadow networks to evade US sanctions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-bets-on-shadow-networks-to-evade-us-sanctions/a-78863283?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T11:59:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
       "source": "The Guardian",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says it will return to ceasefire if US does",
+      "title": "Wahlkampf in Sachsen-Anhalt: »Ach, das war ja wieder Schwäbisch«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlkampf-sachsen-anhalt-gruene-landtagswahl-baden-wuerttemberg",
+      "published_date": "2026-09-03T14:47:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin denies fresh mobilization campaign in Ukraine war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-says-it-will-return-to-ceasefire-if-us-does/a-78586314?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T10:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/putin-denies-fresh-mobilization-campaign-in-ukraine-war/a-78843002?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T14:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260901/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-138",
-      "published_date": "2026-09-01T06:39:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
+      "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/iceland-ties-eu-no-vote-not-brexit-style-rejection",
-      "published_date": "2026-09-01T04:00:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
+      "published_date": "2026-09-03T14:04:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: Jaishankar offers help to end war in Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-jaishankar-offers-help-to-end-war-in-ukraine/live-78815659?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T11:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The wars in Ukraine and Iran are becoming dangerously enmeshed | Christopher S Chivvis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump",
+      "published_date": "2026-09-03T10:00:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany sees record high petrol prices as Trump's war in Iran drags on",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/germany-sees-record-high-petrol-prices-as-trumps-war-in-iran-drags-on",
+      "published_date": "2026-09-03T08:11:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Australia to boost defense ties amid China's growing influence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-australia-to-boost-defense-ties-amid-china-s-growing-influence/a-78815760?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T07:09:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Flugsicherheit: UN-Organisation ruft zu verstärktem Schutz von Passagiermaschinen auf",
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-01T13:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mladic's death, Bosnia and Serbia's unfinished reckoning",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-01T13:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
-      "published_date": "2026-09-01T09:59:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Munich becomes defence tech hub as Europe rearms",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260901/munich-becomes-defence-tech-hub-as-europe-rearms",
-      "published_date": "2026-09-01T07:58:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russia threatens 'devastating' Baltic response",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T06:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russia threatens 'devastating' Baltic response",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-01T06:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
-      "published_date": "2026-09-01T04:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War of words: my language lessons in Ukraine – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/01/war-of-words-my-language-lessons-in-ukraine-podcast",
-      "published_date": "2026-09-01T02:00:41+00:00",
       "category": "Military"
     },
     {
@@ -375,18 +375,25 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "published_date": "2026-08-27T08:00:08+00:00",
-      "category": "Energy"
+      "title": "Is Germany's economic slump finally over?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-03T12:30:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The flat-pack skyscraper: how wood can shape the cities of the future",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/27/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future",
-      "published_date": "2026-08-27T04:00:06+00:00",
-      "category": "Energy"
+      "title": "Is Germany's economic slump finally over?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T12:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/today-in-germany-a-roundup-of-the-latest-news-on-thursday-134",
+      "published_date": "2026-09-03T06:32:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
@@ -487,171 +494,143 @@
       "category": "Economy"
     },
     {
-      "title": "DW users on life in Russia: 'People are mad as hell'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dw-users-on-life-in-russia-people-are-mad-as-hell/a-78523454?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T11:54:00+00:00",
-      "category": "Economy"
+      "title": "Hybrider Krieg mit Russland: Staatssekretär nennt BSW und AfD »vaterlandslose Gesellen«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/christoph-de-vries-sahra-wagenknecht-russland-cdu-anschlag-leipzig",
+      "published_date": "2026-09-03T14:47:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "DW users on life in Russia: 'People are mad as hell'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dw-users-on-life-in-russia-people-are-mad-as-hell/a-78523454?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-27T11:54:00+00:00",
-      "category": "Economy"
+      "title": "Five Bavarian festivals with cheaper beer than Oktoberfest this September",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/five-bavarian-festivals-with-cheaper-beer-than-oktoberfest-this-september",
+      "published_date": "2026-09-03T14:29:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why social media harms are hard to regulate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-social-media-harms-are-hard-to-regulate/a-78482023?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T09:25:00+00:00",
-      "category": "Economy"
+      "title": "Video von Rapper: Jens Spahn geht gegen Äußerungen von Ski Aggu in Twitch-Video vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/jens-spahn-ski-aggu-video-rap-drogen-satire",
+      "published_date": "2026-09-03T14:10:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why social media addiction is so hard to regulate",
+      "title": "Work and Stay: Will Germany’s flagship immigration agency change anything?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/work-and-stay-will-germanys-flagship-immigration-agency-change-anything",
+      "published_date": "2026-09-03T14:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Ceuta border breach was leapt on by Europe’s right. That doesn’t absolve Spain | María Ramírez",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ceuta-border-breach-spain-response-europe",
+      "published_date": "2026-09-03T13:29:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "published_date": "2026-09-03T12:52:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Hichilema heal Zambia's political divide?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-social-media-addiction-is-so-hard-to-regulate/a-78482023?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-27T09:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/can-hichilema-heal-zambia-s-political-divide/a-78876039?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T12:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa airline behind viral stadium flyby scraps repeat display",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-airline-behind-viral-stadium-flyby-scraps-repeat-display/a-78870028?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T12:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We need a touch of humanity’: Swedish opposition pledges to help Britons facing deportation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/swedish-mp-promises-help-for-britons-facing-deportation-if-his-party-wins-power-general-election",
+      "published_date": "2026-09-03T12:38:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I would rather die than return to France’: the brutal reality of the UK’s one in, one out scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/03/uk-one-in-one-out-scheme-iran-friends-channel-france",
+      "published_date": "2026-09-03T09:21:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavarian criminal police investigate arson attack on Munich construction site",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/bavarian-criminal-police-investigate-arson-attack-on-munich-construction-site",
+      "published_date": "2026-09-03T09:13:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How much will the cost of the Deutschlandticket rise in 2027?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/how-much-will-the-cost-of-the-deutschlandticket-rise-in-2027",
+      "published_date": "2026-09-03T08:35:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Police say arson attack targeted defense firm",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-say-arson-attack-targeted-defense-firm/live-78818089?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T07:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: New York City Mayor Mamdani announces ban on AI for younger students",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-new-york-city-mayor-mamdani-announces-ban-on-ai-for-younger-students/a-78815448?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T06:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wife of British man at risk of deportation from Sweden calls on Burnham to intervene",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene",
+      "published_date": "2026-09-03T06:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The people of France are in an extraordinary funk about their future – here’s why | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/people-france-future-emmanuel-macron",
+      "published_date": "2026-09-03T04:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia to close branches of Germany's Goethe-Institut",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-03T03:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia to close branches of Germany's Goethe-Institut",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T03:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Ulrich Siegmund the most dangerous man in Germany? - podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/03/ulrich-siegmund-afd-party-gemany-most-dangerous-man-podcast",
+      "published_date": "2026-09-03T02:00:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US: 3 dead including suspect in Minneapolis shooting",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-03T00:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rheinland-Pfalz: Flüssigkeitsattacke auf AfD-Stand verletzt neun Menschen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/afd-infostand-angriff-bad-kreuznach-rheinland-pfalz",
-      "published_date": "2026-09-02T22:02:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin's punitive measures unlikely to deter Putin: experts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-02T17:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin's punitive measures unlikely to deter Putin: experts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T17:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig airport attack fallout exposes Germany’s deepening divide over Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/leipzig-airport-attack-fallout-lays-bare-germanys-polarisation-on-russia",
-      "published_date": "2026-09-02T17:07:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia's hybrid attacks on Germany: When is it 'war?'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-02T15:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia's hybrid attacks on Germany: When is it 'war?'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T15:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-      "published_date": "2026-09-02T14:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What would an AfD win in Saxony-Anhalt mean for Germany?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260902/what-would-an-afd-win-in-saxony-anhalt-mean-for-germany",
-      "published_date": "2026-09-02T12:58:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed men abduct Kenyan editor, employer suspects government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armed-men-abduct-kenyan-editor-employer-suspects-government/a-78721264?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charlie Kirk murder suspect to face potential death penalty",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/charlie-kirk-murder-suspect-to-face-potential-death-penalty/a-78664853?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T07:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women's football: Anyomi, London City and the German exodus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-s-football-anyomi-london-city-and-the-german-exodus/a-78446131?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-02T07:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women's football: Anyomi, London City and the German exodus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/women-s-football-anyomi-london-city-and-the-german-exodus/a-78446131?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T07:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260902/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-136",
-      "published_date": "2026-09-02T06:37:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The shadow of the AfD hangs over German democracy – but I still have faith in my adopted country | John Kampfner",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/02/germany-afd-democracy-country-citizenship-far-right",
-      "published_date": "2026-09-02T04:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany blames Russia for drone attack at Leipzig airport",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
-      "published_date": "2026-09-01T23:48:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl: SPD holt laut Umfrage in Mecklenburg-Vorpommern auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-umfrage-afd-spd-manuela-schwesig",
-      "published_date": "2026-09-01T23:06:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-01T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-01T22:55:00+00:00",
       "category": "Local Events"
     }
   ]
