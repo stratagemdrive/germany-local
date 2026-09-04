@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-03T14:49:58.040741+00:00",
-  "story_count": 90,
+  "last_updated": "2026-09-04T00:33:25.364973+00:00",
+  "story_count": 93,
   "stories": [
     {
       "title": "Rise of far-right Vannacci poses dilemma for Meloni as she celebrates Italian milestone",
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Israel releases first of 5 Lebanese prisoners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-releases-first-of-5-lebanese-prisoners/a-78895744?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T19:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's Iran strategy: Could this become a forever war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T17:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T15:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-03T15:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU’s ability to defend against invasion remains in doubt, finds official report",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
+      "published_date": "2026-09-03T15:09:25+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Wahlkampf in Sachsen-Anhalt: »Ach, das war ja wieder Schwäbisch«",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlkampf-sachsen-anhalt-gruene-landtagswahl-baden-wuerttemberg",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj warnt Airlines vor Flügen über Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-02T00:20:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russischer Angriffskrieg: Putin spricht bei Vormarsch in der Ukraine von Fortschritten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/02/putin-spricht-bei-vormarsch-in-der-ukraine-von-fortschritten",
-      "published_date": "2026-09-01T22:24:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: US, Tehran trade fire in new flare-up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T20:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
-      "published_date": "2026-09-01T17:23:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mladic's death, Bosnia and Serbia's unfinished reckoning",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T13:09:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Germany investigates two acts of sabotage on its power grid",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260902/germany-investigates-two-acts-of-sabotage-on-its-power-grid",
@@ -373,6 +373,34 @@
       "url": "https://www.dw.com/en/what-the-odyssey-can-teach-us-about-climate-chaos/a-78545407?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-08-28T12:52:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Volkswagen-Einigung: Der große Kompromiss-Motor läuft wieder",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-09/volkswagen-einigung-aufsichtsrat-vorstand-betriebsrat",
+      "published_date": "2026-09-04T00:32:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen to cut 100,000 jobs by end of decade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T00:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen to cut 100,000 jobs by end of decade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T00:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+      "published_date": "2026-09-03T22:30:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Is Germany's economic slump finally over?",
@@ -487,11 +515,88 @@
       "category": "Economy"
     },
     {
-      "title": "Generation Deutschland: AfD-Jugendorganisation distanziert sich von Austritt aus dem Euro",
+      "title": "ZDF-»Politbarometer«: AfD bleibt laut Umfrage in Sachsen-Anhalt stärkste Kraft",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-08/generation-deutschland-afd-euro-austritt-jean-pascal-hohm",
-      "published_date": "2026-08-28T20:38:20+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/zdf-politbarometer-landtagswahl-sachsen-anhalt-afd",
+      "published_date": "2026-09-03T23:56:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kongresswahlen: Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/03/trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court",
+      "published_date": "2026-09-03T22:51:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA blames UEFA for 'smear campaign' against Infantino",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fifa-blames-uefa-for-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T22:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: BER Airport Terminal 1 reopened after security scare",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-03T21:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: BER Airport Terminal 1 reopened after security scare",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T21:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD-Klausur: Hape Kerkeling warnt bei SPD-Klausur vor Extremismus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/hape-kerkeling-spd-bundestag-fraktion-intoleranz-extremismus-afd-alexander-gauland",
+      "published_date": "2026-09-03T21:22:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commerzbank-Übernahme: Hessens Ministerpräsident stellt offenbar Forderungen an UniCredit",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/unicredit-commerzbank-uebernahme-boris-rhein-frankfurt",
+      "published_date": "2026-09-03T20:58:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia: Thousands fall sick from free school meals",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indonesia-thousands-fall-sick-from-free-school-meals/a-78894485?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T17:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: From emigration to immigration destination",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-03T15:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: From emigration to immigration destination",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-03T15:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
+      "published_date": "2026-09-03T15:00:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Like a MAGA campaign': Why is the AfD so popular in Saxony-Anhalt?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260903/like-a-maga-campaign-why-is-the-afd-so-popular-in-saxony-anhalt",
+      "published_date": "2026-09-03T14:55:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hybrider Krieg mit Russland: Staatssekretär nennt BSW und AfD »vaterlandslose Gesellen«",
@@ -547,90 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/south-africa-airline-behind-viral-stadium-flyby-scraps-repeat-display/a-78870028?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-03T12:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We need a touch of humanity’: Swedish opposition pledges to help Britons facing deportation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/swedish-mp-promises-help-for-britons-facing-deportation-if-his-party-wins-power-general-election",
-      "published_date": "2026-09-03T12:38:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I would rather die than return to France’: the brutal reality of the UK’s one in, one out scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/03/uk-one-in-one-out-scheme-iran-friends-channel-france",
-      "published_date": "2026-09-03T09:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavarian criminal police investigate arson attack on Munich construction site",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260903/bavarian-criminal-police-investigate-arson-attack-on-munich-construction-site",
-      "published_date": "2026-09-03T09:13:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much will the cost of the Deutschlandticket rise in 2027?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260903/how-much-will-the-cost-of-the-deutschlandticket-rise-in-2027",
-      "published_date": "2026-09-03T08:35:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Police say arson attack targeted defense firm",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-police-say-arson-attack-targeted-defense-firm/live-78818089?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T07:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: New York City Mayor Mamdani announces ban on AI for younger students",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-new-york-city-mayor-mamdani-announces-ban-on-ai-for-younger-students/a-78815448?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T06:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wife of British man at risk of deportation from Sweden calls on Burnham to intervene",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene",
-      "published_date": "2026-09-03T06:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The people of France are in an extraordinary funk about their future – here’s why | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/people-france-future-emmanuel-macron",
-      "published_date": "2026-09-03T04:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia to close branches of Germany's Goethe-Institut",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-03T03:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia to close branches of Germany's Goethe-Institut",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T03:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Ulrich Siegmund the most dangerous man in Germany? - podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/03/ulrich-siegmund-afd-party-gemany-most-dangerous-man-podcast",
-      "published_date": "2026-09-03T02:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: 3 dead including suspect in Minneapolis shooting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T00:45:00+00:00",
       "category": "Local Events"
     }
   ]
