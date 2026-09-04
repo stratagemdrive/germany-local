@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-04T00:33:25.364973+00:00",
+  "last_updated": "2026-09-04T14:41:18.475247+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Germany, partners aim to finalize 'return hubs' by year end",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-partners-aim-to-finalize-return-hubs-by-year-end/a-79004242?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T14:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany, partners aim to finalize 'return hubs' by year end",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-partners-aim-to-finalize-return-hubs-by-year-end/a-79004242?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T14:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five EU countries aim to send rejected migrants to 'return hubs' by 2027",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027",
+      "published_date": "2026-09-04T13:24:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Europe's border queues get longer this month as key EES date passes?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/could-europes-border-queues-get-longer-this-month-as-key-ees-date-passes",
+      "published_date": "2026-09-04T11:13:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will the European Union take up the climate fight after brutal heatwaves?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
+      "published_date": "2026-09-04T08:10:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rise of far-right Vannacci poses dilemma for Meloni as she celebrates Italian milestone",
       "source": "The Guardian",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany hits Russia with sanctions over airport drone 'hybrid attack'",
+      "title": "Looming far-right win in Germany sparks security worries",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260901/germany-expected-to-blame-russia-for-airport-drone-incident",
-      "published_date": "2026-09-01T13:05:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20260904/looming-far-right-win-in-germany-sparks-security-worries",
+      "published_date": "2026-09-04T13:58:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Will Bangladesh join the Mecca defense alliance?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-bangladesh-join-the-mecca-defense-alliance/a-78613944?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T12:40:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘Astronomical’ fuel price surge hits farmers in UK and US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us",
+      "published_date": "2026-09-04T09:00:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-01T10:23:00+00:00",
-      "category": "Diplomacy"
+      "title": "When does rage help us, and when does it harm us? Ukraine has taught me the answers | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer",
+      "published_date": "2026-09-04T07:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T10:23:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-01T10:23:00+00:00",
-      "category": "Diplomacy"
+      "title": "Europe calls out Russia’s ‘hybrid war’ in public. But how can it make Putin pay?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
+      "published_date": "2026-09-04T05:00:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel releases first of 5 Lebanese prisoners",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ryanair to cut winter flights in Europe to save on fuel costs",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260902/ryanair-to-cut-winter-flights-in-europe-to-save-on-fuel-costs",
-      "published_date": "2026-09-02T13:48:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Swedish minister defends strict post-Brexit removals of Britons",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/swedish-minister-removals-deportations-britons-brexit",
-      "published_date": "2026-09-02T12:59:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No eggs, no potatoes but ‘a lot of imagination’: how Spain cooked in war’s hunger years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/how-spain-cooked-war-hunger-years",
-      "published_date": "2026-09-02T09:00:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian sky full of our drones and not safe, Zelenskyy warns airlines",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/ukraine-war-briefing-russian-sky-full-of-our-drones-and-not-safe-zelenskyy-warns-airlines",
-      "published_date": "2026-09-02T00:35:17+00:00",
-      "category": "Military"
+      "title": "Nepal flood disaster puts climate justice under spotlight",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T13:59:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany investigates two acts of sabotage on its power grid",
@@ -368,11 +375,39 @@
       "category": "Energy"
     },
     {
-      "title": "What 'The Odyssey' can teach us about climate chaos",
+      "title": "Climbing German factory orders hint at recovering economy",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/climbing-german-factory-orders-hint-at-recovering-economy",
+      "published_date": "2026-09-04T14:01:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How can African retailers compete with Shein and Temu?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-the-odyssey-can-teach-us-about-climate-chaos/a-78545407?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T12:52:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/how-can-african-retailers-compete-with-shein-and-temu/a-78988195?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T13:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Volkswagen's huge workforce became a costly burden",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T07:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Volkswagen's huge workforce became a costly burden",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T07:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/today-in-germany-a-roundup-of-the-latest-news-on-friday-138",
+      "published_date": "2026-09-04T06:31:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen-Einigung: Der große Kompromiss-Motor läuft wieder",
@@ -480,39 +515,95 @@
       "category": "Economy"
     },
     {
-      "title": "Tariffs spat: Carney bets Canada can defy Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-31T13:38:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Canada's Carney holds firm against Trump tariffs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-s-carney-holds-firm-against-trump-tariffs/a-78542754?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-31T13:38:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
+      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
-      "published_date": "2026-08-30T16:30:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+      "published_date": "2026-09-04T14:29:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Russian-American heads Trump's planned Caucasus trade route",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-29T16:20:00+00:00",
-      "category": "Economy"
+      "title": "Wahl in Sachsen-Anhalt: Die AfD will das Grundrecht auf Asyl abschaffen. Kann sie das?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/video/2026-09/migration-sachsen-anhalt-afd-abschiebung-fachkraefte",
+      "published_date": "2026-09-04T14:29:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Russian-American heads Trump's planned Caucasus trade route",
+      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
+      "published_date": "2026-09-04T13:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Revoke residency': What could the AfD do if they win the Saxony-Anhalt election?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/revoke-residency-what-could-the-afd-do-if-they-win-the-saxony-anhalt-election",
+      "published_date": "2026-09-04T13:26:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hackerangriff in Berlin: Sie fordern Geld. Berlin will nicht zahlen. Und jetzt?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/datenschutz/2026-09/hackerangriff-berlin-verwaltung-persoenliche-daten-ultimatum-rhysida",
+      "published_date": "2026-09-04T13:20:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Police suspect sabotage after another device found",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-08-29T16:20:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-police-suspect-sabotage-after-another-device-found/live-78896707?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T11:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Daily target': What we know so far about intensifying hybrid attacks on Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260904/daily-target-what-we-know-so-far-about-intensifying-hybrid-attacks-on-germany",
+      "published_date": "2026-09-04T11:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Is Saxony-Anhalt's economy really struggling?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T10:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Is Saxony-Anhalt's economy really struggling?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T10:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why the North Korean women's football team is so good",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-the-north-korean-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T10:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni government becomes longest-serving in postwar Italy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meloni-government-becomes-longest-serving-in-postwar-italy/a-78910642?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T07:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘This could just be the beginning’: minorities fear first far-right win in German state election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/minorities-fear-first-far-right-win-in-german-state-election-saxony-anhalt-afd",
+      "published_date": "2026-09-04T04:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA accuses UEFA of 'smear campaign' against Infantino",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fifa-accuses-uefa-of-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T03:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "ZDF-»Politbarometer«: AfD bleibt laut Umfrage in Sachsen-Anhalt stärkste Kraft",
@@ -561,97 +652,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/wirtschaft/2026-09/unicredit-commerzbank-uebernahme-boris-rhein-frankfurt",
       "published_date": "2026-09-03T20:58:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia: Thousands fall sick from free school meals",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indonesia-thousands-fall-sick-from-free-school-meals/a-78894485?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T17:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: From emigration to immigration destination",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-03T15:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: From emigration to immigration destination",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T15:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
-      "published_date": "2026-09-03T15:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Like a MAGA campaign': Why is the AfD so popular in Saxony-Anhalt?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260903/like-a-maga-campaign-why-is-the-afd-so-popular-in-saxony-anhalt",
-      "published_date": "2026-09-03T14:55:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hybrider Krieg mit Russland: Staatssekretär nennt BSW und AfD »vaterlandslose Gesellen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/christoph-de-vries-sahra-wagenknecht-russland-cdu-anschlag-leipzig",
-      "published_date": "2026-09-03T14:47:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Bavarian festivals with cheaper beer than Oktoberfest this September",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260903/five-bavarian-festivals-with-cheaper-beer-than-oktoberfest-this-september",
-      "published_date": "2026-09-03T14:29:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video von Rapper: Jens Spahn geht gegen Äußerungen von Ski Aggu in Twitch-Video vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/jens-spahn-ski-aggu-video-rap-drogen-satire",
-      "published_date": "2026-09-03T14:10:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Work and Stay: Will Germany’s flagship immigration agency change anything?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260903/work-and-stay-will-germanys-flagship-immigration-agency-change-anything",
-      "published_date": "2026-09-03T14:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Ceuta border breach was leapt on by Europe’s right. That doesn’t absolve Spain | María Ramírez",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ceuta-border-breach-spain-response-europe",
-      "published_date": "2026-09-03T13:29:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-      "published_date": "2026-09-03T12:52:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Hichilema heal Zambia's political divide?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-hichilema-heal-zambia-s-political-divide/a-78876039?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T12:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa airline behind viral stadium flyby scraps repeat display",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-airline-behind-viral-stadium-flyby-scraps-repeat-display/a-78870028?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T12:45:00+00:00",
       "category": "Local Events"
     }
   ]
