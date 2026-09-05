@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-04T14:41:18.475247+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-05T00:29:35.906491+00:00",
+  "story_count": 91,
   "stories": [
     {
       "title": "Germany, partners aim to finalize 'return hubs' by year end",
@@ -29,6 +29,20 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260904/could-europes-border-queues-get-longer-this-month-as-key-ees-date-passes",
       "published_date": "2026-09-04T11:13:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Police raid vehicle of suspected grid saboteur",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-raid-vehicle-of-suspected-grid-saboteur/live-78896707?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T11:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Police raid vehicle of suspected grid saboteur",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-raid-vehicle-of-suspected-grid-saboteur/live-78896707?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T11:13:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "War and sanctions deepen Iran's fuel crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T14:29:00+00:00",
-      "category": "Diplomacy"
+      "title": "Die Lage im Überblick: Vorstoß zu Ende des Ukraine-Kriegs? Trump schickt Vermittler",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/05/vorstoss-zu-ende-des-ukraine-kriegs-trump-schickt-vermittler",
+      "published_date": "2026-09-04T23:28:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran fuel crisis deepens amid war and sanctions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-fuel-crisis-deepens-amid-war-and-sanctions/a-78636429?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T14:29:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
+      "published_date": "2026-09-04T15:37:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
+      "published_date": "2026-09-04T14:35:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Looming far-right win in Germany sparks security worries",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Bayeux tapestry loan symbolises ‘entente amicale’ between France and UK, says King Charles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/bayeux-tapestry-loan-symbolises-entente-amicale-between-france-and-uk-says-king-charles",
-      "published_date": "2026-09-02T18:58:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-      "published_date": "2026-09-02T14:32:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Zelenskyy warns airlines to avoid Russian airspace",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-warns-airlines-to-avoid-russian-airspace/live-78755199?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T14:04:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Nepal flood disaster puts climate justice under spotlight",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617?maca=en-rss-en-all-1573-rdf",
@@ -358,20 +358,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
       "published_date": "2026-08-29T05:00:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US, Venezuela announce 'historic' oil deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-08-28T23:23:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany expected to miss its climate goal in 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260828/germany-on-track-to-miss-its-climate-goal-in-2026",
-      "published_date": "2026-08-28T14:59:35+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +501,83 @@
       "category": "Economy"
     },
     {
+      "title": "Sachsen-Anhalt: Söder wirbt für Pragmatismus in Bezug auf Linke nach Landtagswahl",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-sachsen-anhalt-cdu-sven-schulze-linke",
+      "published_date": "2026-09-04T22:26:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 2. Spieltag – Freitag: VfB Stuttgart gelingt Sieg gegen Köln",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/bundesliga-2-spieltag-vfb-stuttgart-fc-koeln",
+      "published_date": "2026-09-04T20:40:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T19:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-04T19:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Small parties will be the kingmakers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-small-parties-will-be-the-kingmakers/a-78482460?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T19:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Small parties will be the kingmakers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-small-parties-will-be-the-kingmakers/a-78482460?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T19:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's alliance against the far right",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-alliance-against-the-far-right/a-79009105?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-04T18:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's alliance against the far right",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-alliance-against-the-far-right/a-79009105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T18:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-04T15:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany urges EU to cut Russians’ holiday visas after sabotage attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
+      "published_date": "2026-09-04T15:22:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "15/18 A Place to Heal review – heartfelt docu-realist study of a French teen psychiatric facility",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility",
+      "published_date": "2026-09-04T15:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
@@ -575,83 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-04T10:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the North Korean women's football team is so good",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-north-korean-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T10:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni government becomes longest-serving in postwar Italy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meloni-government-becomes-longest-serving-in-postwar-italy/a-78910642?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T07:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This could just be the beginning’: minorities fear first far-right win in German state election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/minorities-fear-first-far-right-win-in-german-state-election-saxony-anhalt-afd",
-      "published_date": "2026-09-04T04:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA accuses UEFA of 'smear campaign' against Infantino",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fifa-accuses-uefa-of-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T03:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ZDF-»Politbarometer«: AfD bleibt laut Umfrage in Sachsen-Anhalt stärkste Kraft",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/zdf-politbarometer-landtagswahl-sachsen-anhalt-afd",
-      "published_date": "2026-09-03T23:56:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kongresswahlen: Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/03/trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court",
-      "published_date": "2026-09-03T22:51:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA blames UEFA for 'smear campaign' against Infantino",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fifa-blames-uefa-for-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T22:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: BER Airport Terminal 1 reopened after security scare",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-03T21:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: BER Airport Terminal 1 reopened after security scare",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T21:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD-Klausur: Hape Kerkeling warnt bei SPD-Klausur vor Extremismus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/hape-kerkeling-spd-bundestag-fraktion-intoleranz-extremismus-afd-alexander-gauland",
-      "published_date": "2026-09-03T21:22:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerzbank-Übernahme: Hessens Ministerpräsident stellt offenbar Forderungen an UniCredit",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-09/unicredit-commerzbank-uebernahme-boris-rhein-frankfurt",
-      "published_date": "2026-09-03T20:58:47+00:00",
       "category": "Local Events"
     }
   ]
