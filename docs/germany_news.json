@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-05T00:29:35.906491+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-05T13:38:00.909238+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Wahl in Sachsen-Anhalt: Merz: Lassen uns von AfD das Land nicht kaputtreden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/05/merz-lassen-uns-von-afd-das-land-nicht-kaputtreden",
+      "published_date": "2026-09-05T13:29:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Autobauer in der Krise: Merz warnt vor Verlust von Arbeitsplätzen in der Industrie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/05/merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie",
+      "published_date": "2026-09-05T13:22:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why the Bayeux tapestry and Franco-British relations are natural bedfellows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/why-bayeux-tapestry-franco-british-politics-natural-bedfellows",
+      "published_date": "2026-09-05T05:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany, partners aim to finalize 'return hubs' by year end",
       "source": "Deutsche Welle",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU summons Russian envoy over failed Leipzig drone attack",
+      "title": "Russia announces 72-hour pause in strikes amid Ukraine talks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T08:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-announces-72-hour-pause-in-strikes-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T13:03:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU summons Russian envoy over failed Leipzig drone attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-02T08:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: Angriffe auf Kyjiw auf Befehl Putins für drei Tage ausgesetzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-09-05T12:55:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-      "published_date": "2026-09-01T17:52:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
+      "published_date": "2026-09-05T11:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Explosions reported near Kharg Island",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T08:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why many Syrians feel Assad's death sentence isn't enough",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-many-syrians-feel-assad-s-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T08:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolivia: Deadly explosion rocks military base in Viacha",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T03:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy calls air truce as Kushner and Witkoff head for Kyiv via Moscow",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/ukraine-war-briefing-zelenskyy-calls-air-truce-as-kushner-and-witkoff-head-for-kyiv-via-moscow",
+      "published_date": "2026-09-05T01:35:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Die Lage im Überblick: Vorstoß zu Ende des Ukraine-Kriegs? Trump schickt Vermittler",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Putin denies fresh mobilization campaign in Ukraine war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-denies-fresh-mobilization-campaign-in-ukraine-war/a-78843002?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T14:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
-      "published_date": "2026-09-03T14:04:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: Jaishankar offers help to end war in Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-jaishankar-offers-help-to-end-war-in-ukraine/live-78815659?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T11:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The wars in Ukraine and Iran are becoming dangerously enmeshed | Christopher S Chivvis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump",
-      "published_date": "2026-09-03T10:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany sees record high petrol prices as Trump's war in Iran drags on",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260903/germany-sees-record-high-petrol-prices-as-trumps-war-in-iran-drags-on",
-      "published_date": "2026-09-03T08:11:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Australia to boost defense ties amid China's growing influence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-australia-to-boost-defense-ties-amid-china-s-growing-influence/a-78815760?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T07:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flugsicherheit: UN-Organisation ruft zu verstärktem Schutz von Passagiermaschinen auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-09/icao-passagierflugzeuge-russischer-luftraum-wolodymyr-selenskyj",
-      "published_date": "2026-09-02T22:58:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Nepal flood disaster puts climate justice under spotlight",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617?maca=en-rss-en-all-1573-rdf",
@@ -351,13 +351,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260831/global-comparison-reveals-germany-has-highest-energy-prices-in-the-g20",
       "published_date": "2026-08-31T08:42:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-      "published_date": "2026-08-29T05:00:19+00:00",
       "category": "Energy"
     },
     {
@@ -501,6 +494,83 @@
       "category": "Economy"
     },
     {
+      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
+      "published_date": "2026-09-05T09:16:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: From emigration to immigration destination",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-05T08:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: From emigration to immigration destination",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T08:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: 275 Indians still missing in Nepal floods",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T07:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Thousands expected at Saxony-Anhalt rallies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T06:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What would an AfD government in Saxony-Anhalt really mean?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-05T06:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What would an AfD government in Saxony-Anhalt really mean?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T06:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All eyes on Saxony-Anhalt – what will AfD do if it wins German state poll?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/saxony-anhalt-far-right-afd-plans-german-state-poll",
+      "published_date": "2026-09-05T05:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
+      "published_date": "2026-09-05T04:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Then who or what did we cremate?’ Daughter’s horror at finding bones in British wildfire victims’ car",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/remains-british-wildfire-victims-spain",
+      "published_date": "2026-09-05T04:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T03:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sachsen-Anhalt: Söder wirbt für Pragmatismus in Bezug auf Linke nach Landtagswahl",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-sachsen-anhalt-cdu-sven-schulze-linke",
@@ -561,83 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-04T15:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany urges EU to cut Russians’ holiday visas after sabotage attacks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
-      "published_date": "2026-09-04T15:22:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "15/18 A Place to Heal review – heartfelt docu-realist study of a French teen psychiatric facility",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility",
-      "published_date": "2026-09-04T15:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
-      "published_date": "2026-09-04T14:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Die AfD will das Grundrecht auf Asyl abschaffen. Kann sie das?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/video/2026-09/migration-sachsen-anhalt-afd-abschiebung-fachkraefte",
-      "published_date": "2026-09-04T14:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
-      "published_date": "2026-09-04T13:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Revoke residency': What could the AfD do if they win the Saxony-Anhalt election?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260904/revoke-residency-what-could-the-afd-do-if-they-win-the-saxony-anhalt-election",
-      "published_date": "2026-09-04T13:26:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hackerangriff in Berlin: Sie fordern Geld. Berlin will nicht zahlen. Und jetzt?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/datenschutz/2026-09/hackerangriff-berlin-verwaltung-persoenliche-daten-ultimatum-rhysida",
-      "published_date": "2026-09-04T13:20:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Police suspect sabotage after another device found",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-police-suspect-sabotage-after-another-device-found/live-78896707?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T11:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Daily target': What we know so far about intensifying hybrid attacks on Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260904/daily-target-what-we-know-so-far-about-intensifying-hybrid-attacks-on-germany",
-      "published_date": "2026-09-04T11:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Is Saxony-Anhalt's economy really struggling?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-04T10:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Is Saxony-Anhalt's economy really struggling?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T10:59:00+00:00",
       "category": "Local Events"
     }
   ]
