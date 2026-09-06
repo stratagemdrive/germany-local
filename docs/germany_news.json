@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-05T13:38:00.909238+00:00",
-  "story_count": 90,
+  "last_updated": "2026-09-06T00:24:47.822516+00:00",
+  "story_count": 91,
   "stories": [
     {
       "title": "Wahl in Sachsen-Anhalt: Merz: Lassen uns von AfD das Land nicht kaputtreden",
@@ -15,6 +15,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/05/merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie",
       "published_date": "2026-09-05T13:22:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to help cities clamp down on tourist rentals",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260905/eu-to-help-cities-clamp-down-on-tourist-rentals",
+      "published_date": "2026-09-05T06:38:52+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU summons Russian envoy over failed Leipzig drone attack",
+      "title": "Isar Aerospace: Rakete von deutscher Raumfahrtfirma hat Erdumlaufbahn erreicht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissenschaft/2026-09/isar-aerospace-traegerrakete-raketenstart-orbit-raumfahrt",
+      "published_date": "2026-09-05T22:48:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys meet with Putin, leave Russia for Kyiv",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-02T08:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T22:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+      "published_date": "2026-09-05T22:13:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why many Syrians feel Assad death sentence isn't enough",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T18:56:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia announces 72-hour pause in strikes amid Ukraine talks",
@@ -168,6 +196,13 @@
       "title": "Iran war: Explosions reported near Kharg Island",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T08:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: US hits 3 IRGC-linked oil tankers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-05T08:16:00+00:00",
       "category": "Military"
     },
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump's Iran strategy: Could this become a forever war?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T17:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T15:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-03T15:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU’s ability to defend against invasion remains in doubt, finds official report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
-      "published_date": "2026-09-03T15:09:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wahlkampf in Sachsen-Anhalt: »Ach, das war ja wieder Schwäbisch«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlkampf-sachsen-anhalt-gruene-landtagswahl-baden-wuerttemberg",
-      "published_date": "2026-09-03T14:47:44+00:00",
-      "category": "Military"
+      "title": "Germany hunts climate activist suspected of power grid sabotage",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260905/germany-hunts-climate-activist-suspected-of-power-grid-sabotage",
+      "published_date": "2026-09-05T12:12:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nepal flood disaster puts climate justice under spotlight",
@@ -352,6 +359,13 @@
       "url": "https://www.thelocal.de/20260831/global-comparison-reveals-germany-has-highest-energy-prices-in-the-g20",
       "published_date": "2026-08-31T08:42:29+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "E-Auto-Kaufprämie: Bundesamt bewilligt rund 52.500 Anträge für E-Auto-Prämie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-09/e-auto-kaufpraemie-foerderung-bafa-antrag-einkommen-vw-tesla",
+      "published_date": "2026-09-05T19:10:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Climbing German factory orders hint at recovering economy",
@@ -487,11 +501,53 @@
       "category": "Economy"
     },
     {
-      "title": "German inflation rises with energy costs as US-Iran war drags on",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260831/german-inflation-rises-with-energy-costs-as-us-iran-war-drags-on",
-      "published_date": "2026-08-31T14:54:52+00:00",
-      "category": "Economy"
+      "title": "Unfall in Hamburg: Taxi kollidiert mit Auto – Fahrgast schwer verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/06/taxi-kollidiert-mit-auto-fahrgast-schwer-verletzt",
+      "published_date": "2026-09-05T22:56:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protest: Tausende bei Fahrrad-Demo in Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/06/tausende-bei-fahrrad-demo-in-frankfurt",
+      "published_date": "2026-09-05T22:40:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German company successfully launches rocket to space",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-05T22:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German company successfully launches rocket to space",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T22:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hybride Sabotage: Bundesinnenministerium plant nach Drohnenvorfall Schutzschirm",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-09/hybride-sabotage-russland-alexander-dobrindt-drohnenabwehr-cyberdome",
+      "published_date": "2026-09-05T22:24:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Croatia: Toxic waste protest draws tens of thousands",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-05T17:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Croatia: Toxic waste protest draws tens of thousands",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T17:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
@@ -515,6 +571,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Inside Germany: Who's allowed to say what about the election no one can ignore",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260905/inside-germany-whos-allowed-to-say-what-about-the-election-no-one-can-ignore",
+      "published_date": "2026-09-05T07:16:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "India news: 275 Indians still missing in Nepal floods",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-all-1573-rdf",
@@ -522,9 +585,30 @@
       "category": "Local Events"
     },
     {
+      "title": "How the east became Germany's far-right stronghold",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260905/how-the-east-became-germanys-far-right-stronghold",
+      "published_date": "2026-09-05T07:12:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Germany news: Thousands expected at Saxony-Anhalt rallies",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-05T06:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-thousands-march-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-05T06:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-thousands-march-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-05T06:53:00+00:00",
       "category": "Local Events"
     },
@@ -554,83 +638,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
       "published_date": "2026-09-05T04:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Then who or what did we cremate?’ Daughter’s horror at finding bones in British wildfire victims’ car",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/05/remains-british-wildfire-victims-spain",
-      "published_date": "2026-09-05T04:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T03:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sachsen-Anhalt: Söder wirbt für Pragmatismus in Bezug auf Linke nach Landtagswahl",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-sachsen-anhalt-cdu-sven-schulze-linke",
-      "published_date": "2026-09-04T22:26:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 2. Spieltag – Freitag: VfB Stuttgart gelingt Sieg gegen Köln",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/bundesliga-2-spieltag-vfb-stuttgart-fc-koeln",
-      "published_date": "2026-09-04T20:40:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T19:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-04T19:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: Small parties will be the kingmakers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-small-parties-will-be-the-kingmakers/a-78482460?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-04T19:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: Small parties will be the kingmakers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-small-parties-will-be-the-kingmakers/a-78482460?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T19:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's alliance against the far right",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-alliance-against-the-far-right/a-79009105?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-04T18:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's alliance against the far right",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-alliance-against-the-far-right/a-79009105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T18:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T15:35:00+00:00",
       "category": "Local Events"
     }
   ]
