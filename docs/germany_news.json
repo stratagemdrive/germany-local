@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-06T00:24:47.822516+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-06T13:52:44.624970+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Sergej Lawrow: Lawrow sieht in Vorwurf zu Leipziger Drohnenangriff »echten Krieg«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/sergej-lawrow-russland-deutschland-drohne-leipzig",
+      "published_date": "2026-09-06T13:32:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+      "published_date": "2026-09-06T05:00:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Wahl in Sachsen-Anhalt: Merz: Lassen uns von AfD das Land nicht kaputtreden",
       "source": "ZEIT Online",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "India rejects Hague ruling on Indus waters: What's next?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-rejects-hague-ruling-on-indus-waters-what-s-next/a-78753249?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T13:40:00+00:00",
-      "category": "Diplomacy"
+      "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "published_date": "2026-09-06T13:05:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Police exhume body of former Czechoslovak foreign minister Jan Masaryk",
+      "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-exhume-body-of-former-czechoslovak-foreign-minister-jan-masaryk/a-78745254?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T12:25:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T13:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-06T13:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gianni Infantino: Fifa-Präsident Infantino will trotz Kritik zur Wiederwahl antreten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/gianni-infantino-fifa-praesident-wiederwahl-2027-uefa-gxe",
+      "published_date": "2026-09-06T12:55:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right",
+      "published_date": "2026-09-06T10:37:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How climate change and food insecurity could fuel future conflicts",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T07:47:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Isar Aerospace: Rakete von deutscher Raumfahrtfirma hat Erdumlaufbahn erreicht",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-      "published_date": "2026-09-04T14:35:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Looming far-right win in Germany sparks security worries",
+      "title": "Two more electricity substations targeted in Germany",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260904/looming-far-right-win-in-germany-sparks-security-worries",
-      "published_date": "2026-09-04T13:58:19+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.de/20260906/two-more-electricity-substations-targeted-in-germany",
+      "published_date": "2026-09-06T13:34:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Astronomical’ fuel price surge hits farmers in UK and US",
+      "title": "Does your life feel out of control? Maybe you need some ‘pyt’ | Polly Hudson",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us",
-      "published_date": "2026-09-04T09:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "When does rage help us, and when does it harm us? Ukraine has taught me the answers | Charlotte Higgins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer",
-      "published_date": "2026-09-04T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe calls out Russia’s ‘hybrid war’ in public. But how can it make Putin pay?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
-      "published_date": "2026-09-04T05:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel releases first of 5 Lebanese prisoners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-releases-first-of-5-lebanese-prisoners/a-78895744?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-03T19:45:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/danish-pyt-concept-life-philosophy",
+      "published_date": "2026-09-06T04:00:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany hunts climate activist suspected of power grid sabotage",
@@ -359,6 +373,13 @@
       "url": "https://www.thelocal.de/20260831/global-comparison-reveals-germany-has-highest-energy-prices-in-the-g20",
       "published_date": "2026-08-31T08:42:29+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
+      "published_date": "2026-09-06T13:00:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "E-Auto-Kaufprämie: Bundesamt bewilligt rund 52.500 Anträge für E-Auto-Prämie",
@@ -494,11 +515,88 @@
       "category": "Economy"
     },
     {
-      "title": "Madrid residents brace for noise and disruption from new F1 circuit",
+      "title": "Vandals uproot Berlin tree commemorating Pride attack victims",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260906/vandals-uproot-berlin-tree-commemorating-pride-attack-victims",
+      "published_date": "2026-09-06T13:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany 'wants war again', Russia FM says, dismissing drone accusations",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260906/germany-wants-war-again-russia-fm-says-dismissing-drone-accusations",
+      "published_date": "2026-09-06T13:16:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German director Wenders clarifies views on film and politics",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260906/german-director-wenders-clarifies-views-on-film-and-politics",
+      "published_date": "2026-09-06T11:57:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right AfD predicted to win big in crucial German state election",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/madrid-f1-circuit-noise-levels-madring",
-      "published_date": "2026-09-01T04:00:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
+      "published_date": "2026-09-06T10:50:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany plans anti-drone shield over Leipzig attack — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T10:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany plans anti-drone shield over Leipzig attack — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T10:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T07:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march for democracy ahead of eastern German vote",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260906/thousands-march-for-democracy-ahead-of-eastern-german-vote",
+      "published_date": "2026-09-06T07:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260906/germanys-far-right-afd-clear-frontrunner-in-eastern-state-vote",
+      "published_date": "2026-09-06T06:53:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memory of water: the women reshaping Venice – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/memory-of-water-the-women-reshaping-venice-in-pictures",
+      "published_date": "2026-09-06T05:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt's state election will have a nationwide impact",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T01:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt's state election will have a nationwide impact",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T01:43:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Unfall in Hamburg: Taxi kollidiert mit Auto – Fahrgast schwer verletzt",
@@ -554,90 +652,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
       "published_date": "2026-09-05T09:16:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: From emigration to immigration destination",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-05T08:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: From emigration to immigration destination",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T08:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Who's allowed to say what about the election no one can ignore",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260905/inside-germany-whos-allowed-to-say-what-about-the-election-no-one-can-ignore",
-      "published_date": "2026-09-05T07:16:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 275 Indians still missing in Nepal floods",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T07:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the east became Germany's far-right stronghold",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260905/how-the-east-became-germanys-far-right-stronghold",
-      "published_date": "2026-09-05T07:12:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Thousands expected at Saxony-Anhalt rallies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T06:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-thousands-march-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-05T06:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-thousands-march-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T06:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What would an AfD government in Saxony-Anhalt really mean?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-05T06:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What would an AfD government in Saxony-Anhalt really mean?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T06:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All eyes on Saxony-Anhalt – what will AfD do if it wins German state poll?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/saxony-anhalt-far-right-afd-plans-german-state-poll",
-      "published_date": "2026-09-05T05:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
-      "published_date": "2026-09-05T04:00:26+00:00",
       "category": "Local Events"
     }
   ]
