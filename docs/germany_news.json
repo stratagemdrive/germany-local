@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-06T13:52:44.624970+00:00",
+  "last_updated": "2026-09-07T00:31:50.556938+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Zoff um Zuständigkeiten: Widerstand aus Berlin: EU bläst Verteidigungsinitiative ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/07/widerstand-aus-berlin-eu-blaest-verteidigungsinitiative-ab",
+      "published_date": "2026-09-06T23:20:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sachsen-Anhalt: Wie gefährlich wird der AfD-Kantersieg für Merz?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/07/wie-gefaehrlich-wird-der-afd-kantersieg-fuer-merz",
+      "published_date": "2026-09-06T23:02:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sergej Lawrow: Lawrow sieht in Vorwurf zu Leipziger Drohnenangriff »echten Krieg«",
       "source": "ZEIT Online",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US sanctions halt TOEFL and GRE tests in Iran, disrupting study plans",
+      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-sanctions-halt-toefl-and-gre-tests-in-iran-disrupting-study-plans/a-78764639?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-02T14:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T22:22:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Außenministertreffen in Irland: Nach Leipzig: Russland droht massives Sanktionspaket der EU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/02/polens-regierungschef-brand-in-drohnen-fabrik-war-sabotage",
-      "published_date": "2026-09-02T14:44:43+00:00",
-      "category": "Diplomacy"
+      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-06T22:22:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Die Lage im Überblick: Vorstoß zu Ende des Ukraine-Kriegs? Trump schickt Vermittler",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/05/vorstoss-zu-ende-des-ukraine-kriegs-trump-schickt-vermittler",
-      "published_date": "2026-09-04T23:28:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-      "published_date": "2026-09-04T15:37:52+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Two more electricity substations targeted in Germany",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260906/two-more-electricity-substations-targeted-in-germany",
@@ -373,6 +373,13 @@
       "url": "https://www.thelocal.de/20260831/global-comparison-reveals-germany-has-highest-energy-prices-in-the-g20",
       "published_date": "2026-08-31T08:42:29+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+      "published_date": "2026-09-06T17:00:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
@@ -508,150 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "Cyberangriff : Berliner Senat bestätigt Millionenforderung von Hackern",
+      "title": "Landtagswahl Sachsen-Anhalt: CDU und AfD treffen nach Wahl in Hotel-Foyer aufeinander",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/cyberangriff-berliner-verwaltung-hackergruppe-rhysida-loesegeldforderung-daten",
-      "published_date": "2026-09-01T14:46:49+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-09/07/cdu-und-afd-treffen-nach-wahl-in-hotel-foyer-aufeinander",
+      "published_date": "2026-09-07T00:04:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahl in Sachsen-Anhalt: CDU gewinnt kein einziges Direktmandat",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/07/cdu-gewinnt-kein-einziges-direktmandat",
+      "published_date": "2026-09-07T00:01:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several killed in Amazon cargo plane crash in Miami",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T23:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Demonstration in Sachsen-Anhalt: Die einen zünden Feuerwerk, den anderen kommen die Tränen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/demonstration-sachsen-anhalt-landtagswahl-demokratie",
+      "published_date": "2026-09-06T22:44:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sven Schulze: Schock! Schwere! Not!",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/sven-schulze-sachsen-anhalt-landtagswahl-reportage",
+      "published_date": "2026-09-06T21:51:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahl in Sachsen-Anhalt: Schulze will Landes-CDU »Vorschlag zum weiteren Vorgehen« machen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/landtagswahl-sachsen-anhalt-2026-live",
+      "published_date": "2026-09-06T21:49:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T21:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T21:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T21:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T21:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T19:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T19:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T19:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Germany's postal voting system isn't rigged",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T18:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Germany's postal voting system isn't rigged",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T18:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt election: Why the AfD is so strong",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-06T18:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt election: Why the AfD is so strong",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T18:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "published_date": "2026-09-06T18:13:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes on Lebanon kill several despite truce",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-06T15:31:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vandals uproot Berlin tree commemorating Pride attack victims",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260906/vandals-uproot-berlin-tree-commemorating-pride-attack-victims",
       "published_date": "2026-09-06T13:20:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany 'wants war again', Russia FM says, dismissing drone accusations",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260906/germany-wants-war-again-russia-fm-says-dismissing-drone-accusations",
-      "published_date": "2026-09-06T13:16:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German director Wenders clarifies views on film and politics",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260906/german-director-wenders-clarifies-views-on-film-and-politics",
-      "published_date": "2026-09-06T11:57:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right AfD predicted to win big in crucial German state election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-      "published_date": "2026-09-06T10:50:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany plans anti-drone shield over Leipzig attack — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-06T10:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany plans anti-drone shield over Leipzig attack — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-06T10:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-06T07:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands march for democracy ahead of eastern German vote",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260906/thousands-march-for-democracy-ahead-of-eastern-german-vote",
-      "published_date": "2026-09-06T07:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260906/germanys-far-right-afd-clear-frontrunner-in-eastern-state-vote",
-      "published_date": "2026-09-06T06:53:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memory of water: the women reshaping Venice – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/06/memory-of-water-the-women-reshaping-venice-in-pictures",
-      "published_date": "2026-09-06T05:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt's state election will have a nationwide impact",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-06T01:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt's state election will have a nationwide impact",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-06T01:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unfall in Hamburg: Taxi kollidiert mit Auto – Fahrgast schwer verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/06/taxi-kollidiert-mit-auto-fahrgast-schwer-verletzt",
-      "published_date": "2026-09-05T22:56:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest: Tausende bei Fahrrad-Demo in Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/06/tausende-bei-fahrrad-demo-in-frankfurt",
-      "published_date": "2026-09-05T22:40:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German company successfully launches rocket to space",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-05T22:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German company successfully launches rocket to space",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T22:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hybride Sabotage: Bundesinnenministerium plant nach Drohnenvorfall Schutzschirm",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-09/hybride-sabotage-russland-alexander-dobrindt-drohnenabwehr-cyberdome",
-      "published_date": "2026-09-05T22:24:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Croatia: Toxic waste protest draws tens of thousands",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-05T17:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Croatia: Toxic waste protest draws tens of thousands",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T17:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-      "published_date": "2026-09-05T09:16:01+00:00",
       "category": "Local Events"
     }
   ]
