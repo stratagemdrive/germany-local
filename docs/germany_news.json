@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-07T16:14:11.400828+00:00",
+  "last_updated": "2026-09-08T00:49:29.767669+00:00",
   "story_count": 95,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "As Azerbaijan and Armenia work towards peace, this film paints a misleading picture | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/07/as-azerbaijan-and-armenia-work-towards-peace-this-film-paints-a-misleading-picture",
+      "published_date": "2026-09-07T16:50:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-07T16:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-07T16:26:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Russia announces 72-hour pause in strikes amid Ukraine talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-announces-72-hour-pause-in-strikes-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T13:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Angriffe auf Kyjiw auf Befehl Putins für drei Tage ausgesetzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-05T12:55:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
-      "published_date": "2026-09-05T11:00:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Carbon capture tech exists. Scaling it up is the hard part",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/carbon-capture-tech-exists-scaling-it-up-is-the-hard-part/a-79147600?maca=en-rss-en-all-1573-rdf",
@@ -387,6 +387,13 @@
       "url": "https://www.theguardian.com/environment/commentisfree/2026/sep/01/has-climate-crisis-killed-instagrams-euro-summer",
       "published_date": "2026-09-01T05:03:17+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Aktion zum Kinofest: Am Wochenende für fünf Euro ins Kino",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/08/am-wochenende-fuer-fuenf-euro-ins-kino",
+      "published_date": "2026-09-07T23:22:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
@@ -522,11 +529,81 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+      "title": "BSW und AfD in Sachsen-Anhalt: Wagenknecht zeigt sich offen für Kooperation mit AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/bsw-afd-sachsen-anhalt-sahra-wagenknecht-tino-chrupalla-ulrich-siegmund",
+      "published_date": "2026-09-08T00:43:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nach AfD-Wahlsieg: Thüringer Verfassungsschutz erwägt eingeschränkten Informationsfluss",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/verfassungsschutz-afd-regierung-sachsen-anhalt-stephan-kramer",
+      "published_date": "2026-09-08T00:39:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD-Wahlsieg in Sachsen-Anhalt: Sozialverband plädiert für Kurskorrektur bei Reformen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-sozialverband-deutschland-sozialkuerzungen-michaela-engelmeier",
+      "published_date": "2026-09-07T23:38:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower employees strike after female staff removed",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-07T22:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ARD-»Deutschlandtrend extra«: Zwei Drittel der Deutschen besorgt über Wahlausgang in Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/ard-deutschlandtrend-afd-sachsen-anhalt-ulrich-siegmund-friedrich-merz",
+      "published_date": "2026-09-07T22:16:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nach der Landtagswahl: SPD-Landrat fordert Gespräche mit AfD nach Wahlerfolg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/08/spd-landrat-fordert-gespraeche-mit-afd-nach-wahlerfolg",
+      "published_date": "2026-09-07T22:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 years on, Morocco earthquake victims still wait for help",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-07T18:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
-      "published_date": "2026-09-01T18:52:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+      "published_date": "2026-09-07T17:48:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the far right’s real weapon: it is the politics of powerlessness | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-the-far-rights-real-weapon-it-is-the-politics-of-powerlessness",
+      "published_date": "2026-09-07T17:48:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We should have learned more from history': Germans react to AfD win – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/07/germans-react-to-afd-win-video",
+      "published_date": "2026-09-07T17:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-07T16:14:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
@@ -589,83 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
       "published_date": "2026-09-07T15:30:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Friedrich Merz: CDU halbiert, AfD verdoppelt – ist Friedrich Merz gescheitert?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-09/friedrich-merz-cdu-afd-sachsen-anhalt-nachrichtenpodcast",
-      "published_date": "2026-09-07T15:15:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is the Alternative for Germany considered far-right extremist?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260907/five-reasons-the-afd-is-considered-extremist",
-      "published_date": "2026-09-07T15:14:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chancellor Merz says AfD result 'changes all of Germany'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-07T15:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chancellor Merz says AfD result 'changes all of Germany'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T15:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drohnenvorfall in Leipzig: Russland schließt deutsches Generalkonsulat in St. Petersburg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/russland-schliessung-generalkonsulat-leipzig-deutschland-diplomatie-gxe",
-      "published_date": "2026-09-07T14:50:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
-      "published_date": "2026-09-07T14:04:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The AfD’s win in Germany is a dark day for Europe. Time is running out to stop the far right | Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/afd-win-germany-far-right-europe-democracy",
-      "published_date": "2026-09-07T13:56:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany urges top UN court to dismiss Gaza genocide case",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260907/germany-urges-top-un-court-to-dismiss-gaza-genocide-case",
-      "published_date": "2026-09-07T13:08:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right AfD win in Germany is ‘grave moment’ for Europe, politicians warn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
-      "published_date": "2026-09-07T10:49:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police probe fire at Berlin electricity substation",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260907/police-probe-fire-at-berlin-electricity-substation",
-      "published_date": "2026-09-07T10:35:44+00:00",
       "category": "Local Events"
     }
   ]
