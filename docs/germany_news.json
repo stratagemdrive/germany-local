@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-08T00:49:29.767669+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-08T14:50:37.115484+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "EU court rules against Belgian far-right party in IKEA case",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-court-rules-against-belgian-far-right-party-in-ikea-case/a-79159207?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T12:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK announces trade sanctions on Israeli settlements in occupied West Bank",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T12:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz vows to stay course after AfD's landslide state victory",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260908/germanys-merz-vows-to-stay-course-after-afds-landslide-state-victory",
+      "published_date": "2026-09-08T07:41:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe’s fighter jet plans are in disarray. What happens next?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/08/europe-fighter-jet-plans-france-germany",
+      "published_date": "2026-09-08T04:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sachsen-Anhalt: CDU geht in die Opposition, Kanzler betont wehrhafte Demokratie",
       "source": "ZEIT Online",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Police raid vehicle of suspected grid saboteur",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-police-raid-vehicle-of-suspected-grid-saboteur/live-78896707?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-04T11:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Police raid vehicle of suspected grid saboteur",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-police-raid-vehicle-of-suspected-grid-saboteur/live-78896707?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T11:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Will the European Union take up the climate fight after brutal heatwaves?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
-      "published_date": "2026-09-04T08:10:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rise of far-right Vannacci poses dilemma for Meloni as she celebrates Italian milestone",
+      "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/roberto-vannacci-far-right-party-futuro-nazionale-dilemma-meloni",
-      "published_date": "2026-09-03T14:25:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+      "published_date": "2026-09-08T14:45:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Militärhilfe für die Ukraine: Pistorius sagt Ukraine umfangreiche Waffenlieferungen zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/08/pistorius-sagt-ukraine-umfangreiche-waffenlieferungen-zu",
+      "published_date": "2026-09-08T14:30:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK commits £100m to bolster Ukraine’s air defences over winter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
+      "published_date": "2026-09-08T10:56:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Canada tariff dispute weighs on cross-border ties",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-canada-tariff-dispute-weighs-on-cross-border-ties/a-78815803?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T10:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Volkswagen plant to be converted for Israeli defence group",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260908/volkswagen-plant-to-be-converted-for-israeli-defence-group",
+      "published_date": "2026-09-08T07:56:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine updates: 2 killed in Kyiv as 3-day truce ends",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-updates-2-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T03:33:00+00:00",
+      "category": "Military"
     },
     {
       "title": "As Azerbaijan and Armenia work towards peace, this film paints a misleading picture | Letter",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right",
-      "published_date": "2026-09-06T10:37:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How climate change and food insecurity could fuel future conflicts",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-06T07:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Isar Aerospace: Rakete von deutscher Raumfahrtfirma hat Erdumlaufbahn erreicht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/2026-09/isar-aerospace-traegerrakete-raketenstart-orbit-raumfahrt",
-      "published_date": "2026-09-05T22:48:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys meet with Putin, leave Russia for Kyiv",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T22:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "published_date": "2026-09-05T22:13:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why many Syrians feel Assad death sentence isn't enough",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-05T18:56:00+00:00",
-      "category": "Military"
+      "title": "German police arrest suspect in sabotage attacks on power grid",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260908/german-police-arrest-suspect-in-sabotage-attacks-on-power-grid",
+      "published_date": "2026-09-08T14:08:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Carbon capture tech exists. Scaling it up is the hard part",
@@ -368,25 +375,25 @@
       "category": "Energy"
     },
     {
-      "title": "Germany news: Explosive devices found near power plant",
+      "title": "Japan's empty temples seek new ways to survive",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-explosive-devices-found-near-power-plant/live-78583741?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-01T10:07:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/japan-s-empty-temples-seek-new-ways-to-survive/a-79157964?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T12:31:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany news: Explosive devices found near power plant",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-explosive-devices-found-near-power-plant/live-78583741?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-01T10:07:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cities sweltering and the smell of the middle ages: has the climate crisis killed Instagram’s Euro summer? | Brigid Delaney",
+      "title": "Just an Illusion review – Louis Garrel and Camille Cottin sizzle as an 80s couple in crisis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/commentisfree/2026/sep/01/has-climate-crisis-killed-instagrams-euro-summer",
-      "published_date": "2026-09-01T05:03:17+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/film/2026/sep/08/just-an-illusion-review-louis-garrel-and-camille-cottin-sizzle-as-an-80s-couple-in-crisis",
+      "published_date": "2026-09-08T12:00:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump threatens to block Canada's Bombardier planes from US market",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T05:52:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Aktion zum Kinofest: Am Wochenende für fünf Euro ins Kino",
@@ -508,164 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "What does Germany's '€10 billion' income tax reform mean for you?",
+      "title": "Landtagspräsident in Sachsen-Anhalt: BSW will einen AfD-Landtagspräsidenten mitwählen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagspraesident-afd-sachsen-anhalt-sahra-wagenknecht-bsw",
+      "published_date": "2026-09-08T14:32:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyberangriff auf Berliner Verwaltung: Laut Senat keine Militärdaten von Hackerangriff in Berlin betroffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/cyberangriff-berlin-rhysida-hackergruppe-senatsverwaltung-datenleck",
+      "published_date": "2026-09-08T14:19:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bosnia: The long shadow cast by Ratko Mladic's coffin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bosnia-the-long-shadow-cast-by-ratko-mladic-s-coffin/a-79189319?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T14:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bosnia: The long shadow cast by Ratko Mladic's coffin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bosnia-the-long-shadow-cast-by-ratko-mladic-s-coffin/a-79189319?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-08T14:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BSW and AfD – a political love-hate relationship in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bsw-and-afd-a-political-love-hate-relationship-in-germany/a-79185782?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-08T13:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BSW and AfD – a political love-hate relationship in Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bsw-and-afd-a-political-love-hate-relationship-in-germany/a-79185782?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T13:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/08/anti-afd-protests-germany-far-right-berlin-mecklenburg-western-pomerania",
+      "published_date": "2026-09-08T12:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+      "published_date": "2026-09-08T12:26:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crocodile head found in luggage at Italian airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/08/crocodile-head-seized-luggage-italy-airport",
+      "published_date": "2026-09-08T12:05:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police arrest suspect in power grid sabotage case",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case/a-79161142?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-08T10:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police arrest suspect in power grid sabotage case",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case/a-79161142?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T10:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I feel unsafe': Foreigners in Germany fear future after AfD's breakthrough election",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260902/what-does-germanys-e10-billion-income-tax-reform-mean-for-you",
-      "published_date": "2026-09-02T13:53:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
-      "published_date": "2026-09-02T08:58:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
-      "published_date": "2026-09-02T08:54:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BSW und AfD in Sachsen-Anhalt: Wagenknecht zeigt sich offen für Kooperation mit AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/bsw-afd-sachsen-anhalt-sahra-wagenknecht-tino-chrupalla-ulrich-siegmund",
-      "published_date": "2026-09-08T00:43:53+00:00",
+      "url": "https://www.thelocal.de/20260908/i-feel-unsafe-readers-react-to-the-afds-breakthrough-in-saxony-anhalt",
+      "published_date": "2026-09-08T10:15:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nach AfD-Wahlsieg: Thüringer Verfassungsschutz erwägt eingeschränkten Informationsfluss",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/verfassungsschutz-afd-regierung-sachsen-anhalt-stephan-kramer",
-      "published_date": "2026-09-08T00:39:59+00:00",
+      "title": "'Wake-up call': Greens in Magdeburg vow to continue fight against right-wing extremism",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260908/wake-up-call-greens-in-magdeburg-vow-to-continue-fight-against-right-wing-extremism",
+      "published_date": "2026-09-08T09:55:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "AfD-Wahlsieg in Sachsen-Anhalt: Sozialverband plädiert für Kurskorrektur bei Reformen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-sozialverband-deutschland-sozialkuerzungen-michaela-engelmeier",
-      "published_date": "2026-09-07T23:38:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eiffel Tower employees strike after female staff removed",
+      "title": "Renoir Museum robbery: 2 paintings missing",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T22:23:00+00:00",
+      "url": "https://www.dw.com/en/renoir-museum-robbery-2-paintings-missing/a-79154458?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T07:40:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "ARD-»Deutschlandtrend extra«: Zwei Drittel der Deutschen besorgt über Wahlausgang in Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/ard-deutschlandtrend-afd-sachsen-anhalt-ulrich-siegmund-friedrich-merz",
-      "published_date": "2026-09-07T22:16:57+00:00",
+      "title": "'Why is the AfD so popular?': Your questions answered on the far right threat in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260908/join-our-live-qa-on-the-growing-afd-threat-in-germany-after-saxony-anhalt-vote",
+      "published_date": "2026-09-08T07:27:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nach der Landtagswahl: SPD-Landrat fordert Gespräche mit AfD nach Wahlerfolg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/08/spd-landrat-fordert-gespraeche-mit-afd-nach-wahlerfolg",
-      "published_date": "2026-09-07T22:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 years on, Morocco earthquake victims still wait for help",
+      "title": "Elversberg: Bundesliga newcomers from tiny town make waves",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T18:57:00+00:00",
+      "url": "https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-waves/a-77194483?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-08T06:47:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
-      "published_date": "2026-09-07T17:48:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the far right’s real weapon: it is the politics of powerlessness | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-the-far-rights-real-weapon-it-is-the-politics-of-powerlessness",
-      "published_date": "2026-09-07T17:48:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We should have learned more from history': Germans react to AfD win – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/07/germans-react-to-afd-win-video",
-      "published_date": "2026-09-07T17:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
+      "title": "Elversberg: Bundesliga newcomers from tiny town make waves",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-07T16:14:00+00:00",
+      "url": "https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-waves/a-77194483?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T06:47:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
-      "published_date": "2026-09-07T16:13:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can the AfD form a government in Saxony-Anhalt?",
+      "title": "India news: Hindu group apologizes over Eiffel Tower row",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-07T16:09:00+00:00",
+      "url": "https://www.dw.com/en/india-news-hindu-group-apologizes-over-eiffel-tower-row/live-79153937?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-08T06:38:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Can the AfD form a government in Saxony-Anhalt?",
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260908/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-139",
+      "published_date": "2026-09-08T06:34:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Gas reserves historically low ahead of winter",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T16:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia announces it is closing Germany's consulate in St. Petersburg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-announces-it-is-closing-germany-s-consulate-in-st-petersburg/a-79149908?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-07T16:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia announces it is closing Germany's consulate in St. Petersburg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-announces-it-is-closing-germany-s-consulate-in-st-petersburg/a-79149908?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T16:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: CDU-Landesvorstand berät über Konsequenzen nach Wahlpleite",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/07/cdu-landesvorstand-beraet-ueber-konsequenzen-nach-wahlpleite",
-      "published_date": "2026-09-07T15:58:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Schwesig fordert Tankpreisdeckel und Festhalten an Rente mit 63",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/abschlagsfreie-rente-manuela-schwesig-spd-rentenreform",
-      "published_date": "2026-09-07T15:49:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Institute: Wahl für große Mehrheit Denkzettel an Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/07/institute-wahl-fuer-grosse-mehrheit-denkzettel-an-berlin",
-      "published_date": "2026-09-07T15:44:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-      "published_date": "2026-09-07T15:30:44+00:00",
+      "url": "https://www.dw.com/en/germany-news-gas-reserves-historically-low-ahead-of-winter/live-79153944?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-08T06:31:00+00:00",
       "category": "Local Events"
     }
   ]
