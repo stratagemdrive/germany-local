@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-09T14:57:50.739025+00:00",
+  "last_updated": "2026-09-10T00:43:35.268567+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Haushaltsentwurf: AfD-Co-Chef Chrupalla will Haushalt vor Verfassungsgericht anfechten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/bundeshaushalt-plan-kanzleramt-debatte-bundestag-finanzen",
+      "published_date": "2026-09-09T23:23:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta: Documents show Spanish intelligence warned of crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned-of-crisis/a-79206505?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-09T17:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on UK-EU relations: voters would reward greater ambition | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/the-guardian-view-on-uk-eu-relations-voters-would-reward-greater-ambition",
+      "published_date": "2026-09-09T17:40:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia, the conflicted EU candidate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-09T16:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia, the conflicted EU candidate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-09T16:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is German Chancellor Merz taking a harder line against the far-right after AfD win?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260909/is-german-chancellor-merz-repositioning-in-response-to-far-right-vote",
+      "published_date": "2026-09-09T15:06:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kurzzeitvermietungen: Wohnungsnot in Europa: EU nimmt Ferienwohnungen ins Visier",
       "source": "ZEIT Online",
@@ -102,48 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sachsen-Anhalt: CDU geht in die Opposition, Kanzler betont wehrhafte Demokratie",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/sachsen-anhalt-landtagswahl-afd-cdu-bsw-live",
-      "published_date": "2026-09-07T14:39:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Your questions answered on how new EU banking law affects Americans in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260907/your-questions-answered-on-how-new-eu-banking-law-affects-americans-in-germany",
-      "published_date": "2026-09-07T14:13:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU's Von der Leyen pledges $232 million Greenland investment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-s-von-der-leyen-pledges-232-million-greenland-investment/a-79109197?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T13:35:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia",
-      "published_date": "2026-09-07T11:20:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zoff um Zuständigkeiten: Widerstand aus Berlin: EU bläst Verteidigungsinitiative ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/07/widerstand-aus-berlin-eu-blaest-verteidigungsinitiative-ab",
-      "published_date": "2026-09-06T23:20:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sachsen-Anhalt: Wie gefährlich wird der AfD-Kantersieg für Merz?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/07/wie-gefaehrlich-wird-der-afd-kantersieg-fuer-merz",
-      "published_date": "2026-09-06T23:02:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Oil prices rise as Middle East conflict escalates",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
@@ -176,6 +176,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-russia-trade-drone-strikes-killing-6/a-79196814?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-09T08:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260909/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-137",
+      "published_date": "2026-09-09T06:34:07+00:00",
       "category": "Military"
     },
     {
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T15:03:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "US strikes oil tankers off coast of Iran",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-strikes-oil-tankers-off-coast-of-iran/a-79194562?maca=en-rss-en-all-1573-rdf",
@@ -345,6 +345,13 @@
       "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-04T13:59:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Finland: Google announces €13 billion AI, energy investment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/finland-google-announces-€13-billion-ai-energy-investment/a-79208034?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-09T22:27:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Anschlag auf das World Trade Center: Der Mann in der Wolke",
@@ -480,11 +487,46 @@
       "category": "Economy"
     },
     {
-      "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
+      "title": "Steuerreform: CDU-Arbeitnehmerflügel fordert größere Entlastung bei Steuerreform",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/einkommensteuerreform-nordrhein-westfalen-dennis-radtke-cda-entlastung-subventionsabbau",
+      "published_date": "2026-09-09T23:33:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's connection to the September 11, 2001 attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-09T17:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's connection to the September 11, 2001 attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-09T17:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Switzerland: Two killed in power plant explosion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/switzerland-two-killed-in-power-plant-explosion/a-79205516?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-09T16:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German chancellor accuses far-right AfD of calling for 'ethnic cleansing' – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-      "published_date": "2026-09-03T22:30:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/sep/09/germany-friedrich-merz-accuses-far-right-afd-of-calling-for-ethnic-cleansing-video",
+      "published_date": "2026-09-09T15:43:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands line the streets as Norway bids farewell to King Harald V",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/09/norway-king-harald-v-funeral",
+      "published_date": "2026-09-09T15:02:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Briefwahl in Berlin: Briefwahlunterlagen für falschen Wahlkreis in Berlin versandt",
@@ -564,66 +606,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Why is Berlin failing to build more bike lanes?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260909/why-is-berlin-failing-to-build-more-bike-lanes",
+      "published_date": "2026-09-09T11:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "INTERVIEW: 'Remigration could not be implemented by a state government'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260909/interview-remigration-could-not-be-implemented-by-a-state-government",
+      "published_date": "2026-09-09T10:41:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK rules out cyberattack after major flight disruptions",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-rules-out-cyberattack-after-major-flight-disruptions/a-79197818?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-09T09:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's Netanyahu denies UAE warned him of October 7 attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-s-netanyahu-denies-uae-warned-him-of-october-7-attack/a-79194436?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T00:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD: Schweitzer plädiert für Expertenregierung in Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/expertenregierung-sachsen-anhalt-alexander-schweitzer-afd",
-      "published_date": "2026-09-08T23:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDU in Sachsen-Anhalt: Sepp Müller kritisiert Wahl von Sven Schulze zum Fraktionschef",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/cdu-sachsen-anhalt-sepp-mueller-sven-schulze-afd",
-      "published_date": "2026-09-08T22:53:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK air traffic control problem strands hundreds of thousands of passengers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
-      "published_date": "2026-09-08T22:04:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach AfD-Wahlsieg: Schweitzer für Expertenregierung in Sachsen-Anhalt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/09/schweitzer-fuer-expertenregierung-in-sachsen-anhalt",
-      "published_date": "2026-09-08T22:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Dortmund startet Saison mit Sieg gegen Villarreal",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/champions-league-dortmund-villarreal-spielbericht",
-      "published_date": "2026-09-08T21:57:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahl in Berlin: Junge Wahlberechtigte fragen besonders nach Finanzierung von Vorhaben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-rbb-junge-wahlarena-linke-cdu-gruene-afd-spd",
-      "published_date": "2026-09-08T21:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ikea wins right to launch legal action against Belgian far-right party",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/08/ikea-wins-right-to-launch-legal-action-vlaams-belang-eu",
-      "published_date": "2026-09-08T18:45:49+00:00",
       "category": "Local Events"
     }
   ]
