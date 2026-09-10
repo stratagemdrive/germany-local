@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-10T00:43:35.268567+00:00",
-  "story_count": 89,
+  "last_updated": "2026-09-10T14:43:05.697579+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Germany sets its sights on Russia's shadow fleet",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T14:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Myanmar seeks closer foreign ties amid global isolation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T12:09:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "August hottest month ever recorded, says EU monitor",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/august-hottest-month-ever-recorded-says-eu-monitor/a-79208462?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T05:47:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Haushaltsentwurf: AfD-Co-Chef Chrupalla will Haushalt vor Verfassungsgericht anfechten",
       "source": "ZEIT Online",
@@ -102,6 +123,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "India looks to steer BRICS away from anti-Western turn",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-09T06:47:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Kanzler: Publizist Friedman: Merz als Kanzler ungeeignet",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/09/publizist-friedman-merz-als-kanzler-ungeeignet",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU court rules against Belgian far-right party in IKEA case",
+      "title": "Krieg gegen die Ukraine: Amnesty wirft Russland Menschenhandel bei Rekrutierung im Ausland vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/amnesty-international-russland-menschenhandel-auslaendische-kaempfer-ukraine",
+      "published_date": "2026-09-10T14:07:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's Zelenskyy arrives in Canada seeking air support",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-court-rules-against-belgian-far-right-party-in-ikea-case/a-79159207?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-08T12:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-arrives-in-canada-seeking-air-support/a-79209534?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T08:38:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK announces trade sanctions on Israeli settlements in occupied West Bank",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-08T12:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz vows to stay course after AfD's landslide state victory",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260908/germanys-merz-vows-to-stay-course-after-afds-landslide-state-victory",
-      "published_date": "2026-09-08T07:41:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe’s fighter jet plans are in disarray. What happens next?",
+      "title": "Nine years after Daphne Caruana Galizia’s murder, Europe must finally address Malta’s culture of impunity | Pieter Omtzigt and Emanuel Delia",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/08/europe-fighter-jet-plans-france-germany",
-      "published_date": "2026-09-08T04:00:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/10/daphne-caruana-galizia-murder-malta-eu",
+      "published_date": "2026-09-10T08:00:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump promises Americans $5,000 if Republicans win midterms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T03:44:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Oil prices rise as Middle East conflict escalates",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine updates: 2 killed in Kyiv as 3-day truce ends",
+      "title": "Are electric vehicles really bad for the environment?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-2-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-08T03:33:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-10T13:18:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "As Azerbaijan and Armenia work towards peace, this film paints a misleading picture | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/as-azerbaijan-and-armenia-work-towards-peace-this-film-paints-a-misleading-picture",
-      "published_date": "2026-09-07T16:50:36+00:00",
-      "category": "Military"
+      "title": "Are electric vehicles really bad for the environment?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T13:18:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
+      "title": "Are electric vehicles really bad for the environment?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-07T16:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-07T16:26:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-10T13:18:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "US strikes oil tankers off coast of Iran",
@@ -345,6 +366,69 @@
       "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-04T13:59:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "11. September 2001: 9/11",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/39/11-september-2001-anschlaege-world-trade-center-new-york-statistik",
+      "published_date": "2026-09-10T14:20:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation: Europäische Zentralbank erhöht Leitzins auf 2,5 Prozent",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/europaeische-zentralbank-erhoeht-leitzins-auf-2-50-prozent-gxe",
+      "published_date": "2026-09-10T14:11:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Much of Europe already levies a tourist tax – a nice little earner for Italian hotspots",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england",
+      "published_date": "2026-09-10T13:57:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB raises interest rates to fight off inflation jump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-10T13:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB raises interest rates to fight off inflation jump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T13:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Primark to launch home delivery service despite ‘challenging’ market",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
+      "published_date": "2026-09-10T13:31:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
+      "published_date": "2026-09-10T13:10:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany 'rebuilding pillars' of national security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-rebuilding-pillars-of-national-security/live-79209302?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-10T07:44:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany 'rebuilding pillars' of national security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-rebuilding-pillars-of-national-security/live-79209302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T07:44:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Finland: Google announces €13 billion AI, energy investment",
@@ -424,67 +508,46 @@
       "category": "Economy"
     },
     {
-      "title": "E-Auto-Kaufprämie: Bundesamt bewilligt rund 52.500 Anträge für E-Auto-Prämie",
+      "title": "Sachsen-Anhalt: Siegmund und Kirchner führen AfD-Fraktion weiterhin gemeinsam",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-09/e-auto-kaufpraemie-foerderung-bafa-antrag-einkommen-vw-tesla",
-      "published_date": "2026-09-05T19:10:04+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-fraktion-ulrich-siegmund-oliver-kirchner-bsw",
+      "published_date": "2026-09-10T14:27:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Climbing German factory orders hint at recovering economy",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260904/climbing-german-factory-orders-hint-at-recovering-economy",
-      "published_date": "2026-09-04T14:01:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How can African retailers compete with Shein and Temu?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-can-african-retailers-compete-with-shein-and-temu/a-78988195?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T13:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How Volkswagen's huge workforce became a costly burden",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-04T07:21:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How Volkswagen's huge workforce became a costly burden",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T07:21:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260904/today-in-germany-a-roundup-of-the-latest-news-on-friday-138",
-      "published_date": "2026-09-04T06:31:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen-Einigung: Der große Kompromiss-Motor läuft wieder",
+      "title": "Walfang in Island: Island will kommerziellen Walfang dauerhaft verbieten",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-09/volkswagen-einigung-aufsichtsrat-vorstand-betriebsrat",
-      "published_date": "2026-09-04T00:32:11+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/ausland/2026-09/walfang-island-verbot-finnwale-norwegen-japan",
+      "published_date": "2026-09-10T14:23:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen to cut 100,000 jobs by end of decade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-04T00:06:00+00:00",
-      "category": "Economy"
+      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+      "published_date": "2026-09-10T14:23:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen to cut 100,000 jobs by end of decade",
+      "title": "China: Cargo ship fire kills at least 25",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T00:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/china-cargo-ship-fire-kills-at-least-25/a-79212704?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T11:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260910/today-in-germany-a-roundup-of-the-latest-news-on-thursday-135",
+      "published_date": "2026-09-10T06:38:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philippines: Several killed, dozens missing after fire on ferry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T01:48:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Steuerreform: CDU-Arbeitnehmerflügel fordert größere Entlastung bei Steuerreform",
@@ -582,48 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/09/friedrich-merz-afd-far-right-accused-seeking-ethnic-cleansing-saxony-anhalt-election",
       "published_date": "2026-09-09T13:43:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nats boss given one week to deliver report into UK flight chaos",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/uk-flight-cancellations-nats-martin-rolfe-heidi-alexander",
-      "published_date": "2026-09-09T13:28:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK airport disruption: what are your rights if you have been affected?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham",
-      "published_date": "2026-09-09T11:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norway's King Harald V laid to rest in state funeral",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/norway-s-king-harald-v-laid-to-rest-in-state-funeral/a-79199812?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T11:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Berlin failing to build more bike lanes?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260909/why-is-berlin-failing-to-build-more-bike-lanes",
-      "published_date": "2026-09-09T11:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INTERVIEW: 'Remigration could not be implemented by a state government'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260909/interview-remigration-could-not-be-implemented-by-a-state-government",
-      "published_date": "2026-09-09T10:41:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK rules out cyberattack after major flight disruptions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-rules-out-cyberattack-after-major-flight-disruptions/a-79197818?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T09:22:00+00:00",
       "category": "Local Events"
     }
   ]
