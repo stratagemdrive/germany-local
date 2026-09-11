@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-10T14:43:05.697579+00:00",
+  "last_updated": "2026-09-11T00:42:19.886956+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Algeria cuts diplomatic ties with UAE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T22:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AfD und Friedrich Merz: AfD will Merz wegen »verleumderischer Beledigung« anzeigen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-fraktion-strafanzeige-friedrich-merz-remigration-bundestag",
+      "published_date": "2026-09-10T22:04:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany sets its sights on Russia's shadow fleet",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-10T17:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T16:17:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-10T16:17:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany sets its sights on Russia's shadow fleet",
       "source": "Deutsche Welle",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU sports commissioner says FIFA is 'damaging to football'",
+      "title": "Canada, Ukraine pledge 100-year partnership",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-sports-commissioner-says-fifa-is-damaging-to-football/a-79193424?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T07:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T18:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "BRICS leaders gather in India, but does the group have a clear purpose?",
+      "title": "Yemen: Houthis take control of strategic Red Sea port city",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brics-leaders-gather-in-india-but-does-the-group-have-a-clear-purpose/a-79195234?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T06:47:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-port-city/a-79220628?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T17:01:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "India looks to steer BRICS away from anti-Western turn",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T06:47:00+00:00",
-      "category": "Diplomacy"
+      "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
+      "published_date": "2026-09-10T15:12:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kanzler: Publizist Friedman: Merz als Kanzler ungeeignet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/09/publizist-friedman-merz-als-kanzler-ungeeignet",
-      "published_date": "2026-09-08T22:01:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU, UK express dismay over Mladic funeral in Serbia",
+      "title": "North Korea spends war windfall on arms, infrastructure",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-uk-express-dismay-over-mladic-funeral-in-serbia/a-79190233?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-08T16:52:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T14:56:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Amnesty wirft Russland Menschenhandel bei Rekrutierung im Ausland vor",
@@ -253,34 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
       "published_date": "2026-09-08T14:45:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Militärhilfe für die Ukraine: Pistorius sagt Ukraine umfangreiche Waffenlieferungen zu",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/08/pistorius-sagt-ukraine-umfangreiche-waffenlieferungen-zu",
-      "published_date": "2026-09-08T14:30:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK commits £100m to bolster Ukraine’s air defences over winter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
-      "published_date": "2026-09-08T10:56:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Canada tariff dispute weighs on cross-border ties",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-canada-tariff-dispute-weighs-on-cross-border-ties/a-78815803?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-08T10:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volkswagen plant to be converted for Israeli defence group",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260908/volkswagen-plant-to-be-converted-for-israeli-defence-group",
-      "published_date": "2026-09-08T07:56:57+00:00",
       "category": "Military"
     },
     {
@@ -508,6 +508,34 @@
       "category": "Economy"
     },
     {
+      "title": "Champions League: Bayern München siegt gegen Bodø/Glimt, RB Leipzig unterliegt in Como",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/fussball-champions-league-fc-bayern-rb-leipzig",
+      "published_date": "2026-09-10T21:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sachsen-Anhalt: Ulrich Siegmund will auch mit einer Stimme Mehrheit regieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-landtagswahl-ulrich-siegmund-regierungsbildung",
+      "published_date": "2026-09-10T20:58:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-10T16:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T16:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sachsen-Anhalt: Siegmund und Kirchner führen AfD-Fraktion weiterhin gemeinsam",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-fraktion-ulrich-siegmund-oliver-kirchner-bsw",
@@ -571,6 +599,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany's connection to the September 11 attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-attacks/a-79202918?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-09T17:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Switzerland: Two killed in power plant explosion",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/switzerland-two-killed-in-power-plant-explosion/a-79205516?maca=en-rss-en-all-1573-rdf",
@@ -610,41 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/09/i-fear-the-price-could-be-high-inside-the-german-state-where-the-far-right-surged",
       "published_date": "2026-09-09T14:45:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Konzerte gegen rechts: Spart euch die Predigt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/39/konzerte-gegen-rechts-musiker-afd-gluecksgefuehle",
-      "published_date": "2026-09-09T14:43:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dating-App: »Seit Minute eins fühlte es sich an, als würden wir uns ewig kennen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-magazin/2026/39/dating-app-online-partnersuche-entfernung-liebeskolumne",
-      "published_date": "2026-09-09T14:43:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "»Babylon Berlin«: Ein Flirt mit dem Trash",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/39/babylon-berlin-ard-serie-letzte-staffel-nazis-karneval",
-      "published_date": "2026-09-09T14:42:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kommunalwahlen: AfD und Innenministerin wegen Wahlausschlüssen im Clinch",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/09/afd-und-innenministerin-wegen-wahlausschluessen-im-clinch",
-      "published_date": "2026-09-09T14:40:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Merz accuses AfD of ‘ethnic cleansing’ policy and cancels call with Trump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/friedrich-merz-afd-far-right-accused-seeking-ethnic-cleansing-saxony-anhalt-election",
-      "published_date": "2026-09-09T13:43:03+00:00",
       "category": "Local Events"
     }
   ]
