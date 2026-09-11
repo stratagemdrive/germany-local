@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-11T00:42:19.886956+00:00",
-  "story_count": 92,
+  "last_updated": "2026-09-11T14:46:41.792391+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "BRICS Summit 2026: Putin, Modi reaffirm partnership",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brics-summit-2026-putin-modi-reaffirm-partnership/live-79224239?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T12:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/11/asylum-seekers-removed-uk-to-france-disappeared-children-one-in-one-out",
+      "published_date": "2026-09-11T11:33:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Big tech to banking: Which companies spend the most on EU lobbying?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260911/big-tech-to-banking-which-companies-spend-the-most-on-eu-lobbying",
+      "published_date": "2026-09-11T11:02:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India looks to steer BRICS away from anti-Western turn",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T10:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China angered by Taiwan VP's visit to EU democracy forum",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T10:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emma Bonino, radical Italian politician who stood up to Vatican, dies aged 78",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/emma-bonino-radical-italian-politician-abortion-divorce-dies",
+      "published_date": "2026-09-11T09:21:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Algeria cuts diplomatic ties with UAE",
       "source": "Deutsche Welle",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kurzzeitvermietungen: Wohnungsnot in Europa: EU nimmt Ferienwohnungen ins Visier",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/09/wohnungsnot-in-europa-eu-nimmt-ferienwohnungen-ins-visier",
-      "published_date": "2026-09-09T14:50:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany’s Merz cancels phone call with Trump after social media post celebrating AfD win – Europe live",
+      "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-      "published_date": "2026-09-09T14:42:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
+      "published_date": "2026-09-11T14:09:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU proposes more restrictions for Airbnb, holiday rentals",
+      "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-more-restrictions-for-airbnb-holiday-rentals/a-79202023?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T12:27:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T11:52:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU unveils ‘buy European’ public procurement rules to counter China",
+      "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T10:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A fierce need to be independent’: Gerda Taro biopic pulls photographer out of lover Robert Capa’s shadow",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
-      "published_date": "2026-09-09T11:30:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz, Weidel face off after AfD state win",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-weidel-face-off-after-afd-state-win/live-79196246?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-09T08:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz, Weidel face off after AfD state win",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-weidel-face-off-after-afd-state-win/live-79196246?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T08:13:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/11/gerda-taro-biopic-robert-capa-spain-photography-venice-film-festival",
+      "published_date": "2026-09-11T05:00:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Canada, Ukraine pledge 100-year partnership",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Russia is raining death on Ukraine’s women and children. Our hands shake but we keep going for love | Alina Sarnatska",
+      "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/russia-raining-death-ukraines-women-children-hands-shake-keep-going-for-love",
-      "published_date": "2026-09-09T04:01:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
+      "published_date": "2026-09-11T09:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Krieg gegen die Ukraine: Wadephul fordert mehr Waffenkäufe der Ukraine bei deutschen Firmen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-09T00:21:06+00:00",
-      "category": "Military"
+      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T08:20:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine’s prosecutor general quits after anti-corruption agents raid his office",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-prosecutor-general-ruslan-kravchenko-quits-anti-corruption-agents-raid-office",
-      "published_date": "2026-09-08T17:00:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-      "published_date": "2026-09-08T14:45:53+00:00",
-      "category": "Military"
+      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-11T08:20:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Are electric vehicles really bad for the environment?",
@@ -301,6 +322,27 @@
       "title": "Are electric vehicles really bad for the environment?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-10T13:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Are electric cars really bad for the environment?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-electric-cars-really-bad-for-the-environment/a-79213336?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-10T13:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Are electric cars really bad for the environment?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-electric-cars-really-bad-for-the-environment/a-79213336?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T13:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Are electric cars really bad for the environment?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-electric-cars-really-bad-for-the-environment/a-79213336?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-10T13:18:00+00:00",
       "category": "Energy"
     },
@@ -361,11 +403,18 @@
       "category": "Energy"
     },
     {
-      "title": "Nepal flood disaster puts climate justice under spotlight",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-04T13:59:00+00:00",
-      "category": "Energy"
+      "title": "Staatsempfang in München: Emirate wollen zehn Milliarden Euro in Bayern investieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/11/roter-teppich-und-lebkuchenherz-fuer-praesidenten-der-emirate",
+      "published_date": "2026-09-11T14:21:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Krise bei Volkswagen: Arbeitnehmer wollen Gespräche mit VW-Vorstand erzwingen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-volkswagen-vw-sparkurs-tarifvertrag-gxe",
+      "published_date": "2026-09-11T13:39:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "11. September 2001: 9/11",
@@ -494,157 +543,143 @@
       "category": "Economy"
     },
     {
-      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+      "title": "Bauministerkonferenz: Bund und Länder wollen Baukosten senken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/11/bund-und-laender-wollen-baukosten-senken",
+      "published_date": "2026-09-11T14:29:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Positionspapier für Klausur: CSU setzt auf Heimatgefühl gegen schlechte Stimmung im Land",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/11/csu-setzt-auf-heimatgefuehl-gegen-schlechte-stimmung-im-land",
+      "published_date": "2026-09-11T14:29:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thüringer Landtag: AfD-Fraktion beantragt Abstimmung zur Auflösung des Thüringer Landtags",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/thueringer-landtag-afd-aufloesung-abstimmung-bjoern-hoecke-gxe",
+      "published_date": "2026-09-11T14:11:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-      "published_date": "2026-09-06T17:00:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
-      "published_date": "2026-09-06T13:00:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Champions League: Bayern München siegt gegen Bodø/Glimt, RB Leipzig unterliegt in Como",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/fussball-champions-league-fc-bayern-rb-leipzig",
-      "published_date": "2026-09-10T21:30:08+00:00",
+      "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
+      "published_date": "2026-09-11T12:01:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sachsen-Anhalt: Ulrich Siegmund will auch mit einer Stimme Mehrheit regieren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-landtagswahl-ulrich-siegmund-regierungsbildung",
-      "published_date": "2026-09-10T20:58:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
+      "title": "Germany charges 7 suspected Hamas members over attack plot",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-10T16:51:00+00:00",
+      "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-11T11:36:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
+      "title": "Germany charges 7 suspected Hamas members over attack plot",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T16:51:00+00:00",
+      "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T11:36:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sachsen-Anhalt: Siegmund und Kirchner führen AfD-Fraktion weiterhin gemeinsam",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-fraktion-ulrich-siegmund-oliver-kirchner-bsw",
-      "published_date": "2026-09-10T14:27:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Walfang in Island: Island will kommerziellen Walfang dauerhaft verbieten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/walfang-island-verbot-finnwale-norwegen-japan",
-      "published_date": "2026-09-10T14:23:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
-      "published_date": "2026-09-10T14:23:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China: Cargo ship fire kills at least 25",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-cargo-ship-fire-kills-at-least-25/a-79212704?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "title": "What Germany’s new 'PISA-shock' means for schools and parents",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260910/today-in-germany-a-roundup-of-the-latest-news-on-thursday-135",
-      "published_date": "2026-09-10T06:38:52+00:00",
+      "url": "https://www.thelocal.de/20260911/what-germanys-new-pisa-shock-means-for-schools-and-parents",
+      "published_date": "2026-09-11T10:10:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Philippines: Several killed, dozens missing after fire on ferry",
+      "title": "Yemen: Houthis tighten control of strategic Red Sea towns",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T01:48:00+00:00",
+      "url": "https://www.dw.com/en/yemen-houthis-tighten-control-of-strategic-red-sea-towns/a-79220628?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T10:10:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Steuerreform: CDU-Arbeitnehmerflügel fordert größere Entlastung bei Steuerreform",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/einkommensteuerreform-nordrhein-westfalen-dennis-radtke-cda-entlastung-subventionsabbau",
-      "published_date": "2026-09-09T23:33:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's connection to the September 11, 2001 attacks",
+      "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-09T17:52:00+00:00",
+      "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T10:07:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Germany's connection to the September 11, 2001 attacks",
+      "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T17:52:00+00:00",
+      "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-11T10:07:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Germany's connection to the September 11 attacks",
+      "title": "Germany: Far right lead in upcoming state election polls",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-attacks/a-79202918?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-09T17:52:00+00:00",
+      "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T09:02:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Switzerland: Two killed in power plant explosion",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/switzerland-two-killed-in-power-plant-explosion/a-79205516?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T16:02:00+00:00",
+      "title": "What you can learn from my 'failed' apartment search in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260911/what-you-can-learn-from-my-failed-apartment-search-in-germany",
+      "published_date": "2026-09-11T09:00:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "German chancellor accuses far-right AfD of calling for 'ethnic cleansing' – video",
+      "title": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/09/germany-friedrich-merz-accuses-far-right-afd-of-calling-for-ethnic-cleansing-video",
-      "published_date": "2026-09-09T15:43:39+00:00",
+      "url": "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin",
+      "published_date": "2026-09-11T09:00:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tens of thousands line the streets as Norway bids farewell to King Harald V",
+      "title": "Philippines ferry fire: Search continues for dozens missing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/philippines-ferry-fire-search-continues-for-dozens-missing/a-79223425?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T08:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UAE to invest 40 billion euros in data centres in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260911/uae-to-invest-40-billion-euros-in-data-centres-in-germany",
+      "published_date": "2026-09-11T06:42:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260911/today-in-germany-a-roundup-of-the-latest-news-on-friday-139",
+      "published_date": "2026-09-11T06:35:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's connection to the 9/11 attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-11T06:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's connection to the 9/11 attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T06:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BredaPhoto Festival  – in pictures",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/norway-king-harald-v-funeral",
-      "published_date": "2026-09-09T15:02:30+00:00",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures",
+      "published_date": "2026-09-11T06:00:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Briefwahl in Berlin: Briefwahlunterlagen für falschen Wahlkreis in Berlin versandt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/briefwahl-berlin-fehler-wahlkreis-unterlagen",
-      "published_date": "2026-09-09T14:52:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kurz vor der Wahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/09/ermittlungen-gegen-berliner-spd-spitzenkandidaten-krach",
-      "published_date": "2026-09-09T14:52:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I fear the price could be high’: Inside the German state where the far-right surged",
+      "title": "How Sweden lost its soul – and stopped being Sweden | Martin Gelin",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/i-fear-the-price-could-be-high-inside-the-german-state-where-the-far-right-surged",
-      "published_date": "2026-09-09T14:45:01+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/how-sweden-lost-its-soul-and-stopped-being-sweden",
+      "published_date": "2026-09-11T04:00:06+00:00",
       "category": "Local Events"
     }
   ]
