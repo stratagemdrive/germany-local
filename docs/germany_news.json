@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-11T14:46:41.792391+00:00",
+  "last_updated": "2026-09-12T00:48:42.780265+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
+      "published_date": "2026-09-11T17:41:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "BRICS Summit 2026: Putin, Modi reaffirm partnership",
       "source": "Deutsche Welle",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is German Chancellor Merz taking a harder line against the far-right after AfD win?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260909/is-german-chancellor-merz-repositioning-in-response-to-far-right-vote",
-      "published_date": "2026-09-09T15:06:32+00:00",
-      "category": "Diplomacy"
+      "title": "Enjoy Łódź – but don’t omit its tragic past | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/enjoy-odz-but-dont-omit-its-tragic-past",
+      "published_date": "2026-09-11T17:09:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russian strike on Kyiv gas station kills 2",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T15:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US commemorates 25 years since 9/11 terror attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-commemorates-25-years-since-9-11-terror-attack/a-79237898?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T15:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran pursues cautious escalation ahead of US midterms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T14:54:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/cambodia-s-floating-schools-hit-by-rising-fuel-costs/a-79202008?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-09T12:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Russia trade drone strikes, killing 6",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-trade-drone-strikes-killing-6/a-79196814?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T08:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260909/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-137",
-      "published_date": "2026-09-09T06:34:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin rejects mobilization rumors, many Russians unconvinced",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T05:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin rejects mobilization rumors, many Russians unconvinced",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-09T05:57:00+00:00",
       "category": "Military"
     },
     {
@@ -543,6 +543,83 @@
       "category": "Economy"
     },
     {
+      "title": "Artikel 37 des Grundgesetzes: Thorsten Frei erwägt Bundeszwang bei möglicher AfD-Landesregierung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/bundeszwang-artikel-37-grundgesetz-thorsten-frei-afd-sachsen-anhalt",
+      "published_date": "2026-09-11T23:37:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vor Wahl zum Abgeordnetenhaus: Wie CDU-Spitzenkandidat Evers den Kanzler wahrnimmt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/12/wie-cdu-spitzenkandidat-evers-den-kanzler-wahrnimmt",
+      "published_date": "2026-09-11T23:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Debatte nach Landtagswahl: Ex-Verfassungsrichter warnt vor Alarmismus nach AfD-Erfolg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/12/ex-verfassungsrichter-warnt-vor-alarmismus-nach-afd-erfolg",
+      "published_date": "2026-09-11T23:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Humor und Politik: Comedian Durgun: Humor stößt bei AfD-Ergebnis an Grenzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/12/comedian-durgun-humor-stoesst-bei-afd-ergebnis-an-grenzen",
+      "published_date": "2026-09-11T23:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Freitag: Schalke 04 gewinnt bei Union Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04",
+      "published_date": "2026-09-11T21:42:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: More than 40 injured in train derailment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-more-than-40-injured-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T21:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas’ Rücktritt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/christian-von-stetten-baerbel-bas-ruecktritt-spd",
+      "published_date": "2026-09-11T20:57:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lübeck’s sweetest treat deserves a visit | Brief letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/lubecks-sweetest-treat-deserves-a-visit",
+      "published_date": "2026-09-11T16:58:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on art heists: don’t believe the Hollywood hype | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype",
+      "published_date": "2026-09-11T16:33:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ireland holds its breath as its leftwing president prepares to meet Trump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/ireland-president-catherine-connolly-meet-donald-trump-dublin",
+      "published_date": "2026-09-11T16:13:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD’s new state MPs include ex-Stasi officer, former porn actor, neopagans and neo-Nazis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/afd-mps-scrutiny-ex-stasi-actor-neopagan-neo-nazi",
+      "published_date": "2026-09-11T15:43:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bauministerkonferenz: Bund und Länder wollen Baukosten senken",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/11/bund-und-laender-wollen-baukosten-senken",
@@ -603,83 +680,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-11T10:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-11T10:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Far right lead in upcoming state election polls",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T09:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What you can learn from my 'failed' apartment search in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260911/what-you-can-learn-from-my-failed-apartment-search-in-germany",
-      "published_date": "2026-09-11T09:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin",
-      "published_date": "2026-09-11T09:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Philippines ferry fire: Search continues for dozens missing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/philippines-ferry-fire-search-continues-for-dozens-missing/a-79223425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T08:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE to invest 40 billion euros in data centres in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260911/uae-to-invest-40-billion-euros-in-data-centres-in-germany",
-      "published_date": "2026-09-11T06:42:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260911/today-in-germany-a-roundup-of-the-latest-news-on-friday-139",
-      "published_date": "2026-09-11T06:35:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's connection to the 9/11 attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-11T06:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's connection to the 9/11 attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T06:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BredaPhoto Festival  – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures",
-      "published_date": "2026-09-11T06:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Sweden lost its soul – and stopped being Sweden | Martin Gelin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/how-sweden-lost-its-soul-and-stopped-being-sweden",
-      "published_date": "2026-09-11T04:00:06+00:00",
       "category": "Local Events"
     }
   ]
