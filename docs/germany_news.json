@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-12T00:48:42.780265+00:00",
+  "last_updated": "2026-09-12T13:49:22.234988+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T11:39:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bayeux tapestrymania has gripped Britain. But what does it say about our own age of war and upheaval? | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/12/bayeux-tapestry-britain-war-british-museum-artwork",
+      "published_date": "2026-09-12T07:00:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T05:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-12T05:46:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
       "source": "The Guardian",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ceuta: Documents show Spanish intelligence warned of crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned-of-crisis/a-79206505?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T17:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on UK-EU relations: voters would reward greater ambition | Editorial",
+      "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/the-guardian-view-on-uk-eu-relations-voters-would-reward-greater-ambition",
-      "published_date": "2026-09-09T17:40:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+      "published_date": "2026-09-12T13:43:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Serbia, the conflicted EU candidate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T16:50:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russia intensifies attacks across Ukraine – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/12/russia-intensifies-attacks-across-ukraine-video",
+      "published_date": "2026-09-12T13:25:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Serbia, the conflicted EU candidate",
+      "title": "Germany suspects Russian intelligence involved in airport 'hybrid attack'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260912/germany-suspects-russian-intelligence-involved-in-airport-hybrid-attack",
+      "published_date": "2026-09-12T12:44:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulgaria: Fire at factory making munitions for Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-09T16:50:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/bulgaria-fire-at-factory-making-munitions-for-ukraine/a-79245062?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T12:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian GRU spies behind failed Leipzig attack: reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-gru-spies-behind-failed-leipzig-attack-reports/a-79244858?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-12T11:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian GRU spies behind failed Leipzig attack: reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-gru-spies-behind-failed-leipzig-attack-reports/a-79244858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T11:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T07:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's drone war comes to Moldova and Romania",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T06:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's drone war comes to Moldova and Romania",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-12T06:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "published_date": "2026-09-12T02:12:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Enjoy Łódź – but don’t omit its tragic past | Letter",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
-      "published_date": "2026-09-10T15:12:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea spends war windfall on arms, infrastructure",
+      "title": "Corals as climate archive: Are El Ninos intensifying?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T14:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Amnesty wirft Russland Menschenhandel bei Rekrutierung im Ausland vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/amnesty-international-russland-menschenhandel-auslaendische-kaempfer-ukraine",
-      "published_date": "2026-09-10T14:07:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Zelenskyy arrives in Canada seeking air support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-arrives-in-canada-seeking-air-support/a-79209534?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T08:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nine years after Daphne Caruana Galizia’s murder, Europe must finally address Malta’s culture of impunity | Pieter Omtzigt and Emanuel Delia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/10/daphne-caruana-galizia-murder-malta-eu",
-      "published_date": "2026-09-10T08:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump promises Americans $5,000 if Republicans win midterms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T03:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices rise as Middle East conflict escalates",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T14:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria arms depot explosion kills at least 14",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T13:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DAU review – Ilya Krzhanovsky’s crazed Soviet inferno reaches its central character",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/09/dau-review-venice-film-festival-ilya-khrzhanovsky",
-      "published_date": "2026-09-09T13:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cambodia's floating schools hit by rising fuel costs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cambodia-s-floating-schools-hit-by-rising-fuel-costs/a-79202008?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-09T12:57:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T08:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
@@ -393,13 +400,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/06/danish-pyt-concept-life-philosophy",
       "published_date": "2026-09-06T04:00:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany hunts climate activist suspected of power grid sabotage",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260905/germany-hunts-climate-activist-suspected-of-power-grid-sabotage",
-      "published_date": "2026-09-05T12:12:10+00:00",
       "category": "Energy"
     },
     {
@@ -543,6 +543,62 @@
       "category": "Economy"
     },
     {
+      "title": "Koalitionsstreit: Klingbeil verurteilt Angriff aus Reihen der CDU auf Bas",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/lars-klingbeil-cdu-angriff-baerbel-bas-spd-afd-gxe",
+      "published_date": "2026-09-12T13:25:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2. Bundesliga: Todesfall überschattet 2:2 zwischen Braunschweig und Dresden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
+      "published_date": "2026-09-12T13:16:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesweite Protestreihe: Demonstranten in Schwerin fordern Überprüfung der AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/12/demonstranten-in-schwerin-fordern-ueberpruefung-der-afd",
+      "published_date": "2026-09-12T13:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Basketball-WM der Frauen: Für zehn Tage Basketball-Hauptstadt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/basketball-wm-frauen-berlin-stimmung-fans-fs",
+      "published_date": "2026-09-12T12:29:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T09:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: Looking for the light after Saxony-Anhalt's 'political earthquake'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260912/inside-germany-looking-for-the-light-after-saxony-anhalts-political-earthquake",
+      "published_date": "2026-09-12T09:02:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden’s extremely close election could see far right enter government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
+      "published_date": "2026-09-12T05:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+      "published_date": "2026-09-12T04:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Artikel 37 des Grundgesetzes: Thorsten Frei erwägt Bundeszwang bei möglicher AfD-Landesregierung",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/bundeszwang-artikel-37-grundgesetz-thorsten-frei-afd-sachsen-anhalt",
@@ -585,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "France: Sabotage suspected in train derailment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-sabotage-suspected-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-11T21:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas’ Rücktritt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/christian-von-stetten-baerbel-bas-ruecktritt-spd",
@@ -617,69 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/11/afd-mps-scrutiny-ex-stasi-actor-neopagan-neo-nazi",
       "published_date": "2026-09-11T15:43:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bauministerkonferenz: Bund und Länder wollen Baukosten senken",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/11/bund-und-laender-wollen-baukosten-senken",
-      "published_date": "2026-09-11T14:29:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Positionspapier für Klausur: CSU setzt auf Heimatgefühl gegen schlechte Stimmung im Land",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/11/csu-setzt-auf-heimatgefuehl-gegen-schlechte-stimmung-im-land",
-      "published_date": "2026-09-11T14:29:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thüringer Landtag: AfD-Fraktion beantragt Abstimmung zur Auflösung des Thüringer Landtags",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/thueringer-landtag-afd-aufloesung-abstimmung-bjoern-hoecke-gxe",
-      "published_date": "2026-09-11T14:11:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
-      "published_date": "2026-09-11T12:01:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany charges 7 suspected Hamas members over attack plot",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-11T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany charges 7 suspected Hamas members over attack plot",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T11:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What Germany’s new 'PISA-shock' means for schools and parents",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260911/what-germanys-new-pisa-shock-means-for-schools-and-parents",
-      "published_date": "2026-09-11T10:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen: Houthis tighten control of strategic Red Sea towns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/yemen-houthis-tighten-control-of-strategic-red-sea-towns/a-79220628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T10:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T10:07:00+00:00",
       "category": "Local Events"
     }
   ]
