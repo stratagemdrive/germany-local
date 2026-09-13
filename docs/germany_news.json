@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-13T00:30:26.047634+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-13T14:45:36.594165+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+      "published_date": "2026-09-13T10:48:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kritik am Kanzler: Markus Söder schließt Kanzlersturz durch die CSU aus",
       "source": "ZEIT Online",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Serbia, the conflicted EU candidate",
+      "title": "Krieg in der Ukraine: Sie sagen »Mama« in der Sprache ihrer Feinde",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/feuilleton/2026-09/krieg-ukraine-sprache-russisch-ukrainisch-angriff",
+      "published_date": "2026-09-13T14:19:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Angriffe auf die Ukraine: Ukraine meldet mehrere russische Angriffe auf Bahnnetz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/eisenbahn-ukraine-angriffe-russland-dnipro-polnischer-zug-drohne",
+      "published_date": "2026-09-13T14:07:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T05:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T12:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin would rather keep killing than admit he’s lost. As a winter of misery looms in Ukraine, Nato must step in | Simon Tisdall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies",
+      "published_date": "2026-09-13T05:00:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Several killed in series of Russian strikes",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T11:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T10:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘A fierce need to be independent’: Gerda Taro biopic pulls photographer out of lover Robert Capa’s shadow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/11/gerda-taro-biopic-robert-capa-spain-photography-venice-film-festival",
-      "published_date": "2026-09-11T05:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada, Ukraine pledge 100-year partnership",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T18:13:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Corals as climate archive: Are El Ninos intensifying?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf",
@@ -389,18 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "Two more electricity substations targeted in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260906/two-more-electricity-substations-targeted-in-germany",
-      "published_date": "2026-09-06T13:34:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Does your life feel out of control? Maybe you need some ‘pyt’ | Polly Hudson",
+      "title": "Ukraine war briefing: Nine killed and dozens wounded in Russian strikes as Kyiv braces for harsh winter",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/danish-pyt-concept-life-philosophy",
-      "published_date": "2026-09-06T04:00:55+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/2026/sep/13/ukraine-war-briefing-nine-killed-and-dozens-wounded-in-russian-strikes-as-kyiv-braces-for-harsh-winter",
+      "published_date": "2026-09-13T01:22:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Staatsempfang in München: Emirate wollen zehn Milliarden Euro in Bayern investieren",
@@ -536,11 +529,95 @@
       "category": "Economy"
     },
     {
-      "title": "Aktion zum Kinofest: Am Wochenende für fünf Euro ins Kino",
+      "title": "Herbert Kickl und die AfD: Bussi oder baba?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/08/am-wochenende-fuer-fuenf-euro-ins-kino",
-      "published_date": "2026-09-07T23:22:05+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/2026/39/herbert-kickl-afd-fpoe-distanzierung-alice-weidel-oesterreich",
+      "published_date": "2026-09-13T14:34:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protest: Tausende demonstrieren in Dresden und Leipzig gegen AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/13/tausende-demonstrieren-in-dresden-und-leipzig-gegen-afd",
+      "published_date": "2026-09-13T14:33:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I hope for a decent period in politics': views of voters as Sweden goes to the polls – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/13/views-voters-sweden-elections-video",
+      "published_date": "2026-09-13T13:17:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: 162 arrested in LGBTQ+ raids",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T13:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voting under way in Sweden with far right eyeing first role in government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+      "published_date": "2026-09-13T11:17:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T10:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Lower Saxony local polls in focus after AfD win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-13T08:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Lower Saxony local polls in focus after AfD win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T08:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands protest against far right in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260913/tens-of-thousands-protest-against-far-right-in-germany",
+      "published_date": "2026-09-13T07:19:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden election: Far right eyes power for 1st time",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T06:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The AfD won a shock election in Germany. Elon Musk was thrilled",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk",
+      "published_date": "2026-09-13T06:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who are the 514 people accused of starting French wildfires and what motivates them?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires",
+      "published_date": "2026-09-13T06:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Attack ruled out in train derailment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-attack-ruled-out-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T01:14:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Meta: Aufsichtsgremium warnt vor Einführung von \"Community Notes” bei Meta",
@@ -589,97 +666,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-12T20:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The far right is becoming normalised in Germany – and winning. Australia should take heed | Charlotte Feakins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-far-right-is-becoming-normalised-in-germany-and-winning-australia-should-take-heed-ntwnfb",
-      "published_date": "2026-09-12T20:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters against Trump’s visit to Ireland react to ‘united Ireland’ comments – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/12/protesters-against-trumps-visit-to-ireland-react-to-united-ireland-comments-video",
-      "published_date": "2026-09-12T18:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Koalitionsstreit: Klingbeil verurteilt Angriff aus Reihen der CDU auf Bas",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/lars-klingbeil-cdu-angriff-baerbel-bas-spd-afd-gxe",
-      "published_date": "2026-09-12T13:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2. Bundesliga: Todesfall überschattet 2:2 zwischen Braunschweig und Dresden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
-      "published_date": "2026-09-12T13:16:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesweite Protestreihe: Demonstranten in Schwerin fordern Überprüfung der AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/12/demonstranten-in-schwerin-fordern-ueberpruefung-der-afd",
-      "published_date": "2026-09-12T13:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Basketball-WM der Frauen: Für zehn Tage Basketball-Hauptstadt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/basketball-wm-frauen-berlin-stimmung-fans-fs",
-      "published_date": "2026-09-12T12:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-12T09:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Looking for the light after Saxony-Anhalt's 'political earthquake'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260912/inside-germany-looking-for-the-light-after-saxony-anhalts-political-earthquake",
-      "published_date": "2026-09-12T09:02:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden’s extremely close election could see far right enter government",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
-      "published_date": "2026-09-12T05:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
-      "published_date": "2026-09-12T04:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artikel 37 des Grundgesetzes: Thorsten Frei erwägt Bundeszwang bei möglicher AfD-Landesregierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/bundeszwang-artikel-37-grundgesetz-thorsten-frei-afd-sachsen-anhalt",
-      "published_date": "2026-09-11T23:37:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vor Wahl zum Abgeordnetenhaus: Wie CDU-Spitzenkandidat Evers den Kanzler wahrnimmt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/12/wie-cdu-spitzenkandidat-evers-den-kanzler-wahrnimmt",
-      "published_date": "2026-09-11T23:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Debatte nach Landtagswahl: Ex-Verfassungsrichter warnt vor Alarmismus nach AfD-Erfolg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/12/ex-verfassungsrichter-warnt-vor-alarmismus-nach-afd-erfolg",
-      "published_date": "2026-09-11T23:00:05+00:00",
       "category": "Local Events"
     }
   ]
