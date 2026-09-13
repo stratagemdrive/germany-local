@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-12T13:49:22.234988+00:00",
+  "last_updated": "2026-09-13T00:30:26.047634+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Kritik am Kanzler: Markus Söder schließt Kanzlersturz durch die CSU aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-friedrich-merz-kanzler-union",
+      "published_date": "2026-09-12T20:28:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
       "source": "Deutsche Welle",
@@ -130,18 +137,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "August hottest month ever recorded, says EU monitor",
+      "title": "Serbia, the conflicted EU candidate",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/august-hottest-month-ever-recorded-says-eu-monitor/a-79208462?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T05:47:00+00:00",
+      "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-10T05:53:00+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Haushaltsentwurf: AfD-Co-Chef Chrupalla will Haushalt vor Verfassungsgericht anfechten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/bundeshaushalt-plan-kanzleramt-debatte-bundestag-finanzen",
-      "published_date": "2026-09-09T23:23:45+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine: Several killed in series of Russian strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T15:01:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
@@ -274,13 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-10T18:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen: Houthis take control of strategic Red Sea port city",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-port-city/a-79220628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T17:01:00+00:00",
       "category": "Military"
     },
     {
@@ -543,6 +543,69 @@
       "category": "Economy"
     },
     {
+      "title": "Meta: Aufsichtsgremium warnt vor Einführung von \"Community Notes” bei Meta",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/meta-community-notes-faktencheck-aufmerksamkeit-lateinamerika",
+      "published_date": "2026-09-13T00:24:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI slowdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T23:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-12T23:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T23:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unfall: 17 Verletzte bei Busunfall in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/13/17-verletzte-bei-busunfall-in-berlin",
+      "published_date": "2026-09-12T23:11:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brand in Hamburg: Leerstehendes Hotel in Brand – sieben Verletzte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte",
+      "published_date": "2026-09-12T23:02:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-12T20:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The far right is becoming normalised in Germany – and winning. Australia should take heed | Charlotte Feakins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-far-right-is-becoming-normalised-in-germany-and-winning-australia-should-take-heed-ntwnfb",
+      "published_date": "2026-09-12T20:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters against Trump’s visit to Ireland react to ‘united Ireland’ comments – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/12/protesters-against-trumps-visit-to-ireland-react-to-united-ireland-comments-video",
+      "published_date": "2026-09-12T18:27:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Koalitionsstreit: Klingbeil verurteilt Angriff aus Reihen der CDU auf Bas",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/lars-klingbeil-cdu-angriff-baerbel-bas-spd-afd-gxe",
@@ -617,69 +680,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/12/ex-verfassungsrichter-warnt-vor-alarmismus-nach-afd-erfolg",
       "published_date": "2026-09-11T23:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Humor und Politik: Comedian Durgun: Humor stößt bei AfD-Ergebnis an Grenzen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/12/comedian-durgun-humor-stoesst-bei-afd-ergebnis-an-grenzen",
-      "published_date": "2026-09-11T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Freitag: Schalke 04 gewinnt bei Union Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04",
-      "published_date": "2026-09-11T21:42:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: More than 40 injured in train derailment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-more-than-40-injured-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T21:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Sabotage suspected in train derailment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-sabotage-suspected-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T21:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas’ Rücktritt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/christian-von-stetten-baerbel-bas-ruecktritt-spd",
-      "published_date": "2026-09-11T20:57:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lübeck’s sweetest treat deserves a visit | Brief letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/lubecks-sweetest-treat-deserves-a-visit",
-      "published_date": "2026-09-11T16:58:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on art heists: don’t believe the Hollywood hype | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype",
-      "published_date": "2026-09-11T16:33:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ireland holds its breath as its leftwing president prepares to meet Trump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/ireland-president-catherine-connolly-meet-donald-trump-dublin",
-      "published_date": "2026-09-11T16:13:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD’s new state MPs include ex-Stasi officer, former porn actor, neopagans and neo-Nazis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/afd-mps-scrutiny-ex-stasi-actor-neopagan-neo-nazi",
-      "published_date": "2026-09-11T15:43:01+00:00",
       "category": "Local Events"
     }
   ]
