@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-13T14:45:36.594165+00:00",
+  "last_updated": "2026-09-14T00:32:46.133083+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Bildungsministerin: Karin Prien fordert Bundeskanzler zu mehr Empathie auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/cdu-stimmung-kanzler-friedrich-merz-karin-prien-sachsen-anhalt",
+      "published_date": "2026-09-13T23:41:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
+      "published_date": "2026-09-13T17:43:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T11:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-13T11:50:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
       "source": "The Guardian",
@@ -113,34 +141,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-10T17:08:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T16:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-10T16:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany sets its sights on Russia's shadow fleet",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T14:31:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Myanmar seeks closer foreign ties amid global isolation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T12:09:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -389,6 +389,13 @@
       "category": "Energy"
     },
     {
+      "title": "The far right’s rise is a wake-up call for Europe | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/the-far-rights-rise-is-a-wake-up-call-for-europe",
+      "published_date": "2026-09-13T15:58:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Ukraine war briefing: Nine killed and dozens wounded in Russian strikes as Kyiv braces for harsh winter",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/13/ukraine-war-briefing-nine-killed-and-dozens-wounded-in-russian-strikes-as-kyiv-braces-for-harsh-winter",
@@ -522,11 +529,88 @@
       "category": "Economy"
     },
     {
-      "title": "Trump threatens to block Canada's Bombardier planes from US market",
+      "title": "Anrufer berichten von Schüssen: Zwei Verletzte in Hamburg aufgefunden - Fahndung nach Täter",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/14/zwei-verletzte-in-hamburg-aufgefunden-fahndung-nach-taeter",
+      "published_date": "2026-09-14T00:20:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: CDU ahead in Lower Saxony local election",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-08T05:52:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-14T00:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: CDU ahead in Lower Saxony local election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-14T00:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Centre-left bloc leads Swedish elections – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
+      "published_date": "2026-09-13T23:50:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden election 'very close' as left bloc claims tight lead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-13T23:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kommunalwahl in Niedersachsen: CDU bei Kommunalwahl in Niedersachsen laut Hochrechnung vorn",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
+      "published_date": "2026-09-13T23:31:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kommunalwahl in Niedersachsen: Bender und Junk in Stichwahl um Spitze der Region Hannover",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/14/bender-und-junk-in-stichwahl-um-spitze-der-region-hannover",
+      "published_date": "2026-09-13T23:26:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Umgang mit der AfD: SPD, Grüne und Linke offen für Bundeszwang in Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/bundeszwang-grundgesetz-afd-bsw-sachsen-anhalt",
+      "published_date": "2026-09-13T22:46:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kommunalwahl in Niedersachsen: Lies nennt SPD-Abschneiden «schwieriges Ergebnis»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/14/lies-nennt-spd-abschneiden-schwieriges-ergebnis",
+      "published_date": "2026-09-13T22:33:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kommunalwahl: Stärkste Kraft im Rat - Salzgitter wird AfD-Hochburg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/13/afd-kandidatin-in-stichwahl-in-salzgitter",
+      "published_date": "2026-09-13T22:27:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Operationsplan Deutschland: Chef des Reservistenverbandes will Krisenplan vor AfD sichern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/operationsplan-deutschland-oplan-sachsen-anhalt-afd-russland",
+      "published_date": "2026-09-13T22:24:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unterstützung für Kanzler Merz: Söder und Kretschmer warnen vor Scheitern der Bundesregierung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-friedrich-merz-cdu-bundesregierung-afd",
+      "published_date": "2026-09-13T22:23:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Herbert Kickl und die AfD: Bussi oder baba?",
@@ -582,90 +666,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-13T08:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands protest against far right in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260913/tens-of-thousands-protest-against-far-right-in-germany",
-      "published_date": "2026-09-13T07:19:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden election: Far right eyes power for 1st time",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-13T06:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The AfD won a shock election in Germany. Elon Musk was thrilled",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk",
-      "published_date": "2026-09-13T06:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the 514 people accused of starting French wildfires and what motivates them?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires",
-      "published_date": "2026-09-13T06:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Attack ruled out in train derailment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-attack-ruled-out-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-13T01:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta: Aufsichtsgremium warnt vor Einführung von \"Community Notes” bei Meta",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/meta-community-notes-faktencheck-aufmerksamkeit-lateinamerika",
-      "published_date": "2026-09-13T00:24:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthropic boss Dario Amodei calls for AI slowdown",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-12T23:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-12T23:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-12T23:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unfall: 17 Verletzte bei Busunfall in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/13/17-verletzte-bei-busunfall-in-berlin",
-      "published_date": "2026-09-12T23:11:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brand in Hamburg: Leerstehendes Hotel in Brand – sieben Verletzte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte",
-      "published_date": "2026-09-12T23:02:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-12T20:45:00+00:00",
       "category": "Local Events"
     }
   ]
