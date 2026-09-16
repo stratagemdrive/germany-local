@@ -1,8 +1,78 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-16T00:54:32.080097+00:00",
-  "story_count": 96,
+  "last_updated": "2026-09-16T15:16:01.386719+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Ursula von der Leyen: Wie sich die EU gegen eine »feindselige Welt« wappnen will",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-09/ursula-von-der-leyen-europaeische-union-rede-krise-veraenderungen-nachrichtenpodcast",
+      "published_date": "2026-09-16T15:03:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU moves closer to social media ban for under 13s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/eu-social-media-ban-under-13s",
+      "published_date": "2026-09-16T14:39:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Union invites Canada to become first ever ‘associate member’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
+      "published_date": "2026-09-16T13:48:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Canada become the first 'associate member' of the EU?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/could-canada-become-the-first-associate-member-of-the-eu",
+      "published_date": "2026-09-16T12:42:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
+      "published_date": "2026-09-16T12:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Belarus to release 25 more prisoners as US eases sanctions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/belarus-to-release-25-more-prisoners-as-us-eases-sanctions/a-79290676?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen 'opens door' to Canada becoming associate EU member – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/16/ursula-von-der-leyen-opens-door-to-canada-becoming-associate-eu-member-mark-carney-video",
+      "published_date": "2026-09-16T10:08:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Europe has power to act': EU to ban social media for under 13s",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/europe-has-power-to-act-eu-to-ban-social-media-for-under-13s",
+      "published_date": "2026-09-16T09:27:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen eyes Canada as EU's first 'associate member'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/von-der-leyen-eyes-canada-as-eu-s-first-associate-member/a-79286148?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T09:18:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Future of Europe: Canada in the EU Sounds Crazy. Is It?",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/the-future-of-europe-canada-in-the-eu-sounds-crazy-is-it-a-57073424-ab99-4c05-808b-e373a1f4edf5#ref=rss",
+      "published_date": "2026-09-16T09:15:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen",
       "source": "ZEIT Online",
@@ -22,6 +92,20 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/15/kampfflugzeuge-schiessen-drohne-ueber-litauen-ab",
       "published_date": "2026-09-15T21:32:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey's rights groups, EU call out LGBTQ+ crackdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-s-rights-groups-eu-call-out-lgbtq-crackdown/a-79284021?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-15T19:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey's rights groups, EU call out LGBTQ+ crackdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-s-rights-groups-eu-call-out-lgbtq-crackdown/a-79284021?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-15T19:32:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -46,102 +130,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Debatte um Entlastungen: Merz kündigt schnelle Entlastung bei Spritpreisen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/15/spritpreise-auf-rekordkurs-debatte-ueber-entlastungen",
-      "published_date": "2026-09-15T15:12:28+00:00",
+      "title": "Drivers in Germany fume over soaring fuel prices",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/drivers-in-germany-fume-over-soaring-fuel-prices/a-79282456?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-15T16:43:00+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Spritpreise: Friedrich Merz kündigt Entlastungen bei Spritpreisen an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-kuendigt-entlastungen-bei-spritpreisen-an",
-      "published_date": "2026-09-15T15:09:11+00:00",
+      "title": "Drivers in Germany fume over soaring fuel prices",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/drivers-in-germany-fume-over-soaring-fuel-prices/a-79282456?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-15T16:43:00+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
+      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "published_date": "2026-09-15T14:39:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
+      "published_date": "2026-09-16T15:04:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz plans high-stakes party meeting after Sunday's state polls",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260915/germanys-merz-plans-high-stakes-party-meeting-after-sundays-state-polls",
-      "published_date": "2026-09-15T14:39:26+00:00",
-      "category": "Diplomacy"
+      "title": "Hunde an der Schule: Ohne den Schulhund? Wahrscheinlich wäre ein Krieg ausgebrochen!",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/bildung/2026-09/hunde-schule-tiere-emotion-kinder-lehrerkolumne",
+      "published_date": "2026-09-16T15:01:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany plans price relief for drivers amid rising fuel costs",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260915/germany-plans-price-relief-for-drivers-amid-rising-fuel-costs",
-      "published_date": "2026-09-15T14:12:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T14:03:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz to cancel UN trip amid party infighting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-to-cancel-un-trip-amid-party-infighting/live-79273324?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T11:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Merz to cancel UN trip amid party infighting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-to-cancel-un-trip-amid-party-infighting/live-79273324?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T11:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO jets shoot down drone over Lithuania",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T10:16:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian warship fires flares at Danish helicopter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T10:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NHL star Alex Ovechkin appears in campaign ad for pro-Putin United Russia party",
+      "title": "‘Very authoritarian, very brutal’: three decades after the UK’s anti-rave crackdown, why is France doing the same?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/sep/14/nhl-star-alex-ovechkin-appears-in-campaign-ad-for-pro-putin-united-russia-party",
-      "published_date": "2026-09-15T03:53:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/music/2026/sep/16/anti-rave-crackdown-france-uk-castlemorton-spiral-tribe",
+      "published_date": "2026-09-16T14:29:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz urges CDU discipline as pressure grows",
+      "title": "How the Houthis are also putting Egypt under pressure",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T00:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-the-houthis-are-also-putting-egypt-under-pressure/a-79291103?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T13:56:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Arctic power plays: EU searches for a new strategy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-14T19:28:00+00:00",
-      "category": "Diplomacy"
+      "title": "Kosovo’s former president jailed for 25 years over war crimes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
+      "published_date": "2026-09-16T13:40:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Arctic power plays: EU searches for a new strategy",
+      "title": "Poland reaffirms support for Ukraine after drone strikes",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-14T19:28:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T12:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland reaffirms support for Ukraine after drone strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-16T12:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T09:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-16T09:58:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia: Trump's Ukraine ceasefire proposal is 'good idea'",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
+      "title": "India news: US bill sanctioning Russia could hit India with tariffs of up to 100%",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-14T17:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-14T17:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
-      "published_date": "2026-09-14T16:10:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK armed forces member killed in crash in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine",
-      "published_date": "2026-09-14T16:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/14/trump-moskau-und-kiew-wollen-angriffe-auf-energie-stoppen",
-      "published_date": "2026-09-14T16:01:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: »Das ist gefährlich, was Wladimir Putin da macht«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-14T15:58:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump dismisses concerns about dangers of AI",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/donald-trump-dismisses-concerns-about-dangers-of-ai/a-79264523?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-14T15:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Russia set for new round of US-mediated talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-14T15:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Russia set for new round of US-mediated talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-14T15:18:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-news-us-bill-sanctioning-russia-could-hit-india-with-tariffs-of-up-to-100/live-79285577?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T11:21:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe launches two climate observation satellites",
@@ -394,6 +401,20 @@
       "url": "https://www.dw.com/en/are-electric-cars-really-bad-for-the-environment/a-79213336?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-10T13:18:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Global Gender Gap Report: Women's hard-won gains 'fragile'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T10:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How extreme weather is hurting the global economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-extreme-weather-is-hurting-the-global-economy/a-79268306?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T08:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "AI leaders call for regulations, Trump dismisses 'hoaxes'",
@@ -522,18 +543,130 @@
       "category": "Economy"
     },
     {
-      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
-      "published_date": "2026-09-10T13:10:15+00:00",
-      "category": "Economy"
+      "title": "Forgotten US court of 'secrecy' could mean more deportations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/forgotten-us-court-of-secrecy-could-mean-more-deportations/a-79291125?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T15:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany 'rebuilding pillars' of national security",
+      "title": "DDR-Opposition: Mitbegründer der Ost-SPD: Martin Gutzeit gestorben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/16/mitbegruender-der-ost-spd-martin-gutzeit-gestorben",
+      "published_date": "2026-09-16T14:53:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The state premier hoping to halt the far-right in Mecklenburg-Western Pomerania",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/the-state-premier-hoping-to-halt-the-far-right-in-mecklenburg-western-pomerania",
+      "published_date": "2026-09-16T14:50:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Germany about to crack down on rent-control loopholes?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/is-germany-about-to-crack-down-on-rent-control-loopholes",
+      "published_date": "2026-09-16T13:39:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What political parties in Berlin say about immigration and German citizenship",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/what-political-parties-in-berlin-say-about-immigration-and-german-citizenship",
+      "published_date": "2026-09-16T12:56:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German state leaders rally behind Friedrich Merz amid doubts over his future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/german-state-leaders-rally-behind-friedrich-merz-doubts-over-future-afd",
+      "published_date": "2026-09-16T12:40:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France gives guillotine the chop – archive, 1981",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/france-gives-guillotine-the-chop-capital-punishment-1981",
+      "published_date": "2026-09-16T11:56:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Conservative state premiers rally behind Merz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-rebuilding-pillars-of-national-security/live-79209302?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-10T07:44:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-conservative-state-premiers-rally-behind-merz/live-79289786?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T11:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Chancellor Merz fighting for political survival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-chancellor-merz-fighting-for-political-survival/a-79290192?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-16T10:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Chancellor Merz fighting for political survival",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-chancellor-merz-fighting-for-political-survival/a-79290192?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T10:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US announces South Africa visa curbs over race claims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-announces-south-africa-visa-curbs-over-race-claims/a-79288287?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T10:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German drama 'Blindspot Berlin' revisits 2016 Christmas market attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-16T09:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German drama 'Blindspot Berlin' revisits 2016 Christmas market attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T09:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T09:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where does your state rank in Germany’s education league table?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/where-does-your-state-rank-in-germanys-education-league-table",
+      "published_date": "2026-09-16T08:48:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bag checks and safe spaces: How Munich aims to make Oktoberfest safer",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/bag-checks-and-safe-spaces-how-munich-aims-to-make-oktoberfest-safer",
+      "published_date": "2026-09-16T08:46:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260916/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-138",
+      "published_date": "2026-09-16T06:26:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "To understand the threat to our real democracy, watch Putin's fake one | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/threat-britain-fake-democracy-russia-vladimir-putin",
+      "published_date": "2026-09-16T04:00:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
@@ -547,132 +680,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/16/leuchtendes-fischbroetchen-ueber-hamburg",
       "published_date": "2026-09-15T22:34:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knobloch: 'It is a very dangerous situation at the moment'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/knobloch-it-is-a-very-dangerous-situation-at-the-moment/a-79278429?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T16:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knobloch: 'It is a very dangerous situation at the moment'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/knobloch-it-is-a-very-dangerous-situation-at-the-moment/a-79278429?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T16:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa now probing deaths of 8 women near Johannesburg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-now-probing-deaths-of-8-women-near-johannesburg/a-79278296?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why do authoritarian regimes target the LGBTQ+ community?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T16:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why do authoritarian regimes target the LGBTQ+ community?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-15T16:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Wahlerfolg: »Sobald mein Master beendet ist, möchte ich Sachsen-Anhalt verlassen«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/campus/2026-09/afd-wahlerfolg-sachsen-anhalt-internationale-studierende-diskriminierung",
-      "published_date": "2026-09-15T15:03:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reisen: Weitere Airline fliegt von Hamburg in Hauptstadt Kosovos",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/15/weitere-airline-fliegt-von-hamburg-in-hauptstadt-kosovos",
-      "published_date": "2026-09-15T14:48:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanzler-Krise: Brandenburgs CDU-Fraktionsvize: Keine «Sonntagsreden» mehr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr",
-      "published_date": "2026-09-15T14:48:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ovechkin still backing Putin party in parliamentary vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ovechkin-still-backing-putin-party-in-parliamentary-vote/a-79277772?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T14:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bangladesh court sentences 7 Hasina allies to death",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bangladesh-court-sentences-7-hasina-allies-to-death/a-79276131?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T12:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin election driven by radical ideas",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-election-driven-by-radical-ideas/a-79256516?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T11:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin election driven by radical ideas",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-election-driven-by-radical-ideas/a-79256516?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T11:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Socialist Left leads far-right AfD ahead of Berlin vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/socialist-left-leads-far-right-afd-ahead-of-berlin-vote/a-79256516?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T11:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Socialist Left leads far-right AfD ahead of Berlin vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/socialist-left-leads-far-right-afd-ahead-of-berlin-vote/a-79256516?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T11:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD governor campaigns as one-woman bulwark against AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spd-governor-campaigns-as-one-woman-bulwark-against-afd/a-79264225?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T11:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD governor campaigns as one-woman bulwark against AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spd-governor-campaigns-as-one-woman-bulwark-against-afd/a-79264225?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T11:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Q&A: What foreign residents need to know about Berlin's upcoming election",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260915/qa-what-foreign-residents-need-to-know-about-berlins-upcoming-election",
-      "published_date": "2026-09-15T10:20:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Salvador court hands down first life sentence for femicide",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/el-salvador-court-hands-down-first-life-sentence-for-femicide/a-79268746?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T07:59:00+00:00",
       "category": "Local Events"
     }
   ]
