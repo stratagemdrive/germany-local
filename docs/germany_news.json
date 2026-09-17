@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-16T15:16:01.386719+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-17T00:58:15.512009+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Europäische Union: Trump droht EU mit Handelsstopp bei engerer Partnerschaft mit Kanada",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-zoelle-eu-kanada-ursula-von-der-leyen",
+      "published_date": "2026-09-17T00:11:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Neuer transatlantischer Bund?: Trump droht EU wegen geplanter Annäherung an Kanada",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/17/trump-droht-eu-wegen-geplanter-annaeherung-an-kanada",
+      "published_date": "2026-09-16T23:50:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Künstliche Intelligenz: Deutschland und Kanada wollen KI »im Dienste des Menschen« fördern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/internet/2026-09/deutschland-kanada-ki-ai-allianz-wildberger",
+      "published_date": "2026-09-16T23:36:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Congress passes Russia sanctions bill",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T23:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
+      "published_date": "2026-09-16T19:39:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is EU’s offer to Canada a blueprint for Britain – or a reminder it is out in the cold?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/eu-offer-canada-blueprint-britain-brexit",
+      "published_date": "2026-09-16T18:57:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Canada and the EU build a deeper partnership?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T16:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Canada and the EU build a deeper partnership?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-16T16:50:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ursula von der Leyen: Wie sich die EU gegen eine »feindselige Welt« wappnen will",
       "source": "ZEIT Online",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nato-Ostflanke: Litauen: Abgeschossene Drohne hatte Sprengsatz",
+      "title": "Krieg gegen die Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/15/kampfflugzeuge-schiessen-drohne-ueber-litauen-ab",
-      "published_date": "2026-09-15T21:32:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham",
+      "published_date": "2026-09-17T00:33:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkey's rights groups, EU call out LGBTQ+ crackdown",
+      "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/17/us-kongress-beschliesst-gesetz-fuer-russland-sanktionen",
+      "published_date": "2026-09-17T00:09:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: US-Kongress bewilligt härtere Sanktionen gegen Russland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-09-16T23:00:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shock in Kosovo as Hague convicts former President Thaci",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-s-rights-groups-eu-call-out-lgbtq-crackdown/a-79284021?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T19:32:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/shock-in-kosovo-as-hague-convicts-former-president-thaci/a-79294916?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T15:59:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkey's rights groups, EU call out LGBTQ+ crackdown",
+      "title": "Shock in Kosovo as Hague convicts former President Thaci",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-s-rights-groups-eu-call-out-lgbtq-crackdown/a-79284021?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-15T19:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-      "published_date": "2026-09-15T19:08:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "High fuel prices challenge the German government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/high-fuel-prices-challenge-the-german-government/a-79282456?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T16:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "High fuel prices challenge the German government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/high-fuel-prices-challenge-the-german-government/a-79282456?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T16:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Drivers in Germany fume over soaring fuel prices",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/drivers-in-germany-fume-over-soaring-fuel-prices/a-79282456?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-15T16:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Drivers in Germany fume over soaring fuel prices",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/drivers-in-germany-fume-over-soaring-fuel-prices/a-79282456?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T16:43:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/shock-in-kosovo-as-hague-convicts-former-president-thaci/a-79294916?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-16T15:59:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "published_date": "2026-09-15T10:37:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
-      "published_date": "2026-09-15T10:37:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why AI researchers warn humanity could face extinction",
+      "title": "How climate change worsened Nepal's deadly mountain collapse",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-ai-researchers-warn-humanity-could-face-extinction/a-79263146?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T08:15:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260915/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-140",
-      "published_date": "2026-09-15T06:31:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change",
-      "published_date": "2026-09-15T05:45:49+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T23:03:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "India news: US bill sanctioning Russia could hit India with tariffs of up to 100%",
@@ -403,6 +410,34 @@
       "category": "Energy"
     },
     {
+      "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins",
+      "published_date": "2026-09-16T22:07:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US Fed raises key rate for first time in 3 years",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T18:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany: Oktoberfest beer prices rise, outpacing inflation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-oktoberfest-beer-prices-rise-outpacing-inflation/a-79296932?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-16T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany: Oktoberfest beer prices rise, outpacing inflation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-oktoberfest-beer-prices-rise-outpacing-inflation/a-79296932?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Global Gender Gap Report: Women's hard-won gains 'fragile'",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-rdf",
@@ -515,32 +550,74 @@
       "category": "Economy"
     },
     {
-      "title": "Much of Europe already levies a tourist tax – a nice little earner for Italian hotspots",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england",
-      "published_date": "2026-09-10T13:57:56+00:00",
-      "category": "Economy"
+      "title": "Suche nach Location: Hallenprojekt der NRW-AfD vorerst gestoppt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/17/hallenprojekt-der-nrw-afd-vorerst-gestoppt",
+      "published_date": "2026-09-16T23:00:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ECB raises interest rates to fight off inflation jump",
+      "title": "Sweden's center-left bloc set to win election, STV reports",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-10T13:39:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T22:56:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ECB raises interest rates to fight off inflation jump",
+      "title": "Wahlarena in Berlin: SPD-Kandidat Krach schließt Koalition mit Linkspartei nicht aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
+      "published_date": "2026-09-16T22:21:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Village votes to 'secede' in asylum center plan protest",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-10T13:39:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T17:41:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Primark to launch home delivery service despite ‘challenging’ market",
+      "title": "UK: Village votes to 'secede' in asylum center plan protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-16T17:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Sweden’s election result: an opportunity that progressive parties must not squander | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
-      "published_date": "2026-09-10T13:31:19+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander",
+      "published_date": "2026-09-16T17:35:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chancellor Merz seeks CDU support as AfD encroaches",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-as-afd-encroaches/a-79290192?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-16T16:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chancellor Merz seeks CDU support as AfD encroaches",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-as-afd-encroaches/a-79290192?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-16T16:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former French culture minister goes on trial over corruption charges",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/rachida-dati-france-former-culture-minister-trial-corruption-renault-nissan-carlos-ghosn",
+      "published_date": "2026-09-16T15:48:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden voted against more power for the far right – but are centrists listening?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd",
+      "published_date": "2026-09-16T15:45:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Forgotten US court of 'secrecy' could mean more deportations",
@@ -599,87 +676,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Conservative state premiers rally behind Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-conservative-state-premiers-rally-behind-merz/live-79289786?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-16T11:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Germany's Chancellor Merz fighting for political survival",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-chancellor-merz-fighting-for-political-survival/a-79290192?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-16T10:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Chancellor Merz fighting for political survival",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-chancellor-merz-fighting-for-political-survival/a-79290192?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T10:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US announces South Africa visa curbs over race claims",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-announces-south-africa-visa-curbs-over-race-claims/a-79288287?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T10:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German drama 'Blindspot Berlin' revisits 2016 Christmas market attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-16T09:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German drama 'Blindspot Berlin' revisits 2016 Christmas market attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T09:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T09:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where does your state rank in Germany’s education league table?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260916/where-does-your-state-rank-in-germanys-education-league-table",
-      "published_date": "2026-09-16T08:48:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bag checks and safe spaces: How Munich aims to make Oktoberfest safer",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260916/bag-checks-and-safe-spaces-how-munich-aims-to-make-oktoberfest-safer",
-      "published_date": "2026-09-16T08:46:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260916/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-138",
-      "published_date": "2026-09-16T06:26:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "To understand the threat to our real democracy, watch Putin's fake one | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/threat-britain-fake-democracy-russia-vladimir-putin",
-      "published_date": "2026-09-16T04:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer",
-      "published_date": "2026-09-15T23:38:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drohnenshow im Hafen: Leuchtendes Fischbrötchen über Hamburg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/16/leuchtendes-fischbroetchen-ueber-hamburg",
-      "published_date": "2026-09-15T22:34:06+00:00",
       "category": "Local Events"
     }
   ]
