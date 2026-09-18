@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-18T00:54:27.043016+00:00",
+  "last_updated": "2026-09-18T14:44:15.506994+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Canada and EU association: Are there other arrangements?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-and-eu-association-are-there-other-arrangements/a-79328797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T14:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
+      "published_date": "2026-09-18T14:14:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germans have soured on Chancellor Merz — can they trade him?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germans-have-soured-on-chancellor-merz-can-they-trade-him/a-79313623?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T12:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germans have soured on Chancellor Merz — can they trade him?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germans-have-soured-on-chancellor-merz-can-they-trade-him/a-79313623?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T12:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+      "published_date": "2026-09-18T11:00:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Folge wachsender Impfskepsis: Kinder-Impfquoten sinken in vielen EU-Ländern",
       "source": "ZEIT Online",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US extends visa denial for Palestinian officials ahead of UNGA",
+      "title": "Tanker attacks in the Strait of Hormuz are spilling oil into the Persian Gulf",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-extends-visa-denial-for-palestinian-officials-ahead-of-unga/a-79300290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T06:41:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/tanker-attacks-in-the-strait-of-hormuz-are-spilling-oil-into-the-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T14:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Opening the door for Canada is a harmless gesture. But it won’t fix Europe’s security crisis | Paul Taylor",
+      "title": "France: Macron orders defense against Russian hybrid attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T13:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/opening-the-eu-door-for-canada-is-a-harmless-gesture-but-it-wont-fix-europes-security-crisis",
-      "published_date": "2026-09-17T04:00:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europäische Union: Trump droht EU mit Handelsstopp bei engerer Partnerschaft mit Kanada",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-zoelle-eu-kanada-ursula-von-der-leyen",
-      "published_date": "2026-09-17T00:11:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Neuer transatlantischer Bund?: Trump droht EU wegen geplanter Annäherung an Kanada",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/17/trump-droht-eu-wegen-geplanter-annaeherung-an-kanada",
-      "published_date": "2026-09-16T23:50:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Künstliche Intelligenz: Deutschland und Kanada wollen KI »im Dienste des Menschen« fördern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/internet/2026-09/deutschland-kanada-ki-ai-allianz-wildberger",
-      "published_date": "2026-09-16T23:36:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin",
+      "published_date": "2026-09-18T02:00:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump hails 'major progress' in setting up US base in Poland",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: US-Kongress bewilligt härtere Sanktionen gegen Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-16T23:00:49+00:00",
-      "category": "Military"
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "published_date": "2026-09-18T14:42:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Shock in Kosovo as Hague convicts former President Thaci",
+      "title": "Germany faces energy tax losses as EV sales rise",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/shock-in-kosovo-as-hague-convicts-former-president-thaci/a-79294916?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T15:59:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T10:55:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Shock in Kosovo as Hague convicts former President Thaci",
+      "title": "Germany faces energy tax losses as EV sales rise",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/shock-in-kosovo-as-hague-convicts-former-president-thaci/a-79294916?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-16T15:59:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T10:55:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energiepreise: Gewerkschaftsbund fordert Entlastungen bei Gas, Strom und Sprit",
@@ -354,25 +375,39 @@
       "category": "Energy"
     },
     {
-      "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
+      "title": "Online Scams: The Shady World of Fraudulent Investment Sites",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/online-scams-the-shady-world-of-fraudulent-investment-sites-a-36d59b48-23ea-4ae5-9532-7a6d3fb086d3#ref=rss",
+      "published_date": "2026-09-18T13:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Americans in Germany can benefit from international credit unions",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260918/how-americans-in-germany-can-benefit-from-international-credit-unions",
+      "published_date": "2026-09-18T12:18:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poorest countries hit hardest by UK aid cuts under Keir Starmer government, new figures reveal",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
-      "published_date": "2026-09-11T09:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/global-development/2026/sep/18/poorest-countries-hit-hardest-by-uk-aid-cuts-under-keir-starmer-government-new-figures-reveal",
+      "published_date": "2026-09-18T12:01:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
+      "title": "Women's football in Germany booming, but still much to do",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-11T08:20:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T10:35:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
+      "title": "Women's football in Germany booming, but still much to do",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-11T08:20:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T10:35:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "1,5 Millionen Euro Förderung: Pflanzen-Immunabwehr - 1,5 Millionen für Forscherin in Halle",
@@ -480,178 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "Pay to ghost your boss: Japan's resignation business",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pay-to-ghost-your-boss-japan-s-resignation-business/a-79213584?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-14T10:36:00+00:00",
-      "category": "Economy"
+      "title": "Spritkrise: Regierung will offenbar wieder Tankrabatt einführen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/tankpreisdeckel-spritpreise-regierung-entlastung",
+      "published_date": "2026-09-18T14:33:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Can Iran replace sea trade with land routes?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-14T07:50:00+00:00",
-      "category": "Economy"
+      "title": "Gewerkschaften: DGB ruft zu bundesweiten Protesten gegen Regierungskurs auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/yasmin-fahimi-dgb-bundesregierung-sozialpolitik-afd",
+      "published_date": "2026-09-18T14:19:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Tidal wave’ of Pfas being launched to satisfy AI industry, campaigners warn",
+      "title": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
-      "published_date": "2026-09-14T06:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
+      "published_date": "2026-09-18T14:11:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The far right’s rise is a wake-up call for Europe | Letters",
+      "title": "Werner Graf: Ratlos vor der Radikalisierungsspirale",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/werner-graf-die-gruenen-buergermeisterkandidat-abgeordnetenhauswahl-berlin",
+      "published_date": "2026-09-18T13:29:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD in Berlin: Der Wahlkampf zündete nicht. Dann kamen die Ermittlungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/spd-berlin-steffen-krach-wahlkampf-ermittlungen",
+      "published_date": "2026-09-18T13:29:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan suicide bombing targets police facility in Kohat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T12:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rise of the AfD: The all-or-nothing party",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rise-of-the-afd-the-all-or-nothing-party/a-79326208?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T12:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rise of the AfD: The all-or-nothing party",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rise-of-the-afd-the-all-or-nothing-party/a-79326208?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T12:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire engulfs Zaporizhzhia mall in Ukraine after Russian attack – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/13/the-far-rights-rise-is-a-wake-up-call-for-europe",
-      "published_date": "2026-09-13T15:58:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ukraine war briefing: Nine killed and dozens wounded in Russian strikes as Kyiv braces for harsh winter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/13/ukraine-war-briefing-nine-killed-and-dozens-wounded-in-russian-strikes-as-kyiv-braces-for-harsh-winter",
-      "published_date": "2026-09-13T01:22:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sachsen-Anhalt: BSW-Chefin Mohamed Ali schließt Koalition mit AfD aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/18/bsw-chefin-mohamed-ali-schliesst-koalition-mit-afd-aus",
-      "published_date": "2026-09-17T22:01:05+00:00",
+      "url": "https://www.theguardian.com/world/video/2026/sep/18/fire-zaporizhzhia-mall-ukraine-russian-attack-video",
+      "published_date": "2026-09-18T12:03:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gewerkschaften: DGB warnt vor AfD - und protestiert gegen Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/18/dgb-warnt-vor-afd-und-protestiert-gegen-regierung",
-      "published_date": "2026-09-17T22:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ZDF-»Politbarometer Extra«: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf",
-      "published_date": "2026-09-17T21:10:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahl in Berlin: Linke liegt in Berlin vor der CDU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-2026-umfrage-cdu-linke-afd-stefan-evers-kai-wegner",
-      "published_date": "2026-09-17T21:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Third malaria death linked to Frankfurt Airport",
+      "title": "Philippines: At least 3 students killed in school shooting",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-third-malaria-death-linked-to-frankfurt-airport/a-79315012?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-17T16:16:00+00:00",
+      "url": "https://www.dw.com/en/philippines-at-least-3-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T11:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Germany: Third malaria death linked to Frankfurt Airport",
+      "title": "Germany news: Fuel costs dominate debate ahead of polls",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-third-malaria-death-linked-to-frankfurt-airport/a-79315012?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T16:16:00+00:00",
+      "url": "https://www.dw.com/en/germany-news-fuel-costs-dominate-debate-ahead-of-polls/live-79324526?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T11:30:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Alexander Ovechkin backs Putin party in campaign video",
+      "title": "India heads for driest monsoon in 17 years as El Nino curbs rainfall",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T16:02:00+00:00",
+      "url": "https://www.dw.com/en/india-heads-for-driest-monsoon-in-17-years-as-el-nino-curbs-rainfall/live-79320496?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T11:25:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns",
-      "published_date": "2026-09-17T15:28:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's judges seek to prevent AfD justice abuse",
+      "title": "Nigeria: Protests erupt over deaths of 37 miners in custody",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-judges-seek-to-prevent-afd-justice-abuse/a-79314333?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T15:18:00+00:00",
+      "url": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T11:04:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Judges: As AfD ascends, Germany must bolster justice system",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-17T15:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judges: As AfD ascends, Germany must bolster justice system",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T15:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abgeordnetenhauswahl in Berlin: Das steht in den Parteiprogrammen zur Berlinwahl",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-09/abgeordnetenhauswahl-berlin-wahlprogramme-die-linke-cdu-faq",
-      "published_date": "2026-09-17T14:40:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nationalmannschaft: Jetzt beginnt der Kloppismus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/nationalmannschaft-dfb-fussball-juergen-klopp-nominierung-kritik",
-      "published_date": "2026-09-17T14:37:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New manager wants German team to help reclaim national pride from far-right",
+      "title": "The key advice I wish I’d known before my disastrous Oktoberfest",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260917/new-manager-wants-german-team-to-help-reclaim-national-pride-from-far-right",
-      "published_date": "2026-09-17T13:58:25+00:00",
+      "url": "https://www.thelocal.de/20260918/the-key-advice-i-wish-id-known-before-my-disastrous-oktoberfest",
+      "published_date": "2026-09-18T09:16:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-      "published_date": "2026-09-17T13:26:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa: Police find 9th body of woman amid spree fears",
+      "title": "Australia: Man killed in shark attack near Perth",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-police-find-9th-body-of-woman-amid-spree-fears/a-79310945?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T12:45:00+00:00",
+      "url": "https://www.dw.com/en/australia-man-killed-in-shark-attack-near-perth/a-79319936?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T08:13:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd",
-      "published_date": "2026-09-17T10:42:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not the man for a crisis: inside the 18 September Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/sep/17/not-the-man-for-a-crisis-inside-the-18-september-guardian-weekly",
-      "published_date": "2026-09-17T10:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How many new German citizens can vote in the Berlin elections?",
+      "title": "'Who the f*ck ever asked you?' Provocative Berlin election poster calls to extend voting rights",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260917/how-many-new-german-citizens-can-vote-in-the-berlin-elections",
-      "published_date": "2026-09-17T09:29:00+00:00",
+      "url": "https://www.thelocal.de/20260918/who-the-fck-ever-asked-you-provocative-berlin-election-poster-calls-to-extend-voting-rights",
+      "published_date": "2026-09-18T08:09:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Australia to restrict student, backpacker visas in migration clampdown",
+      "title": "Slowly then all at once: this emboldened Celtic alliance could spell the end of the UK | Simon Jenkins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/westminster-celtic-alliance-scotland-wales-ireland-uk",
+      "published_date": "2026-09-18T07:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Organized crime and drug-related deaths rise Germany",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-to-restrict-student-backpacker-visas-in-migration-clampdown/a-79302553?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T08:35:00+00:00",
+      "url": "https://www.dw.com/en/organized-crime-and-drug-related-deaths-rise-germany/a-79315774?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T06:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260918/today-in-germany-a-roundup-of-the-latest-news-on-friday-140",
+      "published_date": "2026-09-18T06:30:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The spectre of ‘remigration’ is haunting Europe. Slovenia in 1992 gives us a blueprint for this state terror | Miha Mazzini",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants",
+      "published_date": "2026-09-18T04:00:09+00:00",
       "category": "Local Events"
     }
   ]
