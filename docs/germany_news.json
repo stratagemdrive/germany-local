@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-17T15:23:49.175800+00:00",
-  "story_count": 92,
+  "last_updated": "2026-09-18T00:54:27.043016+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Folge wachsender Impfskepsis: Kinder-Impfquoten sinken in vielen EU-Ländern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/18/kinder-impfquoten-sinken-in-vielen-eu-laendern",
+      "published_date": "2026-09-18T00:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN mission notes possible US war crimes in Iran strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T23:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
+      "published_date": "2026-09-17T18:22:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on EU-Canada relations: strategic ambition with lessons for Britain | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/the-guardian-view-on-eu-canada-relations-strategic-ambition-with-lessons-for-britain",
+      "published_date": "2026-09-17T17:48:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+      "published_date": "2026-09-17T15:46:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Migration nach Ceuta: EU-Parlament kritisiert spanische Regierung wegen Ceuta-Krise",
       "source": "ZEIT Online",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Congress passes Russia sanctions bill",
+      "title": "Trump hails 'major progress' in setting up US base in Poland",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T23:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T21:55:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
-      "published_date": "2026-09-16T19:39:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is EU’s offer to Canada a blueprint for Britain – or a reminder it is out in the cold?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/16/eu-offer-canada-blueprint-britain-brexit",
-      "published_date": "2026-09-16T18:57:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can Canada and the EU build a deeper partnership?",
+      "title": "Russian birth tourism to Brazil increases",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T16:50:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T19:19:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Canada and the EU build a deeper partnership?",
+      "title": "Russian birth tourism to Brazil increases",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-16T16:50:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-17T19:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A war-fatigued and anxious Russia picks a new parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T16:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A war-fatigued and anxious Russia picks a new parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-17T16:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia, Houthis exchange blows as conflict escalates",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-houthis-exchange-blows-as-conflict-escalates/a-79313776?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T15:40:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
@@ -168,6 +210,20 @@
       "title": "Serbia's President Vucic criticizes Kosovo war crimes verdict",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/serbia-s-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-17T11:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbian President Vucic criticizes Kosovo war crimes verdict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbian-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T11:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbian President Vucic criticizes Kosovo war crimes verdict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbian-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-17T11:24:00+00:00",
       "category": "Military"
     },
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-      "published_date": "2026-09-16T15:04:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hunde an der Schule: Ohne den Schulhund? Wahrscheinlich wäre ein Krieg ausgebrochen!",
+      "title": "Energiepreise: Gewerkschaftsbund fordert Entlastungen bei Gas, Strom und Sprit",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/bildung/2026-09/hunde-schule-tiere-emotion-kinder-lehrerkolumne",
-      "published_date": "2026-09-16T15:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Very authoritarian, very brutal’: three decades after the UK’s anti-rave crackdown, why is France doing the same?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/sep/16/anti-rave-crackdown-france-uk-castlemorton-spiral-tribe",
-      "published_date": "2026-09-16T14:29:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Houthis are also putting Egypt under pressure",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-houthis-are-also-putting-egypt-under-pressure/a-79291103?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T13:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kosovo’s former president jailed for 25 years over war crimes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
-      "published_date": "2026-09-16T13:40:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland reaffirms support for Ukraine after drone strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T12:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland reaffirms support for Ukraine after drone strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-16T12:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T09:58:00+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/wirtschaft/2026-09/energiepreise-dgb-yasmin-fahimi-entlastungen-steuern",
+      "published_date": "2026-09-18T00:12:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "How climate change worsened Nepal's deadly mountain collapse",
@@ -378,6 +385,13 @@
       "title": "Germany cuts development aid despite growing crises",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-cuts-development-aid-despite-growing-crises/a-79257532?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T14:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "As global crises grow, Germany cuts development aid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-global-crises-grow-germany-cuts-development-aid/a-79257532?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-17T14:36:00+00:00",
       "category": "Economy"
     },
@@ -501,16 +515,79 @@
       "category": "Economy"
     },
     {
-      "title": "Staatsempfang in München: Emirate wollen zehn Milliarden Euro in Bayern investieren",
+      "title": "Sachsen-Anhalt: BSW-Chefin Mohamed Ali schließt Koalition mit AfD aus",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/11/roter-teppich-und-lebkuchenherz-fuer-praesidenten-der-emirate",
-      "published_date": "2026-09-11T14:21:32+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-09/18/bsw-chefin-mohamed-ali-schliesst-koalition-mit-afd-aus",
+      "published_date": "2026-09-17T22:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gewerkschaften: DGB warnt vor AfD - und protestiert gegen Regierung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/18/dgb-warnt-vor-afd-und-protestiert-gegen-regierung",
+      "published_date": "2026-09-17T22:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ZDF-»Politbarometer Extra«: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf",
+      "published_date": "2026-09-17T21:10:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahl in Berlin: Linke liegt in Berlin vor der CDU",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-2026-umfrage-cdu-linke-afd-stefan-evers-kai-wegner",
+      "published_date": "2026-09-17T21:08:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Third malaria death linked to Frankfurt Airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-third-malaria-death-linked-to-frankfurt-airport/a-79315012?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-17T16:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Third malaria death linked to Frankfurt Airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-third-malaria-death-linked-to-frankfurt-airport/a-79315012?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T16:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alexander Ovechkin backs Putin party in campaign video",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T16:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns",
+      "published_date": "2026-09-17T15:28:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany's judges seek to prevent AfD justice abuse",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-judges-seek-to-prevent-afd-justice-abuse/a-79314333?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-17T15:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judges: As AfD ascends, Germany must bolster justice system",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-17T15:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judges: As AfD ascends, Germany must bolster justice system",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-17T15:18:00+00:00",
       "category": "Local Events"
     },
@@ -575,76 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/australia-to-restrict-student-backpacker-visas-in-migration-clampdown/a-79302553?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-17T08:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Mysterious explosions reported in Frankfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-mysterious-explosions-reported-in-frankfurt/live-79300494?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-17T08:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Mysterious explosions reported in Frankfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-mysterious-explosions-reported-in-frankfurt/live-79300494?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T08:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Socialist hotels – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/17/socialist-hotels-in-pictures",
-      "published_date": "2026-09-17T08:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260917/today-in-germany-a-roundup-of-the-latest-news-on-thursday-136",
-      "published_date": "2026-09-17T06:35:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey detains dozens in crackdown on LGBTQ+ activists and journalists",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists",
-      "published_date": "2026-09-17T04:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suche nach Location: Hallenprojekt der NRW-AfD vorerst gestoppt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/17/hallenprojekt-der-nrw-afd-vorerst-gestoppt",
-      "published_date": "2026-09-16T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden's center-left bloc set to win election, STV reports",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T22:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlarena in Berlin: SPD-Kandidat Krach schließt Koalition mit Linkspartei nicht aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
-      "published_date": "2026-09-16T22:21:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Village votes to 'secede' in asylum center plan protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T17:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Village votes to 'secede' in asylum center plan protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-16T17:41:00+00:00",
       "category": "Local Events"
     }
   ]
