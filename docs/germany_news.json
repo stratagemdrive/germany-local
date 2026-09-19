@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-19T00:49:23.008891+00:00",
+  "last_updated": "2026-09-19T14:05:45.260224+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Friedrich Merz und die CDU: Jetzt mal was Anderes",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/40/friedrich-merz-cdu-kontrollverlust-frankenstein-kuenstliche-intelligenz",
+      "published_date": "2026-09-19T13:41:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes new rules on recognition of qualifications for non-EU citizens",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260919/eu-proposes-new-rules-for-recognition-of-qualifications-from-non-eu-citizens",
+      "published_date": "2026-09-19T09:05:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPINION: Do Canadians really want closer ties with Europe?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
+      "published_date": "2026-09-19T08:54:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burning forests, emptying rivers, €180bn in damage: Europe’s politicians face reckoning after ‘summer of truth’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking",
+      "published_date": "2026-09-19T05:00:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump signs broad Russia sanctions bill",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T01:27:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Künstliche Intelligenz: UN-Generalsekretär fordert KI-Gespräch zwischen USA, China und EU",
       "source": "ZEIT Online",
@@ -28,6 +63,13 @@
       "title": "Deal with Denmark gives US 'permanent control' over Greenland security, Trump says",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T21:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Denmark reach deal over Greenland's security, Trump says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-denmark-reach-deal-over-greenland-s-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-18T21:53:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Folge wachsender Impfskepsis: Kinder-Impfquoten sinken in vielen EU-Ländern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/18/kinder-impfquoten-sinken-in-vielen-eu-laendern",
-      "published_date": "2026-09-18T00:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN mission notes possible US war crimes in Iran strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T23:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
+      "title": "Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "published_date": "2026-09-17T18:22:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river",
+      "published_date": "2026-09-19T06:00:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on EU-Canada relations: strategic ambition with lessons for Britain | Editorial",
+      "title": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/the-guardian-view-on-eu-canada-relations-strategic-ambition-with-lessons-for-britain",
-      "published_date": "2026-09-17T17:48:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-      "published_date": "2026-09-17T15:46:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Migration nach Ceuta: EU-Parlament kritisiert spanische Regierung wegen Ceuta-Krise",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/ceuta-migranten-spanien-eu-parlament-grenze",
-      "published_date": "2026-09-17T15:07:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/19/ukraine-war-briefing-zelenskyy-reaches-out-to-eastern-europe-for-new-trade-and-security-partnership",
+      "published_date": "2026-09-19T01:04:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Serbian President Vucic criticizes Kosovo war crimes verdict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbian-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-17T11:24:00+00:00",
-      "category": "Military"
+      "title": "Wetter: Wind und teilweise Regen in NRW",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/19/wind-und-teilweise-regen-in-nrw",
+      "published_date": "2026-09-19T13:49:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "De Gaulle: Liberté review – biopic of conquering French war hero reaches his imperial era",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/17/de-gaulle-liberte-review-biopic-of-conquering-french-war-hero-reaches-his-imperial-era",
-      "published_date": "2026-09-17T10:00:46+00:00",
-      "category": "Military"
+      "title": "Cuba faces another nationwide blackout amid US fuel blockade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T03:57:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
@@ -361,18 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Corals as climate archive: Are El Ninos intensifying?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-12T08:53:00+00:00",
-      "category": "Energy"
+      "title": "Crisis-wracked Volkswagen warns of €10 billion hit to profits",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260919/crisis-wracked-volkswagen-warns-of-e10-billion-hit-to-profits",
+      "published_date": "2026-09-19T11:54:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Corals as climate archive: Are El Nino events intensifying?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-nino-events-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-12T08:53:00+00:00",
-      "category": "Energy"
+      "title": "German government agrees fuel tax cut",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260919/german-government-agrees-fuel-tax-cut",
+      "published_date": "2026-09-19T08:30:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Wohnungsmarkt: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
@@ -501,18 +515,123 @@
       "category": "Economy"
     },
     {
-      "title": "How extreme heat is hitting wallets",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-extreme-heat-is-hitting-wallets/a-79268306?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T08:25:00+00:00",
-      "category": "Economy"
+      "title": "Demonstrationen: Protest gegen Schwangerschaftsabbrüche in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin",
+      "published_date": "2026-09-19T13:40:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AI leaders call for regulations, Trump dismisses 'hoaxes'",
+      "title": "Lederhosen, sauerkraut and tapping the first barrel: Oktoberfest 2026 opens – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/gallery/2026/sep/19/oktoberfest-2026-day-one-munich-beer-in-pictures",
+      "published_date": "2026-09-19T13:29:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands protest Kennedy Center demolition fears",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T22:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T11:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-19T09:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T09:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oktoberfest opens as Munich mayor taps first beer keg",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-19T08:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oktoberfest opens as Munich mayor taps first beer keg",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T08:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US court rejects Trump policy on third-country deportations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-court-rejects-trump-policy-on-third-country-deportations/a-79336611?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T08:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: And what if 850,000 foreign residents in Berlin could vote on Sunday?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260919/inside-germany-and-what-if-850000-foreign-residents-in-berlin-could-vote-on-sunday",
+      "published_date": "2026-09-19T08:14:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia votes for new parliament in controlled elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T07:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Campaigns wrap up in two state elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T06:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-19T06:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T06:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan: Suicide bombing death toll rises to at least 31",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T06:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European education powerhouses rocked by falling scores in global study",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/sep/19/european-education-powerhouses-rocked-falling-pisa-scores-global-study-france-germany-netherlands-finland",
+      "published_date": "2026-09-19T05:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here’s how Germany can defend its democracy – banning the AfD isn’t the answer | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy",
+      "published_date": "2026-09-19T05:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
+      "published_date": "2026-09-19T04:00:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AfD Berlin: Polizei durchsucht Haus von Mitarbeiter der Berliner AfD-Kandidatin",
@@ -533,125 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-18T18:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Airport malaria in Germany remains infrequent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T18:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Airport malaria in Germany remains infrequent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-18T18:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact Check: False video alleges Berlin votes destroyed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-false-video-alleges-berlin-votes-destroyed/a-79333344?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T18:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact Check: False video alleges Berlin votes destroyed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-false-video-alleges-berlin-votes-destroyed/a-79333344?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T18:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden’s soul and worrying political shift | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/swedens-soul-and-worrying-political-shift",
-      "published_date": "2026-09-18T16:52:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German police probe arson attack on Wuppertal synagogue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-police-probe-arson-attack-on-wuppertal-synagogue/a-79331270?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T15:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German police probe arson attack on Wuppertal synagogue",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-police-probe-arson-attack-on-wuppertal-synagogue/a-79331270?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T15:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
-      "published_date": "2026-09-18T15:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spritkrise: Regierung will offenbar wieder Tankrabatt einführen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/tankpreisdeckel-spritpreise-regierung-entlastung",
-      "published_date": "2026-09-18T14:33:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gewerkschaften: DGB ruft zu bundesweiten Protesten gegen Regierungskurs auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/yasmin-fahimi-dgb-bundesregierung-sozialpolitik-afd",
-      "published_date": "2026-09-18T14:19:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
-      "published_date": "2026-09-18T14:11:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Werner Graf: Ratlos vor der Radikalisierungsspirale",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/werner-graf-die-gruenen-buergermeisterkandidat-abgeordnetenhauswahl-berlin",
-      "published_date": "2026-09-18T13:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPD in Berlin: Der Wahlkampf zündete nicht. Dann kamen die Ermittlungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/spd-berlin-steffen-krach-wahlkampf-ermittlungen",
-      "published_date": "2026-09-18T13:29:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan suicide bombing targets police facility in Kohat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T12:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise of the AfD: The all-or-nothing party",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rise-of-the-afd-the-all-or-nothing-party/a-79326208?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T12:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise of the AfD: The all-or-nothing party",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rise-of-the-afd-the-all-or-nothing-party/a-79326208?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T12:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No compromises': Far-right AfD has few potential partners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-compromises-far-right-afd-has-few-potential-partners/a-79326208?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T12:24:00+00:00",
       "category": "Local Events"
     }
   ]
