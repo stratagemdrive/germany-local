@@ -1,12 +1,61 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-18T14:44:15.506994+00:00",
+  "last_updated": "2026-09-19T00:49:23.008891+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Künstliche Intelligenz: UN-Generalsekretär fordert KI-Gespräch zwischen USA, China und EU",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/internet/2026-09/ki-sicherheit-antonio-guterres-usa-china-europa-un",
+      "published_date": "2026-09-19T00:30:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
+      "published_date": "2026-09-19T00:10:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Grönland: USA und Dänemark einigen sich in Streit um Grönland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/groenland-usa-daenemark-donald-trump-kontrolle",
+      "published_date": "2026-09-18T23:04:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deal with Denmark gives US 'permanent control' over Greenland security, Trump says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T21:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyy holds inaugural 'Carpathian Eight' regional summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-holds-inaugural-carpathian-eight-regional-summit/a-79333437?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T17:36:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada and EU association: Are there other arrangements?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/canada-and-eu-association-are-there-other-arrangements/a-79328797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T14:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada and EU: A look at the bloc's special relationships",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T14:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada and EU: A look at the bloc's special relationships",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-18T14:26:00+00:00",
       "category": "Diplomacy"
     },
@@ -28,6 +77,20 @@
       "title": "Germans have soured on Chancellor Merz — can they trade him?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germans-have-soured-on-chancellor-merz-can-they-trade-him/a-79313623?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T12:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Is it possible to replace the chancellor?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T12:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Is it possible to replace the chancellor?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-18T12:49:00+00:00",
       "category": "Diplomacy"
     },
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mark Carney: Wird die EU transatlantisch?",
+      "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-09/mark-carney-kanada-eu-nachrichtenpodcast",
-      "published_date": "2026-09-17T15:04:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-09/19/trump-unterzeichnet-paket-mit-sanktionen-gegen-russland",
+      "published_date": "2026-09-18T23:34:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "EXPLAINED: What would change for kids and social media under new EU law?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260917/explained-what-would-change-for-kids-and-social-media-under-new-eu-law",
-      "published_date": "2026-09-17T14:15:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany urges EU action against China to defend carmakers",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260917/germany-urges-eu-action-against-china-to-defend-carmakers",
-      "published_date": "2026-09-17T13:48:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada's PM Carney pushes 'new alliance' with EU despite Trump threats",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260917/canadas-pm-carney-pushes-new-alliance-with-eu-despite-trump-threats",
-      "published_date": "2026-09-17T13:35:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech",
+      "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
-      "published_date": "2026-09-17T12:15:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
+      "published_date": "2026-09-18T22:05:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada's Carney welcomes associate status idea in EU speech",
+      "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-s-carney-welcomes-associate-status-idea-in-eu-speech/a-79306191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T10:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T19:22:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump calls EU's offer of associate membership to Canada 'laughable' – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
-      "published_date": "2026-09-17T08:58:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
-      "published_date": "2026-09-17T08:25:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: New Delhi denies claims world leaders fell ill after BRICS summit",
+      "title": "Strait of Hormuz attacks spill oil into Persian Gulf",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-new-delhi-denies-claims-world-leaders-fell-ill-after-brics-summit/live-79300604?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T08:04:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T19:05:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Tanker attacks in the Strait of Hormuz are spilling oil into the Persian Gulf",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "OpenAI discloses new 'concerning' behavior",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/openai-discloses-new-concerning-behavior/a-79300180?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T06:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russian strikes injure several in Kyiv, Odesa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russian-strikes-injure-several-in-kyiv-odesa/a-79299579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T02:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham",
-      "published_date": "2026-09-17T00:33:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/17/us-kongress-beschliesst-gesetz-fuer-russland-sanktionen",
-      "published_date": "2026-09-17T00:09:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
@@ -373,6 +373,34 @@
       "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-nino-events-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-12T08:53:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Wohnungsmarkt: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/19/jedes-zweite-wg-zimmer-in-berlin-kostet-mehr-als-650-euro",
+      "published_date": "2026-09-19T00:30:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Europe has been absent from the great AI safety debate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+      "published_date": "2026-09-18T18:37:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ever more Israelis moving to and investing in Cyprus",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T15:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ever more Israelis moving to and investing in Cyprus",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-18T15:08:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Online Scams: The Shady World of Fraudulent Investment Sites",
@@ -487,32 +515,81 @@
       "category": "Economy"
     },
     {
-      "title": "Finanzen der Hauptstadt: Bundeszuschuss für Sicherheit und Kultur in Berlin wird erhöht",
+      "title": "AfD Berlin: Polizei durchsucht Haus von Mitarbeiter der Berliner AfD-Kandidatin",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit",
-      "published_date": "2026-09-15T15:15:32+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-kristin-brinker-mitarbeiter-wohnung-durchsuchung",
+      "published_date": "2026-09-19T00:42:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why the era of cheap government debt is over",
+      "title": "Bundesliga, 4. Spieltag – Freitag: FC Bayern gewinnt deutlich gegen Union Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/bayern-muenchen-union-berlin-bundesliga-harry-kane-michael-olise",
+      "published_date": "2026-09-18T22:02:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Airport malaria in Germany remains infrequent",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T13:17:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T18:23:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+      "title": "Airport malaria in Germany remains infrequent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T18:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Airport malaria in Germany remains infrequent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-18T18:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact Check: False video alleges Berlin votes destroyed",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-false-video-alleges-berlin-votes-destroyed/a-79333344?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T18:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact Check: False video alleges Berlin votes destroyed",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-false-video-alleges-berlin-votes-destroyed/a-79333344?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T18:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden’s soul and worrying political shift | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-      "published_date": "2026-09-14T18:41:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/18/swedens-soul-and-worrying-political-shift",
+      "published_date": "2026-09-18T16:52:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany seeks guarantees from UniCredit over Commerzbank takeover",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260914/germany-seeks-guarantees-from-unicredit-over-commerzbank-takeover",
-      "published_date": "2026-09-14T13:49:26+00:00",
-      "category": "Economy"
+      "title": "German police probe arson attack on Wuppertal synagogue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-probe-arson-attack-on-wuppertal-synagogue/a-79331270?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T15:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police probe arson attack on Wuppertal synagogue",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-probe-arson-attack-on-wuppertal-synagogue/a-79331270?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-18T15:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
+      "published_date": "2026-09-18T15:00:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spritkrise: Regierung will offenbar wieder Tankrabatt einführen",
@@ -571,87 +648,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Fire engulfs Zaporizhzhia mall in Ukraine after Russian attack – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/18/fire-zaporizhzhia-mall-ukraine-russian-attack-video",
-      "published_date": "2026-09-18T12:03:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Philippines: At least 3 students killed in school shooting",
+      "title": "'No compromises': Far-right AfD has few potential partners",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/philippines-at-least-3-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T11:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Fuel costs dominate debate ahead of polls",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-fuel-costs-dominate-debate-ahead-of-polls/live-79324526?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India heads for driest monsoon in 17 years as El Nino curbs rainfall",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-heads-for-driest-monsoon-in-17-years-as-el-nino-curbs-rainfall/live-79320496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T11:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Protests erupt over deaths of 37 miners in custody",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T11:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The key advice I wish I’d known before my disastrous Oktoberfest",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260918/the-key-advice-i-wish-id-known-before-my-disastrous-oktoberfest",
-      "published_date": "2026-09-18T09:16:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia: Man killed in shark attack near Perth",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-man-killed-in-shark-attack-near-perth/a-79319936?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T08:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Who the f*ck ever asked you?' Provocative Berlin election poster calls to extend voting rights",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260918/who-the-fck-ever-asked-you-provocative-berlin-election-poster-calls-to-extend-voting-rights",
-      "published_date": "2026-09-18T08:09:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slowly then all at once: this emboldened Celtic alliance could spell the end of the UK | Simon Jenkins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/westminster-celtic-alliance-scotland-wales-ireland-uk",
-      "published_date": "2026-09-18T07:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Organized crime and drug-related deaths rise Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/organized-crime-and-drug-related-deaths-rise-germany/a-79315774?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T06:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260918/today-in-germany-a-roundup-of-the-latest-news-on-friday-140",
-      "published_date": "2026-09-18T06:30:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The spectre of ‘remigration’ is haunting Europe. Slovenia in 1992 gives us a blueprint for this state terror | Miha Mazzini",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants",
-      "published_date": "2026-09-18T04:00:09+00:00",
+      "url": "https://www.dw.com/en/no-compromises-far-right-afd-has-few-potential-partners/a-79326208?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-18T12:24:00+00:00",
       "category": "Local Events"
     }
   ]
