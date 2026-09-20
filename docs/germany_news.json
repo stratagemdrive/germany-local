@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-20T00:31:03.797325+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-20T14:24:41.314805+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Germans vote in elections threatening fresh blow to Merz",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260920/germans-vote-in-elections-threatening-fresh-blow-to-merz",
+      "published_date": "2026-09-20T07:57:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Voting underway in two key state elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T06:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Friedrich Merz und die CDU: Jetzt mal was Anderes",
       "source": "ZEIT Online",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: Is it possible to replace the chancellor?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T12:49:00+00:00",
-      "category": "Diplomacy"
+      "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+      "published_date": "2026-09-20T12:09:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T08:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-      "published_date": "2026-09-18T11:00:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/20/ukraine-war-briefing-kyiv-denounces-russias-inclusion-of-annexed-regions-in-parliamentary-elections",
+      "published_date": "2026-09-20T03:11:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian birth tourism to Brazil increases",
+      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T19:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian birth tourism to Brazil increases",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-17T19:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A war-fatigued and anxious Russia picks a new parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T16:42:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T06:50:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wetter: Wind und teilweise Regen in NRW",
@@ -373,6 +380,13 @@
       "url": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-14T12:18:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "‘I have nothing in the UK at all’: British man torn from his Swedish wife and home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home",
+      "published_date": "2026-09-20T12:02:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump announces new 'AI force' amid mounting pressure",
@@ -508,11 +522,102 @@
       "category": "Economy"
     },
     {
-      "title": "Global Gender Gap Report: Women's hard-won gains 'fragile'",
+      "title": "Wahl in Mecklenburg-Vorpommern: 40,7 Prozent der Wahlberechtigten haben bereits abgestimmt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published_date": "2026-09-20T14:13:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Wahlleiter: Videos von Stimmzetteln ohne AfD sind Fälschung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/20/wahlleiter-videos-von-stimmzetteln-ohne-afd-sind-faelschung",
+      "published_date": "2026-09-20T14:11:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahlen: Wahlen in Berlin und MV: Hohe Beteiligung zeichnet sich ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise",
+      "published_date": "2026-09-20T14:02:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahl in Berlin: Wahlbeteiligung in Berlin am Mittag höher als 2023",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published_date": "2026-09-20T13:41:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahlen: Spitzenkandidaten in Berlin und Mecklenburg-Vorpommern haben gewählt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-gxe",
+      "published_date": "2026-09-20T13:17:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flüchtlingsbehörde in Berlin: Schmutzige Wäsche",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/40/fluechtlingsbehoerde-berlin-waescherei-schulden-afd-bilal-ersoy",
+      "published_date": "2026-09-20T13:03:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filmfest Hamburg 2026: Welt kaputt? Ab ins Kino!",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-09/filmfest-hamburg-2026-filmtipps-kino-hoffnung",
+      "published_date": "2026-09-20T12:25:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T10:05:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T08:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germans arrested for Paris Louvre stunt in Mona Lisa hall",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260920/germans-arrested-for-paris-louvre-stunt-in-mona-lisa-hall",
+      "published_date": "2026-09-20T08:01:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-20T07:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T07:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-20T06:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T06:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Future of German chancellor hangs in the balance as two states go to polls",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right",
+      "published_date": "2026-09-20T02:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger lebensgefährlich verletzt",
@@ -554,104 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-19T16:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German-Russian relations at freezing point",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T16:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-19T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demonstrationen: Protest gegen Schwangerschaftsabbrüche in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin",
-      "published_date": "2026-09-19T13:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lederhosen, sauerkraut and tapping the first barrel: Oktoberfest 2026 opens – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/gallery/2026/sep/19/oktoberfest-2026-day-one-munich-beer-in-pictures",
-      "published_date": "2026-09-19T13:29:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest Kennedy Center demolition fears",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T11:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-19T09:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T09:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oktoberfest opens as Munich mayor taps first beer keg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-19T08:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oktoberfest opens as Munich mayor taps first beer keg",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T08:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US court rejects Trump policy on third-country deportations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-court-rejects-trump-policy-on-third-country-deportations/a-79336611?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T08:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: And what if 850,000 foreign residents in Berlin could vote on Sunday?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260919/inside-germany-and-what-if-850000-foreign-residents-in-berlin-could-vote-on-sunday",
-      "published_date": "2026-09-19T08:14:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia votes for new parliament in controlled elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T07:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Campaigns wrap up in two state elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T06:54:00+00:00",
       "category": "Local Events"
     }
   ]
