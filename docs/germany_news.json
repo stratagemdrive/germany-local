@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-19T14:05:45.260224+00:00",
+  "last_updated": "2026-09-20T00:31:03.797325+00:00",
   "story_count": 93,
   "stories": [
     {
@@ -144,6 +144,55 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/19/mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet",
+      "published_date": "2026-09-19T21:10:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flohmärkte in Hamburg: »Ach komm, Mädel. Gib mir den Zehner«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/37/flohmaerkte-hamburg-feilschen-tipps-roland-resag-flohschanze",
+      "published_date": "2026-09-19T20:39:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine steps up measures to protect railways",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T15:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine steps up measures to protect railways",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-19T15:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
+      "published_date": "2026-09-19T14:52:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T14:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
+      "published_date": "2026-09-19T14:43:07+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river",
@@ -232,55 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-17T16:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A war-fatigued and anxious Russia picks a new parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-17T16:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia, Houthis exchange blows as conflict escalates",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-houthis-exchange-blows-as-conflict-escalates/a-79313776?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T15:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
-      "published_date": "2026-09-17T15:20:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: How disinformation fuels Houthi-Saudi conflict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-how-disinformation-fuels-houthi-saudi-conflict/a-79307257?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T12:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbia's President Vucic criticizes Kosovo war crimes verdict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-s-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T11:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbia's President Vucic criticizes Kosovo war crimes verdict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-s-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-17T11:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbian President Vucic criticizes Kosovo war crimes verdict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbian-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T11:24:00+00:00",
       "category": "Military"
     },
     {
@@ -373,6 +373,13 @@
       "url": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-14T12:18:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Trump announces new 'AI force' amid mounting pressure",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T17:37:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Crisis-wracked Volkswagen warns of €10 billion hit to profits",
@@ -508,11 +515,67 @@
       "category": "Economy"
     },
     {
-      "title": "How extreme weather is hurting the global economy",
+      "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger lebensgefährlich verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt",
+      "published_date": "2026-09-19T23:59:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niederlande: Rechtsextreme Proteste in Den Haag schlagen in Gewalt um",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten",
+      "published_date": "2026-09-19T23:41:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch police disperse violent far-right protest in The Hague",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-extreme-weather-is-hurting-the-global-economy/a-79268306?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T08:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T22:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch riot police break up violent far-right protest in The Hague",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld",
+      "published_date": "2026-09-19T19:43:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 4. Spieltag – Samstag: BVB übernimmt in Stuttgart die Tabellenführung, HSV siegt gegen Köln",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
+      "published_date": "2026-09-19T18:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German-Russian relations at freezing point",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-19T16:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German-Russian relations at freezing point",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T16:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-19T14:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T14:51:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Demonstrationen: Protest gegen Schwangerschaftsabbrüche in Berlin",
@@ -589,69 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-19T06:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-19T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Suicide bombing death toll rises to at least 31",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T06:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European education powerhouses rocked by falling scores in global study",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/sep/19/european-education-powerhouses-rocked-falling-pisa-scores-global-study-france-germany-netherlands-finland",
-      "published_date": "2026-09-19T05:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s how Germany can defend its democracy – banning the AfD isn’t the answer | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy",
-      "published_date": "2026-09-19T05:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
-      "published_date": "2026-09-19T04:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD Berlin: Polizei durchsucht Haus von Mitarbeiter der Berliner AfD-Kandidatin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-kristin-brinker-mitarbeiter-wohnung-durchsuchung",
-      "published_date": "2026-09-19T00:42:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 4. Spieltag – Freitag: FC Bayern gewinnt deutlich gegen Union Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/bayern-muenchen-union-berlin-bundesliga-harry-kane-michael-olise",
-      "published_date": "2026-09-18T22:02:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Airport malaria in Germany remains infrequent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T18:23:00+00:00",
       "category": "Local Events"
     }
   ]
