@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-20T14:24:41.314805+00:00",
+  "last_updated": "2026-09-21T00:41:31.468352+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Landtagswahlen: Historische Demütigung für die CDU - Kann Merz sich halten?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
+      "published_date": "2026-09-20T23:39:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Disaster': Far-right and far-left gains in German state votes leaves Merz shaken",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260920/disaster-far-right-and-far-left-gains-in-german-state-votes-leaves-merz-shaken",
+      "published_date": "2026-09-20T17:27:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germans vote in elections threatening fresh blow to Merz",
       "source": "The Local Germany",
@@ -15,6 +29,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-20T06:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Is it possible to replace the chancellor?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T05:06:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -36,6 +57,13 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
       "published_date": "2026-09-19T08:54:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IN NUMBERS: How many Britons have residency permits across Europe?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
+      "published_date": "2026-09-19T08:49:30+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
+      "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
-      "published_date": "2026-09-18T14:14:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germans have soured on Chancellor Merz — can they trade him?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-have-soured-on-chancellor-merz-can-they-trade-him/a-79313623?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T12:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germans have soured on Chancellor Merz — can they trade him?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-have-soured-on-chancellor-merz-can-they-trade-him/a-79313623?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T12:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Is it possible to replace the chancellor?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T12:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
+      "published_date": "2026-09-20T16:47:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump hails 'major progress' in setting up US base in Poland",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T21:55:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-rdf",
@@ -380,6 +380,13 @@
       "url": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-14T12:18:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Canada, France agree to closer ties in defense, economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T21:29:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘I have nothing in the UK at all’: British man torn from his Swedish wife and home",
@@ -515,11 +522,102 @@
       "category": "Economy"
     },
     {
-      "title": "Germany: Oktoberfest beer prices rise, outpacing inflation",
+      "title": "Landtagswahlen: CDU im Nordosten raus aus Landtag – Linke gewinnt in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin",
+      "published_date": "2026-09-21T00:32:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Regierungswechsel in Berlin – Linke siegt klar vor der CDU",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published_date": "2026-09-21T00:17:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahl in Berlin: Linke gewinnt laut vorläufigem Endergebnis Berlin-Wahl vor der CDU",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/linke-sieg-vorlaeufiges-endergebnis-berlin-wahl-cdu",
+      "published_date": "2026-09-20T23:58:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
+      "published_date": "2026-09-20T23:57:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahl in Berlin: SPD-Lichtblick in Treptow-Köpenick",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/21/spd-lichtblick-in-treptow-koepenick",
+      "published_date": "2026-09-20T23:49:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wahlverhalten in Mecklenburg-Vorpommern: Darum verloren alle außer der AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlverhalten-mecklenburg-vorpommern-waehlerwanderung-parteien-alter",
+      "published_date": "2026-09-20T22:22:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CDU in Mecklenburg-Vorpommern: So schlecht wie nie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/cdu-mecklenburg-vorpommern-landtagswahl-ergebnisse-daniel-peters",
+      "published_date": "2026-09-20T22:16:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-oktoberfest-beer-prices-rise-outpacing-inflation/a-79296932?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T18:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-20T21:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T21:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD makes gains in state elections, but has no government options",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-20T19:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD makes gains in state elections, but has no government options",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T19:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+      "published_date": "2026-09-20T18:33:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Left Party's Elif Eralp wins Berlin vote on anti-AfD, pro-poor campaign",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260920/the-left-partys-elif-eralp-wins-berlin-vote-on-anti-afd-pro-poor-campaign",
+      "published_date": "2026-09-20T17:23:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 82, dies after brawl with 76-year-old over sunlounger on Greek beach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/greek-police-investigate-death-man-beach-brawl",
+      "published_date": "2026-09-20T17:07:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wahl in Mecklenburg-Vorpommern: 40,7 Prozent der Wahlberechtigten haben bereits abgestimmt",
@@ -561,104 +659,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/40/fluechtlingsbehoerde-berlin-waescherei-schulden-afd-bilal-ersoy",
       "published_date": "2026-09-20T13:03:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Filmfest Hamburg 2026: Welt kaputt? Ab ins Kino!",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/hamburg/2026-09/filmfest-hamburg-2026-filmtipps-kino-hoffnung",
-      "published_date": "2026-09-20T12:25:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T08:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germans arrested for Paris Louvre stunt in Mona Lisa hall",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260920/germans-arrested-for-paris-louvre-stunt-in-mona-lisa-hall",
-      "published_date": "2026-09-20T08:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-20T07:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T07:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-20T06:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T06:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Future of German chancellor hangs in the balance as two states go to polls",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right",
-      "published_date": "2026-09-20T02:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger lebensgefährlich verletzt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt",
-      "published_date": "2026-09-19T23:59:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niederlande: Rechtsextreme Proteste in Den Haag schlagen in Gewalt um",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten",
-      "published_date": "2026-09-19T23:41:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch police disperse violent far-right protest in The Hague",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T22:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch riot police break up violent far-right protest in The Hague",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld",
-      "published_date": "2026-09-19T19:43:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 4. Spieltag – Samstag: BVB übernimmt in Stuttgart die Tabellenführung, HSV siegt gegen Köln",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
-      "published_date": "2026-09-19T18:41:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German-Russian relations at freezing point",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-19T16:34:00+00:00",
       "category": "Local Events"
     }
   ]
