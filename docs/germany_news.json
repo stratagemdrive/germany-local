@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-21T16:44:02.108274+00:00",
+  "last_updated": "2026-09-22T01:21:55.744608+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Handelsbeziehungen: EU-Handelskammer sieht Umdenken im Handel mit China erreicht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/22/eu-handelskammer-sieht-umdenken-im-handel-mit-china-erreicht",
+      "published_date": "2026-09-22T00:30:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainekrieg: EU erzielt vorerst keine Einigung zu Sanktionen gegen Russland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/eu-sanktionen-alischer-usmanow-michail-fridman-oligarchen",
+      "published_date": "2026-09-21T23:16:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-China rivalry is reshaping global trade — and Europe is caught in the middle.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-21T18:40:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mark Carney is making an eloquent case for an alliance sidelining the US | Ted Widmer",
       "source": "The Guardian",
@@ -67,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany elections: Merz stays on but faces tough road ahead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-elections-merz-stays-on-but-faces-tough-road-ahead/live-79322092?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-20T06:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Germany: Is it possible to replace the chancellor?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-rdf",
@@ -113,34 +141,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-19T01:27:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Künstliche Intelligenz: UN-Generalsekretär fordert KI-Gespräch zwischen USA, China und EU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/internet/2026-09/ki-sicherheit-antonio-guterres-usa-china-europa-un",
-      "published_date": "2026-09-19T00:30:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
-      "published_date": "2026-09-19T00:10:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Grönland: USA und Dänemark einigen sich in Streit um Grönland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/groenland-usa-daenemark-donald-trump-kontrolle",
-      "published_date": "2026-09-18T23:04:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deal with Denmark gives US 'permanent control' over Greenland security, Trump says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T21:53:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -515,6 +515,41 @@
       "category": "Economy"
     },
     {
+      "title": "Vergesellschaftung von Wohnungen: CSU will Immobilien-Enteignungen schnell verbieten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-verbot-csu",
+      "published_date": "2026-09-22T00:55:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hendrik Wüst: Hendrik Wüst weist Personaldebatte in der CDU erneut zurück",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-personaldebatte-wahlniederlagen-bundesregierung",
+      "published_date": "2026-09-21T23:04:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nach Sieg der Linken in Berlin: CSU fordert schnelles Verbot von Immobilien-Enteignungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/22/csu-fordert-schnelles-verbot-von-immobilien-enteignungen",
+      "published_date": "2026-09-21T23:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Friedrich Merz: Germany’s chancellor must change course to halt the rise of the AfD | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/the-guardian-view-on-friedrich-merz-germanys-chancellor-must-change-course-to-halt-the-rise-of-the-afd",
+      "published_date": "2026-09-21T17:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rise of the far right in Germany: how worried should we be? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/sep/21/rise-of-the-far-right-in-germany-how-worried-should-we-be-the-latest",
+      "published_date": "2026-09-21T16:47:59+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Rise of the far right in Germany: how worried should we be? – The Latest",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/audio/2026/sep/21/rise-of-far-right-afd-germany-how-worried-should-we-be-the-latest",
@@ -599,6 +634,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-21T09:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "What happens next after AfD win in Mecklenburg-Western Pomerania?",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260921/what-happens-next-after-afd-wins-in-mecklenburg-western-pomerania",
@@ -610,48 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pakistan-says-strikes-in-afghanistan-killed-28-terrorists/a-79350604?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-21T08:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's car crisis: Can the 35-hour workweek survive?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-21T08:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's car crisis: Can the 35-hour workweek survive?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T08:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: India's medal tally at Asian games rises to six",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-india-s-medal-tally-at-asian-games-rises-to-six/live-79349941?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T07:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan: Typhoon Dujuan sparks flood, landslide warnings",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-typhoon-dujuan-sparks-flood-landslide-warnings/a-79349957?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T06:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Man wounded in Texas after being shot by ICE agent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T03:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landtagswahlen: CDU im Nordosten raus aus Landtag – Linke gewinnt in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin",
-      "published_date": "2026-09-21T00:32:27+00:00",
       "category": "Local Events"
     }
   ]
