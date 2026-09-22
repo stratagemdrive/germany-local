@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-22T01:21:55.744608+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-22T15:20:14.521598+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "CDU-Krise: Frei sichert Merz Rückhalt der Unionsfraktion zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko",
+      "published_date": "2026-09-22T15:02:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bundeskanzler Friedrich Merz: Mehrheit spricht sich laut Umfrage für Merz-Rücktritt aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/forsa-umfrage-friedrich-merz-ruecktritt-cdu-rtl",
+      "published_date": "2026-09-22T14:50:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T14:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham does not rule out Brexit reversal being in next Labour manifesto",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/22/andy-burnham-fails-rule-out-brexit-reversal-next-labour-manifesto",
+      "published_date": "2026-09-22T08:00:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Chancellor Merz braces for difficult days ahead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-22T07:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Chancellor Merz braces for difficult days ahead",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T07:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Police investigate alleged gang-rape in Delhi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-police-investigate-alleged-gang-rape-in-delhi/live-79365177?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T06:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T04:58:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Handelsbeziehungen: EU-Handelskammer sieht Umdenken im Handel mit China erreicht",
       "source": "ZEIT Online",
@@ -21,6 +77,13 @@
       "title": "US-China rivalry is reshaping global trade — and Europe is caught in the middle.",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-21T18:40:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As Trump-Xi summit nears, Europe is caught in middle of US-China rivalry",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-trump-xi-summit-nears-europe-is-caught-in-middle-of-us-china-rivalry/a-79356540?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-21T18:40:00+00:00",
       "category": "Diplomacy"
     },
@@ -81,67 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: Voting underway in two key state elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T06:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany elections: Merz stays on but faces tough road ahead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-elections-merz-stays-on-but-faces-tough-road-ahead/live-79322092?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-20T06:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Is it possible to replace the chancellor?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T05:06:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Friedrich Merz und die CDU: Jetzt mal was Anderes",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/40/friedrich-merz-cdu-kontrollverlust-frankenstein-kuenstliche-intelligenz",
-      "published_date": "2026-09-19T13:41:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU proposes new rules on recognition of qualifications for non-EU citizens",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260919/eu-proposes-new-rules-for-recognition-of-qualifications-from-non-eu-citizens",
-      "published_date": "2026-09-19T09:05:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OPINION: Do Canadians really want closer ties with Europe?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
-      "published_date": "2026-09-19T08:54:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IN NUMBERS: How many Britons have residency permits across Europe?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
-      "published_date": "2026-09-19T08:49:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burning forests, emptying rivers, €180bn in damage: Europe’s politicians face reckoning after ‘summer of truth’",
+      "title": "Trump delivers message to Putin: ‘Settle the war’ - Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking",
-      "published_date": "2026-09-19T05:00:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
+      "published_date": "2026-09-22T15:11:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump signs broad Russia sanctions bill",
+      "title": "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/22/trump-us-nato-europe-american-people-mark-rutte",
+      "published_date": "2026-09-22T14:30:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "COMPARE: How expensive are fuel prices around Europe right now?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
+      "published_date": "2026-09-22T12:07:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war spreads through region as Trump seeks way out",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T01:27:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T11:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T10:07:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Why gender-based violence persists in Southern Africa",
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
-      "published_date": "2026-09-19T14:43:07+00:00",
-      "category": "Military"
+      "title": "Living in the shadow of LA's hidden oil wells",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T13:34:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river",
-      "published_date": "2026-09-19T06:00:39+00:00",
-      "category": "Military"
+      "title": "After floods, Nepal minister demands 'climate justice'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/after-floods-nepal-minister-demands-climate-justice/a-79372239?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T12:37:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/ukraine-war-briefing-zelenskyy-reaches-out-to-eastern-europe-for-new-trade-and-security-partnership",
-      "published_date": "2026-09-19T01:04:12+00:00",
-      "category": "Military"
+      "title": "Will Germany have enough gas this winter amid energy supply crunch?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-22T08:25:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/19/trump-unterzeichnet-paket-mit-sanktionen-gegen-russland",
-      "published_date": "2026-09-18T23:34:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
-      "published_date": "2026-09-18T22:05:53+00:00",
-      "category": "Military"
+      "title": "Will Germany have enough gas this winter amid energy supply crunch?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T08:25:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nuclear power is back on Southeast Asia's energy agenda",
@@ -361,18 +389,25 @@
       "category": "Energy"
     },
     {
-      "title": "Europe launches two climate observation satellites",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-launches-two-climate-observation-satellites/a-79268705?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-15T07:28:00+00:00",
-      "category": "Energy"
+      "title": "European drugmakers say they are ‘losing ground’ to US and Chinese rivals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/22/european-drugmakers-losing-ground-us-chinese-rivals",
+      "published_date": "2026-09-22T15:04:10+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe launches two climate observation satellites",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/europe-launches-two-climate-observation-satellites/a-79268705?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-15T07:28:00+00:00",
-      "category": "Energy"
+      "title": "EU spends three times more on imports from China than bloc exports there",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+      "published_date": "2026-09-22T11:54:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/22/babystar-review-a-new-arrival-upends-camera-ready-life-in-disturbing-family-influencer-satire",
+      "published_date": "2026-09-22T06:00:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mercedes-Benz: Mercedes kündigt mögliche Schließung von zwei Werken in Deutschland an",
@@ -494,25 +529,123 @@
       "category": "Economy"
     },
     {
-      "title": "1,5 Millionen Euro Förderung: Pflanzen-Immunabwehr - 1,5 Millionen für Forscherin in Halle",
+      "title": "One hurt as plane crashes at US base in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260922/one-hurt-as-plane-crashes-at-us-base-in-germany",
+      "published_date": "2026-09-22T15:10:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtag: Julian Barlen bleibt SPD-Fraktionsvorsitzender",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/17/pflanzen-immunabwehr-1-5-millionen-fuer-forscherin-in-halle",
-      "published_date": "2026-09-17T15:10:33+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-09/22/julian-barlen-bleibt-spd-fraktionsvorsitzender",
+      "published_date": "2026-09-22T15:03:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany cuts development aid despite growing crises",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cuts-development-aid-despite-growing-crises/a-79257532?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T14:36:00+00:00",
-      "category": "Economy"
+      "title": "Amateur archaeologist finds 934 Roman silver denarii in German field",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/22/roman-coins-germany-amateur-archaeologist-silver-denarii",
+      "published_date": "2026-09-22T14:54:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "As global crises grow, Germany cuts development aid",
+      "title": "Staatliche Enteignungen: Stimmt es, dass in Berlin Wohnungen vergesellschaftet werden könnten?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/staatliche-enteignungen-wahlkampf-berlin-die-linke",
+      "published_date": "2026-09-22T14:42:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: Söder will Hauptstadtvertrag nach Sieg der Linken neu diskutieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-berlin-hauptstadtvertrag-laenderfinanzausgleich-die-linke-gxe",
+      "published_date": "2026-09-22T14:31:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spangdahlem: Military aircraft crashes near US air base",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-global-crises-grow-germany-cuts-development-aid/a-79257532?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-17T14:36:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/spangdahlem-military-aircraft-crashes-near-us-air-base/a-79376025?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-22T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spangdahlem: Military aircraft crashes near US air base",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spangdahlem-military-aircraft-crashes-near-us-air-base/a-79376025?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spangdahlem: Military aircraft crashes near US air base",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spangdahlem-military-aircraft-crashes-near-us-air-base/a-79376025?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-22T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-22T14:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T14:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Die Linke's election win mean for foreigners in Berlin?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260922/what-does-die-linkes-election-win-mean-for-foreigners-in-berlin",
+      "published_date": "2026-09-22T11:16:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey: Several pupils injured in shooting outside school",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T11:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The choice was prison or exile’: journalists who fled Russia publish grim portrait of Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/22/vladimir-putin-biography-russia-journalists-exile",
+      "published_date": "2026-09-22T10:58:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: VW to step up cost-cutting program",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-22T07:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: VW to step up cost-cutting program",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T07:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260922/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-141",
+      "published_date": "2026-09-22T06:31:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Addiction is not only caused by weak will’: how a talking pigeon got Czechia to face up to its alcohol problem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/22/czech-documentary-homelessness-pepa-lubojacki-if-pigeons-turned-to-gold",
+      "published_date": "2026-09-22T06:00:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vergesellschaftung von Wohnungen: CSU will Immobilien-Enteignungen schnell verbieten",
@@ -533,125 +666,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/22/csu-fordert-schnelles-verbot-von-immobilien-enteignungen",
       "published_date": "2026-09-21T23:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Friedrich Merz: Germany’s chancellor must change course to halt the rise of the AfD | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/the-guardian-view-on-friedrich-merz-germanys-chancellor-must-change-course-to-halt-the-rise-of-the-afd",
-      "published_date": "2026-09-21T17:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise of the far right in Germany: how worried should we be? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/sep/21/rise-of-the-far-right-in-germany-how-worried-should-we-be-the-latest",
-      "published_date": "2026-09-21T16:47:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise of the far right in Germany: how worried should we be? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/21/rise-of-far-right-afd-germany-how-worried-should-we-be-the-latest",
-      "published_date": "2026-09-21T16:41:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: Linke will Berlin regieren und pocht auf Vergesellschaftung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/21/linke-will-berlin-regieren-und-pocht-auf-vergesellschaftung",
-      "published_date": "2026-09-21T16:36:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahlen: Union und SPD wollen weiter regieren und sehen Handlungsbedarf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
-      "published_date": "2026-09-21T16:26:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahl in Berlin: Grüne fordern klare Distanzierung der Linken von Wahlparty-Gästen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak-gxe",
-      "published_date": "2026-09-21T16:15:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stefan Evers: Wer regieren will, muss warten können",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/stefan-evers-cdu-berlin-abgeordnetenhauswahl-ergebnisse",
-      "published_date": "2026-09-21T16:04:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chancellor vows to stay on for Germany’s ‘democratic future’ after latest loss to far-right AfD",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
-      "published_date": "2026-09-21T15:38:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/europe-under-attack-eu-nato-ursula-von-der-leyen-canada",
-      "published_date": "2026-09-21T15:37:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The AfD thrives in the absence of mainstream parties that speak to people’s daily lives | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/21/the-afd-thrives-in-the-absence-of-mainstream-parties-that-speak-to-peoples-daily-lives",
-      "published_date": "2026-09-21T14:59:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EXPLAINED: What coalitions are possible in Berlin after the leftwing surge?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260921/explained-what-coalitions-are-possible-in-berlin-after-the-leftwing-surge",
-      "published_date": "2026-09-21T14:06:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How it felt to be a first-time voter in the Berlin elections",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260921/how-it-felt-to-be-a-first-time-voter-in-the-berlin-elections",
-      "published_date": "2026-09-21T12:37:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia: Putin party retains majority in controlled parliamentary vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T10:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T09:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-21T09:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What happens next after AfD win in Mecklenburg-Western Pomerania?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260921/what-happens-next-after-afd-wins-in-mecklenburg-western-pomerania",
-      "published_date": "2026-09-21T08:53:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says strikes in Afghanistan killed '28 terrorists'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-says-strikes-in-afghanistan-killed-28-terrorists/a-79350604?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T08:44:00+00:00",
       "category": "Local Events"
     }
   ]
