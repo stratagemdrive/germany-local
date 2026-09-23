@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-22T15:20:14.521598+00:00",
+  "last_updated": "2026-09-23T01:05:02.803099+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-drops-sanctions-for-russian-oligarchs-usmanov-and-fridman/a-79381048?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T19:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms",
+      "published_date": "2026-09-22T18:07:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "CDU-Krise: Frei sichert Merz Rückhalt der Unionsfraktion zu",
       "source": "ZEIT Online",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Disaster': Far-right and far-left gains in German state votes leaves Merz shaken",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260920/disaster-far-right-and-far-left-gains-in-german-state-votes-leaves-merz-shaken",
-      "published_date": "2026-09-20T17:27:20+00:00",
-      "category": "Diplomacy"
+      "title": "Ukrainekrieg: Selenskyj spricht mit Donald Trump über Deeskalation mit Russland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-donald-trump-waffenruhe-energieanlagen-ukraine",
+      "published_date": "2026-09-22T23:16:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germans vote in elections threatening fresh blow to Merz",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260920/germans-vote-in-elections-threatening-fresh-blow-to-merz",
-      "published_date": "2026-09-20T07:57:48+00:00",
-      "category": "Diplomacy"
+      "title": "US fighter jet crashes at air base in western Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
+      "published_date": "2026-09-22T16:49:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump delivers message to Putin: ‘Settle the war’ - Europe live",
@@ -176,6 +190,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-22T10:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T08:55:00+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-19T15:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine steps up measures to protect railways",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-19T15:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
-      "published_date": "2026-09-19T14:52:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T14:46:00+00:00",
       "category": "Military"
     },
     {
@@ -529,6 +529,62 @@
       "category": "Economy"
     },
     {
+      "title": "Reformpläne der Bundesregierung: Kanzleramtschefin Nina Warken lehnt Änderungen an Reformen ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/nina-warken-cdu-reformen-koalition-rente-arbeitsmarkt",
+      "published_date": "2026-09-22T23:42:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung: Sachsen-Anhalts BSW-Landeschef: AfD weiß nicht, was sie will",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/23/sachsen-anhalts-bsw-landeschef-afd-weiss-nicht-was-sie-will",
+      "published_date": "2026-09-22T23:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: SPD-Bundesspitze fordert von Linke klare Abkehr von Antisemitismus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/koalition-berlin-spd-linke-antisemitismus-vorwuerfe-juden",
+      "published_date": "2026-09-22T22:45:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luftverkehr: Rauch in Eurowings-Flieger: Sicherheitslandung in Düsseldorf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/22/rauch-in-eurowings-flieger-sicherheitslandung-in-duesseldorf",
+      "published_date": "2026-09-22T21:50:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abgeordnetenhaus-Wahl: Prien warnt SPD und Grüne vor Regierung mit Linken in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/22/prien-warnt-spd-und-gruene-vor-regierung-mit-linken-in-berlin",
+      "published_date": "2026-09-22T21:46:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CDU: In Scherben liegen lauter Lebenslügen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/cdu-friedrich-merz-landtagswahl-mecklenburg-vorpommern-fraktionssitzung",
+      "published_date": "2026-09-22T18:58:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russians have a pragmatic approach to politics | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/22/russians-have-a-pragmatic-approach-to-politics",
+      "published_date": "2026-09-22T16:58:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Briton pleads guilty to ‘recklessly’ causing death of his son in Cyprus",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/22/briton-father-cypriot-court-tragic-death-two-year-old-son",
+      "published_date": "2026-09-22T15:34:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "One hurt as plane crashes at US base in Germany",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260922/one-hurt-as-plane-crashes-at-us-base-in-germany",
@@ -585,87 +641,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-22T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-22T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-22T14:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-22T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does Die Linke's election win mean for foreigners in Berlin?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260922/what-does-die-linkes-election-win-mean-for-foreigners-in-berlin",
-      "published_date": "2026-09-22T11:16:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey: Several pupils injured in shooting outside school",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T11:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The choice was prison or exile’: journalists who fled Russia publish grim portrait of Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/22/vladimir-putin-biography-russia-journalists-exile",
-      "published_date": "2026-09-22T10:58:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: VW to step up cost-cutting program",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-22T07:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: VW to step up cost-cutting program",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T07:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260922/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-141",
-      "published_date": "2026-09-22T06:31:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Addiction is not only caused by weak will’: how a talking pigeon got Czechia to face up to its alcohol problem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/22/czech-documentary-homelessness-pepa-lubojacki-if-pigeons-turned-to-gold",
-      "published_date": "2026-09-22T06:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vergesellschaftung von Wohnungen: CSU will Immobilien-Enteignungen schnell verbieten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-verbot-csu",
-      "published_date": "2026-09-22T00:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hendrik Wüst: Hendrik Wüst weist Personaldebatte in der CDU erneut zurück",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-personaldebatte-wahlniederlagen-bundesregierung",
-      "published_date": "2026-09-21T23:04:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach Sieg der Linken in Berlin: CSU fordert schnelles Verbot von Immobilien-Enteignungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/22/csu-fordert-schnelles-verbot-von-immobilien-enteignungen",
-      "published_date": "2026-09-21T23:00:05+00:00",
       "category": "Local Events"
     }
   ]
