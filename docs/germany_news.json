@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-23T15:14:59.118309+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-24T00:58:35.064451+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: Ukraine meldet einen Toten nach Angriffen auf Kyjiw",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-09-23T23:59:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
+      "published_date": "2026-09-23T23:01:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rückendeckung für den Kanzler: Weber: CSU steht «sonnenklar» hinter Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/24/weber-csu-steht-sonnenklar-hinter-merz",
+      "published_date": "2026-09-23T22:25:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G20-Gipfel in Miami: Marco Rubio hofft auf Putins Teilnahme am G20-Gipfel in Miami",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin",
+      "published_date": "2026-09-23T22:20:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyy at UN urges world leaders to end trade with Russia – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/23/zelenskyy-un-general-assembly-russia",
+      "published_date": "2026-09-23T21:18:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A new leaf: inside the 25 September Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/sep/23/a-new-leaf-inside-the-25-september-guardian-weekly",
+      "published_date": "2026-09-23T17:00:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is skipping the UN General Assembly — and why",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T15:54:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US delegation walks out as Iran’s Pezeshkian angrily responds to Trump at UN General Assembly - live",
       "source": "The Guardian",
@@ -95,53 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T14:04:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andy Burnham does not rule out Brexit reversal being in next Labour manifesto",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/22/andy-burnham-fails-rule-out-brexit-reversal-next-labour-manifesto",
-      "published_date": "2026-09-22T08:00:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Chancellor Merz braces for difficult days ahead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-22T07:28:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: Chancellor Merz braces for difficult days ahead",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T07:28:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India news: Police investigate alleged gang-rape in Delhi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-police-investigate-alleged-gang-rape-in-delhi/live-79365177?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T06:54:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T04:58:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Handelsbeziehungen: EU-Handelskammer sieht Umdenken im Handel mit China erreicht",
+      "title": "Krieg gegen die Ukraine: Russland beschießt Kiew mit ballistischen Raketen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/22/eu-handelskammer-sieht-umdenken-im-handel-mit-china-erreicht",
-      "published_date": "2026-09-22T00:30:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-09/24/russland-beschiesst-kiew-mit-ballistischen-raketen",
+      "published_date": "2026-09-24T00:20:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainekrieg: Wadephul wirft Russland »hybride Angriffe« auf Europa vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-aussenminister-russland-hybride-angriffe-europa",
+      "published_date": "2026-09-23T23:41:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
+      "published_date": "2026-09-23T19:24:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T17:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin's War of Aggression: A Journey Along the Dnipro in Wartime Ukraine",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc#ref=rss",
+      "published_date": "2026-09-23T15:28:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainekrieg: Selenskyj spricht mit Donald Trump über Deeskalation mit Russland",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T08:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections",
+      "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/20/ukraine-war-briefing-kyiv-denounces-russias-inclusion-of-annexed-regions-in-parliamentary-elections",
-      "published_date": "2026-09-20T03:11:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/19/mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet",
-      "published_date": "2026-09-19T21:10:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flohmärkte in Hamburg: »Ach komm, Mädel. Gib mir den Zehner«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/37/flohmaerkte-hamburg-feilschen-tipps-roland-resag-flohschanze",
-      "published_date": "2026-09-19T20:39:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine steps up measures to protect railways",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T15:37:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
+      "published_date": "2026-09-23T16:37:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "UN General Assembly: Leaders discuss AI, global conflicts",
@@ -294,6 +301,13 @@
       "title": "Germany news: Call to scrap once-a-day gas price rises",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T07:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany news: Call to scrap once-a-day gas price rises",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-23T07:25:00+00:00",
       "category": "Energy"
     },
@@ -396,11 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "How climate change worsened Nepal's deadly mountain collapse",
+      "title": "Live updates: Trump welcomes Xi to Washington",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-16T23:03:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T22:49:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Germany’s largest union seeks 5 percent pay rises despite industry woes",
@@ -508,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Women's football in Germany booming, but still much to do",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-19T04:42:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Wohnungsmarkt: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/19/jedes-zweite-wg-zimmer-in-berlin-kostet-mehr-als-650-euro",
@@ -529,18 +550,32 @@
       "category": "Economy"
     },
     {
-      "title": "Ever more Israelis moving to and investing in Cyprus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-18T15:08:00+00:00",
-      "category": "Economy"
+      "title": "Amira Mohamed Ali: BSW-Vorsitzende dementiert Abmachung mit AfD über Landtagspräsidium",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/amira-mohamed-ali-bsw-afd-sachsen-anhalt-landtag",
+      "published_date": "2026-09-23T23:19:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Online Scams: The Shady World of Fraudulent Investment Sites",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/online-scams-the-shady-world-of-fraudulent-investment-sites-a-36d59b48-23ea-4ae5-9532-7a6d3fb086d3#ref=rss",
-      "published_date": "2026-09-18T13:57:00+00:00",
-      "category": "Economy"
+      "title": "Berlin Airport briefly suspends flights over drone sighting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-23T19:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin Airport briefly suspends flights over drone sighting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T19:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eviction of 87-year-old woman sparks housing protests in Madrid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eviction-of-87-year-old-woman-sparks-housing-protests-in-madrid/a-79399342?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T16:58:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wie weiter nach der Wahl?: SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein",
@@ -567,6 +602,13 @@
       "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-23T14:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-23T14:49:00+00:00",
       "category": "Local Events"
     },
@@ -645,41 +687,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-23T08:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260923/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-139",
-      "published_date": "2026-09-23T06:31:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How opencast mining risks reawakening dormant geological faults",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/sep/23/how-opencast-mining-risks-reawakening-dormant-geological-faults",
-      "published_date": "2026-09-23T05:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reformpläne der Bundesregierung: Kanzleramtschefin Nina Warken lehnt Änderungen an Reformen ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/nina-warken-cdu-reformen-koalition-rente-arbeitsmarkt",
-      "published_date": "2026-09-22T23:42:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung: Sachsen-Anhalts BSW-Landeschef: AfD weiß nicht, was sie will",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/23/sachsen-anhalts-bsw-landeschef-afd-weiss-nicht-was-sie-will",
-      "published_date": "2026-09-22T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: SPD-Bundesspitze fordert von Linke klare Abkehr von Antisemitismus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/koalition-berlin-spd-linke-antisemitismus-vorwuerfe-juden",
-      "published_date": "2026-09-22T22:45:02+00:00",
       "category": "Local Events"
     }
   ]
