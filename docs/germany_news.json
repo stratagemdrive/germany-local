@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-24T15:39:54.821356+00:00",
-  "story_count": 100,
+  "last_updated": "2026-09-25T01:02:15.902212+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
+      "published_date": "2026-09-24T17:42:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Neustart : Was das Social-Media-Verbot der EU wirklich bringt",
       "source": "ZEIT Online",
@@ -39,6 +46,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Trump hosts Xi for state dinner with tech bosses",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-hosts-xi-for-state-dinner-with-tech-bosses/live-79404511?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T13:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
@@ -50,6 +64,13 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260924/think-tanks-urge-german-chancellor-to-stick-with-reforms-after-election-defeats",
       "published_date": "2026-09-24T13:26:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU finally clinching trade deals with Southeast Asian states",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-finally-clinching-trade-deals-with-southeast-asian-states/a-79388278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T11:40:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
+      "title": "Ukraine war briefing: Finland urges Elon Musk to expand Kyiv’s Starlink coverage over Russia",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc",
-      "published_date": "2026-09-23T14:30:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/25/ukraine-war-briefing-finland-elon-musk-starlink-coverage-russia",
+      "published_date": "2026-09-25T00:20:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK to join EU ocean science scheme to better predict extreme weather events",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
-      "published_date": "2026-09-23T14:24:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+      "title": "Ethiopia's military says it killed hundreds of TPLF rebels",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T13:32:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T18:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
+      "published_date": "2026-09-24T17:45:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia could attack a Nato country within months, Danish intelligence says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
+      "published_date": "2026-09-24T16:05:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Greenland leaders receive heroes' welcome after signing security pact with US and Denmark – video",
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-22T10:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T08:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why gender-based violence persists in Southern Africa",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T13:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma",
-      "published_date": "2026-09-21T13:40:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India's road rage: When cars become weapons",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T12:47:00+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,32 @@
       "category": "Energy"
     },
     {
-      "title": "Energiepreise: Gewerkschaftsbund fordert Entlastungen bei Gas, Strom und Sprit",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-09/energiepreise-dgb-yasmin-fahimi-entlastungen-steuern",
-      "published_date": "2026-09-18T00:12:39+00:00",
-      "category": "Energy"
+      "title": "UK food and drink trade deficit largest since 2000 at £21bn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
+      "published_date": "2026-09-24T23:01:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "After several difficult years, economists now expect German economy to grow",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-24T17:04:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "After several difficult years, economists now expect German economy to grow",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T17:04:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nigeria, US agree to boost mining investment on sidelines of UN General Assembly",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-us-agree-to-boost-mining-investment-on-sidelines-of-un-general-assembly/a-79417444?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T15:46:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
@@ -536,32 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "‘I have nothing in the UK at all’: British man torn from his Swedish wife and home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home",
-      "published_date": "2026-09-20T12:02:43+00:00",
-      "category": "Economy"
+      "title": "Abschiebungen: Trump zieht wegen Abschiebung in Drittstaaten vor Supreme Court",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/drittstaaten-abschiebung-usa-donald-trump-supreme-court-migranten",
+      "published_date": "2026-09-24T23:22:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump announces new 'AI force' amid mounting pressure",
+      "title": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T17:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-24T22:16:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Crisis-wracked Volkswagen warns of €10 billion hit to profits",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260919/crisis-wracked-volkswagen-warns-of-e10-billion-hit-to-profits",
-      "published_date": "2026-09-19T11:54:53+00:00",
-      "category": "Economy"
+      "title": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T22:16:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German government agrees fuel tax cut",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260919/german-government-agrees-fuel-tax-cut",
-      "published_date": "2026-09-19T08:30:45+00:00",
-      "category": "Economy"
+      "title": "Migration: Sachsens Innenminister fordert Verschärfung des Asylrechts",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/25/sachsens-innenminister-fordert-verschaerfung-des-asylrechts",
+      "published_date": "2026-09-24T22:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stolpersteine in Heidenau: AfD und CDU stimmen in Heidenau gegen Verlegung von Stolpersteinen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/stolpersteine-heidenau-cdu-afd-buendnis-oberelbe",
+      "published_date": "2026-09-24T19:39:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T18:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
+      "published_date": "2026-09-24T16:31:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nach der Wahl: Berliner SPD will mit Linke und CDU sondieren",
@@ -581,6 +623,13 @@
       "title": "Germany news: Berlin officially withdraws Olympics bid",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-24T12:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin officially withdraws Olympics bid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-24T12:42:00+00:00",
       "category": "Local Events"
     },
@@ -645,62 +694,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-23T19:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin Airport briefly suspends flights over drone sighting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T19:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eviction of 87-year-old woman sparks housing protests in Madrid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eviction-of-87-year-old-woman-sparks-housing-protests-in-madrid/a-79399342?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T16:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wie weiter nach der Wahl?: SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/23/spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein",
-      "published_date": "2026-09-23T15:11:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suche: Vier Minderjährige aus Osnabrück in Berlin vermisst",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/23/vier-minderjaehrige-aus-osnabrueck-in-berlin-vermisst",
-      "published_date": "2026-09-23T15:01:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach der Wahl: Antisemitismus-Debatte belastet Regierungsbildung in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/23/spd-setzt-linken-stoppsignal-antisemitismus-nicht-mit-uns",
-      "published_date": "2026-09-23T14:58:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-23T14:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T13:39:00+00:00",
       "category": "Local Events"
     }
   ]
