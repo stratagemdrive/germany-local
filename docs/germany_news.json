@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-25T01:02:15.902212+00:00",
-  "story_count": 99,
+  "last_updated": "2026-09-25T15:41:56.061048+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Aktuelle Stunde im Bundestag: KI-Debatte im Bundestag: Mehr Kontrolle und Souveränität",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/25/ki-debatte-im-bundestag-mehr-kontrolle-und-souveraenitaet",
+      "published_date": "2026-09-25T15:27:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "published_date": "2026-09-25T15:09:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Eritrea matters as fighting returns to Tigray",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T13:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T11:35:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
       "source": "The Guardian",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Zelenskyy at UN urges world leaders to end trade with Russia – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/23/zelenskyy-un-general-assembly-russia",
-      "published_date": "2026-09-23T21:18:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A new leaf: inside the 25 September Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/sep/23/a-new-leaf-inside-the-25-september-guardian-weekly",
-      "published_date": "2026-09-23T17:00:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who is skipping the UN General Assembly — and why",
+      "title": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T15:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T15:26:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US delegation walks out as Iran’s Pezeshkian angrily responds to Trump at UN General Assembly - live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-      "published_date": "2026-09-23T15:04:31+00:00",
-      "category": "Diplomacy"
+      "title": "Germany news: Parliament approves fuel tax cut",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-25T15:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Parliament approves fuel tax cut",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T15:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T14:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-25T14:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T11:37:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia: Internet disrupted in Tigray amid conflict escalation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T07:44:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Finland urges Elon Musk to expand Kyiv’s Starlink coverage over Russia",
@@ -235,53 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Ukrainekrieg: Selenskyj spricht mit Donald Trump über Deeskalation mit Russland",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-donald-trump-waffenruhe-energieanlagen-ukraine",
-      "published_date": "2026-09-22T23:16:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US fighter jet crashes at air base in western Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
-      "published_date": "2026-09-22T16:49:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump delivers message to Putin: ‘Settle the war’ - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-      "published_date": "2026-09-22T15:11:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/22/trump-us-nato-europe-american-people-mark-rutte",
-      "published_date": "2026-09-22T14:30:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "COMPARE: How expensive are fuel prices around Europe right now?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
-      "published_date": "2026-09-22T12:07:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war spreads through region as Trump seeks way out",
+      "title": "Bulgaria's battery boom: From zero to global leader",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T11:29:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/bulgaria-s-battery-boom-from-zero-to-global-leader/a-79428289?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T11:38:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
+      "title": "Bulgaria's battery boom: From zero to global leader",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T10:07:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/bulgaria-s-battery-boom-from-zero-to-global-leader/a-79428289?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-25T11:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why farmers are pairing crops with solar panels",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-farmers-are-pairing-crops-with-solar-panels/a-79233970?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T09:31:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nepal's leader says his country is paying the price of climate change",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nepal-s-leader-says-his-country-is-paying-the-price-of-climate-change/a-79421807?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T04:51:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany sets out plan to phase out fossil fuels by 2045",
@@ -396,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
-      "published_date": "2026-09-18T14:42:08+00:00",
-      "category": "Energy"
+      "title": "Automobilindustrie: Welche Fahrzeuge vom VW-Rückruf betroffen sind",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/vw-rueckruf-autos-lenkung-schraube-audi-volkswagen-gxe",
+      "published_date": "2026-09-25T15:10:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany faces energy tax losses as EV sales rise",
+      "title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-18T10:55:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/volkswagen-audi-to-recall-almost-1-million-cars-in-germany/a-79426960?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-25T09:40:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany faces energy tax losses as EV sales rise",
+      "title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-18T10:55:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/volkswagen-audi-to-recall-almost-1-million-cars-in-germany/a-79426960?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T09:40:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK food and drink trade deficit largest since 2000 at £21bn",
@@ -536,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
-      "published_date": "2026-09-21T15:02:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US proposes AI safety mechanism in talks with China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T08:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Canada, France agree to closer ties in defense, economy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T21:29:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Abschiebungen: Trump zieht wegen Abschiebung in Drittstaaten vor Supreme Court",
+      "title": "Reformen der Bundesregierung: Brauchen wir eine Reformpause?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/drittstaaten-abschiebung-usa-donald-trump-supreme-court-migranten",
-      "published_date": "2026-09-24T23:22:25+00:00",
+      "url": "https://www.zeit.de/2026/41/reform-bundesregierung-abschlagsfreie-rente-gitta-connemann-andreas-bovenschulte",
+      "published_date": "2026-09-25T15:36:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-24T22:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T22:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Sachsens Innenminister fordert Verschärfung des Asylrechts",
+      "title": "Geld aus Berlin: Sanierung startet: Zwölf Schwimmbäder erhalten Bundesmittel",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/25/sachsens-innenminister-fordert-verschaerfung-des-asylrechts",
-      "published_date": "2026-09-24T22:01:04+00:00",
+      "url": "https://www.zeit.de/news/2026-09/25/sanierung-startet-zwoelf-schwimmbaeder-erhalten-bundesmittel",
+      "published_date": "2026-09-25T15:19:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Stolpersteine in Heidenau: AfD und CDU stimmen in Heidenau gegen Verlegung von Stolpersteinen",
+      "title": "Rentenreform: Nun wenden sich auch noch die Länder gegen die Rentenreform",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/stolpersteine-heidenau-cdu-afd-buendnis-oberelbe",
-      "published_date": "2026-09-24T19:39:30+00:00",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/rentenreform-kommission-laender-beschlussvorschlag-amtschefkonferenz",
+      "published_date": "2026-09-25T15:18:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T18:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
-      "published_date": "2026-09-24T16:31:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach der Wahl: Berliner SPD will mit Linke und CDU sondieren",
+      "title": "Rentenreform: CDU-Abgeordneter droht mit Ablehnung der Rentenreform",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/24/berliner-spd-fraktion-soll-eine-doppelspitze-bekommen",
-      "published_date": "2026-09-24T15:22:56+00:00",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/rentenreform-pascal-reddig-cdu-rente-mit-63-gxe",
+      "published_date": "2026-09-25T15:04:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Germany investigates 105-year-old suspected former Nazi prison camp guard",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/man-105-investigated-nazi-pow-camp-murders",
-      "published_date": "2026-09-24T14:55:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin officially withdraws Olympics bid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T12:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin officially withdraws Olympics bid",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-24T12:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Racist abuse of French judo star Teddy Riner investigated after he spoke about rise of far right",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/racist-abuse-france-teddy-riner-far-right",
-      "published_date": "2026-09-24T12:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Cockroach party demands Election Commissioner Gyanesh Kumar's resignation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroach-party-demands-election-commissioner-gyanesh-kumar-s-resignation/live-79405879?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T11:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland says Starlink station fire 'act of sabotage'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T10:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clan leader in Paris sentenced to eight years over child pickpocketing gangs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/clan-leader-in-paris-sentenced-to-eight-years-for-human-trafficking",
-      "published_date": "2026-09-24T09:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco: Center-right PAM leads in parliamentary election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T08:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The west is in freefall – and the worst part is that we were warned, but chose not to listen | Owen Jones",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-      "published_date": "2026-09-24T07:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elif Eralp: ‘Germany’s Zohran Mamdani’ who vows to be a mayor for all Berliners",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/elif-eralp-germany-zohran-mamdani-mayor-berlin-die-linke",
-      "published_date": "2026-09-24T04:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amira Mohamed Ali: BSW-Vorsitzende dementiert Abmachung mit AfD über Landtagspräsidium",
+      "title": "Sondierungen mit SPD und Grüne: Rot-Grün-Rot in Berlin – wie stehen die Chancen?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/amira-mohamed-ali-bsw-afd-sachsen-anhalt-landtag",
-      "published_date": "2026-09-23T23:19:50+00:00",
+      "url": "https://www.zeit.de/politik/2026-09/sondierungen-spd-gruene-linke-berlin-nachrichtenpodcast",
+      "published_date": "2026-09-25T14:55:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Berlin Airport briefly suspends flights over drone sighting",
+      "title": "AfD, CDU ban new Holocaust 'stumbling stones' in Heidenau",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-23T19:43:00+00:00",
+      "url": "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-25T14:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD, CDU ban new Holocaust 'stumbling stones' in Heidenau",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T14:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-protests-against-election-chief-escalate-as-gandhi-cockroach-party-allege-rigged-vote/live-79422469?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T14:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to prepare for autumn like a German",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260925/how-to-prepare-for-autumn-like-a-german",
+      "published_date": "2026-09-25T13:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jewish group urges Berlin far-left vote winners to tackle antisemitism",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260925/jewish-group-urges-berlin-far-left-vote-winners-to-tackle-antisemitism",
+      "published_date": "2026-09-25T12:56:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "REVEALED: How Americans spend their money differently to Europeans",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260925/revealed-how-americans-spend-their-income-differently-to-europeans",
+      "published_date": "2026-09-25T11:50:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni accused of ‘running scared’ with cap on foreign children in classrooms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools",
+      "published_date": "2026-09-25T11:31:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
+      "published_date": "2026-09-25T11:25:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We don’t have time for more promises’: the Croatian town that took on an illegal waste dump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
+      "published_date": "2026-09-25T11:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
+      "published_date": "2026-09-25T09:53:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy to ban burqa in schools, limit foreign pupils",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T08:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy to ban burqa in schools, limit foreign pupils",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-25T08:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where are public transport fares set to rise in Germany in 2027?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260925/where-are-public-transport-fares-set-to-rise-in-germany-in-2027",
+      "published_date": "2026-09-25T08:02:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260925/today-in-germany-a-roundup-of-the-latest-news-on-friday-141",
+      "published_date": "2026-09-25T06:26:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin’s new political star is offering something all of Europe needs – hope and housing | Fatma Aydemir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/berlin-political-star-europe-hope-housing-germany",
+      "published_date": "2026-09-25T04:00:38+00:00",
       "category": "Local Events"
     }
   ]
