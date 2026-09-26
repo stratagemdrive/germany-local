@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-26T01:04:34.612090+00:00",
+  "last_updated": "2026-09-26T14:49:46.606369+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Nach der Berlin-Wahl: Scholz geht von Entgegenkommen der Linken bei Gesprächen aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/26/scholz-geht-von-entgegenkommen-der-linken-bei-gespraechen-aus",
+      "published_date": "2026-09-26T14:33:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British climber, 28, dies in fall in northern Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain",
+      "published_date": "2026-09-26T02:02:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Aktuelle Stunde im Bundestag: KI-Debatte im Bundestag: Mehr Kontrolle und Souveränität",
       "source": "ZEIT Online",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
-      "published_date": "2026-09-23T23:01:01+00:00",
-      "category": "Diplomacy"
+      "title": "China rejects 'Cold War mindset' at UN General Assembly",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-rejects-cold-war-mindset-at-un-general-assembly/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T14:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rückendeckung für den Kanzler: Weber: CSU steht «sonnenklar» hinter Merz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/24/weber-csu-steht-sonnenklar-hinter-merz",
-      "published_date": "2026-09-23T22:25:12+00:00",
-      "category": "Diplomacy"
+      "title": "Propaganda in Russian schools prepares students to die",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T11:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Propaganda in Russian schools prepares students to die",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-26T11:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India news: New Delhi, Islamabad trade accusations at UN General Assembly",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-new-delhi-islamabad-trade-accusations-at-un-general-assembly/live-79440869?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T07:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In his final UN speech, Macron may have given other leaders a valuable parting gift: the guts to stand up to Trump | Steve Bloomfield",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump",
+      "published_date": "2026-09-26T06:00:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv has become a frontline city - and winter is on the way",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/after-summer-respite-kyiv-winter-dread",
+      "published_date": "2026-09-26T06:00:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia strikes at heart of Ukraine’s digital economy with attacks on ISPs and datacentres",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/russia-strikes-ukraine-digital-economy-attacks-isps-datacentres",
+      "published_date": "2026-09-26T04:00:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian attacks force closure of Ukraine’s largest steelmaker",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/ukraine-war-briefing-russian-attacks-close-largest-steelmaker-arcelormittal",
+      "published_date": "2026-09-26T01:00:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemeni leader calls for general mobilization against Houthis",
@@ -225,62 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-24T18:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
-      "published_date": "2026-09-24T17:45:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia could attack a Nato country within months, Danish intelligence says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
-      "published_date": "2026-09-24T16:05:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Greenland leaders receive heroes' welcome after signing security pact with US and Denmark – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/24/greenland-leaders-receive-heros-welcome-after-signing-security-pact-with-us-and-denmark-video",
-      "published_date": "2026-09-24T14:43:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T12:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-24T12:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany investigates 105-year-old alleged Nazi POW camp guard",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260924/germany-investigates-105-year-old-alleged-nazi-pow-camp-guard",
-      "published_date": "2026-09-24T11:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland beschießt Kiew mit ballistischen Raketen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/24/russland-beschiesst-kiew-mit-ballistischen-raketen",
-      "published_date": "2026-09-24T00:20:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainekrieg: Wadephul wirft Russland »hybride Angriffe« auf Europa vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-aussenminister-russland-hybride-angriffe-europa",
-      "published_date": "2026-09-23T23:41:01+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Volkswagen recalls over 3 million vehicles over steering risk",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260926/volkswagen-recalls-over-3-million-vehicles-over-steering-risk",
+      "published_date": "2026-09-26T12:48:30+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Automobilindustrie: Welche Fahrzeuge vom VW-Rückruf betroffen sind",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/wirtschaft/2026-09/vw-rueckruf-autos-lenkung-schraube-audi-volkswagen-gxe",
@@ -557,11 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Mercedes-Benz: Mercedes kündigt mögliche Schließung von zwei Werken in Deutschland an",
+      "title": "Trockenheit: Rhein-Pegelstand bei Düsseldorf erreicht Rekordtief",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung-gxe",
-      "published_date": "2026-09-21T16:27:55+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-09/26/rhein-pegelstand-bei-duesseldorf-erreicht-rekordtief",
+      "published_date": "2026-09-26T14:39:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan: Suicide attack at police stop kills at least 11",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T14:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jens Spahn: Kritik an Jens Spahns Fehlen in Ausschusssitzung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-cdu-haushaltsausschuss-urlaub-bundestag-gxe",
+      "published_date": "2026-09-26T13:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hydrologie: Liegt der Rhein trocken, wenn die Gletscher erst mal weg sind?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/40/gletscherschmelze-alpen-schmelzwasser-rhein-niedrigwasser-klimawandel",
+      "published_date": "2026-09-26T13:52:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drogenhilfe in Harburg: Schüsse vor der Schule",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/41/drogenhilfe-abrigado-harburg-schule-schusswaffen",
+      "published_date": "2026-09-26T13:49:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany selects Munich for Olympics host bid",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260926/germany-selects-munich-for-olympics-host-bid",
+      "published_date": "2026-09-26T13:14:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breakthroughs for the radical and far-right in Europe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
+      "published_date": "2026-09-26T13:11:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German Olympic Committee names Munich as bid city choice",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-26T12:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German Olympic Committee names Munich as bid city choice",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T12:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly blast rips through Athens building, near Acropolis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/deadly-blast-rips-through-athens-building-near-acropolis/a-79441931?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T09:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: EU ministers meet for migration showdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-26T09:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: EU ministers meet for migration showdown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T09:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: Can a weekend of sport put a spring in the nation's step?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260926/inside-germany-can-a-weekend-of-sport-put-a-spring-in-the-nations-step",
+      "published_date": "2026-09-26T08:22:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thailand: Bangkok flooding triggers disaster declaration",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T06:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+      "published_date": "2026-09-26T05:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Look again – there’s more to Germany’s election trends than far-right success | Cas Mudde",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/europe-election-trends-far-right-success-defeatist-narratives-germany",
+      "published_date": "2026-09-26T04:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TikTok agrees to settle with Alabama state over teen safety",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tiktok-agrees-to-settle-with-alabama-state-over-teen-safety/a-79440240?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T03:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Regierungsbildung in Berlin: Frei warnt Grüne und SPD vor Zusammenarbeit mit Linken",
@@ -582,125 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260925/the-local-is-looking-for-a-part-time-social-media-engagement-coordinator",
       "published_date": "2026-09-25T20:46:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pflegereform: SPD-Generalsekretär stellt sich gegen Leistungskürzung in der Pflege",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung",
-      "published_date": "2026-09-25T20:21:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T20:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA: Supreme Court erlaubt Nutzung von Datenbank zur Wählerprüfung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung",
-      "published_date": "2026-09-25T19:45:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reformen der Bundesregierung: Brauchen wir eine Reformpause?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/41/reform-bundesregierung-abschlagsfreie-rente-gitta-connemann-andreas-bovenschulte",
-      "published_date": "2026-09-25T15:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Geld aus Berlin: Sanierung startet: Zwölf Schwimmbäder erhalten Bundesmittel",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/25/sanierung-startet-zwoelf-schwimmbaeder-erhalten-bundesmittel",
-      "published_date": "2026-09-25T15:19:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rentenreform: Nun wenden sich auch noch die Länder gegen die Rentenreform",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-09/rentenreform-kommission-laender-beschlussvorschlag-amtschefkonferenz",
-      "published_date": "2026-09-25T15:18:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rentenreform: CDU-Abgeordneter droht mit Ablehnung der Rentenreform",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/rentenreform-pascal-reddig-cdu-rente-mit-63-gxe",
-      "published_date": "2026-09-25T15:04:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sondierungen mit SPD und Grüne: Rot-Grün-Rot in Berlin – wie stehen die Chancen?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-09/sondierungen-spd-gruene-linke-berlin-nachrichtenpodcast",
-      "published_date": "2026-09-25T14:55:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD, CDU ban new Holocaust 'stumbling stones' in Heidenau",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-25T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD, CDU ban new Holocaust 'stumbling stones' in Heidenau",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T14:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-protests-against-election-chief-escalate-as-gandhi-cockroach-party-allege-rigged-vote/live-79422469?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T14:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to prepare for autumn like a German",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260925/how-to-prepare-for-autumn-like-a-german",
-      "published_date": "2026-09-25T13:07:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish group urges Berlin far-left vote winners to tackle antisemitism",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260925/jewish-group-urges-berlin-far-left-vote-winners-to-tackle-antisemitism",
-      "published_date": "2026-09-25T12:56:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "REVEALED: How Americans spend their money differently to Europeans",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260925/revealed-how-americans-spend-their-income-differently-to-europeans",
-      "published_date": "2026-09-25T11:50:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni accused of ‘running scared’ with cap on foreign children in classrooms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools",
-      "published_date": "2026-09-25T11:31:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
-      "published_date": "2026-09-25T11:25:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We don’t have time for more promises’: the Croatian town that took on an illegal waste dump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
-      "published_date": "2026-09-25T11:00:48+00:00",
       "category": "Local Events"
     }
   ]
