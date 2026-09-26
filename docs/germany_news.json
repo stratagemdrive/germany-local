@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-25T15:41:56.061048+00:00",
+  "last_updated": "2026-09-26T01:04:34.612090+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -21,6 +21,13 @@
       "title": "Why Eritrea matters as fighting returns to Tigray",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T13:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-25T13:34:00+00:00",
       "category": "Diplomacy"
     },
@@ -137,16 +144,30 @@
       "category": "Diplomacy"
     },
     {
-      "title": "G20-Gipfel in Miami: Marco Rubio hofft auf Putins Teilnahme am G20-Gipfel in Miami",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin",
-      "published_date": "2026-09-23T22:20:33+00:00",
-      "category": "Diplomacy"
+      "title": "Yemeni leader calls for general mobilization against Houthis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/yemeni-leader-calls-for-general-mobilization-against-houthis/a-79439604?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T21:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "published_date": "2026-09-25T16:01:10+00:00",
+      "category": "Military"
     },
     {
       "title": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T15:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan's Sharif rails against India, praises Trump at UNGA",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-s-sharif-rails-against-india-praises-trump-at-unga/live-79366211?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-25T15:26:00+00:00",
       "category": "Military"
     },
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
-      "published_date": "2026-09-23T19:24:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T17:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin's War of Aggression: A Journey Along the Dnipro in Wartime Ukraine",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc#ref=rss",
-      "published_date": "2026-09-23T15:28:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Bulgaria's battery boom: From zero to global leader",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/bulgaria-s-battery-boom-from-zero-to-global-leader/a-79428289?maca=en-rss-en-all-1573-rdf",
@@ -294,6 +294,20 @@
       "title": "Bulgaria's battery boom: From zero to global leader",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/bulgaria-s-battery-boom-from-zero-to-global-leader/a-79428289?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-25T11:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T11:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-25T11:38:00+00:00",
       "category": "Energy"
     },
@@ -403,24 +417,10 @@
       "category": "Energy"
     },
     {
-      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
+      "title": "Germany faces energy tax losses as EV sales rise",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T06:50:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wetter: Wind und teilweise Regen in NRW",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/19/wind-und-teilweise-regen-in-nrw",
-      "published_date": "2026-09-19T13:49:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba faces another nationwide blackout amid US fuel blockade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-19T03:57:00+00:00",
+      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-20T14:02:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Regierungsbildung in Berlin: Frei warnt Grüne und SPD vor Zusammenarbeit mit Linken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/26/frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-linken",
+      "published_date": "2026-09-25T23:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zehn Konzerte: Auf Hoverboards in die 90er - Backstreet Boys in Düsseldorf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/26/auf-hoverboards-in-die-90er-backstreet-boys-in-duesseldorf",
+      "published_date": "2026-09-25T22:31:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Local is looking for a part-time social media engagement coordinator",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260925/the-local-is-looking-for-a-part-time-social-media-engagement-coordinator",
+      "published_date": "2026-09-25T20:46:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pflegereform: SPD-Generalsekretär stellt sich gegen Leistungskürzung in der Pflege",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung",
+      "published_date": "2026-09-25T20:21:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-25T20:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "USA: Supreme Court erlaubt Nutzung von Datenbank zur Wählerprüfung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung",
+      "published_date": "2026-09-25T19:45:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Reformen der Bundesregierung: Brauchen wir eine Reformpause?",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/41/reform-bundesregierung-abschlagsfreie-rente-gitta-connemann-andreas-bovenschulte",
@@ -659,48 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
       "published_date": "2026-09-25T11:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
-      "published_date": "2026-09-25T09:53:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy to ban burqa in schools, limit foreign pupils",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T08:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy to ban burqa in schools, limit foreign pupils",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-25T08:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where are public transport fares set to rise in Germany in 2027?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260925/where-are-public-transport-fares-set-to-rise-in-germany-in-2027",
-      "published_date": "2026-09-25T08:02:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260925/today-in-germany-a-roundup-of-the-latest-news-on-friday-141",
-      "published_date": "2026-09-25T06:26:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin’s new political star is offering something all of Europe needs – hope and housing | Fatma Aydemir",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/berlin-political-star-europe-hope-housing-germany",
-      "published_date": "2026-09-25T04:00:38+00:00",
       "category": "Local Events"
     }
   ]
