@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-26T14:49:46.606369+00:00",
+  "last_updated": "2026-09-27T01:01:38.085201+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "China, US agree to set up channel for AI safety incidents",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T16:26:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nach der Berlin-Wahl: Scholz geht von Entgegenkommen der Linken bei Gesprächen aus",
       "source": "ZEIT Online",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Krieg gegen die Ukraine: Ukraine meldet einen Toten nach Angriffen auf Kyjiw",
+      "title": "UN-Generaldebatte: Außenminister Wadephul spricht sich für UN-Regelwerk zu KI aus",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-23T23:59:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-cdu-vereinte-nationen-kuenstliche-intelligenz",
+      "published_date": "2026-09-26T20:31:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia expected to intensify hybrid war on Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T15:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia expected to intensify hybrid war on Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-26T15:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's FM Wadephul meets Lavrov on UNGA sidelines",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T15:17:00+00:00",
+      "category": "Military"
     },
     {
       "title": "China rejects 'Cold War mindset' at UN General Assembly",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
+      "title": "Backlash over data centers tests Europe's AI ambitions",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T11:37:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T18:08:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ethiopia: Internet disrupted in Tigray amid conflict escalation",
+      "title": "Backlash over data centers tests Europe's AI ambitions",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T07:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Finland urges Elon Musk to expand Kyiv’s Starlink coverage over Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/ukraine-war-briefing-finland-elon-musk-starlink-coverage-russia",
-      "published_date": "2026-09-25T00:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia's military says it killed hundreds of TPLF rebels",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T18:37:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-26T18:08:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Bulgaria's battery boom: From zero to global leader",
@@ -407,20 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-21T13:47:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
-      "published_date": "2026-09-21T09:00:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany faces energy tax losses as EV sales rise",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-20T14:02:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/26/riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid",
+      "published_date": "2026-09-27T00:07:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Sachsen-Anhalt: BSW-Chefin weiter offen für Kooperation mit der AfD in Sachsen-Anhalt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/bsw-sachsen-anhalt-amira-mohamed-ali-regierungsbildung-afd",
+      "published_date": "2026-09-26T19:35:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Trockenheit: Rhein-Pegelstand bei Düsseldorf erreicht Rekordtief",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/26/rhein-pegelstand-bei-duesseldorf-erreicht-rekordtief",
@@ -687,20 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/26/frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-linken",
       "published_date": "2026-09-25T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zehn Konzerte: Auf Hoverboards in die 90er - Backstreet Boys in Düsseldorf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/26/auf-hoverboards-in-die-90er-backstreet-boys-in-duesseldorf",
-      "published_date": "2026-09-25T22:31:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Local is looking for a part-time social media engagement coordinator",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260925/the-local-is-looking-for-a-part-time-social-media-engagement-coordinator",
-      "published_date": "2026-09-25T20:46:01+00:00",
       "category": "Local Events"
     }
   ]
