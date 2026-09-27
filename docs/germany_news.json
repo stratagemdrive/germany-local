@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-27T01:01:38.085201+00:00",
+  "last_updated": "2026-09-27T15:28:52.067024+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Swiss voters reject stricter neutrality rules that would curb Nato cooperation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
+      "published_date": "2026-09-27T15:05:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘We’ve done everything by the book’: EU citizens left in limbo after UK government strips post-Brexit residency status",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/27/eu-citizens-home-office-strips-post-brexit-residency-status",
+      "published_date": "2026-09-27T12:04:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T08:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China sends two giant pandas off to Atlanta zoo after Xi-Trump summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-sends-two-giant-pandas-off-to-atlanta-zoo-after-xi-trump-summit/a-79447128?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T07:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany calls on Russia to 'abandon its dangerous path'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260927/germany-calls-on-russia-to-abandon-its-dangerous-path",
+      "published_date": "2026-09-27T06:49:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China, US agree to set up channel for AI safety incidents",
       "source": "Deutsche Welle",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T13:30:00+00:00",
-      "category": "Diplomacy"
+      "title": "Parutyne in der Ukraine: Die Farbe des Krieges",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/zeit-magazin/2026/41/parutyne-ukraine-dmytro-moldovanov-krieg-kunst-maler",
+      "published_date": "2026-09-27T15:01:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Think tanks urge German Chancellor to stick with reforms after election defeats",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260924/think-tanks-urge-german-chancellor-to-stick-with-reforms-after-election-defeats",
-      "published_date": "2026-09-24T13:26:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU finally clinching trade deals with Southeast Asian states",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-finally-clinching-trade-deals-with-southeast-asian-states/a-79388278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T11:40:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T11:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What foreign residents need to know about Germany’s welfare fraud crackdown",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260924/what-foreign-residents-need-to-know-about-germanys-welfare-fraud-crackdown",
-      "published_date": "2026-09-24T08:18:42+00:00",
-      "category": "Diplomacy"
+      "title": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/27/salzburg-new-sound-of-music-museum-celebrates-true-story-of-von-trapp-family",
+      "published_date": "2026-09-27T05:00:55+00:00",
+      "category": "Military"
     },
     {
       "title": "UN-Generaldebatte: Außenminister Wadephul spricht sich für UN-Regelwerk zu KI aus",
@@ -189,6 +203,20 @@
       "title": "Propaganda in Russian schools prepares students to die",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-26T11:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian students: Propaganda in school prepares them to die",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-26T11:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian students: Propaganda in school prepares them to die",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-09-26T11:55:00+00:00",
       "category": "Military"
     },
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pakistan-s-sharif-rails-against-india-praises-trump-at-unga/live-79366211?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-25T15:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Parliament approves fuel tax cut",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-25T15:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Parliament approves fuel tax cut",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T15:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T14:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-25T14:34:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Germany news: Are Germans giving up their beloved meat and sausages?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-are-germans-giving-up-their-beloved-meat-and-sausages/live-79441034?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-27T10:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Are Germans giving up their beloved meat and sausages?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-are-germans-giving-up-their-beloved-meat-and-sausages/live-79441034?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T10:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
+      "published_date": "2026-09-27T05:00:56+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Volkswagen recalls over 3 million vehicles over steering risk",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260926/volkswagen-recalls-over-3-million-vehicles-over-steering-risk",
@@ -543,25 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "European drugmakers say they are ‘losing ground’ to US and Chinese rivals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/22/european-drugmakers-losing-ground-us-chinese-rivals",
-      "published_date": "2026-09-22T15:04:10+00:00",
-      "category": "Economy"
+      "title": "UK: 5 arrested after 'major incident' near Fairford air base",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T13:50:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU spends three times more on imports from China than bloc exports there",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-      "published_date": "2026-09-22T11:54:08+00:00",
-      "category": "Economy"
+      "title": "European cities seek ways of boosting affordable housing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-cities-seek-ways-of-boosting-affordable-housing/a-79438939?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T13:47:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire",
+      "title": "European cities seek ways of boosting affordable housing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-cities-seek-ways-of-boosting-affordable-housing/a-79438939?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-27T13:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Philippine tourists killed in German bus crash",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260927/two-philippine-tourists-killed-in-german-bus-crash",
+      "published_date": "2026-09-27T13:19:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Hell on earth’: last residents eat weeds to survive in Russian-occupied Oleshky",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/22/babystar-review-a-new-arrival-upends-camera-ready-life-in-disturbing-family-influencer-satire",
-      "published_date": "2026-09-22T06:00:38+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
+      "published_date": "2026-09-27T11:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northern Ireland: Pro-UK march to go through Catholic area",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T09:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Kolkata's SRFTI students allege violent attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-kolkata-s-srfti-students-allege-violent-attack/live-79440869?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T08:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunmen kill 27 people in two mass shootings in South Africa",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T06:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight",
+      "published_date": "2026-09-27T04:00:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: German foreign minister urges Russia to abandon dangerous escalation in rare meeting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/27/ukraine-war-briefing-german-foreign-minister-urges-russia-to-abandon-dangerous-escalation-in-rare-meeting",
+      "published_date": "2026-09-27T02:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: Thousands protest in Madrid against housing crisis",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T01:53:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
@@ -624,83 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
       "published_date": "2026-09-26T13:11:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German Olympic Committee names Munich as bid city choice",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-26T12:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German Olympic Committee names Munich as bid city choice",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T12:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly blast rips through Athens building, near Acropolis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deadly-blast-rips-through-athens-building-near-acropolis/a-79441931?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T09:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: EU ministers meet for migration showdown",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-26T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: EU ministers meet for migration showdown",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T09:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Can a weekend of sport put a spring in the nation's step?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260926/inside-germany-can-a-weekend-of-sport-put-a-spring-in-the-nations-step",
-      "published_date": "2026-09-26T08:22:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand: Bangkok flooding triggers disaster declaration",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T06:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
-      "published_date": "2026-09-26T05:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Look again – there’s more to Germany’s election trends than far-right success | Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/europe-election-trends-far-right-success-defeatist-narratives-germany",
-      "published_date": "2026-09-26T04:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TikTok agrees to settle with Alabama state over teen safety",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tiktok-agrees-to-settle-with-alabama-state-over-teen-safety/a-79440240?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T03:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Frei warnt Grüne und SPD vor Zusammenarbeit mit Linken",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/26/frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-linken",
-      "published_date": "2026-09-25T23:00:04+00:00",
       "category": "Local Events"
     }
   ]
