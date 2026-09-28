@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-27T15:28:52.067024+00:00",
+  "last_updated": "2026-09-28T01:19:23.965355+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israel strips Dutch diplomats of status in West Bank",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-28T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Swiss voters reject stricter neutrality rules that would curb Nato cooperation",
       "source": "The Guardian",
@@ -133,13 +140,6 @@
       "title": "US-China talks on trade, AI between Trump, Xi beckon",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T13:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump hosts Xi for state dinner with tech bosses",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-hosts-xi-for-state-dinner-with-tech-bosses/live-79404511?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-24T13:37:00+00:00",
       "category": "Diplomacy"
     },
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "Robert Habeck: Dafür, dass er weg ist, ist er ganz schön da",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/robert-habeck-caren-miosga-wirtschaftsminister-gruene-usa",
+      "published_date": "2026-09-28T01:09:16+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energiewende: Studie: Europas Firmen für mehr Investitionen in Erneuerbare",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/28/studie-europas-firmen-fuer-mehr-investitionen-in-erneuerbare",
+      "published_date": "2026-09-28T01:00:10+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Backlash over data centers tests Europe's AI ambitions",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf",
@@ -407,20 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-09-22T08:25:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Will Germany have enough gas this winter amid energy supply crunch?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T08:25:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nuclear power is back on Southeast Asia's energy agenda",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-21T13:47:00+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Bundesregierung: CDU-Generalsekretärin verlangt schnellere Umsetzung von Reformen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/franziska-hoppermann-cdu-reformen-bundesregierung-rentenreform",
+      "published_date": "2026-09-27T23:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
+      "published_date": "2026-09-27T19:09:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T17:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two people killed as bus crashes on way to Oktoberfest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/two-people-killed-as-bus-crashes-on-way-to-oktoberfest/a-79450016?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-27T15:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two people killed as bus crashes on way to Oktoberfest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/two-people-killed-as-bus-crashes-on-way-to-oktoberfest/a-79450016?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-27T15:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK: 5 arrested after 'major incident' near Fairford air base",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
@@ -666,41 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-26T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jens Spahn: Kritik an Jens Spahns Fehlen in Ausschusssitzung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-cdu-haushaltsausschuss-urlaub-bundestag-gxe",
-      "published_date": "2026-09-26T13:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hydrologie: Liegt der Rhein trocken, wenn die Gletscher erst mal weg sind?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/40/gletscherschmelze-alpen-schmelzwasser-rhein-niedrigwasser-klimawandel",
-      "published_date": "2026-09-26T13:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drogenhilfe in Harburg: Schüsse vor der Schule",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/41/drogenhilfe-abrigado-harburg-schule-schusswaffen",
-      "published_date": "2026-09-26T13:49:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany selects Munich for Olympics host bid",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260926/germany-selects-munich-for-olympics-host-bid",
-      "published_date": "2026-09-26T13:14:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breakthroughs for the radical and far-right in Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
-      "published_date": "2026-09-26T13:11:29+00:00",
       "category": "Local Events"
     }
   ]
