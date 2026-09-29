@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-29T02:25:39.697773+00:00",
+  "last_updated": "2026-09-29T16:42:57.204380+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Labour-Parteitag: Großbritanniens Premier Burnham strebt Wiederannäherung an die EU an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-09/andy-burnham-brexit-eu-gipfel-grossbritannien-gxe",
+      "published_date": "2026-09-29T15:48:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+      "published_date": "2026-09-29T14:20:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T08:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz revolts over EU budget, report says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-revolts-over-eu-budget-report-says/live-79468663?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-29T07:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz revolts over EU budget, report says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-revolts-over-eu-budget-report-says/live-79468663?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T07:54:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hitze und Dürre in Europa: EU geht von Milliardenschaden für Landwirte durch Hitzesommer aus",
       "source": "ZEIT Online",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why Eritrea matters as fighting returns to Tigray",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T13:34:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T13:34:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-25T11:35:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
-      "published_date": "2026-09-24T17:42:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Neustart : Was das Social-Media-Verbot der EU wirklich bringt",
+      "title": "Zeitenwende bei der Bundeswehr: Milliarden für Bremerhaven – Marinehafen in Emden geplant",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/internet/2026-09/digitaler-kinderschutz-eu-kommission-soziale-medien-chatbots-videospiele-digitalpodcast",
-      "published_date": "2026-09-24T15:13:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-09/29/neuer-marinehafen-an-der-nordsee-emden-setzt-sich-durch",
+      "published_date": "2026-09-29T16:21:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bundeswehr: Hafen in Bremerhaven soll für Bundeswehr ausgebaut werden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/bremerhaven-bundeswehr-hafen-ausbau-militaer-nato-gxe",
+      "published_date": "2026-09-29T15:37:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france",
+      "published_date": "2026-09-29T15:16:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+      "published_date": "2026-09-29T15:03:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T11:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-29T11:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T11:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global trade weathers Iran, Ukraine and Trump's tariffs",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T10:35:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Russland bombardiert erneut Kyjiw",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Propaganda in Russian schools prepares students to die",
+      "title": "Spain grows fruit and vegetables for Europe — but it's running out of water",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-26T11:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian students: Propaganda in school prepares them to die",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T11:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian students: Propaganda in school prepares them to die",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-26T11:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India news: New Delhi, Islamabad trade accusations at UN General Assembly",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-new-delhi-islamabad-trade-accusations-at-un-general-assembly/live-79440869?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T07:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In his final UN speech, Macron may have given other leaders a valuable parting gift: the guts to stand up to Trump | Steve Bloomfield",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump",
-      "published_date": "2026-09-26T06:00:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv has become a frontline city - and winter is on the way",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/26/after-summer-respite-kyiv-winter-dread",
-      "published_date": "2026-09-26T06:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes at heart of Ukraine’s digital economy with attacks on ISPs and datacentres",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/26/russia-strikes-ukraine-digital-economy-attacks-isps-datacentres",
-      "published_date": "2026-09-26T04:00:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian attacks force closure of Ukraine’s largest steelmaker",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/26/ukraine-war-briefing-russian-attacks-close-largest-steelmaker-arcelormittal",
-      "published_date": "2026-09-26T01:00:39+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T09:51:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
@@ -417,11 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Living in the shadow of LA's hidden oil wells",
+      "title": "Does Germany really have the most punishing tax system for foreigners?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260929/does-germany-really-have-the-most-punishing-tax-system-for-foreigners",
+      "published_date": "2026-09-29T14:57:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "North Korea has recently completed two road bridges easing transport to strategic allies Russia and China",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-22T13:34:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T13:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US ban on Canadian alcohol, dairy products and motorcycles takes effect as trade dispute escalates",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T11:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI: Concern as Germany plans to double data center capacity",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-29T10:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI: Concern as Germany plans to double data center capacity",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T10:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why launching a career is getting harder in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260929/why-launching-a-career-is-getting-harder-in-germany",
+      "published_date": "2026-09-29T08:58:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "OpenAI shelves new AI model amid safety concerns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T03:50:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Pussy Riot activist turned Kremlin informer – podcast",
@@ -515,53 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
+      "title": "Bahnstrecke Berlin–Hannover: Bahnstrecke zwischen Hannover und Berlin wird für 14 Monate gesperrt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-09/bahnstrecke-berlin-hannover-sperrung-sanierung-deutsche-bahn",
+      "published_date": "2026-09-29T16:29:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-      "published_date": "2026-09-24T08:48:11+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
+      "published_date": "2026-09-29T16:21:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+      "title": "French students and police clash as school blockades turn violent",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
-      "published_date": "2026-09-24T08:34:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
+      "published_date": "2026-09-29T15:19:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany: Economic institutes double growth forecast for 2026",
+      "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
+      "published_date": "2026-09-29T14:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JMW Turner’s ‘great love letter’ to Rome makes brief return to city before UK auction",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/29/jmw-turner-love-letter-rome-from-mount-aventine-auction",
+      "published_date": "2026-09-29T13:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women and children displaced by Nepal's floods say safe housing, privacy and stability remain out of reach",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-24T08:11:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T13:29:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany: Economic institutes double growth forecast for 2026",
+      "title": "Two ex-ministers from Orbán era held over suspected bribery and misuse of public funds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/two-former-hungarian-ministers-detained-over-suspected-bribery-misuse-public-funds",
+      "published_date": "2026-09-29T12:09:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain agrees on measures to fix housing crisis, ban eviction",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T08:11:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T12:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Live updates: Trump welcomes Xi to Washington",
+      "title": "Israel bans Arab parties from election: What you need to know",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T22:49:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/israel-bans-arab-parties-from-election-what-you-need-to-know/a-79461211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T11:42:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany’s largest union seeks 5 percent pay rises despite industry woes",
+      "title": "Cutting immigration to the UK means billions less for the Treasury. Can the country really afford that? | Zoe Williams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/cutting-uk-immigration-means-billions-less-for-the-treasury",
+      "published_date": "2026-09-29T10:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What are Munich's plans for the Olympic Games?",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260923/germanys-largest-union-seeks-5-percent-pay-rises-despite-industry-woes",
-      "published_date": "2026-09-23T13:26:23+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20260929/what-are-munichs-plans-for-the-olympic-games",
+      "published_date": "2026-09-29T09:00:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "OECD says growth 'resilient' in 2026 despite Middle East war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oecd-says-growth-resilient-in-2026-despite-middle-east-war/a-79386625?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-23T09:49:00+00:00",
-      "category": "Economy"
+      "title": "The Portuguese House review – picturesque, polite drama of secrets and revelations at a country estate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/29/the-portuguese-house-review-picturesque-polite-drama-of-secrets-and-revelations-at-a-country-estate",
+      "published_date": "2026-09-29T08:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Jaw-dropping’ play based on Pelicot rape trial comes to London for one night",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/jaw-dropping-play-based-on-pelicot-trial-comes-to-london-for-one-night",
+      "published_date": "2026-09-29T07:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20260929/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-142",
+      "published_date": "2026-09-29T06:38:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A leftwing victory in Berlin shows people want freedom, and liberals cannot deliver it | Eva von Redecker",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/leftwing-victory-berlin-freedom-liberals-die-linke-far-right",
+      "published_date": "2026-09-29T04:00:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Literaturnobelpreis: CDU-Kulturexperte schlägt Wolf Biermann für Nobelpreis vor",
@@ -596,111 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan",
       "published_date": "2026-09-28T17:47:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Philipp Amthor: Philipp Amthor trennt sich nach Kritik von Strandkorb im Kanzleramt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/philipp-amthor-strandkorb-kanzleramt-mecklenburg-vorpommern",
-      "published_date": "2026-09-28T17:39:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest vor Wahlen: Tausende demonstrieren in Prag gegen Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/28/tausende-demonstrieren-in-prag-gegen-regierung",
-      "published_date": "2026-09-28T17:29:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen hails RN senate surge as ‘milestone’ towards French presidency",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-      "published_date": "2026-09-28T17:24:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gisèle Pelicot’s daughter launches awareness campaign for potential victims of drugging and sexual assault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/28/gisele-pelicot-daughter-awareness-campaign-potential-victims-drugging-sexual-assault",
-      "published_date": "2026-09-28T17:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
-      "published_date": "2026-09-28T15:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What do Manchester City's charges mean for German football?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-do-manchester-city-s-charges-mean-for-german-football/a-79460412?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T14:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T14:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin Marathon winner Assefa finished race with torn Achilles",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260928/berlin-marathon-winner-assefa-finished-race-with-torn-achilles",
-      "published_date": "2026-09-28T13:22:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is a German city banning new 'stumbling stone' memorials to Holocaust victims?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260928/why-is-a-saxon-city-banning-new-stumbling-stone-memorials-to-holocaust-victims",
-      "published_date": "2026-09-28T10:09:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What foreign residents need to know about Germany's new federal police powers",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260928/what-foreign-residents-need-to-know-about-germanys-new-federal-police-powers",
-      "published_date": "2026-09-28T09:32:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden faces political deadlock after election-winning center-left bloc fails to form government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sweden-faces-political-deadlock-after-election-winning-center-left-bloc-fails-to-form-government/a-79455295?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T09:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: LPU suspends classes after violent protests over alleged campus rape",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-lpu-suspends-classes-after-violent-protests-over-alleged-campus-rape/live-79454038?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T08:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260928/today-in-germany-a-roundup-of-the-latest-news-on-monday-140",
-      "published_date": "2026-09-28T06:31:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Switzerland’s love of referendums keeps the far right at bay | Joseph de Weck",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/switzerlands-love-of-referendums-helps-us-keep-the-far-right-at-bay",
-      "published_date": "2026-09-28T04:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesregierung: CDU-Generalsekretärin verlangt schnellere Umsetzung von Reformen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/franziska-hoppermann-cdu-reformen-bundesregierung-rentenreform",
-      "published_date": "2026-09-27T23:00:47+00:00",
       "category": "Local Events"
     }
   ]
