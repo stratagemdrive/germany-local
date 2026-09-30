@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-29T16:42:57.204380+00:00",
+  "last_updated": "2026-09-30T01:45:53.686829+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Estonia blames Russia for arson attack on defense company",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T18:08:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Labour-Parteitag: Großbritanniens Premier Burnham strebt Wiederannäherung an die EU an",
       "source": "ZEIT Online",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "published_date": "2026-09-25T15:09:13+00:00",
-      "category": "Diplomacy"
+      "title": "Germany news: Bremerhaven port to receive defense boost",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-bremerhaven-port-to-receive-defense-boost/live-79468663?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-29T17:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Bremerhaven port to receive defense boost",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-bremerhaven-port-to-receive-defense-boost/live-79468663?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T17:28:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Zeitenwende bei der Bundeswehr: Milliarden für Bremerhaven – Marinehafen in Emden geplant",
@@ -267,20 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-26T15:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China rejects 'Cold War mindset' at UN General Assembly",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-rejects-cold-war-mindset-at-un-general-assembly/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T14:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Propaganda in Russian schools prepares students to die",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-26T11:55:00+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Unfall: Mann in Hamburg überrollt und tödlich verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt",
+      "published_date": "2026-09-30T00:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says AI companies agree to 'self-police'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T23:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesbildungsministerin: Prien warnt mögliche AfD-Regierung in Sachsen-Anhalt bezüglich Schulen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-afd-sachsen-anhalt-cdu-regierung-bildung",
+      "published_date": "2026-09-29T22:58:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Die Linke: Jan van Aken kritisiert Debatte über Antisemitismus in der Linkspartei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin",
+      "published_date": "2026-09-29T22:52:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Morocco: King appoints first woman prime minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-29T19:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
+      "published_date": "2026-09-29T18:21:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bahnstrecke Berlin–Hannover: Bahnstrecke zwischen Hannover und Berlin wird für 14 Monate gesperrt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/mobilitaet/2026-09/bahnstrecke-berlin-hannover-sperrung-sanierung-deutsche-bahn",
@@ -659,48 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260929/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-142",
       "published_date": "2026-09-29T06:38:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A leftwing victory in Berlin shows people want freedom, and liberals cannot deliver it | Eva von Redecker",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/leftwing-victory-berlin-freedom-liberals-die-linke-far-right",
-      "published_date": "2026-09-29T04:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Literaturnobelpreis: CDU-Kulturexperte schlägt Wolf Biermann für Nobelpreis vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor",
-      "published_date": "2026-09-29T02:18:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Unionsländer drohen Berlin bei Linksregierung mit Geldentzug",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/29/unionslaender-drohen-berlin-bei-linksregierung-mit-geldentzug",
-      "published_date": "2026-09-29T02:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's Netanyahu holds secret meeting with UAE president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-s-netanyahu-holds-secret-meeting-with-uae-president/a-79467271?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-29T01:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundestag: Julia Klöckner droht Fraktionen von AfD und Linken mit Rauswurf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/polarisierung-bundestag-julia-kloeckner-afd-linke-ordnungsrufe",
-      "published_date": "2026-09-29T00:49:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hendrik Wüst: Was heißt Kanzlertausch auf Türkisch?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan",
-      "published_date": "2026-09-28T17:47:18+00:00",
       "category": "Local Events"
     }
   ]
