@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-09-30T16:36:26.582718+00:00",
-  "story_count": 98,
+  "last_updated": "2026-10-01T01:42:55.037511+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Five EU states plan first deportation center in Africa for 2027",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-30T19:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five EU states plan first deportation center in Africa for 2027",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-09-30T19:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 gathering evidence on public support for UK rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+      "published_date": "2026-09-30T18:33:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-30T17:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron says ‘welcome back’ to Burnham suggestion UK could rejoin EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu",
+      "published_date": "2026-09-30T16:40:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Großbritannien und die EU: EU zeigt sich offen für eine Rückkehr Großbritanniens in die Union",
       "source": "ZEIT Online",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pope urges concessions for peace amid war in Ukraine – video",
+      "title": "Ukraine war briefing: Russia pounds power grid with seven killed in biggest energy attack in months",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/28/pope-urges-concessions-for-peace-europe-video",
-      "published_date": "2026-09-28T15:07:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-war-briefing-russia-pounds-power-grid-with-seven-killed-in-biggest-energy-attack-in-months",
+      "published_date": "2026-10-01T01:26:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights",
+      "title": "Gletscherschmelze: Schweiz verzeichnet zweitstärksten Gletscherschwund seit Messbeginn",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-10/gletscherschmelze-schweiz-gletscher-alpen-glamos",
+      "published_date": "2026-10-01T00:14:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are the Houthis winning against Saudi Arabia?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T12:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diesel prices are surging putting further pressure on Europe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T10:35:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel strips Dutch diplomats of status in West Bank",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-28T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Swiss voters reject stricter neutrality rules that would curb Nato cooperation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
-      "published_date": "2026-09-27T15:05:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-30T17:23:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Rote Hilfe: So linksextrem ist die Rote Hilfe",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland bombardiert erneut Kyjiw",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-09-29T01:52:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin orders army expansion as Zelenskyy says more North Koreans to be deployed in Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/29/ukraine-war-briefing-putin-orders-army-expansion-as-zelenskyy-claims-more-north-korean-troops-to-be-deployed-for-moscow",
-      "published_date": "2026-09-29T00:43:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow seizes Russian assets of German food retailer Metro",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260928/moscow-seizes-russian-assets-of-german-food-retailer-metro",
-      "published_date": "2026-09-28T15:30:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "African leaders herald $16B Dangote oil refinery in Kenya",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/african-leaders-herald-16b-dangote-oil-refinery-in-kenya/a-79491068?maca=en-rss-en-all-1573-rdf",
@@ -389,27 +389,6 @@
       "category": "Energy"
     },
     {
-      "title": "Germany sets out plan to phase out fossil fuels by 2045",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-24T01:37:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany sets out plan to phase out fossil fuels by 2045",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-24T01:37:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
-      "published_date": "2026-09-23T16:37:52+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Wegen schärferer Sparpläne: Volkswagen kündigt fast alle Tarifverträge",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-09/30/arbeitnehmer-vw-will-reihenweise-tarifvertraege-kuendigen",
@@ -449,6 +428,20 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20260930/in-numbers-how-much-will-germanys-fuel-tax-cut-save-drivers",
       "published_date": "2026-09-30T10:24:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Volkswagen ends collective wage agreements",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-volkswagen-ends-collective-wage-agreements/live-79481802?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-09-30T08:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Volkswagen ends collective wage agreements",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-volkswagen-ends-collective-wage-agreements/live-79481802?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-30T08:10:00+00:00",
       "category": "Economy"
     },
     {
@@ -536,18 +529,46 @@
       "category": "Economy"
     },
     {
-      "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
-      "published_date": "2026-09-27T05:00:56+00:00",
-      "category": "Economy"
+      "title": "Nach der Berlin-Wahl: Gespräche zur Regierungsbildung in Berlin beginnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/01/gespraeche-zur-regierungsbildung-in-berlin-beginnen",
+      "published_date": "2026-10-01T01:30:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen recalls over 3 million vehicles over steering risk",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260926/volkswagen-recalls-over-3-million-vehicles-over-steering-risk",
-      "published_date": "2026-09-26T12:48:30+00:00",
-      "category": "Economy"
+      "title": "Erneuter Prozess in Frankfurt: Urteil im Prozess gegen Narkosearzt erwartet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/01/urteil-im-prozess-gegen-narkosearzt-erwartet",
+      "published_date": "2026-10-01T01:30:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fälle aus NRW: Schwarzbuch: Bund der Steuerzahler sieht Verschwendung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/01/schwarzbuch-bund-der-steuerzahler-sieht-verschwendung",
+      "published_date": "2026-10-01T01:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Todesstrafe: Oberstes US-Gericht erlaubt Hinrichtung von Frau in Tennessee",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/hinrichtung-frau-tennessee-oberster-gerichtshof-usa",
+      "published_date": "2026-10-01T00:15:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Koalitionsgespräche in Berlin: Gespräche zur Regierungsbildung in Berlin beginnen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus",
+      "published_date": "2026-10-01T00:13:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-09-30T22:10:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French court jails six men for manslaughter over mass drowning in Channel",
@@ -645,48 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
       "published_date": "2026-09-30T12:30:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Cabinet approves care reform bill",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-09-30T08:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Cabinet approves care reform bill",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-30T08:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What passengers in Baden-Württemberg need to know about the three-day transport strike",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260930/what-passengers-in-baden-wurttemberg-need-to-know-about-the-three-day-transport-strike",
-      "published_date": "2026-09-30T07:51:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German far-right aims to lead Saxony-Anhalt government in December",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260930/german-far-right-aims-to-lead-saxony-anhalt-government-in-december",
-      "published_date": "2026-09-30T07:35:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260930/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-140",
-      "published_date": "2026-09-30T06:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "It shouldn’t take the eviction of an 87-year-old to get Spain’s housing crisis fixed | María Ramírez",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/30/it-shouldnt-take-the-eviction-of-an-87-year-old-to-get-spains-housing-crisis-fixed",
-      "published_date": "2026-09-30T04:00:11+00:00",
       "category": "Local Events"
     }
   ]
