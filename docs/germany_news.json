@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-04T02:16:12.561512+00:00",
+  "last_updated": "2026-10-04T15:36:00.566395+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Gefährliche Kiew-Reise: Merz unterstützt Ukraine – und appelliert an Putin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/04/merz-zu-solidaritaetsbesuch-in-der-ukraine",
+      "published_date": "2026-10-04T15:21:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Friedrich Merz in Kyjiw : Merz betont deutsches Interesse an Ukraine-Hilfe",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-kyjiw-ukraine-russland-militaerhilfe",
+      "published_date": "2026-10-04T15:06:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+      "published_date": "2026-10-04T14:35:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-04T14:24:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T14:24:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T09:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-04T09:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Many believe Merkel more capable than Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T08:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz in Kyiv for talks with Zelensky",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261004/germanys-merz-in-kyiv-for-talks-with-zelensky",
+      "published_date": "2026-10-04T08:12:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "G7-Entscheidung zu Ölreserven: Sinken jetzt die Spritpreise?",
       "source": "ZEIT Online",
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Reform row raises fears for Merz's coalition",
+      "title": "Krieg gegen die Ukraine: Deutsche Rüstungsfirmen vereinbaren Milliardenkooperationen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-10-04T15:29:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin",
+      "published_date": "2026-10-04T10:53:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latvia election: Pro-Ukraine PM Kulbergs set to retain power after historic victory for his United List party",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-02T09:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T08:38:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What rail passengers need to know as Berlin-Hanover line closes for renovation",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261002/what-rail-passengers-need-to-know-as-berlin-hanover-line-closes-for-renovation",
-      "published_date": "2026-10-02T09:05:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU nations to hold emergency meeting on diesel prices amid US pressure",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261002/eu-nations-to-hold-emergency-meeting-on-soaring-diesel-prices-amid-us-pressure",
-      "published_date": "2026-10-02T08:59:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's Merz hails NATO unity on Russia and rejects AfD claims",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261002/germanys-merz-hails-nato-unity-on-russia-and-rejects-afd-claims",
-      "published_date": "2026-10-02T06:42:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261002/today-in-germany-a-roundup-of-the-latest-news-on-friday-142",
-      "published_date": "2026-10-02T06:29:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopia: Embassy shut in Eritrea, 10 diplomats expelled",
+      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-embassy-shut-in-eritrea-10-diplomats-expelled/a-79507052?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T16:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
-      "published_date": "2026-10-01T16:49:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-      "published_date": "2026-10-01T16:38:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burnham’s reopening of Brexit debate is ‘biggest boost in my career’, says Farage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
-      "published_date": "2026-10-01T15:47:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T03:48:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Aufwuchs der Bundeswehr: Ein neuer Marinehafen in Emden – Notwendigkeit oder Irrweg?",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Drohnen: Bundeswehr bekommt eigenes Drohnenregiment",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius-gxe",
-      "published_date": "2026-10-01T16:12:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia: Who could bring the warring sides to the negotiation table?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T16:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine persists with Russian oil refinery strikes in defiance of Trump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings",
-      "published_date": "2026-10-01T12:09:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
-      "published_date": "2026-10-01T10:49:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
@@ -380,6 +380,13 @@
       "url": "https://www.zeit.de/news/2026-09/28/studie-europas-firmen-fuer-mehr-investitionen-in-erneuerbare",
       "published_date": "2026-09-28T01:00:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+      "published_date": "2026-10-04T05:00:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Deutsche Bahn: Deutsche Bahn wird Familienticket dauerhaft anbieten",
@@ -515,11 +522,53 @@
       "category": "Economy"
     },
     {
-      "title": "IN NUMBERS: How much will Germany's fuel tax cut save drivers?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260930/in-numbers-how-much-will-germanys-fuel-tax-cut-save-drivers",
-      "published_date": "2026-09-30T10:24:04+00:00",
-      "category": "Economy"
+      "title": "Brandmauer: Koalitionsfraktionen widersprechen Rhein bei Ausschussposten für AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/ausschussvorsitze-bundestag-afd-boris-rhein-cdu",
+      "published_date": "2026-10-04T15:28:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Widerstand gegen Technologie: Widerstand zwecklos?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/42/widerstand-gegen-technologie-ludditen-kuenstliche-intelligenz",
+      "published_date": "2026-10-04T14:56:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+      "published_date": "2026-10-04T11:53:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T11:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T08:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+      "published_date": "2026-10-04T05:00:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peru: Fire burning on road to Machu Picchu kills 1",
@@ -610,55 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-03T14:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How an 87-year-old Spanish woman became the face of the fight for affordable housing – explainer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/03/how-an-87-year-old-spanish-woman-became-the-face-of-the-fight-for-affordable-housing-explainer",
-      "published_date": "2026-10-03T13:05:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Floods leave 102-year-old woman dead in southeast",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T12:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He feels more relatable’: Burnham’s conference speech wins praise from drifting Labour voters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/03/andy-burnham-conference-speech-wins-praise-from-drifting-labour-voters",
-      "published_date": "2026-10-03T12:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T10:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Why I travelled half way around the world to be married",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261003/inside-germany-why-i-travelled-half-way-around-the-world-to-be-married",
-      "published_date": "2026-10-03T09:39:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can anything politicians say at Sunday’s election stop young people from leaving Bosnia?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/politicians-election-young-people-leaving-bosnia-herzegovina",
-      "published_date": "2026-10-03T09:35:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s not just about getting drunk!’ How Oktoberfest took over the UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/oct/03/oktoberfest-uk-sites-pilsner-oompah-bratwurst",
-      "published_date": "2026-10-03T09:00:54+00:00",
       "category": "Local Events"
     }
   ]
