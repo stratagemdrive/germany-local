@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-05T01:25:41.370531+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-05T19:27:56.812417+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Australia's migrant policy offers lessons for EU and US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T19:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz, Macron seek tougher EU measures against unfair trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-05T17:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz, Macron seek tougher EU measures against unfair trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T17:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz, Macron seek tougher EU measures against unfair trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-05T17:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian strikes hit Kyiv while German Chancellor Merz visits",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261005/russian-strikes-hit-kyiv-while-german-chancellor-merz-visits",
+      "published_date": "2026-10-05T07:05:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261005/today-in-germany-a-roundup-of-the-latest-news-on-monday-141",
+      "published_date": "2026-10-05T06:36:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ball in UK’s court: EU ambassador says Brussels will be ‘ready to engage‘ after country decides what it wants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/eu-ambassador-uk-interview",
+      "published_date": "2026-10-05T04:00:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Medienbericht: AfD weicht offenbar von Forderung nach EU- und Euro-Austritt ab",
       "source": "ZEIT Online",
@@ -95,53 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz in Kyiv for talks with Zelensky",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261004/germanys-merz-in-kyiv-for-talks-with-zelensky",
-      "published_date": "2026-10-04T08:12:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7-Entscheidung zu Ölreserven: Sinken jetzt die Spritpreise?",
+      "title": "Johann Wadephul: Wadephul erwartet wachsende territoriale Besitzansprüche Russlands",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/g7-oelreserven-freigabe-diesel-spritpreise",
-      "published_date": "2026-10-03T14:53:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/2026-10/johann-wadephul-cdu-russland-territoriale-ansprueche-georgien-moldau-baltikum",
+      "published_date": "2026-10-05T18:52:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
+      "title": "BND-Chef: Was hinter den Warnungen des BND-Chefs steckt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/bnd-chef-martin-jaeger-konflikt-russland",
+      "published_date": "2026-10-05T18:39:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen launches major military operation against Houthis",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T06:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T18:36:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
+      "title": "German spy chief warns of escalation in Russia's 'shadow war'",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261005/german-spy-chief-warns-of-escalation-in-russias-shadow-war",
+      "published_date": "2026-10-05T14:06:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military aircraft with 32 people on board crashes in southern Nigeria",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-03T06:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T14:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
+      "title": "Iran poised to exploit security vacuum as US leaves Iraq",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T06:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T14:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
+      "title": "What China's new military foothold in Laos means for Southeast Asia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-03T06:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/what-china-s-new-military-foothold-in-laos-means-for-southeast-asia/a-79548259?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T14:01:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+      "title": "Germany news: Spy chief warns Russia conflict risk growing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-05T12:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Spy chief warns Russia conflict risk growing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T12:33:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel observes October 7 anniversary with national memorial day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T08:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin's escalating bombing campaign won't break Ukrainians' resolve. History shows that it's doomed to fail | Rajan Menon",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
-      "published_date": "2026-10-03T05:00:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/putin-escalating-bombing-campaign-ukrainian-resolve-russia-invasion",
+      "published_date": "2026-10-05T07:00:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Beinahe-Katastrophe: Augenzeuge von Flugdrama: «Im Cockpit war niemand»",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Greece returns priceless relics to Bulgaria – and suggests UK should follow suit with Parthenon marbles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
-      "published_date": "2026-10-03T14:46:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia votes in parliamentary election amid rising costs",
+      "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T06:06:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T09:37:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
-      "published_date": "2026-10-03T04:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea fires ballistic missile into sea, Seoul says",
+      "title": "Hundreds of French schools shut, teen loses hand in protests",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T22:06:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T05:48:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bahn-Generalsanierung: Umleitungsstrecke bei Magdeburg war vorübergehend gesperrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/02/umleitungsstrecke-bei-magdeburg-war-voruebergehend-gesperrt",
-      "published_date": "2026-10-02T16:01:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "\"NAZA\": Israeli military issues statement on film",
+      "title": "Hundreds of French schools shut, teen loses hand in protests",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T15:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Starchitects go home’: what’s the truth behind Albania’s astonishing building boom?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/02/starchitects-go-home-albania-building-boom-edi-rama",
-      "published_date": "2026-10-02T10:15:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Kyiv bridges shut after fatal Russian drone assault",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T09:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea demands Ukraine apology over POW disclosure",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T06:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T04:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-02T04:40:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-05T05:48:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
@@ -354,18 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows",
-      "published_date": "2026-09-28T13:53:52+00:00",
-      "category": "Energy"
+      "title": "Euro plummets against US dollar: has the next financial crisis begun?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T14:28:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The flat-pack skyscraper: how wood can shape the cities of the future – podcast",
+      "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/28/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future-podcast",
-      "published_date": "2026-09-28T04:00:24+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
+      "published_date": "2026-10-05T11:37:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
@@ -494,157 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-30T12:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-09-30T12:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ukraine war briefing: Germany’s Merz pledges €1bn in military aid to Kyiv as Russia ramps up attacks",
+      "title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/05/ukraine-war-briefing-germanys-merz-pledges-1bn-in-military-aid-to-kyiv-as-russia-ramps-up-attacks",
-      "published_date": "2026-10-05T01:00:20+00:00",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
+      "published_date": "2026-10-05T19:10:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Brazil election: Bolsonaro and Lula head to runoff",
+      "title": "Festwoche: 80 Jahre NRW-Landtag: Lichtkunst mit Zitaten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/05/80-jahre-nrw-landtag-lichtkunst-mit-zitaten",
+      "published_date": "2026-10-05T18:33:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denmark: Data of millions compromised in hack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T00:27:00+00:00",
+      "url": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T17:46:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Katherina Reiche: Linke zieht gegen Ministerin Reiche vor Bundesverfassungsgericht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/katherina-reiche-die-linke-klage-innenministerin-sachsen",
-      "published_date": "2026-10-04T23:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-04T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sachsen-Anhalt: Sven Schulze schließt CDU-Unterstützung bei Siegmund-Wahl aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/ministerpraesidentenwahl-sachsen-anhalt-afd-cdu-ulrich-siegmund-sven-schulze-bsw",
-      "published_date": "2026-10-04T20:28:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandmauer: Koalitionsfraktionen widersprechen Rhein bei Ausschussposten für AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/ausschussvorsitze-bundestag-afd-boris-rhein-cdu",
-      "published_date": "2026-10-04T15:28:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Widerstand gegen Technologie: Widerstand zwecklos?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/42/widerstand-gegen-technologie-ludditen-kuenstliche-intelligenz",
-      "published_date": "2026-10-04T14:56:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+      "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
-      "published_date": "2026-10-04T11:53:09+00:00",
+      "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+      "published_date": "2026-10-05T15:59:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T11:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T08:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+      "title": "France braces for national day of school protests as boy loses hand",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
-      "published_date": "2026-10-04T05:00:20+00:00",
+      "url": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
+      "published_date": "2026-10-05T15:50:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Peru: Fire burning on road to Machu Picchu kills 1",
+      "title": "Ukraine says Russian drones behind Turkish ship sinking",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T02:08:00+00:00",
+      "url": "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T15:49:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+      "title": "US closely monitoring case of lab worker who ‘possibly’ died of plague in Siberia, says Rubio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "published_date": "2026-10-05T15:36:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia, New Zealand probe Flydubai pilot's time there",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T01:26:00+00:00",
+      "url": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T15:02:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Carsten Schneider: Umweltminister ruft Länder zu Investitionen in Wasserinfrastruktur auf",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/niedrigwasser-pegelstaende-rhein-bodensee-carsten-schneider-wasserinfrastruktur",
-      "published_date": "2026-10-04T00:37:57+00:00",
+      "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
+      "published_date": "2026-10-05T14:55:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Brandmauer: AfD sollte Vorsitz von Ausschüssen laut Boris Rhein übernehmen können",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/ausschussvorsitz-bundestag-afd-boris-rhein-cdu",
-      "published_date": "2026-10-03T22:48:40+00:00",
+      "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
+      "published_date": "2026-10-05T14:09:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Latvia: Ruling party leads in exit polls amid populist gains",
+      "title": "Italian authorities seize 377 exotic animals hidden in car at Sicily port – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/05/italian-authorities-seize-377-exotic-animals-hidden-in-car-at-sicily-port-video",
+      "published_date": "2026-10-05T14:05:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T18:05:00+00:00",
+      "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-05T14:03:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+      "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T16:10:00+00:00",
+      "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T14:03:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+      "title": "Man caught with 300 tortoises and 77 parrots bound for Malta at Sicilian port",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/man-caught-with-tortoises-parrots-bound-malta-sicilian-port",
+      "published_date": "2026-10-05T13:52:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+      "published_date": "2026-10-05T12:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-03T16:10:00+00:00",
+      "url": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T10:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-05T10:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Saxony-Anhalt's parliament elect a far-right president?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261005/will-saxony-anhalts-parliament-elect-a-far-right-president",
+      "published_date": "2026-10-05T10:05:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish PM Pedro Sánchez calls snap election – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/05/spanish-pm-pedro-sanchez-calls-snap-election-video",
+      "published_date": "2026-10-05T09:09:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel's mental health crisis in the wake of Oct. 7 attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T08:52:00+00:00",
       "category": "Local Events"
     }
   ]
