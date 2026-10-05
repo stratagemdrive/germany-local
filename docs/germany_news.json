@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-04T15:36:00.566395+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-05T01:25:41.370531+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Medienbericht: AfD weicht offenbar von Forderung nach EU- und Euro-Austritt ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene",
+      "published_date": "2026-10-05T00:27:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zustand der Koalition: Merz: «Wir müssen in der Regierung zusammenbleiben»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/05/merz-wir-muessen-in-der-regierung-zusammenbleiben",
+      "published_date": "2026-10-04T22:25:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+      "published_date": "2026-10-04T20:42:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian drone hits key bridge in Kyiv on German chancellor's visit – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/04/russian-drone-hits-key-bridge-in-kyiv-on-german-chancellors-visit-video",
+      "published_date": "2026-10-04T18:30:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gefährliche Kiew-Reise: Merz unterstützt Ukraine – und appelliert an Putin",
       "source": "ZEIT Online",
@@ -60,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany news: Many believe Merkel more capable than Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-04T08:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Germany's Merz in Kyiv for talks with Zelensky",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261004/germanys-merz-in-kyiv-for-talks-with-zelensky",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Energiekrise: USA haben Diesel-Exportstopp laut Donald Trump nie ernsthaft geplant",
+      "title": "Beinahe-Katastrophe: Augenzeuge von Flugdrama: «Im Cockpit war niemand»",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/usa-diesel-exportstopp-donald-trump-g7-europa",
-      "published_date": "2026-10-02T23:14:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7-Staaten: Reiche sieht Energiereserve auch nach G7-Freigabe ausreichend gedeckt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/g7-oelreserven-diesel-iea-katharina-reiche",
-      "published_date": "2026-10-02T19:56:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-      "published_date": "2026-10-02T16:01:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Half of Europe witnessed record heat stress this summer — EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/half-of-europe-witnessed-record-heat-stress-this-summer-eu/a-79514799?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T11:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Reform row raises fears for Merz's coalition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-02T09:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-10/05/augenzeuge-von-flugdrama-im-cockpit-war-niemand",
+      "published_date": "2026-10-04T23:48:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg gegen die Ukraine: Deutsche Rüstungsfirmen vereinbaren Milliardenkooperationen",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Abzug der Bundeswehr: Letzte Bundeswehrsoldaten aus Nordirak zurückgekehrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/bundeswehr-abzug-irak-kurdistan-peschmerga",
-      "published_date": "2026-10-01T16:52:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
@@ -365,20 +365,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/audio/2026/sep/28/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future-podcast",
       "published_date": "2026-09-28T04:00:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Robert Habeck: Dafür, dass er weg ist, ist er ganz schön da",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-09/robert-habeck-caren-miosga-wirtschaftsminister-gruene-usa",
-      "published_date": "2026-09-28T01:09:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energiewende: Studie: Europas Firmen für mehr Investitionen in Erneuerbare",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/28/studie-europas-firmen-fuer-mehr-investitionen-in-erneuerbare",
-      "published_date": "2026-09-28T01:00:10+00:00",
       "category": "Energy"
     },
     {
@@ -522,6 +508,48 @@
       "category": "Economy"
     },
     {
+      "title": "Ukraine war briefing: Germany’s Merz pledges €1bn in military aid to Kyiv as Russia ramps up attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/ukraine-war-briefing-germanys-merz-pledges-1bn-in-military-aid-to-kyiv-as-russia-ramps-up-attacks",
+      "published_date": "2026-10-05T01:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil election: Bolsonaro and Lula head to runoff",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T00:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katherina Reiche: Linke zieht gegen Ministerin Reiche vor Bundesverfassungsgericht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/katherina-reiche-die-linke-klage-innenministerin-sachsen",
+      "published_date": "2026-10-04T23:01:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-04T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-04T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sachsen-Anhalt: Sven Schulze schließt CDU-Unterstützung bei Siegmund-Wahl aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/ministerpraesidentenwahl-sachsen-anhalt-afd-cdu-ulrich-siegmund-sven-schulze-bsw",
+      "published_date": "2026-10-04T20:28:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Brandmauer: Koalitionsfraktionen widersprechen Rhein bei Ausschussposten für AfD",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-10/ausschussvorsitze-bundestag-afd-boris-rhein-cdu",
@@ -617,48 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-03T16:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women given free cycling shorts to prevent upskirting on Oktoberfest amusement ride",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/women-given-free-cycling-shorts-prevent-upskirting-oktoberfest-amusement-ride-teufelsrad-germany",
-      "published_date": "2026-10-03T15:10:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Testspiel: Hannover 96 siegt beim Debüt von Sandro Wagner",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/03/hannover-96-siegt-beim-debuet-von-sandro-wagner",
-      "published_date": "2026-10-03T14:55:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demonstrationen: Tausende bei Demo in Stuttgart gegen Aufrüstung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/03/tausende-bei-demo-in-stuttgart-gegen-aufruestung",
-      "published_date": "2026-10-03T14:49:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kundgebung in Fürstenwalde: AfD-Landeschef nennt Ziel von 50 Prozent für Landtagswahl",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/03/afd-landeschef-nennt-ziel-von-50-prozent-fuer-landtagswahl",
-      "published_date": "2026-10-03T14:45:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "published_date": "2026-10-03T14:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Massive protests after housing bills voted down",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T14:18:00+00:00",
       "category": "Local Events"
     }
   ]
