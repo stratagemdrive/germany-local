@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-06T02:36:25.441882+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-06T17:00:39.884593+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "France’s conundrum: How to cut spending amid protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T16:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+      "published_date": "2026-10-06T14:38:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Are the EU's new rules on AI enough to protect Europeans?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261006/are-the-eus-new-rules-on-ai-enough-to-protect-europeans",
+      "published_date": "2026-10-06T07:08:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261006/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-143",
+      "published_date": "2026-10-06T06:33:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham’s surprise EU-turn could deliver the Tories from a generational mess | Gaby Hinsliff",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/andy-burnham-eu-tories-kemi-badenoch-brexit",
+      "published_date": "2026-10-06T05:00:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Australia's migrant policy offers lessons for EU and US",
       "source": "Deutsche Welle",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "title": "Germany is shaken by an espionage and treason scandal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T14:24:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T14:45:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "title": "Germany is shaken by an espionage and treason scandal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T09:30:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T14:45:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-04T09:30:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T13:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Many believe Merkel more capable than Merz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T08:29:00+00:00",
-      "category": "Diplomacy"
+      "title": "Germany arrests former intelligence chief over alleged spying",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
+      "published_date": "2026-10-06T11:57:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Many believe Merkel more capable than Merz",
+      "title": "Nigerian military plane crash kills all 25 on board",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-04T08:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T11:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-German spy chief arrested for espionage and treason",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261006/ex-german-spy-chief-arrested-for-espionage-and-treason",
+      "published_date": "2026-10-06T11:15:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T09:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T09:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Kyiv claims half of Russia’s oil refining capacity destroyed",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Beinahe-Katastrophe: Augenzeuge von Flugdrama: «Im Cockpit war niemand»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/05/augenzeuge-von-flugdrama-im-cockpit-war-niemand",
-      "published_date": "2026-10-04T23:48:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Deutsche Rüstungsfirmen vereinbaren Milliardenkooperationen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-10-04T15:29:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
+      "title": "Pedro Sánchez is a master of the political comeback. But calling a snap election in Spain may be a gamble too far | Paolo Gerbaudo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin",
-      "published_date": "2026-10-04T10:53:22+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/pedro-sanchez-snap-election-spain-economy-green-transition-progressives",
+      "published_date": "2026-10-06T14:57:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Latvia election: Pro-Ukraine PM Kulbergs set to retain power after historic victory for his United List party",
+      "title": "Nobel Physics Prize goes to Francis Halzen for neutrino work",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T08:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-04T03:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aufwuchs der Bundeswehr: Ein neuer Marinehafen in Emden – Notwendigkeit oder Irrweg?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/04/ein-neuer-marinehafen-in-emden-notwendigkeit-oder-irrweg",
-      "published_date": "2026-10-04T02:00:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv to increase oil refinery attacks because of Moscow’s winter strategy, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
-      "published_date": "2026-10-04T01:49:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T21:55:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T09:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
@@ -368,11 +382,39 @@
       "category": "Energy"
     },
     {
-      "title": "Spain grows fruit and vegetables for Europe — but it's running out of water",
+      "title": "Unemployment and the rise of the Nazis | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/unemployment-and-the-rise-of-the-nazis",
+      "published_date": "2026-10-06T16:55:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Erste Klagen verhandelt: Landarztquote: Gericht hält 250.000-Euro-Strafe für rechtens",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/06/gericht-prueft-erstmals-landarztquoten-vertraege",
+      "published_date": "2026-10-06T16:42:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Are young people in Germany better off in a traineeship or university programme?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261006/are-young-people-in-germany-better-off-in-a-traineeship-or-university-programme",
+      "published_date": "2026-10-06T15:04:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Norwegian princess Märtha Louise and husband sue ex-friends for ‘betrayal of trust’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
+      "published_date": "2026-10-06T13:59:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France: Trade unions join students in major demonstration",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-09-29T09:51:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T08:51:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "3,7 Millionen Beschäftigte: Inflation und Autokrise: Metall-Tarifrunde wird kompliziert",
@@ -480,178 +522,143 @@
       "category": "Economy"
     },
     {
-      "title": "North and South Korea trade accusations over landmines that injured three soldiers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T13:57:00+00:00",
-      "category": "Economy"
+      "title": "Clashes in France as 250,000 people join high school protests – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/06/europe-french-school-protests-paris-germany-afd-bulgaria-drones-russia-ukraine-latest-news-updates",
+      "published_date": "2026-10-06T16:52:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germans' biggest fear is the high cost of living, an annual study finds",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-01T09:46:00+00:00",
-      "category": "Economy"
+      "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+      "published_date": "2026-10-06T16:23:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germans' biggest fear is the high cost of living, an annual study finds",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T09:46:00+00:00",
-      "category": "Economy"
+      "title": "Kein Halt in Hamburg: Protest aus MV gegen ICE-Fahrplan der Deutschen Bahn",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/06/protest-aus-mv-gegen-ice-fahrplan-der-deutschen-bahn",
+      "published_date": "2026-10-06T16:21:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "title": "Tobias Rausch: Vier Stimmen für die AfD – kamen sie aus der CDU?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-10/tobias-rausch-landtagspraesident-sachsen-nachrichtenpodcast",
+      "published_date": "2026-10-06T16:10:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtag von Sachsen-Anhalt: AfD stellt Präsident und Vize – SPD-Kandidat verfehlt Mehrheit klar",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
+      "published_date": "2026-10-06T16:09:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "State parliament elects Germany’s first far-right speaker since second world war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+      "published_date": "2026-10-06T15:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Munich up against at least six competitors for 2036 Olympics",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T14:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T14:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where in Germany rental costs are rising fastest",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261001/today-in-germany-a-roundup-of-the-latest-news-on-thursday-138",
-      "published_date": "2026-10-01T06:31:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wegen schärferer Sparpläne: Volkswagen kündigt fast alle Tarifverträge",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/30/arbeitnehmer-vw-will-reihenweise-tarifvertraege-kuendigen",
-      "published_date": "2026-09-30T16:17:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sachsen-Anhalt: AfD will Landtagspräsidenten in Sachsen-Anhalt stellen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/06/afd-will-landtagspraesidenten-in-sachsen-anhalt-stellen",
-      "published_date": "2026-10-06T02:00:31+00:00",
+      "url": "https://www.thelocal.de/20261006/where-in-germany-rental-costs-are-rising-fastest-and-slowest",
+      "published_date": "2026-10-06T13:54:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "ICC unseals Taliban leaders' warrants over persecuting women",
+      "title": "What do we know about death of anti-plague institute worker in Russia and is there a wider risk?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/what-do-we-know-death-darya-shipilova-anti-plague-institute-russia-wider-risk",
+      "published_date": "2026-10-06T13:52:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How dilapidated are French schools and how bad is inequality in the education system?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/how-dilapidated-french-schools-inequality-education-system-protests",
+      "published_date": "2026-10-06T13:52:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As more Iranian women reject hijab rules, regime looks at new ways to force compliance",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T21:07:00+00:00",
+      "url": "https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T13:50:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
-      "published_date": "2026-10-05T19:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Festwoche: 80 Jahre NRW-Landtag: Lichtkunst mit Zitaten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/05/80-jahre-nrw-landtag-lichtkunst-mit-zitaten",
-      "published_date": "2026-10-05T18:33:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark: Data of millions compromised in hack",
+      "title": "Germany's far-right AfD makes history again in Saxony-Anhalt",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T17:46:00+00:00",
+      "url": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T13:27:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-      "published_date": "2026-10-05T15:59:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for national day of school protests as boy loses hand",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
-      "published_date": "2026-10-05T15:50:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine says Russian drones behind Turkish ship sinking",
+      "title": "Germany's far-right AfD makes history again in Saxony-Anhalt",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T15:49:00+00:00",
+      "url": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T13:27:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "US closely monitoring case of lab worker who ‘possibly’ died of plague in Siberia, says Rubio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
-      "published_date": "2026-10-05T15:36:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia, New Zealand probe Flydubai pilot's time there",
+      "title": "Spain approves new emergency housing measures",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T15:02:00+00:00",
+      "url": "https://www.dw.com/en/spain-approves-new-emergency-housing-measures/a-79564344?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T13:06:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
-      "published_date": "2026-10-05T14:55:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
-      "published_date": "2026-10-05T14:09:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian authorities seize 377 exotic animals hidden in car at Sicily port – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/05/italian-authorities-seize-377-exotic-animals-hidden-in-car-at-sicily-port-video",
-      "published_date": "2026-10-05T14:05:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-05T14:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T14:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man caught with 300 tortoises and 77 parrots bound for Malta at Sicilian port",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/05/man-caught-with-tortoises-parrots-bound-malta-sicilian-port",
-      "published_date": "2026-10-05T13:52:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
-      "published_date": "2026-10-05T12:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T10:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-05T10:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Saxony-Anhalt's parliament elect a far-right president?",
+      "title": "Germany's far-right AfD gains first ever state parliament speaker",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261005/will-saxony-anhalts-parliament-elect-a-far-right-president",
-      "published_date": "2026-10-05T10:05:42+00:00",
+      "url": "https://www.thelocal.de/20261006/germanys-far-right-afd-gains-first-ever-state-parliament-speaker",
+      "published_date": "2026-10-06T11:23:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's ex-spy chief arrested for espionage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T08:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's ex-spy chief arrested for espionage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T08:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T06:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T06:21:00+00:00",
       "category": "Local Events"
     }
   ]
