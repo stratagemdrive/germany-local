@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-05T19:27:56.812417+00:00",
+  "last_updated": "2026-10-06T02:36:25.441882+00:00",
   "story_count": 93,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ukraine war briefing: Kyiv claims half of Russia’s oil refining capacity destroyed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/ukraine-war-briefing-kyiv-claims-half-of-russias-oil-refining-capacity-destroyed",
+      "published_date": "2026-10-06T01:27:03+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Johann Wadephul: Wadephul erwartet wachsende territoriale Besitzansprüche Russlands",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-10/johann-wadephul-cdu-russland-territoriale-ansprueche-georgien-moldau-baltikum",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T18:49:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
@@ -373,6 +373,20 @@
       "url": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-09-29T09:51:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "3,7 Millionen Beschäftigte: Inflation und Autokrise: Metall-Tarifrunde wird kompliziert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/06/inflation-und-autokrise-metall-tarifrunde-wird-kompliziert",
+      "published_date": "2026-10-06T02:00:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vorzeitige Rente: Abschläge bei vorzeitiger Rente steigen schnell",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/vorzeitige-rente-abschlaege-altersgrenze-rentenhoehe",
+      "published_date": "2026-10-06T01:13:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Euro plummets against US dollar: has the next financial crisis begun?",
@@ -501,18 +515,18 @@
       "category": "Economy"
     },
     {
-      "title": "Umstrittene Aktion: Swingerparty von Stadtrat Ferrat - 750 Euro Ordnungsgeld?",
+      "title": "Sachsen-Anhalt: AfD will Landtagspräsidenten in Sachsen-Anhalt stellen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-09/30/swingerparty-von-stadtrat-ferrat-750-euro-ordnungsgeld",
-      "published_date": "2026-09-30T16:17:22+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-10/06/afd-will-landtagspraesidenten-in-sachsen-anhalt-stellen",
+      "published_date": "2026-10-06T02:00:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How Europe’s housing crisis is fuelling a new movement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/30/how-europes-housing-crisis-is-fuelling-a-new-movement",
-      "published_date": "2026-09-30T14:45:43+00:00",
-      "category": "Economy"
+      "title": "ICC unseals Taliban leaders' warrants over persecuting women",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-05T21:07:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote",
@@ -638,20 +652,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261005/will-saxony-anhalts-parliament-elect-a-far-right-president",
       "published_date": "2026-10-05T10:05:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish PM Pedro Sánchez calls snap election – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/05/spanish-pm-pedro-sanchez-calls-snap-election-video",
-      "published_date": "2026-10-05T09:09:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's mental health crisis in the wake of Oct. 7 attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T08:52:00+00:00",
       "category": "Local Events"
     }
   ]
