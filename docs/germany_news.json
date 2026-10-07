@@ -1,12 +1,26 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-06T17:00:39.884593+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-07T01:54:44.949573+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Plant trees – and make sure they are watered | Brief letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/06/plant-trees-and-make-sure-they-are-watered",
+      "published_date": "2026-10-06T16:55:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France’s conundrum: How to cut spending amid protests",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T16:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France’s conundrum: How to cut spending amid protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-06T16:49:00+00:00",
       "category": "Diplomacy"
     },
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
-      "published_date": "2026-10-04T14:35:31+00:00",
-      "category": "Diplomacy"
+      "title": "Germany shaken by espionage and treason allegations",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T18:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "title": "Germany shaken by espionage and treason allegations",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-04T14:24:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T18:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU seeks ways to make expansion more palatable to members",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T18:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU seeks ways to make expansion more palatable to members",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-06T18:02:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany is shaken by an espionage and treason scandal",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Spy chief warns Russia conflict risk growing",
+      "title": "Naked Trump statue goes on display in Strasbourg",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-05T12:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Spy chief warns Russia conflict risk growing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T12:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel observes October 7 anniversary with national memorial day",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T08:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin's escalating bombing campaign won't break Ukrainians' resolve. History shows that it's doomed to fail | Rajan Menon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/putin-escalating-bombing-campaign-ukrainian-resolve-russia-invasion",
-      "published_date": "2026-10-05T07:00:50+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T18:18:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pedro Sánchez is a master of the political comeback. But calling a snap election in Spain may be a gamble too far | Paolo Gerbaudo",
@@ -380,6 +387,13 @@
       "url": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
       "published_date": "2026-09-30T06:00:13+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The Guardian view on the French school protests: the political class needs to heed the voice of students | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-french-school-protests-the-political-class-needs-to-heed-the-voice-of-students",
+      "published_date": "2026-10-06T18:31:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Unemployment and the rise of the Nazis | Letter",
@@ -515,11 +529,39 @@
       "category": "Economy"
     },
     {
-      "title": "No 10 clarifies that Andy Burnham not siding with Manchester City over finance scandal – UK politics live",
+      "title": "Landtagsauflösung: AfD will die Selbstauflösung des Thüringer Landtags",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/07/afd-will-die-selbstaufloesung-des-thueringer-landtags",
+      "published_date": "2026-10-07T01:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christa Pike awake after failed Tennessee execution: lawyers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T23:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Munich up against at least six competitors for 2036 Olympics",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-06T19:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riot police fire teargas as 250,000 take part in schools protests across France",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
-      "published_date": "2026-10-01T16:31:59+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
+      "published_date": "2026-10-06T17:39:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia denies anti-plague measures after pneumonia death",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-denies-anti-plague-measures-after-pneumonia-death/a-79567922?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-06T17:02:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Clashes in France as 250,000 people join high school protests – Europe live",
@@ -624,41 +666,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/spain-approves-new-emergency-housing-measures/a-79564344?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-06T13:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's far-right AfD gains first ever state parliament speaker",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261006/germanys-far-right-afd-gains-first-ever-state-parliament-speaker",
-      "published_date": "2026-10-06T11:23:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's ex-spy chief arrested for espionage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-06T08:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's ex-spy chief arrested for espionage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T08:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-06T06:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T06:21:00+00:00",
       "category": "Local Events"
     }
   ]
