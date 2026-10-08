@@ -1,8 +1,92 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-08T02:22:22.335808+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-08T17:40:36.010270+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Abschreckung gegen Russland: Nato kündigt Atomwaffen-Übung an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/08/nato-kuendigt-atomwaffen-uebung-an",
+      "published_date": "2026-10-08T17:10:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will they, won’t they? EU flirts with UK rejoining - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/oct/08/will-they-wont-they-eu-flirts-with-uk-rejoining-the-latest",
+      "published_date": "2026-10-08T16:56:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Come back’: EU flirts with UK rejoining – The Latest – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/08/come-back-eu-flirts-with-uk-rejoining-the-latest-podcast",
+      "published_date": "2026-10-08T16:32:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T16:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-08T16:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two Latvian men arrested for trespass offences at RAF airbase – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+      "published_date": "2026-10-08T16:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU envoy in Beijing for talks to calm trade tensions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-08T13:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T13:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Opposition doubles down against poll chief after detentions",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T12:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's fractious ruling coalition hails 'constructive' talks",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261008/germanys-fractious-ruling-coalition-hails-constructive-talks",
+      "published_date": "2026-10-08T11:52:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany is right to rearm. But Europe has well-founded fears about that | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/08/germany-rearmament-europe-berlin-allies-military-spending",
+      "published_date": "2026-10-08T04:00:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europäischer Rechnungshof: Rechnungshof sieht weiter hohe Fehlerquote bei Ausgabe von EU-Geldern",
       "source": "ZEIT Online",
@@ -60,88 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "German politicians warn of antisemitism on October 7 anniversary",
+      "title": "How the Houthi conflict is affecting countries along Africa's Red Sea coast — and beyond",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T16:04:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T16:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz rails against extremism, AfD sympathizers",
+      "title": "\"Exploited State Secrets for Profit\": German Intelligence Rocked by Espionage Arrest of Former Chief",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/germany/exploited-state-secrets-for-profit-german-intelligence-rocked-by-espionage-arrest-of-former-chief-a-06a62002-0fc7-4bc0-b7c7-5e6e9c829d0f#ref=rss",
+      "published_date": "2026-10-08T13:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-07T15:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T11:45:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz rails against extremism, AfD sympathizers",
+      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T15:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-08T11:45:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU enlargement: European Commission tables reforms to prepare bloc for new members",
+      "title": "How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T15:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T11:40:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU enlargement: European Commission tables reforms to prepare bloc for new members",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-07T15:05:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German Chancellor marks October 7th with vow to fight antisemitism",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261007/german-chancellor-marks-october-7th-with-vow-to-fight-antisemitism",
-      "published_date": "2026-10-07T13:29:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Plant trees – and make sure they are watered | Brief letters",
+      "title": "Good night, and good lick: what can we expect from George Clooney’s restaurant?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/06/plant-trees-and-make-sure-they-are-watered",
-      "published_date": "2026-10-06T16:55:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/oct/08/george-clooney-italian-restaurant-provence-france",
+      "published_date": "2026-10-08T11:25:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "France’s conundrum: How to cut spending amid protests",
+      "title": "South Korea recalls Ukraine ambassador amid POW dispute",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T16:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T10:55:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "France’s conundrum: How to cut spending amid protests",
+      "title": "South Korea recalls Ukraine ambassador amid POW dispute",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-06T16:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-08T10:55:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T10:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-08T10:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German Bundeswehr: A new naval port in Emden aims to enhance Germany's defense capabilities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-08T09:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German Bundeswehr: A new naval port in Emden aims to enhance Germany's defense capabilities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T09:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Covid, Brexit and Liz Truss mini-budget led to lasting decline in mental health, study finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
-      "published_date": "2026-10-06T14:38:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are the EU's new rules on AI enough to protect Europeans?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261006/are-the-eus-new-rules-on-ai-enough-to-protect-europeans",
-      "published_date": "2026-10-06T07:08:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261006/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-143",
-      "published_date": "2026-10-06T06:33:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study",
+      "published_date": "2026-10-08T09:00:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
@@ -190,97 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-07T12:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shell expects refineries to almost double the profit from every barrel of fuel made",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
-      "published_date": "2026-10-07T08:30:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘The nurse used the torch on her phone to do the op’: hospitals stripped of resources in Ukraine’s occupied territories",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/the-nurse-used-the-torch-on-her-phone-to-do-the-op-hospitals-stripped-of-resources-in-ukraines-occupied-territories",
-      "published_date": "2026-10-07T08:00:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany shaken by espionage and treason allegations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-06T18:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany shaken by espionage and treason allegations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T18:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU seeks ways to make expansion more palatable to members",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T18:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU seeks ways to make expansion more palatable to members",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-06T18:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany is shaken by an espionage and treason scandal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-06T14:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany is shaken by an espionage and treason scandal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T14:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T13:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany arrests former intelligence chief over alleged spying",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
-      "published_date": "2026-10-06T11:57:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigerian military plane crash kills all 25 on board",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T11:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-German spy chief arrested for espionage and treason",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261006/ex-german-spy-chief-arrested-for-espionage-and-treason",
-      "published_date": "2026-10-06T11:15:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-06T09:41:00+00:00",
       "category": "Military"
     },
     {
@@ -361,25 +361,39 @@
       "category": "Energy"
     },
     {
-      "title": "Trump unveils South Korean investment in US energy projects",
+      "title": "India faces water and power shortages after weak monsoon",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T13:25:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/india-faces-water-and-power-shortages-after-weak-monsoon/a-79599540?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T14:40:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Weakened US fuel-efficiency rules and promises of cheaper cars could see drivers pay higher running costs while also increasing carbon emissions.",
+      "title": "Early-onset cancer rising worldwide: Causes, risk, prevention",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T11:05:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T13:26:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Inside the undersea kingdom: the secret, sinister battle to control what lies beneath the waves",
+      "title": "Fresh protests sweep Madrid after death of Maricarmen, symbol of Spain's housing crisis – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
-      "published_date": "2026-10-01T11:00:49+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/video/2026/oct/08/fresh-protests-sweep-madrid-after-death-of-maricarmen-symbol-of-spains-housing-crisis-video",
+      "published_date": "2026-10-08T13:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T08:38:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-08T08:38:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "China's Golden Week reveals cautious consumer spending despite travel surge",
@@ -487,39 +501,109 @@
       "category": "Economy"
     },
     {
-      "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
-      "published_date": "2026-10-03T10:00:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'There’s no such thing as democracy': Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
-      "published_date": "2026-10-03T06:50:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wiedervereinigung: Kluft zwischen Einkommen in Ost- und Westdeutschland nimmt weiter zu",
+      "title": "Partei: SPD-Fraktionschef Politze tritt zurück",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/einkommensunterschied-ost-westdeutschland-berlin-einkommen-statistisches-bundesamt",
-      "published_date": "2026-10-03T00:37:46+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
+      "published_date": "2026-10-08T17:37:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Minister denies UK faces diesel shortage after Trump threatens to ban exports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/02/uk-is-not-facing-diesel-shortage-despite-fears-of-trump-export-ban-minister-says",
-      "published_date": "2026-10-02T10:31:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "On October 3, Latvians will elect a new parliament ― with Russia looming large over the campaign",
+      "title": "France: Police clash with protesters at Paris student rally",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/on-october-3-latvians-will-elect-a-new-parliament-―-with-russia-looming-large-over-the-campaign/a-79477614?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-01T17:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T17:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: Linke, Grüne und SPD in Berlin drohen Antisemiten mit Parteiausschluss",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/organisierte-kriminalitaet-berlin-clans-ferat-kocak-linke-gxe",
+      "published_date": "2026-10-08T16:19:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rodrigo Duterte ruled fit to stand trial by ICC judges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T15:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands to march in Madrid after death of evicted pensioner Maricarmen",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
+      "published_date": "2026-10-08T15:15:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French students continue protests, saying ministers’ pledges not enough",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
+      "published_date": "2026-10-08T15:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police search for puma near Munich airport",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261008/police-search-for-puma-near-munich-airport",
+      "published_date": "2026-10-08T14:37:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "published_date": "2026-10-08T14:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian opposition cries foul as Meloni’s electoral reform passed in secret ballot",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/08/giorgia-meloni-italy-wins-bonus-seat-electoral-reform-vote",
+      "published_date": "2026-10-08T13:42:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Sánchez convince Spanish voters he is their best hope for fairer housing?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/08/pedro-sanchez-spanish-voters-housing-crisis-analysis",
+      "published_date": "2026-10-08T12:16:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police arrest 5 suspects over Renoir museum theft",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T11:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T10:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ryanair scraps all flights from Bremen airport from spring 2027",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261008/ryanair-scraps-all-flights-from-bremen-airport-from-spring-2027",
+      "published_date": "2026-10-08T09:03:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261008/today-in-germany-a-roundup-of-the-latest-news-on-thursday-139",
+      "published_date": "2026-10-08T06:31:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A death, a plagiarism scandal and a quest for revenge: the bizarre tale of Otto Z",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
+      "published_date": "2026-10-08T04:00:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nach der Wahl in Berlin: Regierungsbildung in Berlin – wie geht es weiter?",
@@ -554,111 +638,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-07T21:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
-      "published_date": "2026-10-07T20:57:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO says it does not have ‘full picture’ from Russia following suspected plague death",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
-      "published_date": "2026-10-07T20:46:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T18:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister denies police brutality as student protests continue across France – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
-      "published_date": "2026-10-07T17:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7. Oktober: Palästina-Demo in Berlin: Thunberg bei Protest in Kreuzberg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg",
-      "published_date": "2026-10-07T17:17:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sachsen-Anhalt: SPD beendet Initiative für überparteiliche Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/07/spd-beendet-initiative-fuer-ueberparteiliche-regierung",
-      "published_date": "2026-10-07T17:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Lies: AfD-Politiker als Landtagspräsident «keine Normalität»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/07/lies-afd-politiker-als-landtagspraesident-keine-normalitaet",
-      "published_date": "2026-10-07T17:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German court orders detention of former intelligence chief after spying arrest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd",
-      "published_date": "2026-10-07T17:03:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schuletat: Protest gegen Kürzungen im Hamburger Bildungsetat wächst",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/07/protest-gegen-kuerzungen-im-hamburger-bildungsetat-waechst",
-      "published_date": "2026-10-07T16:55:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kundgebungen in Frankfurt: Demos am Jahrestag des Hamas-Angriffs auf Israel",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/07/demos-am-jahrestag-des-hamas-angriffs-auf-israel",
-      "published_date": "2026-10-07T16:50:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police suspend use of stun grenades after high school protester loses hand",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
-      "published_date": "2026-10-07T16:12:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion in Kyiv as Russian missiles strike across Ukraine – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/07/explosion-in-kyiv-as-russian-missiles-strike-across-ukraine-video",
-      "published_date": "2026-10-07T15:44:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abuse in France: \"Is Anyone Thinking of the Children?\"",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/europe/abuse-in-france-is-anyone-thinking-of-the-children-a-04efcfff-d952-469b-879d-e8486cecd806#ref=rss",
-      "published_date": "2026-10-07T15:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why music in Iran is more than just entertainment",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T14:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court orders German ex-spy chief kept in jail following treason arrest",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261007/court-orders-german-ex-spy-chief-kept-in-jail-following-treason-arrest",
-      "published_date": "2026-10-07T14:57:54+00:00",
       "category": "Local Events"
     }
   ]
