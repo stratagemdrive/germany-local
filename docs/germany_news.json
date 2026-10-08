@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-07T17:37:36.239234+00:00",
+  "last_updated": "2026-10-08T02:22:22.335808+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Europäischer Rechnungshof: Rechnungshof sieht weiter hohe Fehlerquote bei Ausgabe von EU-Geldern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/europaeischer-rechnungshof-fehlerquote-eu-ausgaben-corona-aufbaufonds-schulden",
+      "published_date": "2026-10-08T00:33:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Product Act: Verbände fordern strengere EU-Regeln für Produkte aus Drittstaaten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/european-product-act-eu-gesetze-e-commerce-nicht-eu-staaten",
+      "published_date": "2026-10-07T23:52:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio in Greece digs into past to tout Trump’s ‘America first’ approach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/rubio-greece-trump-america-first-speech",
+      "published_date": "2026-10-07T22:05:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+      "published_date": "2026-10-07T19:38:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
       "source": "Deutsche Welle",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham’s surprise EU-turn could deliver the Tories from a generational mess | Gaby Hinsliff",
+      "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/andy-burnham-eu-tories-kemi-badenoch-brexit",
-      "published_date": "2026-10-06T05:00:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Australia's migrant policy offers lessons for EU and US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T19:26:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz, Macron seek tougher EU measures against unfair trade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-05T17:23:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz, Macron seek tougher EU measures against unfair trade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T17:23:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+      "published_date": "2026-10-07T20:31:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
@@ -273,13 +280,6 @@
       "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-06T09:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-06T09:41:00+00:00",
       "category": "Military"
     },
@@ -522,6 +522,62 @@
       "category": "Economy"
     },
     {
+      "title": "Nach der Wahl in Berlin: Regierungsbildung in Berlin – wie geht es weiter?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/08/regierungsbildung-in-berlin-wie-geht-es-weiter",
+      "published_date": "2026-10-08T02:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neue Show in Stuttgart: Julia lässt Romeo hinter sich – Musical startet in Stuttgart",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/08/julia-laesst-romeo-hinter-sich-musical-startet-in-stuttgart",
+      "published_date": "2026-10-08T02:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sachsen-Anhalt: Stimmen für AfD? Radtke fordert Parteiausschlussverfahren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/08/stimmen-fuer-afd-radtke-fordert-parteiausschlussverfahren",
+      "published_date": "2026-10-08T02:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil: Thousands of students march against Bolsonaro",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T00:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christa Pike 'angry and confused' after botched execution",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-07T21:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
+      "published_date": "2026-10-07T20:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO says it does not have ‘full picture’ from Russia following suspected plague death",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
+      "published_date": "2026-10-07T20:46:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-07T18:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Minister denies police brutality as student protests continue across France – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
@@ -603,62 +659,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261007/court-orders-german-ex-spy-chief-kept-in-jail-following-treason-arrest",
       "published_date": "2026-10-07T14:57:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could the UK really rejoin the EU?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/could-the-uk-really-rejoin-the-eu",
-      "published_date": "2026-10-07T14:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor of Turkish opposition stronghold defects to Erdoğan’s party amid political crackdown",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/cemil-tugay-mayor-izmir-defects-akp-erdogan-turkey",
-      "published_date": "2026-10-07T13:54:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Sudan's road to elections remains uncertain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T13:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Hamburg really Germany's friendliest city?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261007/is-hamburg-really-germanys-friendliest-city",
-      "published_date": "2026-10-07T13:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KEY DATES: All the school holiday dates in Germany for 2026 and 2027",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261007/key-dates-all-the-school-holiday-dates-for-2026-27-in-germany",
-      "published_date": "2026-10-07T12:51:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
-      "published_date": "2026-10-07T12:43:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Nothing is certain': Has Germany's firewall against the far-right finally cracked?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261007/nothing-is-certain-did-germanys-firewall-just-crumble-in-saxony-anhalt",
-      "published_date": "2026-10-07T11:48:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Did CDU lawmakers support the far-right AfD?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-07T11:11:00+00:00",
       "category": "Local Events"
     }
   ]
