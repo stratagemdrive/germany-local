@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-08T17:40:36.010270+00:00",
-  "story_count": 91,
+  "last_updated": "2026-10-09T02:40:09.231246+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Bundestag: Corona-Kommission hofft auf Empfehlungen von Bürgern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/09/corona-kommission-hofft-auf-empfehlungen-von-buergern",
+      "published_date": "2026-10-09T02:30:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keine Berlin-Ambitionen: Günther zieht Schleswig-Holstein Berlin vor und schätzt Merz",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/09/guenther-zieht-schleswig-holstein-berlin-vor-und-schaetzt-merz",
+      "published_date": "2026-10-09T02:13:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-08T22:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T22:53:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Abschreckung gegen Russland: Nato kündigt Atomwaffen-Übung an",
       "source": "ZEIT Online",
@@ -116,37 +144,37 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-07T16:39:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russland - Ukraine: Außenminister Wadephul verschärft Tonlage gegenüber Putin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/09/aussenminister-wadephul-verschaerft-tonlage-gegenueber-putin",
+      "published_date": "2026-10-09T02:30:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
+      "title": "US to livestream Fort Hood shooter's execution: Pentagon",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T16:39:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T23:48:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
+      "title": "UK: Two Latvian men arrested for breaking into RAF base",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-07T16:39:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German politicians warn of antisemitism on October 7 anniversary",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-07T16:04:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T22:19:00+00:00",
+      "category": "Military"
     },
     {
       "title": "How the Houthi conflict is affecting countries along Africa's Red Sea coast — and beyond",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T16:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-08T16:11:00+00:00",
       "category": "Military"
     },
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: AfD und BSW in Sachsen-Anhalt fordern Stopp deutscher Ukrainehilfe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/waffenhilfe-ukraine-afd-buendnis-sahra-wagenknecht-friedrich-merz-gxe",
-      "published_date": "2026-10-07T16:39:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
-      "published_date": "2026-10-07T16:22:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German spy scandal threatens national security",
+      "title": "US will not resume strikes on Iran before midterms — Trump",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-07T12:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German spy scandal threatens national security",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T12:39:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T18:18:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
@@ -501,6 +508,34 @@
       "category": "Economy"
     },
     {
+      "title": "Ermittlungen: SPD im Landtag sucht nach Politze-Rücktritt neue Spitze",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/09/spd-im-landtag-sucht-nach-politze-ruecktritt-neue-spitze",
+      "published_date": "2026-10-09T02:30:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man injured after New York shooting involving ICE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-09T00:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutsche Bahn: Bundestag ebnet Weg für neue Bahntrasse Hannover–Hamburg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
+      "published_date": "2026-10-08T23:07:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa: Anti-migrant protests turn violent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-08T18:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Partei: SPD-Fraktionschef Politze tritt zurück",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
@@ -610,34 +645,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/08/regierungsbildung-in-berlin-wie-geht-es-weiter",
       "published_date": "2026-10-08T02:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neue Show in Stuttgart: Julia lässt Romeo hinter sich – Musical startet in Stuttgart",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/08/julia-laesst-romeo-hinter-sich-musical-startet-in-stuttgart",
-      "published_date": "2026-10-08T02:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sachsen-Anhalt: Stimmen für AfD? Radtke fordert Parteiausschlussverfahren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/08/stimmen-fuer-afd-radtke-fordert-parteiausschlussverfahren",
-      "published_date": "2026-10-08T02:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil: Thousands of students march against Bolsonaro",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T00:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christa Pike 'angry and confused' after botched execution",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T21:23:00+00:00",
       "category": "Local Events"
     }
   ]
