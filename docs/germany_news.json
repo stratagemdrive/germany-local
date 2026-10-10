@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-10T01:59:52.344295+00:00",
-  "story_count": 91,
+  "last_updated": "2026-10-10T16:04:34.055043+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Europäische Union: Merz lehnt neuen Entwurf für den EU-Haushalt ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/merz-eu-haushalt-einsparung",
+      "published_date": "2026-10-10T14:54:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Germany lock horns over long-term EU budget",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261010/france-germany-lock-horns-over-long-term-eu-budget",
+      "published_date": "2026-10-10T13:49:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-10T13:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T13:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany pursues new Russia sanctions despite US diesel deal",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261010/germany-pursues-new-russia-sanctions-despite-us-diesel-deal",
+      "published_date": "2026-10-10T10:56:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China, EU reach deal to 'moderate' China's car exports to EU",
       "source": "Deutsche Welle",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU envoy in Beijing for talks to calm trade tensions",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T14:42:00+00:00",
-      "category": "Diplomacy"
+      "title": "Rechtsextremismus in der Bundeswehr: Die Legende von der sauberen Bundeswehr",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/44/rechtsextremismus-bundeswehr-wehrmacht-michael-kuehnen-franco-a",
+      "published_date": "2026-10-10T15:58:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-08T13:23:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+      "published_date": "2026-10-10T14:45:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
+      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T13:23:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-10T12:02:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "India news: Opposition doubles down against poll chief after detentions",
+      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T12:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T12:02:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's fractious ruling coalition hails 'constructive' talks",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261008/germanys-fractious-ruling-coalition-hails-constructive-talks",
-      "published_date": "2026-10-08T11:52:01+00:00",
-      "category": "Diplomacy"
+      "title": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
+      "published_date": "2026-10-10T11:00:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
+      "published_date": "2026-10-10T10:00:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taiwan to boost military spending to 'deter war' with China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T09:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Alleged abuse victims at British military school in Germany tell of agonising fight for justice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/10/military-school-alleged-abuse-1980s-bunde-germany",
+      "published_date": "2026-10-10T09:00:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Kyiv blasts peace talks as just ‘smokescreen’ for Trump‘s Russian diesel deal",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Finland, the world's happiest nation, faces a glum winter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T08:12:00+00:00",
-      "category": "Military"
+      "title": "German green power workers protest planned subsidy cuts",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261010/german-green-power-workers-protest-planned-subsidy-cuts",
+      "published_date": "2026-10-10T14:07:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Finland, the world's happiest nation, faces a glum winter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-09T08:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russland - Ukraine: Außenminister Wadephul verschärft Tonlage gegenüber Putin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/aussenminister-wadephul-verschaerft-tonlage-gegenueber-putin",
-      "published_date": "2026-10-09T02:30:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to livestream Fort Hood shooter's execution: Pentagon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T23:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK: Two Latvian men arrested for breaking into RAF base",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T22:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Houthi conflict is affecting countries along Africa's Red Sea coast — and beyond",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T16:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T16:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Franz & Marie review – Woyzeck folk musical finds heart amid the horror",
+      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/oct/08/franz-marie-review-woyzeck",
-      "published_date": "2026-10-08T14:57:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "published_date": "2026-10-10T05:00:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Brussels: Rioters clash with police at anti-austerity rally",
@@ -501,6 +515,83 @@
       "category": "Economy"
     },
     {
+      "title": "Kulturstaatsminister: Weimer warnt SPD vor Koalition mit Linkspartei in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/weimer-berlin-linke-rot-gruen-rot-gxe",
+      "published_date": "2026-10-10T15:50:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fußball-Bundesliga: Union Berlin gelingt Befreiungsschlag: 1:0 gegen Elversberg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/10/union-berlin-gelingt-befreiungsschlag-1-0-gegen-elversberg",
+      "published_date": "2026-10-10T15:31:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blast reported at Saudi Arabia's Riyadh Airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T15:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterms: Women candidates could make history",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T11:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+      "published_date": "2026-10-10T11:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Powerful tornado in western Sicily leaves trail of devastation – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/10/powerful-tornado-in-western-sicily-leaves-trail-of-devastation-video",
+      "published_date": "2026-10-10T10:36:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angry French students take to the streets. British students don’t – and I think I know why | Kitty Sayers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/angry-french-students-protests-british-dont-why",
+      "published_date": "2026-10-10T09:45:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: How joining sports clubs helped me find my place in Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261010/inside-germany-how-joining-sports-clubs-helped-me-find-my-place-in-berlin",
+      "published_date": "2026-10-10T09:20:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
+      "published_date": "2026-10-10T09:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi. Follow live.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T03:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexico: Court finds three men guilty of murder of Australian, US surfers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T02:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Fußball: Eintracht Frankfurt vor Leipzig mit Systemfrage",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/10/eintracht-frankfurt-vor-leipzig-mit-systemfrage",
@@ -561,83 +652,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "published_date": "2026-10-09T16:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French mayor teargassed after shielding student protesters from police – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/09/french-mayor-teargassed-after-shielding-student-protesters-from-police-video",
-      "published_date": "2026-10-09T16:19:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polizei: SPD: Staatsregierung hinkt bei Polizei-Stellen hinterher",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/spd-staatsregierung-hinkt-bei-polizei-stellen-hinterher",
-      "published_date": "2026-10-09T16:17:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi coalition vows 'firm' response after airport attack kills 3",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T12:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Would you drink the kebab water in Berlin?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261009/would-you-drink-the-kebab-water-in-berlin",
-      "published_date": "2026-10-09T12:14:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nobody is listening to us’: on the school protest frontline, I heard why France’s students feel disowned | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/09/school-protest-france-students-political-class",
-      "published_date": "2026-10-09T11:48:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voting to begin in local elections in the Czech Republic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T11:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa pulls asylum directive after violent protests in Johannesburg, Durban",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests-in-johannesburg-durban/a-79605037?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T09:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia and Herzegovina will soon have a new Grand Mufti",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T08:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia and Herzegovina will soon have a new Grand Mufti",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-09T08:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261009/today-in-germany-a-roundup-of-the-latest-news-on-friday-143",
-      "published_date": "2026-10-09T06:34:13+00:00",
       "category": "Local Events"
     }
   ]
