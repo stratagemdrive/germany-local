@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-09T17:16:02.034059+00:00",
+  "last_updated": "2026-10-10T01:59:52.344295+00:00",
   "story_count": 91,
   "stories": [
     {
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ukraine war briefing: Kyiv blasts peace talks as just ‘smokescreen’ for Trump‘s Russian diesel deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-war-briefing-trumps-russian-diesel-deal-derided-as-weak-and-a-betrayal-of-ukraine-and-us-national-security",
+      "published_date": "2026-10-10T01:31:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+      "published_date": "2026-10-09T23:39:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump names new press secretary to succeed Karoline Leavitt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-09T23:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj wirft Trump wegen Dieseldeal mit Putin Schwäche vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-10-09T22:17:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-09T19:29:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Spionageverdacht gegen August Hanning: Wenn der Nebenjob zum Sicherheitsrisiko wird",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-skandal-pkgr-nebentaetigkeit-geheimdienst",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "\"Exploited State Secrets for Profit\": German Intelligence Rocked by Espionage Arrest of Former Chief",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/germany/exploited-state-secrets-for-profit-german-intelligence-rocked-by-espionage-arrest-of-former-chief-a-06a62002-0fc7-4bc0-b7c7-5e6e9c829d0f#ref=rss",
-      "published_date": "2026-10-08T13:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T11:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-08T11:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T11:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Good night, and good lick: what can we expect from George Clooney’s restaurant?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/08/george-clooney-italian-restaurant-provence-france",
-      "published_date": "2026-10-08T11:25:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Brussels: Rioters clash with police at anti-austerity rally",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/brussels-rioters-clash-with-police-at-anti-austerity-rally/a-79620594?maca=en-rss-en-all-1573-rdf",
@@ -359,6 +359,20 @@
       "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-03T17:16:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Schools crisis in France: Investment fails to inspire confidence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-09T19:52:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Schools crisis in France: Investment fails to inspire confidence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-09T19:52:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Hochschulen: Rund 1,5 Millionen Euro für Mainzer Forschungsprojekte",
@@ -487,18 +501,39 @@
       "category": "Economy"
     },
     {
-      "title": "Vorzeitige Rente: Abschläge bei vorzeitiger Rente steigen schnell",
+      "title": "Fußball: Eintracht Frankfurt vor Leipzig mit Systemfrage",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/vorzeitige-rente-abschlaege-altersgrenze-rentenhoehe",
-      "published_date": "2026-10-06T01:13:18+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-10/10/eintracht-frankfurt-vor-leipzig-mit-systemfrage",
+      "published_date": "2026-10-10T01:30:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Euro plummets against US dollar: has the next financial crisis begun?",
+      "title": "Umgang mit der AfD: Stellvertretender CSU-Chef erklärt Brandmauer für gescheitert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/manfred-weber-csu-afd-brandmauer",
+      "published_date": "2026-10-09T23:47:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: SPD und Linke stimmen Koalitionsverhandlungen zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-gruene-linke-rot-rot-gruen",
+      "published_date": "2026-10-09T22:44:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 5. Spieltag – Freitag: Niclas Füllkrug nimmt BVB in der Nachspielzeit den Sieg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-werder-bremen-2-2-niclas-fuellkrug",
+      "published_date": "2026-10-09T21:41:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T14:28:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-09T18:23:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Behandlung im Krankenhaus: Hüfte gebrochen: Zwangspause für NRW-Innenminister Reul",
@@ -603,41 +638,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261009/today-in-germany-a-roundup-of-the-latest-news-on-friday-143",
       "published_date": "2026-10-09T06:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two German officials shot dead during routine gun inspection in Bavaria; suspect arrested after overnight standoff",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/two-german-officials-shot-dead-during-routine-gun-inspection-in-bavaria-suspect-arrested-after-overnight-standoff/live-79607225?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-09T05:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ermittlungen: SPD im Landtag sucht nach Politze-Rücktritt neue Spitze",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/spd-im-landtag-sucht-nach-politze-ruecktritt-neue-spitze",
-      "published_date": "2026-10-09T02:30:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man injured after New York shooting involving ICE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T00:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutsche Bahn: Bundestag ebnet Weg für neue Bahntrasse Hannover–Hamburg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
-      "published_date": "2026-10-08T23:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa: Anti-migrant protests turn violent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T18:42:00+00:00",
       "category": "Local Events"
     }
   ]
