@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-11T01:25:23.421798+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-11T16:28:38.626921+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts warn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+      "published_date": "2026-10-11T15:56:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Steuern: CDU-Landesminister schreiben Merz: keine Zuckersteuer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/11/cdu-landesminister-schreiben-merz-keine-zuckersteuer",
+      "published_date": "2026-10-11T15:51:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Proposed EU budget cut back in search for Christmas deal",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
+      "published_date": "2026-10-11T15:17:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German 'lawfare': When lawsuits become a political weapon",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-11T15:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German 'lawfare': When lawsuits become a political weapon",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T15:14:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europäische Union: Merz lehnt neuen Entwurf für den EU-Haushalt ab",
       "source": "ZEIT Online",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Will they, won’t they? EU flirts with UK rejoining - The Latest",
+      "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/oct/08/will-they-wont-they-eu-flirts-with-uk-rejoining-the-latest",
-      "published_date": "2026-10-08T16:56:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+      "published_date": "2026-10-11T15:56:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Come back’: EU flirts with UK rejoining – The Latest – podcast",
+      "title": "‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/08/come-back-eu-flirts-with-uk-rejoining-the-latest-podcast",
-      "published_date": "2026-10-08T16:32:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/11/volunteers-protecting-kyiv-new-jet-powered-drones",
+      "published_date": "2026-10-11T11:00:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+      "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "published_date": "2026-10-11T10:03:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T16:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-11T09:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+      "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-08T16:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T09:13:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Two Latvian men arrested for trespass offences at RAF airbase – as it happened",
+      "title": "Surrogacy in Georgia is booming, but at what cost?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T07:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Surrogacy in Georgia is booming, but at what cost?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-11T07:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T06:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-11T06:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Stab to the heart’: arrest of German ex-spymaster sparks calls for reform",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-      "published_date": "2026-10-08T16:05:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/11/stab-to-the-heart-arrest-of-german-ex-spymaster-sparks-calls-for-reform",
+      "published_date": "2026-10-11T05:00:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine-Krieg: Nach Trump-Attacke: Ukrainische Regierung stützt Selenskyj",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Taiwan to boost military spending to 'deter war' with China",
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T09:38:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T14:47:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Alleged abuse victims at British military school in Germany tell of agonising fight for justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/10/military-school-alleged-abuse-1980s-bunde-germany",
-      "published_date": "2026-10-10T09:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T06:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv blasts peace talks as just ‘smokescreen’ for Trump‘s Russian diesel deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-war-briefing-trumps-russian-diesel-deal-derided-as-weak-and-a-betrayal-of-ukraine-and-us-national-security",
-      "published_date": "2026-10-10T01:31:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
-      "published_date": "2026-10-09T23:39:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump names new press secretary to succeed Karoline Leavitt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T23:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj wirft Trump wegen Dieseldeal mit Putin Schwäche vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-10-09T22:17:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T19:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spionageverdacht gegen August Hanning: Wenn der Nebenjob zum Sicherheitsrisiko wird",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-skandal-pkgr-nebentaetigkeit-geheimdienst",
-      "published_date": "2026-10-09T16:15:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
-      "published_date": "2026-10-09T16:10:25+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-11T14:47:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "German green power workers protest planned subsidy cuts",
@@ -508,6 +522,111 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia: second strike on Riyadh airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T16:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Klimaentscheid in Hamburg: Komplizierte Drucksachen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/41/klimaentscheid-hamburg-co2-emissionen-klimaziel-senat",
+      "published_date": "2026-10-11T16:03:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Tusk says man accused of plotting to kill him detained",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+      "published_date": "2026-10-11T16:01:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Streit um Berlin: Rot-Grün-Rot in Berlin: Leuchtturm oder Achsbruch?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/11/rot-gruen-rot-in-berlin-leuchtturm-oder-achsbruch",
+      "published_date": "2026-10-11T16:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zuckersteuer: Neun Landesminister wenden sich in Protestbrief gegen Zuckersteuer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/zuckersteuer-cdu-agrarminister-brief-friedrich-merz-michaela-kaniber",
+      "published_date": "2026-10-11T15:45:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+      "published_date": "2026-10-11T15:33:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People smugglers are still profiting from small boats. Can the UK fix the crisis?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
+      "published_date": "2026-10-11T12:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T11:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland arrests man over plot to kill PM Donald Tusk",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T10:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IN PICTURES: Thousands join pro-Palestinian march in Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261011/in-pictures-thousands-join-pro-palestinian-marches-in-berlin",
+      "published_date": "2026-10-11T10:43:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced",
+      "published_date": "2026-10-11T09:38:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan: President puts Khan stronghold province under emergency rule",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T09:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's 'Cockroach' movement leaders say 'the fight has just begun' after a large protest in Delhi",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T05:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Justice Department probes Trump's press pool boycott for antitrust violation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T03:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooter kills 8 people and himself in Pennsylvania — police",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T01:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Früherer Bundeskanzler: SPD-Spitzenkandidat in NRW: Schröder ist in Partei isoliert",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/11/spd-spitzenkandidat-in-nrw-schroeder-ist-in-partei-isoliert",
@@ -540,111 +659,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-10/bundesliga-5-spieltag-2026-27-augsburg-bayern-rekord-stuttgart-hamburg",
       "published_date": "2026-10-10T19:24:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Money, networks and bias: Why women struggle to win seats in US politics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T19:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man narrowly escapes drone strike on playground in Kyiv – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global/video/2026/oct/10/man-narrowly-escapes-drone-strike-on-playground-in-kyiv-video",
-      "published_date": "2026-10-10T17:06:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kulturstaatsminister: Weimer warnt SPD vor Koalition mit Linkspartei in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/weimer-berlin-linke-rot-gruen-rot-gxe",
-      "published_date": "2026-10-10T15:50:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball-Bundesliga: Union Berlin gelingt Befreiungsschlag: 1:0 gegen Elversberg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/10/union-berlin-gelingt-befreiungsschlag-1-0-gegen-elversberg",
-      "published_date": "2026-10-10T15:31:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blast reported at Saudi Arabia's Riyadh Airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T15:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterms: Women candidates could make history",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T11:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
-      "published_date": "2026-10-10T11:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Powerful tornado in western Sicily leaves trail of devastation – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/10/powerful-tornado-in-western-sicily-leaves-trail-of-devastation-video",
-      "published_date": "2026-10-10T10:36:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angry French students take to the streets. British students don’t – and I think I know why | Kitty Sayers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/angry-french-students-protests-british-dont-why",
-      "published_date": "2026-10-10T09:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: How joining sports clubs helped me find my place in Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261010/inside-germany-how-joining-sports-clubs-helped-me-find-my-place-in-berlin",
-      "published_date": "2026-10-10T09:20:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
-      "published_date": "2026-10-10T09:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi. Follow live.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T03:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico: Court finds three men guilty of murder of Australian, US surfers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T02:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fußball: Eintracht Frankfurt vor Leipzig mit Systemfrage",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/10/eintracht-frankfurt-vor-leipzig-mit-systemfrage",
-      "published_date": "2026-10-10T01:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Umgang mit der AfD: Stellvertretender CSU-Chef erklärt Brandmauer für gescheitert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/manfred-weber-csu-afd-brandmauer",
-      "published_date": "2026-10-09T23:47:56+00:00",
       "category": "Local Events"
     }
   ]
