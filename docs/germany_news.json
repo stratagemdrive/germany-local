@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-10T16:04:34.055043+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-11T01:25:23.421798+00:00",
+  "story_count": 92,
   "stories": [
     {
       "title": "Europäische Union: Merz lehnt neuen Entwurf für den EU-Haushalt ab",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ukraine-Krieg: Nach Trump-Attacke: Ukrainische Regierung stützt Selenskyj",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/11/nach-trump-attacke-ukrainische-regierung-stuetzt-selenskyj",
+      "published_date": "2026-10-11T01:03:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainekrieg: Trump attackiert Selenskyj und will Führungswechsel in der Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-ukraine-russland-selenskyj",
+      "published_date": "2026-10-10T21:45:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eritrea urges UN deterrence measures against Ethiopia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T18:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T17:48:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Rechtsextremismus in der Bundeswehr: Die Legende von der sauberen Bundeswehr",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/44/rechtsextremismus-bundeswehr-wehrmacht-michael-kuehnen-franco-a",
@@ -200,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T06:10:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ukraine war briefing: Kyiv blasts peace talks as just ‘smokescreen’ for Trump‘s Russian diesel deal",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-war-briefing-trumps-russian-diesel-deal-derided-as-weak-and-a-betrayal-of-ukraine-and-us-national-security",
@@ -246,41 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
       "published_date": "2026-10-09T16:10:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T15:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Author or artificial intelligence? Literature in crisis",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T15:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T12:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-09T12:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nobel peace prize winner Navi Pillay jokes about sharing award with Donald Trump – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/09/nobel-peace-prize-winner-navi-pillay-jokes-about-sharing-award-with-donald-trump-video",
-      "published_date": "2026-10-09T12:46:22+00:00",
       "category": "Military"
     },
     {
@@ -365,13 +365,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-05T05:48:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-03T17:16:00+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +508,55 @@
       "category": "Economy"
     },
     {
+      "title": "Früherer Bundeskanzler: SPD-Spitzenkandidat in NRW: Schröder ist in Partei isoliert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/11/spd-spitzenkandidat-in-nrw-schroeder-ist-in-partei-isoliert",
+      "published_date": "2026-10-10T23:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian president postpones elections until late 2027",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T22:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T22:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: Tausende Menschen bei propalästinensischer Kundgebung in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/pro-palaestinensische-demonstration-berlin-united-4-palestine-gaza",
+      "published_date": "2026-10-10T21:19:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 5. Spieltag – Samstag: Hohe Niederlage für Frankfurt, Bayern kassiert Rekordtor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/bundesliga-5-spieltag-2026-27-augsburg-bayern-rekord-stuttgart-hamburg",
+      "published_date": "2026-10-10T19:24:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Money, networks and bias: Why women struggle to win seats in US politics",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-10T19:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man narrowly escapes drone strike on playground in Kyiv – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global/video/2026/oct/10/man-narrowly-escapes-drone-strike-on-playground-in-kyiv-video",
+      "published_date": "2026-10-10T17:06:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Kulturstaatsminister: Weimer warnt SPD vor Koalition mit Linkspartei in Berlin",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-10/weimer-berlin-linke-rot-gruen-rot-gxe",
@@ -603,55 +645,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-10/manfred-weber-csu-afd-brandmauer",
       "published_date": "2026-10-09T23:47:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: SPD und Linke stimmen Koalitionsverhandlungen zu",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-gruene-linke-rot-rot-gruen",
-      "published_date": "2026-10-09T22:44:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 5. Spieltag – Freitag: Niclas Füllkrug nimmt BVB in der Nachspielzeit den Sieg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-werder-bremen-2-2-niclas-fuellkrug",
-      "published_date": "2026-10-09T21:41:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T18:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Behandlung im Krankenhaus: Hüfte gebrochen: Zwangspause für NRW-Innenminister Reul",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/nrw-innenminister-reul-bricht-sich-die-huefte",
-      "published_date": "2026-10-09T16:48:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandenburg: Umfrage: AfD in Brandenburg bei 40 Prozent - CDU einstellig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/umfrage-afd-in-brandenburg-bei-40-prozent-cdu-einstellig",
-      "published_date": "2026-10-09T16:47:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste in Berlin: Tausende demonstrieren in Berlin gegen Energiepolitik der Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/demonstration-energiepolitik-berlin-buendnis-erneuerbare-energien",
-      "published_date": "2026-10-09T16:42:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "published_date": "2026-10-09T16:30:09+00:00",
       "category": "Local Events"
     }
   ]
