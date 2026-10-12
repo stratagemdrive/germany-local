@@ -1,8 +1,113 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-12T01:55:46.790641+00:00",
-  "story_count": 96,
+  "last_updated": "2026-10-12T20:04:24.786967+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T19:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-12T19:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Merz sichert Selenskyj in Telefonat Solidarität zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-10-12T18:25:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CDU-Führungsklausur: CDU will Stromsteuer auf europäisches Minimum absenken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/stromsteuer-cdu-friedrich-merz-mindeststeuersatz-gxe",
+      "published_date": "2026-10-12T18:01:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europäische Union: EU weitet Beitrittsverhandlungen mit Ukraine und Moldau aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eu-beitrittsverhandlungen-ukraine-moldau-binnenmarkt-wettbewerbsfaehigkeit",
+      "published_date": "2026-10-12T18:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham says ‘public will be the boss’ in any future decision about closer relationship with the EU – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+      "published_date": "2026-10-12T17:34:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Labor Minister's resignation puts a spotlight on cracks within the government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-12T17:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Labor Minister's resignation puts a spotlight on cracks within the government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T17:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Status quo not good enough': UK and EU set new date for key summit",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261012/status-quo-not-good-enough-uk-and-eu-set-new-date-for-key-summit",
+      "published_date": "2026-10-12T16:58:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How significant are Burnham’s remarks on Kremlin interference in Brexit vote?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-kremlin-eu-referendum-brexit",
+      "published_date": "2026-10-12T16:28:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz says Trump's Russia diesel deal 'out of question' for Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-12T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz says Trump's Russia diesel deal 'out of question' for Europe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T13:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T10:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham says Russia interfered in Brexit referendum – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/oct/12/andy-burnham-says-russia-interfered-in-brexit-referendum-video",
+      "published_date": "2026-10-12T10:38:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Abschreckung gegen Russland: Deutschland schickt Tornados zu Atomwaffenübung der Nato",
       "source": "ZEIT Online",
@@ -39,109 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "German 'lawfare': When lawsuits become a political weapon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-11T15:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German 'lawfare': When lawsuits become a political weapon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T15:14:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europäische Union: Merz lehnt neuen Entwurf für den EU-Haushalt ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/merz-eu-haushalt-einsparung",
-      "published_date": "2026-10-10T14:54:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France and Germany lock horns over long-term EU budget",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261010/france-germany-lock-horns-over-long-term-eu-budget",
-      "published_date": "2026-10-10T13:49:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-10T13:25:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T13:25:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany pursues new Russia sanctions despite US diesel deal",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261010/germany-pursues-new-russia-sanctions-despite-us-diesel-deal",
-      "published_date": "2026-10-10T10:56:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China, EU reach deal to 'moderate' China's car exports to EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T17:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Handelsbeziehungen: EU ringt China Kompromiss zu Hybridauto-Exporten ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken",
-      "published_date": "2026-10-09T16:26:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
+      "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-      "published_date": "2026-10-09T15:07:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/video/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
+      "published_date": "2026-10-12T17:14:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
+      "title": "Zelenskyy says ‘increasingly clear’ Russia does not want energy ceasefire after strikes on energy facilities – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+      "published_date": "2026-10-12T16:31:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
+      "published_date": "2026-10-12T16:07:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T14:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/cyprus-closer-than-ever-to-joining-schengen-but-political-hurdles-relating-to-the-green-line-and-british-sovereign-base-areas-remain/a-79641488?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T12:59:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Merz outraged at former German chancellor's birthday visit to Putin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261009/merz-outraged-at-former-german-chancellors-birthday-visit-to-putin",
-      "published_date": "2026-10-09T12:18:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bundestag: Corona-Kommission hofft auf Empfehlungen von Bürgern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/corona-kommission-hofft-auf-empfehlungen-von-buergern",
-      "published_date": "2026-10-09T02:30:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Keine Berlin-Ambitionen: Günther zieht Schleswig-Holstein Berlin vor und schätzt Merz",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/09/guenther-zieht-schleswig-holstein-berlin-vor-und-schaetzt-merz",
-      "published_date": "2026-10-09T02:13:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
+      "title": "Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-08T22:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/cyprus-closer-than-ever-to-joining-schengen-but-political-hurdles-relating-to-the-green-line-and-british-sovereign-base-areas-remain/a-79641488?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-12T12:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T11:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T10:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Donald Trump: Trump überrascht mit »Energiewaffenruhe« zwischen Russland und Ukraine",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukrainekrieg: Trump attackiert Selenskyj und will Führungswechsel in der Ukraine",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-ukraine-russland-selenskyj",
-      "published_date": "2026-10-10T21:45:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eritrea urges UN deterrence measures against Ethiopia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T18:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T17:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rechtsextremismus in der Bundeswehr: Die Legende von der sauberen Bundeswehr",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/44/rechtsextremismus-bundeswehr-wehrmacht-michael-kuehnen-franco-a",
-      "published_date": "2026-10-10T15:58:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+      "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-      "published_date": "2026-10-10T14:45:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+      "published_date": "2026-10-12T16:10:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
+      "title": "Starlink India launch: Why Elon Musk is still waiting",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-10T12:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T12:02:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T14:33:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
@@ -375,25 +389,60 @@
       "category": "Energy"
     },
     {
-      "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T09:37:00+00:00",
-      "category": "Energy"
+      "title": "200.000 Euro Schaden: Linienbus in zwei Teile geteilt - Fahrer schwer verletzt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/12/linienbus-in-zwei-teile-geteilt-fahrer-schwer-verletzt",
+      "published_date": "2026-10-12T19:24:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Hundreds of French schools shut, teen loses hand in protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-05T05:48:00+00:00",
-      "category": "Energy"
+      "title": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+      "published_date": "2026-10-12T19:15:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Hundreds of French schools shut, teen loses hand in protests",
+      "title": "Stellantis and Renault back UK to get EU car industry protection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+      "published_date": "2026-10-12T17:22:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nobel Prize in Economics goes to pair of US economists",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-05T05:48:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T09:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-12T08:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T08:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261012/today-in-germany-a-roundup-of-the-latest-news-on-monday-142",
+      "published_date": "2026-10-12T06:31:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham: not pursuing better EU deal would be ‘dereliction of duty’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+      "published_date": "2026-10-12T05:00:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
@@ -480,199 +529,143 @@
       "category": "Economy"
     },
     {
-      "title": "China's Golden Week reveals cautious consumer spending despite travel surge",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-07T13:18:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Factory production in Germany hits highest level in 18 months",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261007/factory-production-in-germany-hits-highest-level-in-18-months",
-      "published_date": "2026-10-07T08:30:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Guardian view on the French school protests: the political class needs to heed the voice of students | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-french-school-protests-the-political-class-needs-to-heed-the-voice-of-students",
-      "published_date": "2026-10-06T18:31:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Unemployment and the rise of the Nazis | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/06/unemployment-and-the-rise-of-the-nazis",
-      "published_date": "2026-10-06T16:55:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Erste Klagen verhandelt: Landarztquote: Gericht hält 250.000-Euro-Strafe für rechtens",
+      "title": "SPD: Hoffentlich kommt die SPD nicht auf Ideen",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/06/gericht-prueft-erstmals-landarztquoten-vertraege",
-      "published_date": "2026-10-06T16:42:36+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/2026-10/spd-baerbel-bas-ruecktritt-organisation-fuehrung",
+      "published_date": "2026-10-12T18:28:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Are young people in Germany better off in a traineeship or university programme?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261006/are-young-people-in-germany-better-off-in-a-traineeship-or-university-programme",
-      "published_date": "2026-10-06T15:04:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Norwegian princess Märtha Louise and husband sue ex-friends for ‘betrayal of trust’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
-      "published_date": "2026-10-06T13:59:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "France: Trade unions join students in major demonstration",
+      "title": "Hundreds of French supermarkets hit by a cyberattack that  defrosted refrigeration systems",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-06T08:51:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T18:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-12T18:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T18:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-12T18:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Viral videos falsely linked to Riyadh airport attacks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attacks/a-79643037?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T17:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+      "published_date": "2026-10-12T16:38:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'It's been a whirlwind': How Germany's foreign residents say life has changed",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261012/its-been-a-whirlwind-how-germanys-foreign-residents-say-life-has-changed",
+      "published_date": "2026-10-12T14:22:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German minister quits after ‘indecent’ attacks intensify during bereavement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/12/german-labour-minister-co-leader-spd-social-democrats-barbel-bas-quits-death-stepdaughter-political-attacks",
+      "published_date": "2026-10-12T13:22:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge explosion captured on CCTV after deadly strike hits grocery store in Kharkiv – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/12/huge-explosion-captured-on-cctv-after-deadly-strike-hits-grocery-store-in-kharkiv-video",
+      "published_date": "2026-10-12T12:13:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's coalition rocked by labour minister's abrupt resignation",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261012/germanys-coalition-rocked-by-labour-ministers-abrupt-resignation",
+      "published_date": "2026-10-12T10:45:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marco Rubio is promoting troubling ideas about ‘Western civilization’ | Ted Widmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/marco-rubio-western-civilization",
+      "published_date": "2026-10-12T10:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Opposition parties march to Supreme Court",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T09:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's women: Ena Mahmutovic makes her case to become Germany's next No.1 goalkeeper",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-women-ena-mahmutovic-makes-her-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-12T09:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's women: Ena Mahmutovic makes her case to become Germany's next No.1 goalkeeper",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-women-ena-mahmutovic-makes-her-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T09:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flixtrain adds Berlin-Bremen route and more intercity services from December",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261012/flixtrain-adds-berlin-bremen-route-and-more-intercity-services-from-december",
+      "published_date": "2026-10-12T09:13:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How green is Europe's urban public transport? A data-driven reality check",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T07:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK students call for school uniforms to be banned in pornography",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-12T07:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Bas quits as SPD co-chair amid coalition friction",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-12T06:20:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Eingleisige Strecke: Bahn startet Bau für mehr Züge zwischen Berlin und Cottbus",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/12/bahn-startet-bau-fuer-mehr-zuege-zwischen-berlin-und-cottbus",
       "published_date": "2026-10-12T01:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rente: Gordon Schnieder lehnt Beratungsvorschlag der SPD zur Rente ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/rentenreform-spd-matthias-miersch-ministerpraesidenten-cdu-norbert-schnieder-abschlagsfreie-rente",
-      "published_date": "2026-10-11T23:48:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T22:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesregierung: CSU-Chef Markus Söder will Kanzler Friedrich Merz weiter stärken",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/markus-soeder-cdu-friedrich-merz-bundeskanzler-afd-neuwahlen",
-      "published_date": "2026-10-11T22:13:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia: second strike on Riyadh airport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T16:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Klimaentscheid in Hamburg: Komplizierte Drucksachen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/41/klimaentscheid-hamburg-co2-emissionen-klimaziel-senat",
-      "published_date": "2026-10-11T16:03:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Tusk says man accused of plotting to kill him detained",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-      "published_date": "2026-10-11T16:01:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Streit um Berlin: Rot-Grün-Rot in Berlin: Leuchtturm oder Achsbruch?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/11/rot-gruen-rot-in-berlin-leuchtturm-oder-achsbruch",
-      "published_date": "2026-10-11T16:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zuckersteuer: Neun Landesminister wenden sich in Protestbrief gegen Zuckersteuer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/zuckersteuer-cdu-agrarminister-brief-friedrich-merz-michaela-kaniber",
-      "published_date": "2026-10-11T15:45:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
-      "published_date": "2026-10-11T15:33:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People smugglers are still profiting from small boats. Can the UK fix the crisis?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
-      "published_date": "2026-10-11T12:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T11:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland arrests man over plot to kill PM Donald Tusk",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T10:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IN PICTURES: Thousands join pro-Palestinian march in Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261011/in-pictures-thousands-join-pro-palestinian-marches-in-berlin",
-      "published_date": "2026-10-11T10:43:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced",
-      "published_date": "2026-10-11T09:38:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: President puts Khan stronghold province under emergency rule",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T09:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'Cockroach' movement leaders say 'the fight has just begun' after a large protest in Delhi",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T05:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Justice Department probes Trump's press pool boycott for antitrust violation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T03:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooter kills 8 people and himself in Pennsylvania — police",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T01:52:00+00:00",
       "category": "Local Events"
     }
   ]
