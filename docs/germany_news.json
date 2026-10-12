@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-11T16:28:38.626921+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-12T01:55:46.790641+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Abschreckung gegen Russland: Deutschland schickt Tornados zu Atomwaffenübung der Nato",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/12/deutschland-schickt-tornados-zu-atomwaffenuebung-der-nato",
+      "published_date": "2026-10-12T01:38:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russland: EU-Außenbeauftragte warnt vor Ölkatastrophe durch Schattenflotte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/russlands-schattenflotte-marineoperationen-mission-irini-kaja-kallas",
+      "published_date": "2026-10-11T22:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts warn",
       "source": "The Guardian",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T22:53:00+00:00",
-      "category": "Diplomacy"
+      "title": "Donald Trump: Trump überrascht mit »Energiewaffenruhe« zwischen Russland und Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-energie-waffenruhe-ukraine-russland",
+      "published_date": "2026-10-11T21:30:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Abschreckung gegen Russland: Nato kündigt Atomwaffen-Übung an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/08/nato-kuendigt-atomwaffen-uebung-an",
-      "published_date": "2026-10-08T17:10:13+00:00",
-      "category": "Diplomacy"
+      "title": "Three Years of the Gaza War through the Eyes of Soldiers: \"The Rule Was: 'Shoot Everyone You See'\"",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/three-years-of-the-gaza-war-through-the-eyes-of-soldiers-the-rule-was-shoot-everyone-you-see-a-50ea1e27-25b9-4ba2-8113-97be81f5d10c#ref=rss",
+      "published_date": "2026-10-11T20:08:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
-      "published_date": "2026-10-10T11:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
-      "published_date": "2026-10-10T10:00:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
@@ -294,6 +294,20 @@
       "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-11T14:47:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T14:47:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-11T14:47:00+00:00",
       "category": "Energy"
     },
@@ -380,6 +394,13 @@
       "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-05T05:48:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "published_date": "2026-10-11T16:53:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Schools crisis in France: Investment fails to inspire confidence",
@@ -515,11 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "3,7 Millionen Beschäftigte: Inflation und Autokrise: Metall-Tarifrunde wird kompliziert",
+      "title": "Eingleisige Strecke: Bahn startet Bau für mehr Züge zwischen Berlin und Cottbus",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/06/inflation-und-autokrise-metall-tarifrunde-wird-kompliziert",
-      "published_date": "2026-10-06T02:00:17+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-10/12/bahn-startet-bau-fuer-mehr-zuege-zwischen-berlin-und-cottbus",
+      "published_date": "2026-10-12T01:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rente: Gordon Schnieder lehnt Beratungsvorschlag der SPD zur Rente ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/rentenreform-spd-matthias-miersch-ministerpraesidenten-cdu-norbert-schnieder-abschlagsfreie-rente",
+      "published_date": "2026-10-11T23:48:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T22:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-11T22:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesregierung: CSU-Chef Markus Söder will Kanzler Friedrich Merz weiter stärken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/markus-soeder-cdu-friedrich-merz-bundeskanzler-afd-neuwahlen",
+      "published_date": "2026-10-11T22:13:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia: second strike on Riyadh airport",
@@ -624,41 +673,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-11T01:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Früherer Bundeskanzler: SPD-Spitzenkandidat in NRW: Schröder ist in Partei isoliert",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/11/spd-spitzenkandidat-in-nrw-schroeder-ist-in-partei-isoliert",
-      "published_date": "2026-10-10T23:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian president postpones elections until late 2027",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T22:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-10T22:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Tausende Menschen bei propalästinensischer Kundgebung in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/pro-palaestinensische-demonstration-berlin-united-4-palestine-gaza",
-      "published_date": "2026-10-10T21:19:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 5. Spieltag – Samstag: Hohe Niederlage für Frankfurt, Bayern kassiert Rekordtor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/bundesliga-5-spieltag-2026-27-augsburg-bayern-rekord-stuttgart-hamburg",
-      "published_date": "2026-10-10T19:24:58+00:00",
       "category": "Local Events"
     }
   ]
