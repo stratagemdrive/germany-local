@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-12T20:04:24.786967+00:00",
+  "last_updated": "2026-10-13T03:17:12.966229+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Schwarzes Meer: Bulgarien ersucht Hilfe von Nato und EU nach Drohnenangriff",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/drohnenangriffe-schwarzes-meer-bulgarien-handelsschiffe-russland",
+      "published_date": "2026-10-12T22:43:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
       "source": "Deutsche Welle",
@@ -134,13 +141,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/11/cdu-landesminister-schreiben-merz-keine-zuckersteuer",
       "published_date": "2026-10-11T15:51:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Proposed EU budget cut back in search for Christmas deal",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
-      "published_date": "2026-10-11T15:17:41+00:00",
       "category": "Diplomacy"
     },
     {
@@ -529,6 +529,41 @@
       "category": "Economy"
     },
     {
+      "title": "Universität Bremen: Schützen oder schießen? Vorlesung zu hitziger Wolfs-Debatte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/13/schuetzen-oder-schiessen-vorlesung-zu-hitziger-wolfs-debatte",
+      "published_date": "2026-10-13T03:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French supermarket director apologises after cyber-attack spoils fresh and frozen food - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/video/2026/oct/13/french-supermarket-director-apologises-after-cyber-attack-spoils-fresh-and-frozen-food-video",
+      "published_date": "2026-10-13T02:57:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/13/ukraine-war-briefing-russian-diesel-exports-could-return-to-past-levels-after-trump-deal-moscow-claims",
+      "published_date": "2026-10-13T02:22:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD-Parteispitze: Juso-Chef Türmer sieht Neuordnung der SPD als inhaltliche Chance",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/spd-parteispitze-baerbel-bas-lars-klingbeil-philipp-tuermer",
+      "published_date": "2026-10-12T23:27:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesarbeitsministerium: Union fordert von Schweitzer schnelle Umsetzung der Reformen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/alexander-schweitzer-spd-arbeitsminister-sozialreformen-cdu",
+      "published_date": "2026-10-12T22:26:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "SPD: Hoffentlich kommt die SPD nicht auf Ideen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/2026-10/spd-baerbel-bas-ruecktritt-organisation-fuehrung",
@@ -631,41 +666,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-s-women-ena-mahmutovic-makes-her-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-12T09:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flixtrain adds Berlin-Bremen route and more intercity services from December",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261012/flixtrain-adds-berlin-bremen-route-and-more-intercity-services-from-december",
-      "published_date": "2026-10-12T09:13:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How green is Europe's urban public transport? A data-driven reality check",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-12T07:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK students call for school uniforms to be banned in pornography",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-12T07:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Bas quits as SPD co-chair amid coalition friction",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-12T06:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eingleisige Strecke: Bahn startet Bau für mehr Züge zwischen Berlin und Cottbus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/12/bahn-startet-bau-fuer-mehr-zuege-zwischen-berlin-und-cottbus",
-      "published_date": "2026-10-12T01:30:09+00:00",
       "category": "Local Events"
     }
   ]
