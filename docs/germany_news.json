@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-15T01:07:34.921199+00:00",
+  "last_updated": "2026-10-15T15:26:27.156186+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Drei SPD-Politiker im Fokus: Klinikaffäre führt Ermittler bis in den Bundestag",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/15/bundestag-hebt-immunitaet-von-abgeordnetem-ahmetovic-auf",
+      "published_date": "2026-10-15T15:12:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands of German gamblers could sue for their money back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-15T10:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands of German gamblers could sue for their money back",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T10:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s ambassadors: the loyalists and allies at the center of controversy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/trump-ambassadors-controversies-guilfoyle-kushner",
+      "published_date": "2026-10-15T10:00:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Gaza changed Europe, exposing cracks that grow bigger by the week | Shada Islam",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/how-gaza-changed-europe-exposing-cracks-that-grow-bigger-by-the-week",
+      "published_date": "2026-10-15T04:00:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
       "source": "Deutsche Welle",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-13T08:47:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-13T08:47:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-13T08:47:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe's airports and airlines demand EES rethink as 'unacceptable' delays continue",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261013/europes-airports-and-airlines-demand-ees-rethink-as-unacceptable-delays-continue",
-      "published_date": "2026-10-13T08:22:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Schwarzes Meer: Bulgarien ersucht Hilfe von Nato und EU nach Drohnenangriff",
+      "title": "Starlink in der Ukraine: Gedrosselte Drohnen – Streit um Starlink",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/drohnenangriffe-schwarzes-meer-bulgarien-handelsschiffe-russland",
-      "published_date": "2026-10-12T22:43:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/2026-10/starlink-ukraine-us-geheimdienst-nachrichtenpodcast",
+      "published_date": "2026-10-15T15:19:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "published_date": "2026-10-15T14:53:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T14:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-15T13:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T13:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starlink: How Elon Musk's company influences geopolitics",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T12:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T12:02:00+00:00",
+      "category": "Military"
     },
     {
       "title": "North Korea says it tested cruise missiles to be launched from sub",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T11:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T10:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The fall of Germany’s ex-spymaster – podcast",
+      "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/14/the-fall-of-germanys-ex-spymaster-podcast",
-      "published_date": "2026-10-14T02:00:41+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "published_date": "2026-10-15T15:01:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia detains Japanese journalist, accusing him of alleged spying",
+      "title": "Faust review – FW Murnau’s silent masterpiece is a devilishly dazzling vision",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
-      "published_date": "2026-10-14T01:05:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Raketen treffen Kiew - Ukrainer beklagen fehlende Vorwarnung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/14/raketen-treffen-kiew-ukrainer-beklagen-fehlende-vorwarnung",
-      "published_date": "2026-10-13T23:21:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OpenAI says employee caught planting listening device",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-13T21:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-13T18:52:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/film/2026/oct/15/faust-review-centenary-mubi",
+      "published_date": "2026-10-15T08:00:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Hurricane Isaias intensifies en route to US Gulf Coast",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-09T11:55:00+00:00",
-      "category": "Energy"
+      "title": "Ermittlungen gegen Polizist: Neue Details um veruntreute Hunderttausende Euro bei Polizei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/15/neue-details-um-veruntreute-hunderttausende-euro-bei-polizei",
+      "published_date": "2026-10-15T15:06:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US will not resume strikes on Iran before midterms — Trump",
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-08T18:18:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T14:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-15T14:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
+      "published_date": "2026-10-15T11:00:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+      "published_date": "2026-10-15T05:56:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Für 200 Millionen Euro: Paris baut Radwegenetz weiter aus",
@@ -529,39 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Stellantis and Renault back UK to get EU car industry protection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
-      "published_date": "2026-10-12T17:22:05+00:00",
-      "category": "Economy"
+      "title": "\"Jetzt kann es weitergehen\": Linke, Grüne und SPD in Berlin sondieren wieder",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/video/2026-10/jetzt-kann-es-weitergehen-linke-gruene-und-spd-in-berlin-sondieren-wieder",
+      "published_date": "2026-10-15T15:05:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nobel Prize in Economics goes to pair of US economists",
+      "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-12T09:55:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T14:34:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
+      "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-12T08:26:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-15T14:34:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
+      "title": "Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-12T08:26:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-15T13:49:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
+      "title": "Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T13:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany jails two for anti-Israel plots linked to Iran",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261012/today-in-germany-a-roundup-of-the-latest-news-on-monday-142",
-      "published_date": "2026-10-12T06:31:50+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20261015/germany-jails-two-for-anti-israel-plots-linked-to-iran",
+      "published_date": "2026-10-15T13:10:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine in ten renters in Germany back tough penalties for excessive rents",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261015/nine-in-ten-renters-in-germany-back-tough-penalties-for-excessive-rents",
+      "published_date": "2026-10-15T13:07:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albania’s prime minister vows not to resign over student-led protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+      "published_date": "2026-10-15T10:34:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T10:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Train station alcohol ban comes into force",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-15T10:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Train station alcohol ban comes into force",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T10:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil's elections matter for the planet. This is why",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T09:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T09:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manchester City, the UAE and the UK's OM in a political tangle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T08:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's AfD and populist BSW pass motion to end aid for Ukraine",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261015/germanys-afd-and-populist-bsw-pass-motion-to-end-aid-for-ukraine",
+      "published_date": "2026-10-15T07:45:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261015/today-in-germany-a-roundup-of-the-latest-news-on-thursday-140",
+      "published_date": "2026-10-15T06:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/15/the-queen-nazi-far-right-hamlet-christoph-schlingensief-berlin",
+      "published_date": "2026-10-15T06:00:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Früher Kindstod: «Lauf für mehr Licht»: Aktion für Sternenkinder in Frankfurt",
@@ -582,125 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
       "published_date": "2026-10-14T23:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerosinversorgung: Lufthansa reagiert auf Kerosinmangel am Flughafen Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/kerosin-flughafen-frankfurt-lufthansa-tankering-pipeline",
-      "published_date": "2026-10-14T22:01:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: BVB verliert in Bodø, Stuttgart gewinnt deutlich",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/fussball-championsleague-borussia-dortmund-2-spieltag",
-      "published_date": "2026-10-14T21:26:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Spain’s snap election: high stakes for Europe as Pedro Sánchez gambles again | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-spains-snap-election-high-stakes-for-europe-as-pedro-sanchez-gambles-again",
-      "published_date": "2026-10-14T17:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landesparteitag in Regensburg: SPD fordert notfalls neue Schulden für bessere Bildung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/14/spd-fordert-notfalls-neue-schulden-fuer-bessere-bildung",
-      "published_date": "2026-10-14T15:16:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Großer Polizeieinsatz: Gefangenenbefreiung in Essen: Was wir wissen und was nicht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/14/gefangenenbefreiung-in-essen-was-wir-wissen-und-was-nicht",
-      "published_date": "2026-10-14T15:13:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-14T15:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T15:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration: Über 4.400 Kinder in zwölf Jahren bei Migration gestorben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kinder-migration-tote-un-iom-missing-migrants-project",
-      "published_date": "2026-10-14T15:09:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania: Fire at Education Ministry as students protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T14:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania: Fire at Education Ministry as students protest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-14T14:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s students are angry about more than crumbling classrooms and missing teachers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
-      "published_date": "2026-10-14T14:29:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-government student protests in Albania turn violent – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/14/anti-government-student-protests-in-albania-turn-violent-video",
-      "published_date": "2026-10-14T13:57:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PODCAST🎧: Germany's shifting views on Israel-Palestine and tenants' rights for heating",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261014/podcast%f0%9f%8e%a7-germanys-shifting-views-on-israel-palestine-and-tenants-rights-for-heating",
-      "published_date": "2026-10-14T09:34:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian soldier led team of divers to blow up Nord Stream gas pipelines, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
-      "published_date": "2026-10-14T09:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Misleading graph about alleged Russian bot activity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T09:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Misleading graph about alleged Russian bot activity",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-14T09:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do non-German nationals commit more crimes than Germans?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-14T08:48:00+00:00",
       "category": "Local Events"
     }
   ]
