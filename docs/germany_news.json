@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-14T15:39:43.274864+00:00",
-  "story_count": 99,
+  "last_updated": "2026-10-15T01:07:34.921199+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-14T17:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+      "published_date": "2026-10-14T15:33:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – as it happened",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "title": "North Korea says it tested cruise missiles to be launched from sub",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-12T19:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-14T23:37:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-12T19:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-14T18:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-14T17:55:00+00:00",
+      "category": "Military"
     },
     {
       "title": "India urges Russia, Ukraine to protect Black Sea shipping",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-13T18:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-13T18:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-13T18:51:00+00:00",
-      "category": "Military"
+      "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+      "published_date": "2026-10-14T18:54:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
@@ -417,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Für 200 Millionen Euro: Paris baut Radwegenetz weiter aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/15/paris-baut-radwegenetz-weiter-aus",
+      "published_date": "2026-10-14T23:00:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
+      "published_date": "2026-10-14T22:31:18+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
@@ -543,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham: not pursuing better EU deal would be ‘dereliction of duty’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-      "published_date": "2026-10-12T05:00:46+00:00",
-      "category": "Economy"
+      "title": "Früher Kindstod: «Lauf für mehr Licht»: Aktion für Sternenkinder in Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/15/lauf-fuer-mehr-licht-aktion-fuer-sternenkinder-in-frankfurt",
+      "published_date": "2026-10-15T01:00:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "title": "Fahndung läuft: Häftling in Essen befreit - Polizei sucht drei Männer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/15/haeftling-in-essen-befreit-polizei-sucht-drei-maenner",
+      "published_date": "2026-10-15T01:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Student protests in Albania turn violent as demonstrators clash with police",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-      "published_date": "2026-10-11T16:53:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+      "published_date": "2026-10-14T23:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerosinversorgung: Lufthansa reagiert auf Kerosinmangel am Flughafen Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/kerosin-flughafen-frankfurt-lufthansa-tankering-pipeline",
+      "published_date": "2026-10-14T22:01:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: BVB verliert in Bodø, Stuttgart gewinnt deutlich",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/fussball-championsleague-borussia-dortmund-2-spieltag",
+      "published_date": "2026-10-14T21:26:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Spain’s snap election: high stakes for Europe as Pedro Sánchez gambles again | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-spains-snap-election-high-stakes-for-europe-as-pedro-sanchez-gambles-again",
+      "published_date": "2026-10-14T17:25:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Landesparteitag in Regensburg: SPD fordert notfalls neue Schulden für bessere Bildung",
@@ -595,6 +644,13 @@
       "title": "Albania: Fire at Education Ministry as students protest",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-14T14:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albania: Fire at Education Ministry as students protest",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-14T14:56:00+00:00",
       "category": "Local Events"
     },
@@ -645,55 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-10-14T08:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do non-German nationals commit more crimes than Germans?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T08:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Nuremberg airport was closed by a hijacking scare",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261014/why-nuremberg-airport-was-disrupted-by-a-hijacking-scare",
-      "published_date": "2026-10-14T07:54:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261014/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-142",
-      "published_date": "2026-10-14T06:16:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: 'Cockroach' leaders sent to judicial custody amid protest crackdown",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T05:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Germany the mood is dark. But the Weimar narrative is a far right trap | Klaus Brinkbäumer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
-      "published_date": "2026-10-14T04:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-war-briefing-zelenskyy-decries-absolutely-unjust-lack-of-warning-from-allies-after-kyiv-plant-strike",
-      "published_date": "2026-10-14T01:04:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wälder: Gefährlicher Kurs: Länder holzen viel zu viel Regenwald ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/14/gefaehrlicher-kurs-laender-holzen-viel-zu-viel-regenwald-ab",
-      "published_date": "2026-10-14T00:01:05+00:00",
       "category": "Local Events"
     }
   ]
