@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-15T15:26:27.156186+00:00",
+  "last_updated": "2026-10-16T00:54:21.261043+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ukraine-Krieg: Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/16/selenskyj-beim-eu-gipfel-finanzen-trump-und-starlink",
+      "published_date": "2026-10-15T23:09:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Etwa vier Euro Preisaufschlag: Teure Zigaretten: Bundestag billigt höhere Tabaksteuern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/15/teure-zigaretten-bundestag-stimmt-fuer-hoehere-tabaksteuer",
+      "published_date": "2026-10-15T22:51:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rauchen in Deutschland: Bundestag stimmt für höhere Tabaksteuer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/tabaksteuer-erhoehung-bundestag-zigarettenpreis-schwarzmarkt",
+      "published_date": "2026-10-15T21:33:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Verbrenner-Aus in der EU: Deutschland und Frankreich wollen Verbrenner-Verbot lockern",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/verbrenner-aus-eu-deutschland-frankreich-neuwagen-2035-co2-emissionen",
+      "published_date": "2026-10-15T18:52:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Drei SPD-Politiker im Fokus: Klinikaffäre führt Ermittler bis in den Bundestag",
       "source": "ZEIT Online",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Brexiters can’t cope with the fact that Putin was cheering them on | Rafael Behr",
+      "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/brexit-vladimir-putin-russia-referendum-result-eu",
-      "published_date": "2026-10-13T15:21:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+      "published_date": "2026-10-15T23:49:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-13T12:04:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-13T12:04:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Georg Baselitz: The Heroes review – astonishing paintings take a savage swipe at history",
+      "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/13/georg-baselitz-the-heroes-review-thaddaeus-ropac-gallery-london",
-      "published_date": "2026-10-13T10:19:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+      "published_date": "2026-10-15T17:31:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia arrests Swedish national, claims he's Ukraine fighter",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T15:27:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Starlink in der Ukraine: Gedrosselte Drohnen – Streit um Starlink",
@@ -260,27 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
       "published_date": "2026-10-14T14:17:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'A completely civilian area': Kyiv residents reel after overnight Russian strike – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/14/a-completely-civilian-area-kyiv-residents-reel-after-overnight-russian-strike-video",
-      "published_date": "2026-10-14T13:25:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trial defence says Russia used Nord Stream pipelines as 'weapon'",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261014/trial-defence-says-russia-used-nord-stream-pipelines-as-weapon",
-      "published_date": "2026-10-14T12:29:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Winter of the Crow review – Lesley Manville magnificently on edge in intriguing cold war thriller",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/14/winter-of-the-crow-review-lesley-manville-cold-war-thriller",
-      "published_date": "2026-10-14T12:00:01+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Europa League: Leverkusen besiegt Posen, Hoffenheim scheitert an Beşiktaş",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/europa-league-bayer-leverkusen-lech-posen-patrik-schick",
+      "published_date": "2026-10-15T20:44:17+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Ermittlungen gegen Polizist: Neue Details um veruntreute Hunderttausende Euro bei Polizei",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/15/neue-details-um-veruntreute-hunderttausende-euro-bei-polizei",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
+      "title": "Antisemitisches Attentat in Halle: Jüdische Studierende berichten von Morddrohungen in Halle",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/blockade-halle-hans-thomas-tillschneider-jsud-ron-dekel",
+      "published_date": "2026-10-15T23:54:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T21:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nineteen injured in collision between minibus and train on Eurotunnel loading platform",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
-      "published_date": "2026-10-12T19:15:11+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
+      "published_date": "2026-10-15T21:38:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela's Nicolas Maduro pleads not guilty to torture charges",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T18:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle East updates: Houthis target Yemen government palace in Aden",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T17:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-15T16:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-15T16:48:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "\"Jetzt kann es weitergehen\": Linke, Grüne und SPD in Berlin sondieren wieder",
@@ -652,55 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-15T09:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City, the UAE and the UK's OM in a political tangle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T08:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's AfD and populist BSW pass motion to end aid for Ukraine",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261015/germanys-afd-and-populist-bsw-pass-motion-to-end-aid-for-ukraine",
-      "published_date": "2026-10-15T07:45:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261015/today-in-germany-a-roundup-of-the-latest-news-on-thursday-140",
-      "published_date": "2026-10-15T06:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/15/the-queen-nazi-far-right-hamlet-christoph-schlingensief-berlin",
-      "published_date": "2026-10-15T06:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Früher Kindstod: «Lauf für mehr Licht»: Aktion für Sternenkinder in Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/15/lauf-fuer-mehr-licht-aktion-fuer-sternenkinder-in-frankfurt",
-      "published_date": "2026-10-15T01:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fahndung läuft: Häftling in Essen befreit - Polizei sucht drei Männer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/15/haeftling-in-essen-befreit-polizei-sucht-drei-maenner",
-      "published_date": "2026-10-15T01:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student protests in Albania turn violent as demonstrators clash with police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-      "published_date": "2026-10-14T23:19:43+00:00",
       "category": "Local Events"
     }
   ]
