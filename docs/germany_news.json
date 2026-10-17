@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-17T00:54:57.357477+00:00",
+  "last_updated": "2026-10-17T14:00:18.257527+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "published_date": "2026-10-17T12:15:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T11:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-17T11:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit’s back – but are British voters ready to contemplate a reversal?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal",
+      "published_date": "2026-10-17T05:00:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump puts new Russia sanctions on hold",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T02:09:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-Gipfel in Brüssel: Mitgliedsstaaten sind sich bei EU-Haushalt nicht einig",
       "source": "ZEIT Online",
@@ -29,6 +64,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
       "published_date": "2026-10-16T18:09:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The verdict: Would your life change if the UK rejoined the EU?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261016/the-verdict-would-your-life-change-if-the-uk-rejoined-the-eu",
+      "published_date": "2026-10-16T16:36:08+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T09:07:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK could quickly re-enter EU with ‘Switzerland plus’ deal, senior MEP says",
+      "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit",
-      "published_date": "2026-10-16T07:00:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "published_date": "2026-10-17T13:28:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany and France strike deal to further relax EU auto emissions rules",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261016/germany-and-france-strike-deal-to-further-relax-eu-auto-emissions-rules",
-      "published_date": "2026-10-16T06:44:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261016/today-in-germany-a-roundup-of-the-latest-news-on-friday-144",
-      "published_date": "2026-10-16T06:33:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine-Krieg: Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
+      "title": "Gesundheitsversorgung im Krieg: Die Verletzten kommen in die Tiefgarage",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/16/selenskyj-beim-eu-gipfel-finanzen-trump-und-starlink",
-      "published_date": "2026-10-15T23:09:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/gesundheitsversorgung-krieg-bundeswehr-krankenhaeuser-notaufnahme-hamburg",
+      "published_date": "2026-10-17T12:31:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Etwa vier Euro Preisaufschlag: Teure Zigaretten: Bundestag billigt höhere Tabaksteuern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/15/teure-zigaretten-bundestag-stimmt-fuer-hoehere-tabaksteuer",
-      "published_date": "2026-10-15T22:51:22+00:00",
-      "category": "Diplomacy"
+      "title": "‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-kherson-richelievsky-displaced-drones-last-hotel-frontline",
+      "published_date": "2026-10-17T11:00:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
@@ -260,27 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-14T18:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T17:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T15:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Predigt über Ukraine-Krieg: Prozess um Eklat im Weihnachtsgottesdienst - Küster stirbt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/14/prozess-um-eklat-im-weihnachtsgottesdienst-kuester-stirbt",
-      "published_date": "2026-10-14T15:18:23+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "France braces for nationwide protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T08:02:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France braces for nationwide protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-17T08:02:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
+      "published_date": "2026-10-17T06:45:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US-Staatsverschuldung: Neuverschuldung der USA steigt unter Trump auf Fünfjahreshoch",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-10/us-haushaltsdefizit-staatsverschuldung-zinszahlungen-donald-trump",
@@ -543,25 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
+      "title": "Pope Leo discharged from hospital after cancer operation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-      "published_date": "2026-10-14T13:57:03+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+      "published_date": "2026-10-17T13:41:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China's influence in the gaming industry is growing",
+      "title": "Nominierungsparteitag: Spitzenduo soll Linke zurück in NRW-Landtag führen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/17/linke-waehlt-ihr-personal-fuer-die-nrw-landtagswahl",
+      "published_date": "2026-10-17T13:39:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police clash with protesters as tens of thousands take to streets across France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "published_date": "2026-10-17T13:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wirtschaftskrise in Tunesien: Größter Protest gegen Tunesiens Präsident Saied seit Jahren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/tunesien-wirtschaftskrise-praesident-kais-saied",
+      "published_date": "2026-10-17T13:17:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: Linke, Grüne und SPD einigen sich bei Sondierungen in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/linke-gruene-und-spd-einigen-sich-offenbar-bei-sondierungen-in-berlin",
+      "published_date": "2026-10-17T12:29:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Merz faces conservative youth wing in Bonn",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T11:48:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T10:34:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany’s sugar tax passed by cabinet after last-minute agreement",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261014/germanys-sugar-tax-passed-by-cabinet-after-last-minute-agreement",
-      "published_date": "2026-10-14T09:54:40+00:00",
-      "category": "Economy"
+      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T06:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French schoolchildren have been treated like enemies to be crushed – for telling the truth | Rokhaya Diallo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
+      "published_date": "2026-10-17T04:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not cool: who hacked France’s supermarket fridges?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "published_date": "2026-10-17T04:00:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vorfall in NRW: Angriff in Seniorenheim - eine Tote und zwei Schwerverletzte",
@@ -613,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Femicide in Iran: When 'honor' becomes a death sentence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/femicide-in-iran-when-honor-becomes-a-death-sentence/a-79681977?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-16T14:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus",
       "published_date": "2026-10-16T14:05:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
-      "published_date": "2026-10-16T12:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German lawmakers back monthly state pension contributions for children, with families able to add more.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-16T11:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German lawmakers back monthly state pension contributions for children, with families able to add more.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T11:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-16T09:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T09:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A direct cultural threat’: your questions on the rise of the right across Europe answered",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered",
-      "published_date": "2026-10-16T09:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "California wildfires force evacuations near Malibu",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/california-wildfires-force-evacuations-near-malibu/a-79676355?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: CJP's Dipke detained amid call for fresh Delhi demo",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T06:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antisemitisches Attentat in Halle: Jüdische Studierende berichten von Morddrohungen in Halle",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/blockade-halle-hans-thomas-tillschneider-jsud-ron-dekel",
-      "published_date": "2026-10-15T23:54:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T21:59:00+00:00",
       "category": "Local Events"
     }
   ]
