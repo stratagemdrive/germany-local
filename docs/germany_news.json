@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-16T15:05:59.636177+00:00",
+  "last_updated": "2026-10-17T00:54:57.357477+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU-Gipfel in Brüssel: Mitgliedsstaaten sind sich bei EU-Haushalt nicht einig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eu-gipfel-bruessel-haushalt-antonio-costa-migration",
+      "published_date": "2026-10-16T22:36:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-16T19:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-16T19:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "published_date": "2026-10-16T18:09:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-16T16:19:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Wolodymyr Selenskyj in Brüssel: Selenskyj warnt vor Lockerung der Sanktionen gegen Russland",
       "source": "ZEIT Online",
@@ -21,6 +56,13 @@
       "title": "German colonialism: Why hasn't there been a reckoning?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-colonialism-why-hasn-t-there-been-a-reckoning/a-79682388?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-16T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German colonialism on agenda in Bundestag debate on Namibia genocide",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-colonialism-on-agenda-in-bundestag-debate-on-namibia-genocide/a-79682388?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-16T14:42:00+00:00",
       "category": "Diplomacy"
     },
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rauchen in Deutschland: Bundestag stimmt für höhere Tabaksteuer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/tabaksteuer-erhoehung-bundestag-zigarettenpreis-schwarzmarkt",
-      "published_date": "2026-10-15T21:33:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Verbrenner-Aus in der EU: Deutschland und Frankreich wollen Verbrenner-Verbot lockern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/verbrenner-aus-eu-deutschland-frankreich-neuwagen-2035-co2-emissionen",
-      "published_date": "2026-10-15T18:52:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Drei SPD-Politiker im Fokus: Klinikaffäre führt Ermittler bis in den Bundestag",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/15/bundestag-hebt-immunitaet-von-abgeordnetem-ahmetovic-auf",
-      "published_date": "2026-10-15T15:12:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands of German gamblers could sue for their money back",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-15T10:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands of German gamblers could sue for their money back",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T10:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s ambassadors: the loyalists and allies at the center of controversy",
+      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/trump-ambassadors-controversies-guilfoyle-kushner",
-      "published_date": "2026-10-15T10:00:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+      "published_date": "2026-10-16T18:01:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British students, like their French peers, have been known to challenge authority | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/16/british-students-like-their-french-peers-have-been-known-to-challenge-authority",
+      "published_date": "2026-10-16T16:32:58+00:00",
+      "category": "Military"
     },
     {
       "title": "‘This is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Sachsen-Anhalt: Der erste AfD-Beschluss – mit Hilfe des BSW",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-10/sachsen-anhalt-ukraine-afd-bsw-nachrichtenpodcast",
-      "published_date": "2026-10-14T15:15:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bundeswehr: Pistorius verspricht Aufklärung von Vorwürfen gegen Soldaten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/bundeswehr-weissenfels-sanitaetsregiment-1-soldaten-missbrauch",
-      "published_date": "2026-10-14T15:03:03+00:00",
-      "category": "Military"
+      "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
+      "published_date": "2026-10-16T15:28:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-      "published_date": "2026-10-10T05:00:48+00:00",
-      "category": "Energy"
+      "title": "US-Staatsverschuldung: Neuverschuldung der USA steigt unter Trump auf Fünfjahreshoch",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/us-haushaltsdefizit-staatsverschuldung-zinszahlungen-donald-trump",
+      "published_date": "2026-10-16T21:33:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Homeoffice: Bitte kommen Sie sofort in mein Büro!",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Pope Leo diagnosed with lung cancer as growth removed during surgery",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-      "published_date": "2026-10-13T20:32:36+00:00",
-      "category": "Economy"
+      "title": "Vorfall in NRW: Angriff in Seniorenheim - eine Tote und zwei Schwerverletzte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/17/angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte",
+      "published_date": "2026-10-17T00:13:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deutschlandtag der Jungen Union: Hendrik Wüst fordert Ende der Gespräche mit der Linken in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/hendrik-wuest-cdu-junge-union-berlin-linke-gruene-spd",
+      "published_date": "2026-10-16T21:54:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 6. Spieltag – Freitag: Frankfurt erzielt ersten Heimsieg seit März",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/fussball-bundesliga-6-spieltag-2026-27-eintracht-frankfurt-koeln",
+      "published_date": "2026-10-16T21:18:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Bank: US journalist injured by Israeli settlers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-16T19:32:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope Leo recovering from surgery, will deliver Sunday prayer",
@@ -673,34 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-15T21:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nineteen injured in collision between minibus and train on Eurotunnel loading platform",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
-      "published_date": "2026-10-15T21:38:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela's Nicolas Maduro pleads not guilty to torture charges",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T18:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East updates: Houthis target Yemen government palace in Aden",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T17:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T16:48:00+00:00",
       "category": "Local Events"
     }
   ]
