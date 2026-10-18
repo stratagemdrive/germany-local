@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-17T14:00:18.257527+00:00",
-  "story_count": 100,
+  "last_updated": "2026-10-18T00:30:24.879627+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "Bank of England governor walks out of IMF summit in protest against Russia",
@@ -109,6 +109,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-16T14:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Zelenskyy thanks 'real leaders' at EU summit for their support – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/16/zelenskyy-thanks-real-leaders-at-eu-summit-for-their-support-video",
-      "published_date": "2026-10-16T12:19:53+00:00",
-      "category": "Diplomacy"
+      "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T17:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How big is Russia's threat against Germany?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-17T15:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How big is Russia's threat against Germany?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T15:23:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
@@ -260,27 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-15T12:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T12:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea says it tested cruise missiles to be launched from sub",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T23:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-14T18:00:00+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "German green power workers protest planned subsidy cuts",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261010/german-green-power-workers-protest-planned-subsidy-cuts",
-      "published_date": "2026-10-10T14:07:52+00:00",
-      "category": "Energy"
+      "title": "China's influence in the gaming industry is growing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T14:49:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "France braces for nationwide protests",
@@ -557,11 +557,60 @@
       "category": "Economy"
     },
     {
-      "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
+      "title": "Streit mit Bundes-CDU: SPD-Frauen werfen Union «Sexismus mit System» vor",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/18/spd-frauen-werfen-union-sexismus-mit-system-vor",
+      "published_date": "2026-10-17T22:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Wagner holt Punkt mit Hannover bei Heimdebüt gegen St. Pauli",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/17/wagner-holt-punkt-mit-hannover-bei-heimdebuet-gegen-st-pauli",
+      "published_date": "2026-10-17T20:29:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: CDU-Landeschef nennt Sondierungspapier »Kapitulationserklärung«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/stefan-evers-cdu-berlin-sondierungspapier-linkspartei",
+      "published_date": "2026-10-17T20:05:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 6. Spieltag – Samstag: München siegt hoch über Leipzig, Dortmund nur remis gegen Union",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/bundesliga-6-spieltag-dortmund-union-elversberg-augsburg-bremen-paderborn",
+      "published_date": "2026-10-17T19:27:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police clash with students and workers protesting in Paris – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-      "published_date": "2026-10-14T13:58:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/oct/17/police-clash-with-students-and-workers-protesting-in-paris-video",
+      "published_date": "2026-10-17T19:02:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T16:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+      "published_date": "2026-10-17T16:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo leaves hospital after cancer surgery",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T13:59:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope Leo discharged from hospital after cancer operation",
@@ -606,6 +655,34 @@
       "category": "Local Events"
     },
     {
+      "title": "Germany news: Berlin's leftist parties move step closer to forming government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-17T10:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Berlin's leftist parties move step closer to forming government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T10:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-17T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-17T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf",
@@ -617,90 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
       "published_date": "2026-10-17T04:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not cool: who hacked France’s supermarket fridges?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-      "published_date": "2026-10-17T04:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vorfall in NRW: Angriff in Seniorenheim - eine Tote und zwei Schwerverletzte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/17/angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte",
-      "published_date": "2026-10-17T00:13:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deutschlandtag der Jungen Union: Hendrik Wüst fordert Ende der Gespräche mit der Linken in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/hendrik-wuest-cdu-junge-union-berlin-linke-gruene-spd",
-      "published_date": "2026-10-16T21:54:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 6. Spieltag – Freitag: Frankfurt erzielt ersten Heimsieg seit März",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/fussball-bundesliga-6-spieltag-2026-27-eintracht-frankfurt-koeln",
-      "published_date": "2026-10-16T21:18:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Bank: US journalist injured by Israeli settlers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T19:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo recovering from surgery, will deliver Sunday prayer",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-recovering-from-surgery-will-deliver-sunday-prayer/a-79682540?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T15:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Linke-Fraktionsspitze geht auf Distanz zu Vanessa Emde",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/16/linke-fraktionsspitze-geht-auf-distanz-zu-vanessa-emde",
-      "published_date": "2026-10-16T14:41:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran: When 'honor' becomes a death sentence for women",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Femicide in Iran: When 'honor' becomes a death sentence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/femicide-in-iran-when-honor-becomes-a-death-sentence/a-79681977?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-16T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus",
-      "published_date": "2026-10-16T14:05:36+00:00",
       "category": "Local Events"
     }
   ]
