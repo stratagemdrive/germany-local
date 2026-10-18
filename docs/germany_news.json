@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-18T00:30:24.879627+00:00",
+  "last_updated": "2026-10-18T14:13:18.492858+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Vietnam signs free trade deal with four European countries",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T09:19:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bank of England governor walks out of IMF summit in protest against Russia",
       "source": "The Guardian",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "British food and drink exports to EU collapse by more than a third since Brexit",
+      "title": "»Vier Wochen ohne Smartphone« (5/5): »Irgendwie war es total cool ohne das Handy«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/video/2026-10/jugendliche-smartphone-experiment-erziehung-schlaf-videoserie",
+      "published_date": "2026-10-18T14:09:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Litauen: Ukraine macht russische Störungen für Drohnenvorfall verantwortlich",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/drohne-litauen-luftraumverletzung-ukraine-russland-elektronische-kriegsfuehrung",
+      "published_date": "2026-10-18T14:08:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T08:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-18T08:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
-      "published_date": "2026-10-16T12:34:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war",
+      "published_date": "2026-10-18T05:00:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
+      "published_date": "2026-10-18T01:07:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-15T15:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starlink in der Ukraine: Gedrosselte Drohnen – Streit um Starlink",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2026-10/starlink-ukraine-us-geheimdienst-nachrichtenpodcast",
-      "published_date": "2026-10-15T15:19:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "published_date": "2026-10-15T14:53:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T14:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-15T13:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T13:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starlink: How Elon Musk's company influences geopolitics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T12:59:00+00:00",
       "category": "Military"
     },
     {
@@ -417,6 +417,20 @@
       "category": "Energy"
     },
     {
+      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+      "published_date": "2026-10-18T07:00:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+      "published_date": "2026-10-18T04:00:49+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "China's influence in the gaming industry is growing",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
@@ -543,18 +557,109 @@
       "category": "Economy"
     },
     {
-      "title": "Für 200 Millionen Euro: Paris baut Radwegenetz weiter aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/15/paris-baut-radwegenetz-weiter-aus",
-      "published_date": "2026-10-14T23:00:06+00:00",
-      "category": "Economy"
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "published_date": "2026-10-18T13:18:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
+      "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
-      "published_date": "2026-10-14T22:31:18+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+      "published_date": "2026-10-18T11:02:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Germany's eight-hour workday under threat?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-18T10:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Germany's eight-hour workday under threat?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T10:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T10:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-18T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T07:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-18T07:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: CJP leader Abhijeet Dipke released after detention",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T06:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/oct/18/refuge-theatre-play-staatstheater-mainz",
+      "published_date": "2026-10-18T06:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Kolkata stampede dampens Durga Puja festivities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T04:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+      "published_date": "2026-10-18T04:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada: Major fire reported at military base in Alberta",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T02:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T00:51:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Streit mit Bundes-CDU: SPD-Frauen werfen Union «Sexismus mit System» vor",
@@ -589,111 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/oct/17/police-clash-with-students-and-workers-protesting-in-paris-video",
       "published_date": "2026-10-17T19:02:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T16:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-      "published_date": "2026-10-17T16:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo leaves hospital after cancer surgery",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo discharged from hospital after cancer operation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
-      "published_date": "2026-10-17T13:41:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nominierungsparteitag: Spitzenduo soll Linke zurück in NRW-Landtag führen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/17/linke-waehlt-ihr-personal-fuer-die-nrw-landtagswahl",
-      "published_date": "2026-10-17T13:39:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police clash with protesters as tens of thousands take to streets across France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "published_date": "2026-10-17T13:35:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wirtschaftskrise in Tunesien: Größter Protest gegen Tunesiens Präsident Saied seit Jahren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/tunesien-wirtschaftskrise-praesident-kais-saied",
-      "published_date": "2026-10-17T13:17:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Linke, Grüne und SPD einigen sich bei Sondierungen in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/linke-gruene-und-spd-einigen-sich-offenbar-bei-sondierungen-in-berlin",
-      "published_date": "2026-10-17T12:29:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Merz faces conservative youth wing in Bonn",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T10:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin's leftist parties move step closer to forming government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-17T10:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Berlin's leftist parties move step closer to forming government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T10:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T08:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-17T08:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T06:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French schoolchildren have been treated like enemies to be crushed – for telling the truth | Rokhaya Diallo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
-      "published_date": "2026-10-17T04:00:20+00:00",
       "category": "Local Events"
     }
   ]
