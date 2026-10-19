@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-18T14:13:18.492858+00:00",
-  "story_count": 99,
+  "last_updated": "2026-10-19T00:38:01.327320+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-19T00:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+      "published_date": "2026-10-18T18:13:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vietnam signs free trade deal with four European countries",
       "source": "Deutsche Welle",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The EU wants an AI revolution. But on whose terms?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T13:12:00+00:00",
-      "category": "Diplomacy"
+      "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+      "published_date": "2026-10-18T16:37:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "The EU wants an AI revolution. But on whose terms?",
+      "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-16T13:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T14:20:00+00:00",
+      "category": "Military"
     },
     {
       "title": "»Vier Wochen ohne Smartphone« (5/5): »Irgendwie war es total cool ohne das Handy«",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-      "published_date": "2026-10-15T17:31:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia arrests Swedish national, claims he's Ukraine fighter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T15:27:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "published_date": "2026-10-18T23:01:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
@@ -386,34 +393,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-12T14:33:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T14:47:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-11T14:47:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-11T14:47:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-11T14:47:00+00:00",
       "category": "Energy"
     },
     {
@@ -557,6 +536,69 @@
       "category": "Economy"
     },
     {
+      "title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T23:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: Weimer: Linkspartei öffnet Antisemitismus «Tür und Tor»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/18/weimer-linkspartei-oeffnet-antisemitismus-tuer-und-tor",
+      "published_date": "2026-10-18T20:40:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T19:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "published_date": "2026-10-18T18:57:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPD: Hubertus Heil schließt Kandidatur für SPD-Vorsitz nicht aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/hubertus-heil-spd-parteivorsitz-lars-klingbeil",
+      "published_date": "2026-10-18T18:43:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on plague in Russia: what is most worrying is the lack of information | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information",
+      "published_date": "2026-10-18T16:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T16:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are people protesting across Europe?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer",
+      "published_date": "2026-10-18T15:15:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I saw rioting, looting, above all, anger. If French leaders think more violence will solve this, they’re mistaken | Oliver Haynes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/france-riot-looting-anger-violence-protest-streets",
+      "published_date": "2026-10-18T15:06:42+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
@@ -588,6 +630,13 @@
       "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-18T10:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France reports almost 2,400 arrests after riots, looting and arson during cost-of-living protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-reports-almost-2-400-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-18T10:26:00+00:00",
       "category": "Local Events"
     },
@@ -624,76 +673,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-18T06:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/oct/18/refuge-theatre-play-staatstheater-mainz",
-      "published_date": "2026-10-18T06:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Kolkata stampede dampens Durga Puja festivities",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-18T04:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
-      "published_date": "2026-10-18T04:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada: Major fire reported at military base in Alberta",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-18T02:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-18T00:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Streit mit Bundes-CDU: SPD-Frauen werfen Union «Sexismus mit System» vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/18/spd-frauen-werfen-union-sexismus-mit-system-vor",
-      "published_date": "2026-10-17T22:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Wagner holt Punkt mit Hannover bei Heimdebüt gegen St. Pauli",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/17/wagner-holt-punkt-mit-hannover-bei-heimdebuet-gegen-st-pauli",
-      "published_date": "2026-10-17T20:29:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: CDU-Landeschef nennt Sondierungspapier »Kapitulationserklärung«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/stefan-evers-cdu-berlin-sondierungspapier-linkspartei",
-      "published_date": "2026-10-17T20:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 6. Spieltag – Samstag: München siegt hoch über Leipzig, Dortmund nur remis gegen Union",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/bundesliga-6-spieltag-dortmund-union-elversberg-augsburg-bremen-paderborn",
-      "published_date": "2026-10-17T19:27:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police clash with students and workers protesting in Paris – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/17/police-clash-with-students-and-workers-protesting-in-paris-video",
-      "published_date": "2026-10-17T19:02:06+00:00",
       "category": "Local Events"
     }
   ]
