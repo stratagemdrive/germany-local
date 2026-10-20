@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-20T01:22:57.323185+00:00",
-  "story_count": 97,
+  "last_updated": "2026-10-20T15:31:05.732812+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Germany news: Investment summit draws billions in commitments",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-investment-summit-draws-billions-in-commitments/live-79709090?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-20T08:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Investment summit draws billions in commitments",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-investment-summit-draws-billions-in-commitments/live-79709090?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T08:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: Rubio holds talks with counterpart Jaishankar",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T06:22:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Krieg gegen die Ukraine: Trump fordert erneut Austausch von Selenskyj",
       "source": "ZEIT Online",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU-Gipfel in Brüssel: Mitgliedsstaaten sind sich bei EU-Haushalt nicht einig",
+      "title": "France to deploy military forces during expected weekend protests – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "published_date": "2026-10-20T15:18:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Waffenlieferung an die Ukraine: Will Donald Trump die Ukraine zur Kapitulation zwingen?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/eu-gipfel-bruessel-haushalt-antonio-costa-migration",
-      "published_date": "2026-10-16T22:36:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/2026-10/waffenlieferung-ukraine-donald-trump-nachrichtenpodcast",
+      "published_date": "2026-10-20T15:02:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T19:42:00+00:00",
-      "category": "Diplomacy"
+      "title": "The dangers of letting tech billionaires shape our world",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
+      "published_date": "2026-10-20T14:31:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "title": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
+      "published_date": "2026-10-20T14:28:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amazon to invest €16 billion in Germany in 2027, including in AI",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261020/amazon-to-invest-e16-billion-in-germany-in-2027-including-in-ai",
+      "published_date": "2026-10-20T11:53:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-16T19:42:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T11:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
+      "published_date": "2026-10-20T09:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T02:15:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "»Vier Wochen ohne Smartphone« (5/5): »Irgendwie war es total cool ohne das Handy«",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/video/2026-10/jugendliche-smartphone-experiment-erziehung-schlaf-videoserie",
-      "published_date": "2026-10-18T14:09:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Litauen: Ukraine macht russische Störungen für Drohnenvorfall verantwortlich",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/drohne-litauen-luftraumverletzung-ukraine-russland-elektronische-kriegsfuehrung",
-      "published_date": "2026-10-18T14:08:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
+      "title": "Japan probe sets course for Mars moon",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-18T08:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-18T08:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war",
-      "published_date": "2026-10-18T05:00:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
-      "published_date": "2026-10-18T01:07:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T17:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How big is Russia's threat against Germany?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-17T15:23:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T07:16:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nord-Stream-Sprengung: Tatort Ostsee: Wer sprengte die Nord Stream Pipelines?",
@@ -375,32 +382,39 @@
       "category": "Energy"
     },
     {
-      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+      "title": "Why US investors are snapping up Germany's famed Mittelstand",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-13T12:40:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-20T09:06:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+      "title": "Why US investors are snapping up Germany's famed Mittelstand",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-13T12:40:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T09:06:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "German word of the day: Herbstblues",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261013/german-word-of-the-day-der-herbstblues-2",
-      "published_date": "2026-10-13T11:50:37+00:00",
-      "category": "Energy"
+      "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+      "published_date": "2026-10-20T09:00:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "What Germany's proposed electricity tax cut could mean for your bills",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261013/what-germanys-proposed-electricity-tax-cut-could-mean-for-your-bills",
-      "published_date": "2026-10-13T09:00:44+00:00",
-      "category": "Energy"
+      "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
+      "published_date": "2026-10-20T07:00:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada: Alberta rejects separation bid, CBC projects",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T06:13:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "France hit by debt sell-off as violent protests unnerve investors",
@@ -508,39 +522,116 @@
       "category": "Economy"
     },
     {
-      "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+      "title": "Protest: Gegen Waffen - Zufahrt zu Betrieb in Neuenburg blockiert",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/20/gegen-waffen-zufahrt-zu-betrieb-in-neuenburg-blockiert",
+      "published_date": "2026-10-20T15:21:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mobilitätskosten: Spritpreise: Hessen und NRW besonders teuer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/20/spritpreise-hessen-und-nrw-besonders-teuer",
+      "published_date": "2026-10-20T15:13:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T15:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who are the women powering India's youth-led protests?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T15:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Germany introduce a daily alternative to the Deutschlandticket?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261020/will-germany-introduce-a-daily-alternative-to-the-deutschlandticket",
+      "published_date": "2026-10-20T15:01:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T14:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosive births, talking foxes and the devil in a trenchcoat – the Sitges fantastic film festival in all its creepy glory",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
-      "published_date": "2026-10-16T05:00:51+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/oct/20/international-fantastic-film-festival-sitges",
+      "published_date": "2026-10-20T14:10:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Europa League: Leverkusen besiegt Posen, Hoffenheim scheitert an Beşiktaş",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/europa-league-bayer-leverkusen-lech-posen-patrik-schick",
-      "published_date": "2026-10-15T20:44:17+00:00",
-      "category": "Economy"
+      "title": "People and pets rescued by helicopter from floods in Spain – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/20/people-and-pets-rescued-by-helicopter-from-floods-in-spain-video",
+      "published_date": "2026-10-20T14:09:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ermittlungen gegen Polizist: Neue Details um veruntreute Hunderttausende Euro bei Polizei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/15/neue-details-um-veruntreute-hunderttausende-euro-bei-polizei",
-      "published_date": "2026-10-15T15:06:43+00:00",
-      "category": "Economy"
+      "title": "REVEALED: The new long-haul flights from Frankfurt and Munich in 2027",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261020/revealed-the-new-long-haul-flights-from-frankfurt-and-munich-in-2027",
+      "published_date": "2026-10-20T13:01:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "title": "Germany: Google must have consent to publish property images",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-15T14:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-20T11:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "title": "Germany: Google must have consent to publish property images",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-15T14:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T11:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany to make key language test for immigrants harder",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261020/germany-to-make-key-language-test-for-immigrants-harder",
+      "published_date": "2026-10-20T10:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After the violence and chaos in France, there’s only one beneficiary: Marine Le Pen | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/france-riots-aftermath-one-beneficiary-marine-le-pen",
+      "published_date": "2026-10-20T09:59:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T08:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France plans 'massive' weekend police surge amid protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-20T08:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261020/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-145",
+      "published_date": "2026-10-20T06:29:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump borrows from far right to blame unrest in France on immigration",
@@ -568,118 +659,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-19T18:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-19T18:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France imposes partial curfews in several cities, including parts of Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "published_date": "2026-10-19T18:16:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on France’s protests: a polarised country is in a perilous political moment | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment",
-      "published_date": "2026-10-19T17:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We need to stop disinformation in UK political adverts. Here’s a chance to do so | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/19/we-need-to-stop-disinformation-in-uk-political-adverts-heres-a-chance-to-do-so",
-      "published_date": "2026-10-19T17:17:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Wir haben Angst\": Migrantische Dachverbände fordern Schutzkonzepte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/video/2026-10/wir-haben-angst-migrantische-dachverbaende-fordern-schutzkonzepte",
-      "published_date": "2026-10-19T17:08:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "published_date": "2026-10-19T17:03:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Berliner SPD stimmt für Koalitionsverhandlungen mit Linken und Grünen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-spd-stimmt-fuer-koalitionsverhandlungen-mit-linken-und-gruenen",
-      "published_date": "2026-10-19T16:58:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ferocious criticism from all sides underlines Macron’s isolation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france",
-      "published_date": "2026-10-19T16:33:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung: Berliner SPD für Koalitionsgespräche mit Linke und Grünen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/19/zwei-parteien-in-berlin-entscheiden-ueber-koalitionsgespraeche",
-      "published_date": "2026-10-19T16:33:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung: Berliner SPD für Koalitionsgespräche mit Linke und Grünen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/19/berliner-spd-fuer-koalitionsgespraeche-mit-linke-und-gruenen",
-      "published_date": "2026-10-19T16:29:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France protests escalate with riots, looting and 2,400 arrests – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest",
-      "published_date": "2026-10-19T16:05:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France protests escalate with riots, looting and 2,400 arrests - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/oct/19/france-protests-escalate-with-riots-looting-and-2400-arrests-the-latest",
-      "published_date": "2026-10-19T16:01:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houthi strike on Yemen government military camp kills at least 50",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T14:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple enjoy a drink as fires burn nearby amid Paris unrest – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/19/couple-enjoy-a-drink-as-fires-burn-nearby-amid-paris-unrest-video",
-      "published_date": "2026-10-19T14:15:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian MP seriously hurt in suspected car attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T10:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a left-wing coalition in Berlin would reshape housing and integration",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261019/how-berlins-proposed-left-wing-coalition-aims-to-reshape-housing-and-integration",
-      "published_date": "2026-10-19T09:51:36+00:00",
       "category": "Local Events"
     }
   ]
