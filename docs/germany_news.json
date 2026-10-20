@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-19T17:17:24.522648+00:00",
+  "last_updated": "2026-10-20T01:22:57.323185+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: Trump fordert erneut Austausch von Selenskyj",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-10-19T23:14:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
+      "published_date": "2026-10-19T19:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on Trump and Putin: Ukraine’s future is not theirs to bargain away | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away",
+      "published_date": "2026-10-19T17:25:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Shall we have another EU referendum? Maybe – but not yet | Polly Toynbee",
       "source": "The Guardian",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-      "published_date": "2026-10-16T18:09:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/20/ukraine-war-briefing-zelenskyy-claims-us-deliberately-delaying-interceptor-missile-deliveries-to-kyiv",
+      "published_date": "2026-10-20T00:44:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "The verdict: Would your life change if the UK rejoined the EU?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261016/the-verdict-would-your-life-change-if-the-uk-rejoined-the-eu",
-      "published_date": "2026-10-16T16:36:08+00:00",
-      "category": "Diplomacy"
+      "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "published_date": "2026-10-20T00:08:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-16T16:19:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine-Krieg: Trump: Haben der Ukraine viel gegeben - und sie uns nichts",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/20/trump-haben-der-ukraine-viel-gegeben-und-sie-uns-nichts",
+      "published_date": "2026-10-20T00:07:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "published_date": "2026-10-19T22:34:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dreiergipfel zur Ukraine: Trump zeigt sich offen für Treffen mit Putin und Xi in China",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-wladimir-putin-xi-jinping-ukraine-gipfel-gxe",
+      "published_date": "2026-10-19T21:04:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Tödliche Messerstecherei: Wir waren diese Jungs",
@@ -154,6 +189,13 @@
       "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-19T15:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-19T15:07:00+00:00",
       "category": "Military"
     },
@@ -239,48 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-10-17T15:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How big is Russia's threat against Germany?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-17T15:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-      "published_date": "2026-10-17T13:28:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gesundheitsversorgung im Krieg: Die Verletzten kommen in die Tiefgarage",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/gesundheitsversorgung-krieg-bundeswehr-krankenhaeuser-notaufnahme-hamburg",
-      "published_date": "2026-10-17T12:31:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-kherson-richelievsky-displaced-drones-last-hotel-frontline",
-      "published_date": "2026-10-17T11:00:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
-      "published_date": "2026-10-16T18:01:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British students, like their French peers, have been known to challenge authority | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/16/british-students-like-their-french-peers-have-been-known-to-challenge-authority",
-      "published_date": "2026-10-16T16:32:58+00:00",
       "category": "Military"
     },
     {
@@ -543,6 +543,62 @@
       "category": "Economy"
     },
     {
+      "title": "Trump borrows from far right to blame unrest in France on immigration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+      "published_date": "2026-10-19T22:48:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin: Berliner Grüne stimmen für Koalitionsverhandlungen mit Linken und SPD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-linken-und-spd",
+      "published_date": "2026-10-19T20:45:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-19T18:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-19T18:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-19T18:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France imposes partial curfews in several cities, including parts of Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "published_date": "2026-10-19T18:16:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on France’s protests: a polarised country is in a perilous political moment | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment",
+      "published_date": "2026-10-19T17:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We need to stop disinformation in UK political adverts. Here’s a chance to do so | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/19/we-need-to-stop-disinformation-in-uk-political-adverts-heres-a-chance-to-do-so",
+      "published_date": "2026-10-19T17:17:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "\"Wir haben Angst\": Migrantische Dachverbände fordern Schutzkonzepte",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/video/2026-10/wir-haben-angst-migrantische-dachverbaende-fordern-schutzkonzepte",
@@ -624,62 +680,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261019/how-berlins-proposed-left-wing-coalition-aims-to-reshape-housing-and-integration",
       "published_date": "2026-10-19T09:51:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T08:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261019/today-in-germany-a-roundup-of-the-latest-news-on-monday-143",
-      "published_date": "2026-10-19T06:34:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T06:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T05:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The housing crisis is now global. It shows just how undemocratic our nations have become  | Leilani Farha",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/housing-crisis-global-democracy-nations-financial-sector",
-      "published_date": "2026-10-19T05:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-18T23:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Weimer: Linkspartei öffnet Antisemitismus «Tür und Tor»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/18/weimer-linkspartei-oeffnet-antisemitismus-tuer-und-tor",
-      "published_date": "2026-10-18T20:40:43+00:00",
       "category": "Local Events"
     }
   ]
