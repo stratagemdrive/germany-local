@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-21T15:47:07.206261+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-22T01:06:39.172110+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Cookie-Banner: EU-Länder wollen Ausnahmen bei Regelung für Cookies schaffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/digital/internet/2026-10/cookie-banner-eu-kommission-internet-nutzer",
+      "published_date": "2026-10-21T23:38:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Digitalpolitik: EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/22/eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet",
+      "published_date": "2026-10-21T22:01:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-21T19:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-21T19:32:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Booking.com under investigation by EU regulators over fake listings and scams",
       "source": "The Guardian",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
+      "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
-      "published_date": "2026-10-19T19:00:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on Trump and Putin: Ukraine’s future is not theirs to bargain away | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away",
-      "published_date": "2026-10-19T17:25:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shall we have another EU referendum? Maybe – but not yet | Polly Toynbee",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/eu-referendum-rejoin-campaign",
-      "published_date": "2026-10-19T15:17:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-19T14:46:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+      "published_date": "2026-10-21T17:57:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
-      "published_date": "2026-10-20T14:28:56+00:00",
-      "category": "Military"
-    },
-    {
       "title": "UK approves Jackdaw gas field after years in limbo",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf",
@@ -358,13 +358,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/oct/15/faust-review-centenary-mubi",
       "published_date": "2026-10-15T08:00:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
-      "published_date": "2026-10-14T18:54:34+00:00",
       "category": "Energy"
     },
     {
@@ -508,6 +501,41 @@
       "category": "Economy"
     },
     {
+      "title": "France bans protests in parts of Paris as Macron slams Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-21T22:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: RB Leipzig scheitert bei Real an königlicher Souveränität",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/21/rb-leipzig-scheitert-bei-real-an-koeniglicher-souveraenitaet",
+      "published_date": "2026-10-21T21:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
+      "published_date": "2026-10-21T21:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: AfD's Weidel calls for major EU reforms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-21T19:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: AfD's Weidel calls for major EU reforms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-21T19:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Europe’s far right seizes on protest violence to push authoritarian anti-immigration agenda",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/21/europe-far-right-protest-violence-authoritarian-agenda",
@@ -610,41 +638,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/20/gegen-waffen-zufahrt-zu-betrieb-in-neuenburg-blockiert",
       "published_date": "2026-10-20T15:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mobilitätskosten: Spritpreise: Hessen und NRW besonders teuer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/20/spritpreise-hessen-und-nrw-besonders-teuer",
-      "published_date": "2026-10-20T15:13:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T15:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the women powering India's youth-led protests?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T15:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T15:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Germany introduce a daily alternative to the Deutschlandticket?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261020/will-germany-introduce-a-daily-alternative-to-the-deutschlandticket",
-      "published_date": "2026-10-20T15:01:35+00:00",
       "category": "Local Events"
     }
   ]
