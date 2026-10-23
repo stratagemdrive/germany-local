@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-23T01:06:43.520158+00:00",
-  "story_count": 90,
+  "last_updated": "2026-10-23T15:35:31.633780+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Vergesellschaftung von Wohnungen: Das nächste gebrochene Kanzlerversprechen?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/vergesellschaftung-wohnungen-berlin-koalition-spd-linke",
+      "published_date": "2026-10-23T15:04:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU parliament approves more safeguards for travellers in Europe",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261023/eu-parliament-approves-more-safeguards-for-travellers-in-europe",
+      "published_date": "2026-10-23T12:49:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-23T08:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T08:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Youth mobility scheme may be delayed to ensure success of UK-EU summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
+      "published_date": "2026-10-23T05:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Giorgia Meloni is Italy’s great political survivor. Could one man be about to bring her down? | Riccardo Alcaro",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/italy-giorgia-meloni-politics-roberto-vannacci-far-right",
+      "published_date": "2026-10-23T04:00:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada's Mark Carney visits Turkey to boost trade ties",
       "source": "Deutsche Welle",
@@ -102,46 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Booking.com under investigation by EU regulators over fake listings and scams",
+      "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
-      "published_date": "2026-10-21T15:01:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "published_date": "2026-10-23T14:57:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "​Europe stands by Ukraine – but how long can that last?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
-      "published_date": "2026-10-21T14:33:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "MEPs urge EU ministers to act and bring an end to seasonal clock changes",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261021/meps-urge-eu-ministers-to-act-and-bring-end-to-seasonal-clock-changes",
-      "published_date": "2026-10-21T11:44:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T10:35:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T14:23:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz says EU ready to defend industry against 'unfair' Chinese trade",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261021/merz-says-eu-ready-to-defend-industry-against-unfair-chinese-trade",
-      "published_date": "2026-10-21T10:32:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors",
+      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T08:30:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-23T14:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T09:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea proposes military talks with North again",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T07:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T05:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Klimawandel: Forschende schätzen mehr als 50.000 Hitzetote in Europa im Sommer 2026",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "published_date": "2026-10-21T15:24:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-      "published_date": "2026-10-21T15:23:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland bereit für trilaterale Gespräche mit USA und Ukraine",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/steve-witkoff-wladimir-putin-russland-ukraine",
-      "published_date": "2026-10-21T15:08:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "title": "Many feared trapped under collapsed building in Nairobi",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-21T14:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T14:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-21T14:17:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T14:09:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
@@ -340,18 +347,25 @@
       "category": "Energy"
     },
     {
-      "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
-      "published_date": "2026-10-16T15:28:10+00:00",
-      "category": "Energy"
+      "title": "IG-Metall-Drohung: Droht Volkswagen der größte Konflikt der Geschichte?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/23/droht-volkswagen-der-groesste-konflikt-der-geschichte",
+      "published_date": "2026-10-23T15:03:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
+      "title": "Germany, Austria or Switzerland: Where do residents pay the most income tax?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261023/germany-austria-or-switzerland-where-do-residents-pay-the-most-income-tax",
+      "published_date": "2026-10-23T11:22:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-      "published_date": "2026-10-16T10:01:58+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+      "published_date": "2026-10-23T10:33:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
@@ -473,25 +487,116 @@
       "category": "Economy"
     },
     {
-      "title": "Why US investors are snapping up Germany's famed Mittelstand",
+      "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-20T09:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T15:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why US investors are snapping up Germany's famed Mittelstand",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T09:06:00+00:00",
-      "category": "Economy"
+      "title": "Westjordanland: Netanjahu lässt die Tore schließen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/2026-10/westjordanland-benjamin-netanjahu-abriegelung-hebron-nachrichtenpodcast",
+      "published_date": "2026-10-23T15:24:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "title": "France to deploy 70,000 police across country on Saturday to prevent unrest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
-      "published_date": "2026-10-20T09:00:21+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+      "published_date": "2026-10-23T15:16:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+      "published_date": "2026-10-23T15:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romania blames Russia for ship attack in the Black Sea",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T14:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘An orchestra being gassed should be an alarm signal’: the musical activists targeted in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
+      "published_date": "2026-10-23T11:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-23T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: 1 killed, 4 wounded after shooting near Paris",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T11:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
+      "published_date": "2026-10-23T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
+      "published_date": "2026-10-23T09:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel orders home demolitions after soldiers killed in West Bank",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T08:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Severe flooding in eastern Spain and UK hit by first named storm of winter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/spain-floods-storm-adam-uk-storm-austen",
+      "published_date": "2026-10-23T08:16:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261023/today-in-germany-a-roundup-of-the-latest-news-on-friday-145",
+      "published_date": "2026-10-23T06:43:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T04:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia: Tens of thousands rally ahead of elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T03:15:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
@@ -519,118 +624,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-22T19:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania's student protests are only getting bigger",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-22T19:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T19:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IT-Sicherheitslücke: Services von NRW-Polizei wieder online - andere Seiten nicht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/22/services-von-nrw-polizei-wieder-online-andere-seiten-nicht",
-      "published_date": "2026-10-22T15:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police raid on Berlin queer community centre reignites debate over trans healthcare",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261022/police-raid-on-berlin-queer-community-centre-reignites-debate-over-trans-healthcare",
-      "published_date": "2026-10-22T15:29:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "published_date": "2026-10-22T15:01:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Iran ready for another major US attack after midterm elections?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T14:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Gandhi's nephew forced to pull protest photos",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T12:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is at stake in Serbia’s election? The key players, main issues and potential fallout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/serbia-election-student-protests-explainer-key-issues",
-      "published_date": "2026-10-22T11:50:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
-      "published_date": "2026-10-22T11:22:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
-      "published_date": "2026-10-22T11:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘America, this is a warning’: pro- Trump Maga media in a froth over Europe protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
-      "published_date": "2026-10-22T11:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-22T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A violent and coordinated youth uprising? That’s exactly the picture Europe’s enemies want to paint | Alberto Alemanno",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/europe-youth-uprising-enemies-protesters",
-      "published_date": "2026-10-22T04:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austrian, Swiss women kidnapped in Niger are freed — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T02:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T01:48:00+00:00",
       "category": "Local Events"
     }
   ]
