@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-22T15:45:31.099041+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-23T01:06:43.520158+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T17:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Are the French police the most violent in the EU?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Are the French police the most violent in the EU?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-22T16:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is EU putting profits over human rights in Vietnam?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T14:12:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
       "source": "The Guardian",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "India news: India-US trade deal 'pretty close,' says Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T06:31:00+00:00",
-      "category": "Diplomacy"
+      "title": "Klimawandel: Forschende schätzen mehr als 50.000 Hitzetote in Europa im Sommer 2026",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissenschaft/2026-10/hitzetote-europa-klimawandel-sommer-2026",
+      "published_date": "2026-10-23T00:36:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "AfD's Alice Weidel to unveil plan to cut EU powers — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-20T22:25:00+00:00",
-      "category": "Diplomacy"
+      "title": "Satelliteninternet: Trump: Musk hat Starlink-Drosselung für Ukraine aufgehoben",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/23/trump-musk-hat-starlink-drosselung-fuer-ukraine-aufgehoben",
+      "published_date": "2026-10-22T23:53:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "AfD's Alice Weidel to unveil plan to cut EU powers — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T22:25:00+00:00",
-      "category": "Diplomacy"
+      "title": "Erdbeben in Tibet: Mindestens 16 Tote bei starkem Erdbeben in Tibet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/erdbeben-tibet-nordchina-nagqu",
+      "published_date": "2026-10-22T22:06:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T18:19:00+00:00",
-      "category": "Diplomacy"
+      "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+      "published_date": "2026-10-22T16:59:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+      "published_date": "2026-10-22T15:54:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Verhandlungen im Ukrainekrieg: Putin will von Trump maximal profitieren",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
+      "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T03:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T01:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-21T01:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/ukraine-war-briefing-us-envoy-witkoff-to-meet-putin-after-constructive-talks-with-zelenskyy-in-norway",
-      "published_date": "2026-10-20T23:33:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elon Musk: Musk soll für Starlink-Drosselung in der Ukraine verantwortlich sein",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-drosselung-ukraine-donald-trump",
-      "published_date": "2026-10-20T21:37:37+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T18:18:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK approves Jackdaw gas field after years in limbo",
@@ -345,6 +352,13 @@
       "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
       "published_date": "2026-10-16T10:01:58+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T16:28:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mercedes-Benz: Baukasten statt Plattformen: Mercedes will Kosten senken",
@@ -480,11 +494,46 @@
       "category": "Economy"
     },
     {
-      "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
+      "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
-      "published_date": "2026-10-20T07:00:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+      "published_date": "2026-10-23T00:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T23:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland: Thousands protest for more abortion rights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T20:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albania's student protests are only getting bigger",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T19:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albania's student protests are only getting bigger",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-22T19:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T19:17:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "IT-Sicherheitslücke: Services von NRW-Polizei wieder online - andere Seiten nicht",
@@ -582,48 +631,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-22T01:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German youth plan France-style mass protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-21T23:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German youth plan France-style mass protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T23:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France bans protests in parts of Paris as Macron slams Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T22:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: RB Leipzig scheitert bei Real an königlicher Souveränität",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/21/rb-leipzig-scheitert-bei-real-an-koeniglicher-souveraenitaet",
-      "published_date": "2026-10-21T21:59:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
-      "published_date": "2026-10-21T21:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: AfD's Weidel calls for major EU reforms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-21T19:44:00+00:00",
       "category": "Local Events"
     }
   ]
