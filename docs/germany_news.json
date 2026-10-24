@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-23T15:35:31.633780+00:00",
+  "last_updated": "2026-10-24T01:15:41.977320+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "CSU-Parteitag: Führende CSU-Politiker setzen Merz in P-Frage unter Druck",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/24/fuehrende-csu-politiker-setzen-merz-in-p-frage-unter-druck",
+      "published_date": "2026-10-23T22:30:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tinned mackerel, hand-crank radios and bags for poo: crisis-prepping guides around the world",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
+      "published_date": "2026-10-23T15:52:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vergesellschaftung von Wohnungen: Das nächste gebrochene Kanzlerversprechen?",
       "source": "ZEIT Online",
@@ -29,6 +43,13 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-23T08:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
+      "published_date": "2026-10-23T06:00:03+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Digitalpolitik: EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/22/eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet",
-      "published_date": "2026-10-21T22:01:04+00:00",
-      "category": "Diplomacy"
+      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T19:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T19:32:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-23T19:08:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-21T19:32:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T18:17:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Israel are warned against launching fresh strikes on Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+      "published_date": "2026-10-23T17:18:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "published_date": "2026-10-23T16:35:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
@@ -246,41 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-10-22T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany arrests Ukrainian man suspected of spying for Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-arrests-ukrainian-man-suspected-of-spying-for-russia/a-79732373?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-22T11:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany arrests Ukrainian man suspected of spying for Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-arrests-ukrainian-man-suspected-of-spying-for-russia/a-79732373?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T11:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump has sold out Ukraine. He makes appeaser Chamberlain look like a man of iron principle | Simon Tisdall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/donald-trump-ukraine-betrayal-putin-nato",
-      "published_date": "2026-10-22T11:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Russia trade strikes after Witkoff talks",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T04:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
-      "published_date": "2026-10-21T17:57:48+00:00",
       "category": "Military"
     },
     {
@@ -431,6 +431,20 @@
       "category": "Economy"
     },
     {
+      "title": "Can Germany revive its economy before the AfD gains ground?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-22T09:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can Germany revive its economy before the AfD gains ground?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-22T09:10:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "French borrowing costs overtake US amid budget turmoil",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
@@ -473,18 +487,46 @@
       "category": "Economy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261021/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-143",
-      "published_date": "2026-10-21T06:39:35+00:00",
-      "category": "Economy"
+      "title": "Regierungsbildung: Thierse für unabhängigen Regierungschef in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/24/thierse-fuer-unabhaengigen-regierungschef-in-berlin",
+      "published_date": "2026-10-23T22:01:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From Paris to Porto, from Tirana to Milan: protests across Europe – in pictures",
+      "title": "France to deploy 70,000 police officers ahead of protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-23T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/oct/20/from-paris-to-milan-student-protests-across-europe-in-pictures",
-      "published_date": "2026-10-20T14:05:05+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+      "published_date": "2026-10-23T21:44:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 7. Spieltag – Freitag: Borussia Mönchengladbach gewinnt gegen den VfB Stuttgart",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/bundesliga-7-spieltag-freitag-vfb-stuttgart-borussia-moenchengladbach",
+      "published_date": "2026-10-23T21:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSU-Parteitag in München: Wenn alles im Chaos versinkt, blüht Markus Söder erst so richtig auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/csu-parteitag-muenchen-markus-soeder-rede",
+      "published_date": "2026-10-23T19:26:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Europe’s protests: the social contract has broken – and young people want solutions | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/the-guardian-view-on-europes-protests-the-social-contract-has-broken-and-young-people-want-solutions",
+      "published_date": "2026-10-23T17:07:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
@@ -582,48 +624,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261023/today-in-germany-a-roundup-of-the-latest-news-on-friday-145",
       "published_date": "2026-10-23T06:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T04:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia: Tens of thousands rally ahead of elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T03:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
-      "published_date": "2026-10-23T00:22:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T23:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland: Thousands protest for more abortion rights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T20:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania's student protests are only getting bigger",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T19:18:00+00:00",
       "category": "Local Events"
     }
   ]
