@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-24T01:15:41.977320+00:00",
+  "last_updated": "2026-10-24T14:11:08.704179+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Friedrich Merz: Merz fordert Reformen und lässt Unterstützung für Aigner offen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/reformen-deutschland-friedrich-merz-cdu-wirtschaft-rente-pflege-gxe",
+      "published_date": "2026-10-24T12:55:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "CSU-Parteitag: Führende CSU-Politiker setzen Merz in P-Frage unter Druck",
       "source": "ZEIT Online",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cookie-Banner: EU-Länder wollen Ausnahmen bei Regelung für Cookies schaffen",
+      "title": "Krieg gegen die Ukraine: Beschränkungen bei Starlink laut Selenskyj vollständig aufgehoben",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/digital/internet/2026-10/cookie-banner-eu-kommission-internet-nutzer",
-      "published_date": "2026-10-21T23:38:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-10-24T13:19:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
+      "published_date": "2026-10-24T01:20:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
@@ -267,20 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-22T11:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Life near the front line in Sloviansk",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Life near the front line in Sloviansk",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-22T11:44:00+00:00",
       "category": "Military"
     },
     {
@@ -487,6 +487,90 @@
       "category": "Economy"
     },
     {
+      "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "published_date": "2026-10-24T13:47:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Merz calls for unity at CSU party conference",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-24T10:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+      "published_date": "2026-10-24T10:04:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: Why do children have to go to school so early here?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261024/inside-germany-why-do-children-have-to-go-to-school-so-early-here",
+      "published_date": "2026-10-24T09:55:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire breaks out at Hitler's mountain retreat",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261024/fire-breaks-out-at-hitlers-mountain-retreat",
+      "published_date": "2026-10-24T08:55:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-24T07:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: Fresh protests hit France amid heightened security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-24T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: Fresh protests hit France amid heightened security",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-24T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Violence, intimidation and fear: 10 years on from the ‘Jungle’, life in Calais migrant camps is harsher than ever",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/violence-intimidation-and-fear-10-years-on-from-the-jungle-life-in-calais-migrant-camps-is-harsher-than-ever",
+      "published_date": "2026-10-24T05:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-24T04:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hitler's Eagle's Nest retreat catches fire, police say",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-24T02:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hitler's Eagle's Nest retreat catches fire, police say",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-24T02:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Regierungsbildung: Thierse für unabhängigen Regierungschef in Berlin",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/24/thierse-fuer-unabhaengigen-regierungschef-in-berlin",
@@ -540,90 +624,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/2026-10/westjordanland-benjamin-netanjahu-abriegelung-hebron-nachrichtenpodcast",
       "published_date": "2026-10-23T15:24:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France to deploy 70,000 police across country on Saturday to prevent unrest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
-      "published_date": "2026-10-23T15:16:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "published_date": "2026-10-23T15:12:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romania blames Russia for ship attack in the Black Sea",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T14:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘An orchestra being gassed should be an alarm signal’: the musical activists targeted in Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
-      "published_date": "2026-10-23T11:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-23T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: 1 killed, 4 wounded after shooting near Paris",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T11:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
-      "published_date": "2026-10-23T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-      "published_date": "2026-10-23T09:37:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel orders home demolitions after soldiers killed in West Bank",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T08:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Severe flooding in eastern Spain and UK hit by first named storm of winter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/spain-floods-storm-adam-uk-storm-austen",
-      "published_date": "2026-10-23T08:16:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261023/today-in-germany-a-roundup-of-the-latest-news-on-friday-145",
-      "published_date": "2026-10-23T06:43:47+00:00",
       "category": "Local Events"
     }
   ]
