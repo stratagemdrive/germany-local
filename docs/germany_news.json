@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-25T00:42:13.833022+00:00",
+  "last_updated": "2026-10-25T14:42:42.010093+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "published_date": "2026-10-25T13:31:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
       "source": "The Guardian",
@@ -29,6 +36,13 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-10/reformen-deutschland-friedrich-merz-cdu-wirtschaft-rente-pflege-gxe",
       "published_date": "2026-10-24T12:55:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-24T10:33:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU's Sakharov Prize won by the International Criminal Court",
+      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-s-sakharov-prize-won-by-the-international-criminal-court/a-79730914?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T10:04:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T07:19:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T08:31:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-25T07:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
+      "published_date": "2026-10-25T02:37:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg in der Ukraine: Musk wirft Ukraine Nutzung von Starlink für Offensivangriffe vor",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Satelliteninternet: Trump: Musk hat Starlink-Drosselung für Ukraine aufgehoben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/23/trump-musk-hat-starlink-drosselung-fuer-ukraine-aufgehoben",
-      "published_date": "2026-10-22T23:53:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erdbeben in Tibet: Mindestens 16 Tote bei starkem Erdbeben in Tibet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/erdbeben-tibet-nordchina-nagqu",
-      "published_date": "2026-10-22T22:06:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
-      "published_date": "2026-10-22T16:59:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Many feared trapped under collapsed building in Nairobi",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf",
@@ -345,6 +345,13 @@
       "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
       "published_date": "2026-10-18T23:01:12+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "published_date": "2026-10-25T13:43:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
@@ -480,150 +487,143 @@
       "category": "Economy"
     },
     {
-      "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-      "published_date": "2026-10-21T10:55:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hundreds of thousands march across France in protests over schools and policing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "published_date": "2026-10-24T17:54:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major protests in Paris and other French cities in challenge to Macron – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/oct/24/major-protests-in-paris-and-other-french-cities-in-challenge-to-emmanuel-macron",
-      "published_date": "2026-10-24T16:21:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German national facing trial for alleged attempt to join IS",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-24T15:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German national facing trial for alleged attempt to join IS",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T15:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "published_date": "2026-10-24T13:47:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Merz calls for unity at CSU party conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T10:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Merz calls for unity at CSU party conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-24T10:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-      "published_date": "2026-10-24T10:04:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Why do children have to go to school so early here?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261024/inside-germany-why-do-children-have-to-go-to-school-so-early-here",
-      "published_date": "2026-10-24T09:55:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire breaks out at Hitler's mountain retreat",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261024/fire-breaks-out-at-hitlers-mountain-retreat",
-      "published_date": "2026-10-24T08:55:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T07:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Fresh protests hit France amid heightened security",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Fresh protests hit France amid heightened security",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-24T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Clashes break out as protests go nationwide",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Clashes break out as protests go nationwide",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-24T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence, intimidation and fear: 10 years on from the ‘Jungle’, life in Calais migrant camps is harsher than ever",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/violence-intimidation-and-fear-10-years-on-from-the-jungle-life-in-calais-migrant-camps-is-harsher-than-ever",
-      "published_date": "2026-10-24T05:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T04:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitler's Eagle's Nest retreat catches fire, police say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-24T02:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitler's Eagle's Nest retreat catches fire, police say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T02:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung: Thierse für unabhängigen Regierungschef in Berlin",
+      "title": "Autowerk in Georgia: SPD-Politikerin wirft Audi Wahlkampfhilfe für Trump vor",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/24/thierse-fuer-unabhaengigen-regierungschef-in-berlin",
-      "published_date": "2026-10-23T22:01:06+00:00",
+      "url": "https://www.zeit.de/news/2026-10/25/spd-politikerin-wirft-audi-wahlkampfhilfe-fuer-trump-vor",
+      "published_date": "2026-10-25T14:35:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2. Bundesliga: Aufatmen bei Trainer Walter: Kiel gewinnt 3:0 gegen Dresden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/25/aufatmen-bei-trainer-walter-kiel-gewinnt-3-0-gegen-dresden",
+      "published_date": "2026-10-25T14:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T14:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-25T13:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T13:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel to close all West Bank land crossings on election day",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T13:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-25T12:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T12:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Hundreds arrested after nationwide protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T12:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Hundreds arrested after nationwide protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-25T12:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police and protesters exchange teargas and fireworks in demonstrations across France – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/25/police-and-protesters-exchange-teargas-and-fireworks-in-demonstrations-across-france-video",
+      "published_date": "2026-10-25T11:23:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T11:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
+      "published_date": "2026-10-25T11:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T10:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T10:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T09:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
+      "published_date": "2026-10-25T09:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ten days that could shake the world: democratic norms at stake in four pivotal elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+      "published_date": "2026-10-25T07:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump announces Audi will build $4 billion factory in US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-25T04:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump announces Audi will build $4 billion factory in US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T04:44:00+00:00",
       "category": "Local Events"
     }
   ]
