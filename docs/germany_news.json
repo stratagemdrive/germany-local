@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-25T14:42:42.010093+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-26T00:53:09.262045+00:00",
+  "story_count": 88,
   "stories": [
     {
       "title": "Rayner backs Burnham call for debate on return to free movement with EU",
@@ -158,6 +158,20 @@
       "category": "Military"
     },
     {
+      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T07:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-25T07:19:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T05:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Klimawandel: Forschende schätzen mehr als 50.000 Hitzetote in Europa im Sommer 2026",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wissenschaft/2026-10/hitzetote-europa-klimawandel-sommer-2026",
-      "published_date": "2026-10-23T00:36:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Many feared trapped under collapsed building in Nairobi",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf",
@@ -340,11 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
-      "published_date": "2026-10-18T23:01:12+00:00",
-      "category": "Energy"
+      "title": "Protein shakes for teenagers: Good or bad idea?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T16:12:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
@@ -480,11 +480,39 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Nvidia CEO optimistic about EU's AI economy",
+      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "published_date": "2026-10-25T23:42:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "published_date": "2026-10-25T23:40:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia election: Vucic concedes defeat to student-led movement",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-nvidia-ceo-optimistic-about-eu-s-ai-economy/live-79719483?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T13:14:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-25T21:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+      "published_date": "2026-10-25T19:57:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portuguese police with dogs and batons dismantle housing protest camps",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
+      "published_date": "2026-10-25T15:32:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Autowerk in Georgia: SPD-Politikerin wirft Audi Wahlkampfhilfe für Trump vor",
@@ -543,6 +571,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Hundreds of thousands march across France in protests over schools and policing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "published_date": "2026-10-25T12:07:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France: Hundreds arrested after nationwide protests",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
@@ -582,48 +617,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-25T10:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T10:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T09:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
-      "published_date": "2026-10-25T09:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten days that could shake the world: democratic norms at stake in four pivotal elections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
-      "published_date": "2026-10-25T07:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump announces Audi will build $4 billion factory in US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-25T04:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump announces Audi will build $4 billion factory in US",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T04:44:00+00:00",
       "category": "Local Events"
     }
   ]
