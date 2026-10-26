@@ -1,8 +1,57 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-26T00:53:09.262045+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-26T17:05:12.089359+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+      "published_date": "2026-10-26T16:39:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What makes Andy Burnham think Britain can rejoin the EU? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/26/what-makes-andy-burnham-think-britain-can-rejoin-the-eu-podcast",
+      "published_date": "2026-10-26T16:36:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T15:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz heads to Asia as security issues loom large",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T13:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-26T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
+      "published_date": "2026-10-26T09:30:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rayner backs Burnham call for debate on return to free movement with EU",
       "source": "The Guardian",
@@ -95,53 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Youth mobility scheme may be delayed to ensure success of UK-EU summit",
+      "title": "Why Ukraine may be involved in Mali's conflict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T14:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protests, tourists and the Kremlin: Georgia at a crossroads – photo essay",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
-      "published_date": "2026-10-23T05:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/26/protests-tourists-and-the-kremlin-georgia-at-a-crossroads-photo-essay",
+      "published_date": "2026-10-26T14:02:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Giorgia Meloni is Italy’s great political survivor. Could one man be about to bring her down? | Riccardo Alcaro",
+      "title": "Macron vows 'strong measures' to combat protests that rocked France",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T13:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European gas prices soar to four-year high over winter supply fears",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/italy-giorgia-meloni-politics-roberto-vannacci-far-right",
-      "published_date": "2026-10-23T04:00:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T17:07:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are the French police the most violent in the EU?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T16:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are the French police the most violent in the EU?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-22T16:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is EU putting profits over human rights in Vietnam?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T14:12:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-      "published_date": "2026-10-22T10:14:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "published_date": "2026-10-26T10:35:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T14:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-23T14:23:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T09:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea proposes military talks with North again",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T07:50:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Many feared trapped under collapsed building in Nairobi",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf",
@@ -319,25 +319,53 @@
       "category": "Energy"
     },
     {
-      "title": "Nord-Stream-Sprengung: Tatort Ostsee: Wer sprengte die Nord Stream Pipelines?",
+      "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
+      "published_date": "2026-10-26T16:48:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Metro AG in Russland: Metro distanziert sich wegen Kriegsspende von russischer Tochterfirma",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/2023-09/nord-stream-sprengung-ermittlung-zeit-ard-sz",
-      "published_date": "2026-10-19T16:01:03+00:00",
-      "category": "Energy"
+      "url": "https://www.zeit.de/wirtschaft/2026-10/metro-russland-zwangsverwaltung-spende-ukraine",
+      "published_date": "2026-10-26T16:41:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Canada: Alberta votes on holding independence referendum",
+      "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T15:09:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-26T15:16:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+      "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-19T12:31:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T15:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Audi boss under fire in Germany for Trump rally appearance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "published_date": "2026-10-26T14:42:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Steinmeier in China: A major state visit in uncertain times",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T13:09:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "German union slams Audi boss's appearance at Trump rally",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261026/german-union-slams-audi-bosss-appearance-at-trump-rally",
+      "published_date": "2026-10-26T10:59:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Protein shakes for teenagers: Good or bad idea?",
@@ -431,53 +459,88 @@
       "category": "Economy"
     },
     {
-      "title": "Can Germany overhaul its economy before AfD grows stronger?",
+      "title": "German police probe cruise ship captain after Bremerhaven collision",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-22T09:10:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T17:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Can Germany overhaul its economy before AfD grows stronger?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T09:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can Germany revive its economy before the AfD gains ground?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-22T09:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can Germany revive its economy before the AfD gains ground?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T09:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French borrowing costs overtake US amid budget turmoil",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-      "published_date": "2026-10-22T08:40:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "»Titanic«: Sie verteidigen ihr Kind vor Gericht",
+      "title": "AfD: AfD-Spitze kündigt lückenlose Aufklärung von E-Mail-Leak an",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/46/titanic-klage-satiremagazin-franca-lehfeldt-christian-lindner-persoenlichkeitsrecht",
-      "published_date": "2026-10-21T15:41:10+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/afd-e-mail-leak-hackerangriff-daten-aufklaerung",
+      "published_date": "2026-10-26T16:54:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
+      "title": "Serbia’s Student List preparing for talks on forming government despite no clear leader",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
-      "published_date": "2026-10-21T13:17:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
+      "published_date": "2026-10-26T16:46:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kooperationsvertrag: Cottbuser Medizin-Uni und TU Dresden wollen kooperieren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/26/cottbuser-medizin-uni-und-tu-dresden-wollen-kooperieren",
+      "published_date": "2026-10-26T16:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kulturdemonstration: Düsseldorfer Kulturszene protestiert gegen AfD-Auftritt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/26/duesseldorfer-kulturszene-protestiert-gegen-afd-auftritt",
+      "published_date": "2026-10-26T16:44:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neues Musikvideo: Harry Styles: Tanztraining vor den Berlin-Shows",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/26/harry-styles-tanztraining-vor-den-berlin-shows",
+      "published_date": "2026-10-26T16:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cheers, fireworks and flags after Vučić concedes defeat in Serbian election – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/oct/26/cheers-fireworks-and-flags-after-vucic-concedes-defeat-in-serbian-election-in-pictures",
+      "published_date": "2026-10-26T13:41:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany’s interior ministry puts forward plan to block housing socialisation in Berlin",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261026/germanys-interior-ministry-puts-forward-plan-to-block-housing-socialisation-in-berlin",
+      "published_date": "2026-10-26T11:23:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone footage shows crowds in Belgrade celebrating defeat of Aleksandar Vučić – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/26/drone-footage-shows-crowds-in-belgrade-celebrating-defeat-of-aleksandar-vucic-video",
+      "published_date": "2026-10-26T10:57:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jordan: 3 arrested over deadly church attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T10:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Remark on Modi's father stirs political row",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T07:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could Europe’s autumn of discontent threaten the survival of the EU? | Catherine De Vries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/could-europes-autumn-of-discontent-threaten-the-survival-of-the-eu",
+      "published_date": "2026-10-26T05:00:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
@@ -533,90 +596,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-25T14:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-25T13:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T13:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel to close all West Bank land crossings on election day",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T13:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-25T12:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T12:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of thousands march across France in protests over schools and policing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "published_date": "2026-10-25T12:07:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Hundreds arrested after nationwide protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T12:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Hundreds arrested after nationwide protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-25T12:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police and protesters exchange teargas and fireworks in demonstrations across France – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/25/police-and-protesters-exchange-teargas-and-fireworks-in-demonstrations-across-france-video",
-      "published_date": "2026-10-25T11:23:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T11:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
-      "published_date": "2026-10-25T11:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T10:52:00+00:00",
       "category": "Local Events"
     }
   ]
