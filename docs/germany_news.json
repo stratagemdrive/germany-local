@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-26T17:05:12.089359+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-27T01:44:36.318346+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
+      "source": "Der Spiegel",
+      "url": "https://www.spiegel.de/international/world/crisis-in-yemen-imperative-that-world-powers-resolutely-defend-international-maritime-law-a-46cd5da6-a026-495d-9f55-3f137c6814ee#ref=rss",
+      "published_date": "2026-10-27T00:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fischerei in der Ostsee: EU-Agrarminister halten an Ausnahme für Ostseefischer fest",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/ostsee-fischerei-eu-agrarminister-fangquoten-hering-dorsch",
+      "published_date": "2026-10-27T00:32:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kanzler auf Asienreise: Wirtschaft, Sicherheit und eine Orchidee: Merz in Singapur",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/27/wirtschaft-sicherheit-und-eine-orchidee-merz-in-singapur",
+      "published_date": "2026-10-27T00:32:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "published_date": "2026-10-26T18:03:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What makes Andy Burnham think we can rejoin the EU? | Politics Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/oct/26/what-makes-andy-burnham-think-we-can-rejoin-the-eu-politics-weekly",
+      "published_date": "2026-10-26T17:50:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A referendum is not needed for the UK to reach a Bre-entry deal with Europe | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/a-referendum-is-not-needed-for-the-uk-to-reach-a-bre-entry-deal-with-europe",
+      "published_date": "2026-10-26T17:39:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
       "source": "The Guardian",
@@ -42,6 +84,20 @@
       "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Audi boss slammed over Trump rally appearance",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-26T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Audi boss slammed over Trump rally appearance",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-26T10:00:00+00:00",
       "category": "Diplomacy"
     },
@@ -88,60 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T10:33:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CSU-Parteitag: Führende CSU-Politiker setzen Merz in P-Frage unter Druck",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/24/fuehrende-csu-politiker-setzen-merz-in-p-frage-unter-druck",
-      "published_date": "2026-10-23T22:30:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tinned mackerel, hand-crank radios and bags for poo: crisis-prepping guides around the world",
+      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
-      "published_date": "2026-10-23T15:52:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+      "published_date": "2026-10-27T01:30:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Vergesellschaftung von Wohnungen: Das nächste gebrochene Kanzlerversprechen?",
+      "title": "Ukraine-Krieg: Hilfsaktion für Frontstadt Oleschky läuft an",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/vergesellschaftung-wohnungen-berlin-koalition-spd-linke",
-      "published_date": "2026-10-23T15:04:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-10/26/hilfsaktion-fuer-frontstadt-oleschky-laeuft-an",
+      "published_date": "2026-10-27T01:22:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU parliament approves more safeguards for travellers in Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261023/eu-parliament-approves-more-safeguards-for-travellers-in-europe",
-      "published_date": "2026-10-23T12:49:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
+      "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-23T08:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T22:15:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
+      "title": "UN sounds the alarm over Israel's West Bank military operation",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T08:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
-      "published_date": "2026-10-23T06:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T20:56:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Why Ukraine may be involved in Mali's conflict",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T18:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Israel are warned against launching fresh strikes on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
-      "published_date": "2026-10-23T17:18:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-      "published_date": "2026-10-23T16:35:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-      "published_date": "2026-10-23T14:57:50+00:00",
-      "category": "Military"
+      "title": "Wind auf See: Reiche: Lücke bei Ausbau der Windkraft auf See schließen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/27/reiche-luecke-bei-ausbau-der-windkraft-auf-see-schliessen",
+      "published_date": "2026-10-27T00:01:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Many feared trapped under collapsed building in Nairobi",
@@ -459,9 +466,79 @@
       "category": "Economy"
     },
     {
+      "title": "Jüdische Stimme hörbar machen: Ort jüdischen Denkens - Akademie öffnet in Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/27/ort-juedischen-denkens-akademie-oeffnet-in-frankfurt",
+      "published_date": "2026-10-27T01:29:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verkehr wird abgeleitet: A2 Richtung Hannover nach Lkw-Unfall voll gesperrt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/27/a2-richtung-hannover-nach-lkw-unfall-voll-gesperrt",
+      "published_date": "2026-10-27T01:08:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Löscharbeiten laufen: Brennender Lkw: A9 Richtung Halle/Leipzig gesperrt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/27/brennender-lkw-a9-richtung-halle-leipzig-gesperrt",
+      "published_date": "2026-10-27T00:48:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-26T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protest leaders urge French pupils to keep barricading their schools",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+      "published_date": "2026-10-26T20:17:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As students we never sought power – here’s how we reclaimed Serbia | Novak Simin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/serbia-students-power-state-functioning-state",
+      "published_date": "2026-10-26T19:04:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Serbia’s student revolution: from principled protest to power | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/the-guardian-view-on-serbias-student-revolution-from-principled-protest-to-power",
+      "published_date": "2026-10-26T18:38:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France will lurch from crisis to crisis until it confronts its retirement timebomb | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/france-will-lurch-from-crisis-to-crisis-until-it-confronts-its-retirement-timebomb",
+      "published_date": "2026-10-26T17:39:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "German police probe cruise ship captain after Bremerhaven collision",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-26T17:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police probe cruise ship captain after Bremerhaven collision",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-10-26T17:00:00+00:00",
       "category": "Local Events"
     },
@@ -526,76 +603,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-26T10:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Remark on Modi's father stirs political row",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T07:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could Europe’s autumn of discontent threaten the survival of the EU? | Catherine De Vries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/could-europes-autumn-of-discontent-threaten-the-survival-of-the-eu",
-      "published_date": "2026-10-26T05:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-      "published_date": "2026-10-25T23:42:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "published_date": "2026-10-25T23:40:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia election: Vucic concedes defeat to student-led movement",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T21:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
-      "published_date": "2026-10-25T19:57:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-      "published_date": "2026-10-25T15:32:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Autowerk in Georgia: SPD-Politikerin wirft Audi Wahlkampfhilfe für Trump vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/25/spd-politikerin-wirft-audi-wahlkampfhilfe-fuer-trump-vor",
-      "published_date": "2026-10-25T14:35:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2. Bundesliga: Aufatmen bei Trainer Walter: Kiel gewinnt 3:0 gegen Dresden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/25/aufatmen-bei-trainer-walter-kiel-gewinnt-3-0-gegen-dresden",
-      "published_date": "2026-10-25T14:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil election: Lula, Bolsonaro cast votes in final bout",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T14:13:00+00:00",
       "category": "Local Events"
     }
   ]
