@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-27T01:44:36.318346+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-27T16:08:21.021908+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Myanmar: Is US undermining EU's diplomatic blockade?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-is-us-undermining-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T15:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Defund Elon Musk | Robert Reich",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
+      "published_date": "2026-10-27T10:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-27T09:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T09:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK officials discussing options including free movement with EU ahead of summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
+      "published_date": "2026-10-27T09:41:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
       "source": "Der Spiegel",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rayner backs Burnham call for debate on return to free movement with EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-      "published_date": "2026-10-25T13:31:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-      "published_date": "2026-10-24T23:07:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T14:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-24T14:09:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Friedrich Merz: Merz fordert Reformen und lässt Unterstützung für Aigner offen",
+      "title": "Walter Koenig: Beam ihn hoch, Scotty!",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/reformen-deutschland-friedrich-merz-cdu-wirtschaft-rente-pflege-gxe",
-      "published_date": "2026-10-24T12:55:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/feuilleton/film/2026-10/walter-koenig-star-trek-raumschiff-enterprise-schauspieler-tod",
+      "published_date": "2026-10-27T15:42:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "published_date": "2026-10-27T15:38:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will elections in Israel change its Iran approach?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T13:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T12:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+      "published_date": "2026-10-27T07:00:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Starlink satellite speeds restored to normal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T19:33:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Beschränkungen bei Starlink laut Selenskyj vollständig aufgehoben",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-10-24T13:19:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
-      "published_date": "2026-10-24T01:20:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-23T19:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-23T19:08:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Wind auf See: Reiche: Lücke bei Ausbau der Windkraft auf See schließen",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/27/reiche-luecke-bei-ausbau-der-windkraft-auf-see-schliessen",
@@ -319,11 +319,25 @@
       "category": "Energy"
     },
     {
-      "title": "Japan probe sets course for Mars moon",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-20T07:16:00+00:00",
-      "category": "Energy"
+      "title": "Jobs in Germany: The best recruitment fairs and events to attend in November",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261027/jobs-in-germany-the-best-recruitment-fairs-and-events-to-attend-in-november",
+      "published_date": "2026-10-27T15:48:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+      "published_date": "2026-10-27T15:34:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'ETFs and low-cost index funds': Expert advice for foreigners investing in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261027/etfs-and-low-cost-index-funds-expert-advice-for-foreigners-investing-in-germany",
+      "published_date": "2026-10-27T10:14:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
@@ -445,25 +459,102 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Government expecting increased tax revenue in 2027",
+      "title": "Bundespräsident: Steinmeier-Nachfolge: CDU-Vize Ines Claus zeigt Interesse",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/27/debatte-ueber-bundespraesidentenamt-claus-fuehlt-sich-geehrt",
+      "published_date": "2026-10-27T15:54:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turnout at Israel's election has reached a record high at the halfway stage",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T13:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T14:35:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Five tax numbers: How to find the German tax ID you need",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261022/five-tax-numbers-how-to-find-the-german-tax-id-you-need",
-      "published_date": "2026-10-22T13:44:03+00:00",
-      "category": "Economy"
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-27T14:11:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Low water on the Rhine cuts German economic growth",
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T14:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T12:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "These four elections could change the world in 10 days – Stateside with Kai and Carter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/27/these-four-elections-could-change-the-world-in-10-days-stateside-with-kai-and-carter",
+      "published_date": "2026-10-27T10:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T09:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police in northern Germany search for suspects after car ramming overnight injures several",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-27T07:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police in northern Germany search for suspects after car ramming overnight injures several",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T07:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261022/low-water-on-the-rhine-cuts-german-economic-growth",
-      "published_date": "2026-10-22T12:49:47+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20261027/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-146",
+      "published_date": "2026-10-27T07:26:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Arunachal sees fresh violence over proposed dam",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T07:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
+      "published_date": "2026-10-27T06:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A leaderless revolution has swept Serbia. The world should be watching | Aleksandar Matkovic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching",
+      "published_date": "2026-10-27T05:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T03:52:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jüdische Stimme hörbar machen: Ort jüdischen Denkens - Akademie öffnet in Frankfurt",
@@ -505,104 +596,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
       "published_date": "2026-10-26T20:17:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As students we never sought power – here’s how we reclaimed Serbia | Novak Simin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/serbia-students-power-state-functioning-state",
-      "published_date": "2026-10-26T19:04:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Serbia’s student revolution: from principled protest to power | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/the-guardian-view-on-serbias-student-revolution-from-principled-protest-to-power",
-      "published_date": "2026-10-26T18:38:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France will lurch from crisis to crisis until it confronts its retirement timebomb | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/france-will-lurch-from-crisis-to-crisis-until-it-confronts-its-retirement-timebomb",
-      "published_date": "2026-10-26T17:39:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German police probe cruise ship captain after Bremerhaven collision",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German police probe cruise ship captain after Bremerhaven collision",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-26T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD: AfD-Spitze kündigt lückenlose Aufklärung von E-Mail-Leak an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/afd-e-mail-leak-hackerangriff-daten-aufklaerung",
-      "published_date": "2026-10-26T16:54:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia’s Student List preparing for talks on forming government despite no clear leader",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
-      "published_date": "2026-10-26T16:46:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kooperationsvertrag: Cottbuser Medizin-Uni und TU Dresden wollen kooperieren",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/26/cottbuser-medizin-uni-und-tu-dresden-wollen-kooperieren",
-      "published_date": "2026-10-26T16:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kulturdemonstration: Düsseldorfer Kulturszene protestiert gegen AfD-Auftritt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/26/duesseldorfer-kulturszene-protestiert-gegen-afd-auftritt",
-      "published_date": "2026-10-26T16:44:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neues Musikvideo: Harry Styles: Tanztraining vor den Berlin-Shows",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/26/harry-styles-tanztraining-vor-den-berlin-shows",
-      "published_date": "2026-10-26T16:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cheers, fireworks and flags after Vučić concedes defeat in Serbian election – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/oct/26/cheers-fireworks-and-flags-after-vucic-concedes-defeat-in-serbian-election-in-pictures",
-      "published_date": "2026-10-26T13:41:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s interior ministry puts forward plan to block housing socialisation in Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261026/germanys-interior-ministry-puts-forward-plan-to-block-housing-socialisation-in-berlin",
-      "published_date": "2026-10-26T11:23:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone footage shows crowds in Belgrade celebrating defeat of Aleksandar Vučić – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/26/drone-footage-shows-crowds-in-belgrade-celebrating-defeat-of-aleksandar-vucic-video",
-      "published_date": "2026-10-26T10:57:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jordan: 3 arrested over deadly church attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T10:12:00+00:00",
       "category": "Local Events"
     }
   ]
