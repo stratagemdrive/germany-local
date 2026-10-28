@@ -1,12 +1,26 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-27T16:08:21.021908+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-28T01:55:48.414672+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "EU proposes giving Frontex border agency new major powers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T17:44:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Myanmar: Is US undermining EU's diplomatic blockade?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/myanmar-is-us-undermining-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T15:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-27T15:16:00+00:00",
       "category": "Diplomacy"
     },
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Audi boss slammed over Trump rally appearance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T10:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
+      "published_date": "2026-10-28T01:39:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-      "published_date": "2026-10-26T09:30:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+      "published_date": "2026-10-27T17:43:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Walter Koenig: Beam ihn hoch, Scotty!",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Krieg in der Ukraine: Musk wirft Ukraine Nutzung von Starlink für Offensivangriffe vor",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex",
-      "published_date": "2026-10-24T22:02:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-      "published_date": "2026-10-24T21:25:58+00:00",
-      "category": "Military"
+      "title": "Experts urge 'global health emergency' as climate harms accelerate",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T00:05:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wind auf See: Reiche: Lücke bei Ausbau der Windkraft auf See schließen",
@@ -459,6 +466,41 @@
       "category": "Economy"
     },
     {
+      "title": "Jena: Tausende protestieren gegen Auftritt von Björn Höcke in Jena",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/protest-jena-bjoern-hoecke-afd-thueringen",
+      "published_date": "2026-10-27T23:16:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T22:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T20:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the far right’s plans for Brussels: doing the work of Xi, Putin and Trump | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/the-guardian-view-on-the-far-rights-plans-for-brussels-doing-the-work-of-xi-putin-and-trump",
+      "published_date": "2026-10-27T18:25:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T16:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bundespräsident: Steinmeier-Nachfolge: CDU-Vize Ines Claus zeigt Interesse",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/27/debatte-ueber-bundespraesidentenamt-claus-fuehlt-sich-geehrt",
@@ -561,41 +603,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/27/ort-juedischen-denkens-akademie-oeffnet-in-frankfurt",
       "published_date": "2026-10-27T01:29:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verkehr wird abgeleitet: A2 Richtung Hannover nach Lkw-Unfall voll gesperrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/27/a2-richtung-hannover-nach-lkw-unfall-voll-gesperrt",
-      "published_date": "2026-10-27T01:08:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Löscharbeiten laufen: Brennender Lkw: A9 Richtung Halle/Leipzig gesperrt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/27/brennender-lkw-a9-richtung-halle-leipzig-gesperrt",
-      "published_date": "2026-10-27T00:48:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-26T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest leaders urge French pupils to keep barricading their schools",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
-      "published_date": "2026-10-26T20:17:16+00:00",
       "category": "Local Events"
     }
   ]
