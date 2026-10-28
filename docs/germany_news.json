@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-28T01:55:48.414672+00:00",
+  "last_updated": "2026-10-28T16:55:58.639056+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
+      "published_date": "2026-10-28T16:45:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T15:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany makes U-turn on planned cut to Elterngeld support",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261028/germany-makes-u-turn-on-planned-cut-to-elterngeld-support",
+      "published_date": "2026-10-28T15:05:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T14:20:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU proposes giving Frontex border agency new major powers",
       "source": "Deutsche Welle",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany's Merz heads to Asia as security issues loom large",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T13:32:00+00:00",
-      "category": "Diplomacy"
+      "title": "Gernot Döllner bei Donald Trump: Was, wenn dieser Auftritt doch kein Fehler war?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/2026/47/gernot-doellner-donald-trump-audi-werk-usa-georgia",
+      "published_date": "2026-10-28T16:42:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-26T10:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T16:03:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T10:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Soviet troops invade Hungary – archive, 1956",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/soviet-troops-invade-hungary-russia-1956",
+      "published_date": "2026-10-28T13:09:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Audi boss slammed over Trump rally appearance",
+      "title": "Russia in Africa: What is Putin hoping to achieve?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-26T10:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T09:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia in Africa: What is Putin hoping to achieve?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-28T09:48:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "title": "Gen Z protests in Germany: Is France-style violence looming?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T07:19:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-28T13:43:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "title": "Gen Z protests in Germany: Is France-style violence looming?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-25T07:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T07:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-25T07:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
-      "published_date": "2026-10-25T02:37:44+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T13:43:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Experts urge 'global health emergency' as climate harms accelerate",
@@ -312,18 +326,46 @@
       "category": "Energy"
     },
     {
-      "title": "UK approves Jackdaw gas field after years in limbo",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T09:21:00+00:00",
-      "category": "Energy"
+      "title": "Gasversorgung: Gaspreis in Europa erstmals seit 2022 bei über 100 Euro",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/gaspreis-europa-ttf-iran-krieg-gasspeicher",
+      "published_date": "2026-10-28T16:31:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Rising emissions and temperatures: The cost of Trump's climate retreat is now clear",
+      "title": "Mercedes to cut more jobs in Germany as Chinese competition bites",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261028/mercedes-to-cut-more-jobs-in-germany-as-chinese-competition-bites",
+      "published_date": "2026-10-28T12:05:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What to expect at Gen Z protests in Germany on October 31st",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261028/what-to-expect-at-gen-z-protests-in-germany-on-october-31st",
+      "published_date": "2026-10-28T10:34:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-21T05:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T10:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-28T10:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India news: Cyclone Arnab turns deadly after landfall",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T04:30:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Jobs in Germany: The best recruitment fairs and events to attend in November",
@@ -424,46 +466,102 @@
       "category": "Economy"
     },
     {
-      "title": "Germany, Austria or Switzerland: Where do residents pay the most income tax?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261023/germany-austria-or-switzerland-where-do-residents-pay-the-most-income-tax",
-      "published_date": "2026-10-23T11:22:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
-      "published_date": "2026-10-23T10:33:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T16:28:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mercedes-Benz: Baukasten statt Plattformen: Mercedes will Kosten senken",
+      "title": "DFB-Pokal: Jetzt live: Die zweite Runde im DFB-Pokal",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/22/baukasten-statt-plattformen-mercedes-will-kosten-senken",
-      "published_date": "2026-10-22T15:20:05+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/sport/dfb-pokal-liveticker",
+      "published_date": "2026-10-28T16:49:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Are Europeans putting profits over human rights in Vietnam?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/are-europeans-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T14:12:00+00:00",
-      "category": "Economy"
+      "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+      "published_date": "2026-10-28T16:32:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Government expecting increased tax revenue in 2027",
+      "title": "One year on, families seek justice after election violence",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-22T13:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T16:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kriminalität: Passanten in Dresden mit Schreckschusspistole bedroht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/28/passanten-in-dresden-mit-schreckschusspistole-bedroht",
+      "published_date": "2026-10-28T16:20:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+      "published_date": "2026-10-28T15:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: High-speed train crash kills dozens, rescue operations ongoing",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-high-speed-train-crash-kills-dozens-rescue-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T14:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How students rocked Serbia’s presidential election – video explainer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/28/how-students-rocked-serbias-presidential-election-video-explainer",
+      "published_date": "2026-10-28T13:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T12:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST🎧: Inside the AfD email leak and Gen Z protests come to Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261028/podcast%f0%9f%8e%a7-inside-the-afd-email-leak-and-gen-z-protests-come-to-germany",
+      "published_date": "2026-10-28T12:07:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Americans in Germany: How to make the most of fall in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261028/americans-in-germany-how-to-make-the-most-of-fall-in-germany",
+      "published_date": "2026-10-28T10:04:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of people killed after high-speed trains collide in central Spain",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T09:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbian police shoot dead assailant at Israeli Embassy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-28T08:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbian police shoot dead assailant at Israeli Embassy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-28T08:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261028/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-144",
+      "published_date": "2026-10-28T07:29:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jena: Tausende protestieren gegen Auftritt von Björn Höcke in Jena",
@@ -476,6 +574,13 @@
       "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-27T22:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flavio Bolsonaro flees Brazil for US amid investigation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-27T22:18:00+00:00",
       "category": "Local Events"
     },
@@ -498,111 +603,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-27T16:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundespräsident: Steinmeier-Nachfolge: CDU-Vize Ines Claus zeigt Interesse",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/27/debatte-ueber-bundespraesidentenamt-claus-fuehlt-sich-geehrt",
-      "published_date": "2026-10-27T15:54:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turnout at Israel's election has reached a record high at the halfway stage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-27T14:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T14:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T12:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "These four elections could change the world in 10 days – Stateside with Kai and Carter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/27/these-four-elections-could-change-the-world-in-10-days-stateside-with-kai-and-carter",
-      "published_date": "2026-10-27T10:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T09:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police in northern Germany search for suspects after car ramming overnight injures several",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-27T07:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police in northern Germany search for suspects after car ramming overnight injures several",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T07:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261027/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-146",
-      "published_date": "2026-10-27T07:26:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Arunachal sees fresh violence over proposed dam",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T07:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
-      "published_date": "2026-10-27T06:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A leaderless revolution has swept Serbia. The world should be watching | Aleksandar Matkovic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching",
-      "published_date": "2026-10-27T05:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T03:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jüdische Stimme hörbar machen: Ort jüdischen Denkens - Akademie öffnet in Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/27/ort-juedischen-denkens-akademie-oeffnet-in-frankfurt",
-      "published_date": "2026-10-27T01:29:04+00:00",
       "category": "Local Events"
     }
   ]
