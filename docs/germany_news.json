@@ -1,8 +1,85 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-29T02:00:46.965218+00:00",
+  "last_updated": "2026-10-29T17:14:21.921787+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
+      "published_date": "2026-10-29T17:05:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU and Canada to bring ties to 'highest' possible level at summit",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261029/eu-and-canada-to-bring-ties-to-highest-possible-level-at-summit",
+      "published_date": "2026-10-29T16:18:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany seeks new head of state",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-seeks-new-head-of-state/a-79797794?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-29T14:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany seeks new head of state",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-seeks-new-head-of-state/a-79797794?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T14:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can EU and India work together to secure Indo-Pacific?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-eu-and-india-work-together-to-secure-indo-pacific/a-79796195?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T13:26:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "​Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/pragmatic-or-pointless-europe-rift-over-pick-up-phone-putin",
+      "published_date": "2026-10-29T12:55:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shadow fleet sanctions: Can the EU act if the US pulls back?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/shadow-fleet-sanctions-can-the-eu-act-if-the-us-pulls-back/a-79787035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T12:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europe-s-freedom/live-79792915?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T10:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261029/today-in-germany-a-roundup-of-the-latest-news-on-thursday-142",
+      "published_date": "2026-10-29T07:26:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India news: 'Cockroaches' back Gandhi's rally against election chief",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T07:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia’s students achieved the impossible. Europe must not fail them now | Srđjan Cvijić",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/serbias-students-achieved-impossible-europe-must-not-fail-them-now",
+      "published_date": "2026-10-29T05:00:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kanada und die Europäische Union: Kanada wird vorerst wohl kein »assoziiertes« EU-Mitglied",
       "source": "ZEIT Online",
@@ -67,81 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Myanmar: Is US undermining EU's diplomatic blockade?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-is-us-undermining-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T15:16:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T15:16:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Defund Elon Musk | Robert Reich",
+      "title": "It’s easy to see through Trump’s Ukraine ploy | Kenneth Roth",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
-      "published_date": "2026-10-27T10:00:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
+      "published_date": "2026-10-29T12:00:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
+      "title": "Ship reported on fire off Oman as Iran escalation fears mount",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-27T09:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T10:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
+      "title": "North Korea fires around 10 ballistic missiles into sea",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T09:49:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T04:57:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK officials discussing options including free movement with EU ahead of summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
-      "published_date": "2026-10-27T09:41:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/crisis-in-yemen-imperative-that-world-powers-resolutely-defend-international-maritime-law-a-46cd5da6-a026-495d-9f55-3f137c6814ee#ref=rss",
-      "published_date": "2026-10-27T00:48:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fischerei in der Ostsee: EU-Agrarminister halten an Ausnahme für Ostseefischer fest",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/ostsee-fischerei-eu-agrarminister-fangquoten-hering-dorsch",
-      "published_date": "2026-10-27T00:32:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kanzler auf Asienreise: Wirtschaft, Sicherheit und eine Orchidee: Merz in Singapur",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/27/wirtschaft-sicherheit-und-eine-orchidee-merz-in-singapur",
-      "published_date": "2026-10-27T00:32:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
-      "published_date": "2026-10-26T18:03:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What makes Andy Burnham think we can rejoin the EU? | Politics Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/oct/26/what-makes-andy-burnham-think-we-can-rejoin-the-eu-politics-weekly",
-      "published_date": "2026-10-26T17:50:39+00:00",
-      "category": "Diplomacy"
+      "title": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T03:21:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
-      "published_date": "2026-10-27T01:30:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Krieg: Hilfsaktion für Frontstadt Oleschky läuft an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/26/hilfsaktion-fuer-frontstadt-oleschky-laeuft-an",
-      "published_date": "2026-10-27T01:22:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T22:15:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN sounds the alarm over Israel's West Bank military operation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T20:56:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gen Z protests in Germany: Is France-style violence looming?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-ger-1023-rdf",
@@ -324,6 +324,62 @@
       "url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-22T18:18:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "India increases growth forecast for fiscal year",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China leaders demand more loyalty and more initiative",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T16:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+      "published_date": "2026-10-29T16:05:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Human trafficking victims stranded in Guinea-Bissau",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/human-trafficking-victims-stranded-in-guinea-bissau/a-79785558?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T14:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-29T12:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T12:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T10:33:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-29T10:33:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gasversorgung: Gaspreis in Europa erstmals seit 2022 bei über 100 Euro",
@@ -410,60 +466,102 @@
       "category": "Economy"
     },
     {
-      "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T15:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Audi boss under fire in Germany for Trump rally appearance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
-      "published_date": "2026-10-26T14:42:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Steinmeier in China: A major state visit in uncertain times",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-26T13:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "German union slams Audi boss's appearance at Trump rally",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261026/german-union-slams-audi-bosss-appearance-at-trump-rally",
-      "published_date": "2026-10-26T10:59:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Protein shakes for teenagers: Good or bad idea?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-25T16:12:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-      "published_date": "2026-10-25T13:43:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-24T23:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IG-Metall-Drohung: Droht Volkswagen der größte Konflikt der Geschichte?",
+      "title": "Mord an der Alster : Auf dem Heimweg",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/23/droht-volkswagen-der-groesste-konflikt-der-geschichte",
-      "published_date": "2026-10-23T15:03:28+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/zeit-verbrechen/2026/41/mord-alster-jugendlicher-victor-mutter-trauer",
+      "published_date": "2026-10-29T16:59:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+      "published_date": "2026-10-29T16:36:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteste von Generation Z: Neubauer warnt vor »Hyperventilierung« in Protest-Debatte",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/gen-z-regelt-luisa-neubauer-proteste-generationenvertrag-verfassungsschutz",
+      "published_date": "2026-10-29T16:32:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Not for the faint of heart': Readers' advice on moving to Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261029/not-for-the-faint-of-heart-readers-advice-on-moving-to-germany",
+      "published_date": "2026-10-29T15:11:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
+      "published_date": "2026-10-29T14:51:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How did the Spain train crash happen and what will investigators be asking?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking",
+      "published_date": "2026-10-29T14:39:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How anti-social driving can cost you your licence in Germany",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261029/how-anti-social-driving-can-cost-you-your-licence-in-germany",
+      "published_date": "2026-10-29T14:24:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T11:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain begins mourning period as search continues for train crash victims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+      "published_date": "2026-10-29T11:11:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four lessons the US can learn from the youth protests in France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/france-protests-lessons",
+      "published_date": "2026-10-29T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Left Party grapples with Middle East conflict before vote to join Berlin government",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261029/left-party-grapples-with-middle-east-conflict-before-vote-to-join-berlin-government",
+      "published_date": "2026-10-29T10:04:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich head coach Vincent Kompany's health scare highlights the need for better support for elite coaches",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-29T07:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich head coach Vincent Kompany's health scare highlights the need for better support for elite coaches",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T07:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election: Netanyahu-led bloc holds lead with nearly 90% of votes counted",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T06:36:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
@@ -505,104 +603,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
       "published_date": "2026-10-28T16:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One year on, families seek justice after election violence",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T16:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kriminalität: Passanten in Dresden mit Schreckschusspistole bedroht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/28/passanten-in-dresden-mit-schreckschusspistole-bedroht",
-      "published_date": "2026-10-28T16:20:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
-      "published_date": "2026-10-28T15:45:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: High-speed train crash kills dozens, rescue operations ongoing",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-high-speed-train-crash-kills-dozens-rescue-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T14:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish train crash leaves 68 dead, PM Sanchez declares 3 days of mourning",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T14:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How students rocked Serbia’s presidential election – video explainer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/28/how-students-rocked-serbias-presidential-election-video-explainer",
-      "published_date": "2026-10-28T13:41:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T12:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PODCAST🎧: Inside the AfD email leak and Gen Z protests come to Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261028/podcast%f0%9f%8e%a7-inside-the-afd-email-leak-and-gen-z-protests-come-to-germany",
-      "published_date": "2026-10-28T12:07:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aerial footage shows aftermath of deadly Spain train collision – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/28/aerial-footage-shows-aftermath-of-deadly-spain-train-collision-video",
-      "published_date": "2026-10-28T11:11:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Americans in Germany: How to make the most of fall in Germany",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261028/americans-in-germany-how-to-make-the-most-of-fall-in-germany",
-      "published_date": "2026-10-28T10:04:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of people killed after high-speed trains collide in central Spain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T09:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbian police shoot dead assailant at Israeli Embassy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T08:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbian police shoot dead assailant at Israeli Embassy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-28T08:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261028/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-144",
-      "published_date": "2026-10-28T07:29:58+00:00",
       "category": "Local Events"
     }
   ]
