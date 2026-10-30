@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-29T17:14:21.921787+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-30T02:16:52.664676+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Kanzler auf Asienreise: Merz wirbt auch in Südkorea für Freihandels-Netzwerk",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/30/merz-wirbt-auch-in-suedkorea-fuer-freihandels-netzwerk",
+      "published_date": "2026-10-30T01:48:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gipfel in Montreal: Partner in unsicheren Zeiten: Was die EU und Kanada planen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/30/partner-in-unsicheren-zeiten-was-die-eu-und-kanada-planen",
+      "published_date": "2026-10-30T01:10:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bosnien und Herzegowina: Vier Tote bei Absturz von Helikopter der EU-Friedenstruppe in Bosnien",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eufor-helikopterabsturz-bosnien-herzegowina-brcko",
+      "published_date": "2026-10-29T23:56:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europeans and Canadians set to get more opportunities to move across Atlantic",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic",
+      "published_date": "2026-10-29T20:09:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+      "published_date": "2026-10-29T19:04:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU seeks 'highest level' ties with Canada in Montreal summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T18:50:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
       "source": "The Guardian",
@@ -60,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europe-s-freedom/live-79792915?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-29T10:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Today in Germany: A roundup of the latest news on Thursday",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261029/today-in-germany-a-roundup-of-the-latest-news-on-thursday-142",
@@ -95,53 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kritik an EU-Kommission: Kanada wird vorerst kein assoziiertes EU-Mitglied",
+      "title": "»Star Trek«: Schauspieler Patrick Stewart ist tot",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/29/kanada-wird-vorerst-kein-assoziiertes-eu-mitglied",
-      "published_date": "2026-10-28T23:14:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/gesellschaft/2026-10/schauspieler-patrick-stewart-tot",
+      "published_date": "2026-10-29T20:57:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+      "title": "The Guardian view on a changing Brexit debate: Kemi Badenoch is trapped in denial | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-      "published_date": "2026-10-28T21:27:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
+      "published_date": "2026-10-29T18:30:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
-      "published_date": "2026-10-28T16:45:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+      "title": "US moves to lift sanctions on Russia's shadow fleet could undermine Western pressure on Moscow and help fund its war in Ukraine.",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T15:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany makes U-turn on planned cut to Elterngeld support",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261028/germany-makes-u-turn-on-planned-cut-to-elterngeld-support",
-      "published_date": "2026-10-28T15:05:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T14:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU proposes giving Frontex border agency new major powers",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T17:44:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-moves-to-lift-sanctions-on-russia-s-shadow-fleet-could-undermine-western-pressure-on-moscow-and-help-fund-its-war-in-ukraine/a-79787035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T12:01:00+00:00",
+      "category": "Military"
     },
     {
       "title": "It’s easy to see through Trump’s Ukraine ploy | Kenneth Roth",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Will elections in Israel change its Iran approach?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T13:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-27T12:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-      "published_date": "2026-10-27T07:00:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gen Z protests in Germany: Is France-style violence looming?",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-ger-1023-rdf",
@@ -316,13 +316,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-23T14:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-22T18:18:00+00:00",
       "category": "Energy"
     },
     {
@@ -466,6 +459,83 @@
       "category": "Economy"
     },
     {
+      "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
+      "published_date": "2026-10-30T02:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T23:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: Krach über Eralps Bedenken: «Das Signal ist verheerend»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/30/krach-ueber-eralps-bedenken-das-signal-ist-verheerend",
+      "published_date": "2026-10-29T23:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the deadly train crash in Spain unfolded – explainer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/29/how-the-deadly-train-crash-in-spain-unfolded-explainer",
+      "published_date": "2026-10-29T22:13:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justice for Maya women in Guatemala, girls back in school in India, restored land in Mali: The UN has named its 2026 SDG Action Award winners",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/justice-for-maya-women-in-guatemala-girls-back-in-school-in-india-restored-land-in-mali-the-un-has-named-its-2026-sdg-action-award-winners/a-79801727?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T20:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin's Elif Eralp under fire over Der Spiegel interview",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-s-elif-eralp-under-fire-over-der-spiegel-interview/a-79799766?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-29T20:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin's Elif Eralp under fire over Der Spiegel interview",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/berlin-s-elif-eralp-under-fire-over-der-spiegel-interview/a-79799766?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T20:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq: Life sentences for 3 French 'Islamic State' suspects",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iraq-life-sentences-for-3-french-islamic-state-suspects/a-79802390?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T20:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survivors shell-shocked after deadly Spain train crash - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
+      "published_date": "2026-10-29T18:26:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shock and anger in Spain after deadly train crash – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/audio/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
+      "published_date": "2026-10-29T17:43:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election: Authorities dispute Netanyahu’s fraud claims",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-29T17:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Mord an der Alster : Auf dem Heimweg",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/zeit-verbrechen/2026/41/mord-alster-jugendlicher-victor-mutter-trauer",
@@ -526,83 +596,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
       "published_date": "2026-10-29T11:11:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four lessons the US can learn from the youth protests in France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/france-protests-lessons",
-      "published_date": "2026-10-29T11:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Left Party grapples with Middle East conflict before vote to join Berlin government",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261029/left-party-grapples-with-middle-east-conflict-before-vote-to-join-berlin-government",
-      "published_date": "2026-10-29T10:04:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich head coach Vincent Kompany's health scare highlights the need for better support for elite coaches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-29T07:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich head coach Vincent Kompany's health scare highlights the need for better support for elite coaches",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T07:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election: Netanyahu-led bloc holds lead with nearly 90% of votes counted",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T06:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
-      "published_date": "2026-10-29T00:53:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T22:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
-      "published_date": "2026-10-28T18:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFB-Pokal: Jetzt live: Die zweite Runde im DFB-Pokal",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/dfb-pokal-liveticker",
-      "published_date": "2026-10-28T16:49:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-      "published_date": "2026-10-28T16:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-      "published_date": "2026-10-28T16:32:31+00:00",
       "category": "Local Events"
     }
   ]
