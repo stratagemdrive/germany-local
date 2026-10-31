@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-30T16:54:54.403578+00:00",
+  "last_updated": "2026-10-31T01:55:53.759043+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Ukrainekrieg: Russischer Außenminister Lawrow provoziert beim G20-Treffen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/sergej-lawrow-russland-usa-beziehungen-sanktionen-g20",
+      "published_date": "2026-10-31T00:52:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-30T20:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-30T20:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada and EU announce new alliance open to like-minded countries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "published_date": "2026-10-30T19:42:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Treffen in Atlanta: Kein «Familienfoto»: G20-Außenminister mit Signal an Moskau",
       "source": "ZEIT Online",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany seeks new head of state",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-seeks-new-head-of-state/a-79797794?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T14:27:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukrainekrieg: USA genehmigen Verkauf von 500 Patriot-Abwehrraketen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/patriot-raketen-usa-ukraine-verkauf",
+      "published_date": "2026-10-31T01:07:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can EU and India work together to secure Indo-Pacific?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-eu-and-india-work-together-to-secure-indo-pacific/a-79796195?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T13:26:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg gegen die Ukraine: USA billigen Verkauf von 500 Patriot-Raketen an die Ukraine",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-10-30T23:52:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "​Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin",
+      "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/pragmatic-or-pointless-europe-rift-over-pick-up-phone-putin",
-      "published_date": "2026-10-29T12:55:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shadow fleet sanctions: Can the EU act if the US pulls back?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/shadow-fleet-sanctions-can-the-eu-act-if-the-us-pulls-back/a-79787035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T12:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+      "published_date": "2026-10-30T17:13:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Wetterbilanz: Oktober war in MV deutlich regenreicher als gewöhnlich",
@@ -260,27 +281,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/47/gernot-doellner-donald-trump-audi-werk-usa-georgia",
       "published_date": "2026-10-28T16:42:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T16:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soviet troops invade Hungary – archive, 1956",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/soviet-troops-invade-hungary-russia-1956",
-      "published_date": "2026-10-28T13:09:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia in Africa: What is Putin hoping to achieve?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T09:48:00+00:00",
       "category": "Military"
     },
     {
@@ -459,6 +459,27 @@
       "category": "Economy"
     },
     {
+      "title": "Poland: Protesters clash with police over sacked court chief",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-30T23:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-30T20:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-30T18:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tennessee woman Christa Pike describes pain after failed execution",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-rdf",
@@ -575,27 +596,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261030/today-in-germany-a-roundup-of-the-latest-news-on-friday-146",
       "published_date": "2026-10-30T07:30:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Space agency to boost GPS alternative with new satellite",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-space-agency-to-boost-gps-alternative-with-new-satellite/live-79803564?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T06:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-      "published_date": "2026-10-30T06:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T03:08:00+00:00",
       "category": "Local Events"
     }
   ]
