@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-31T01:55:53.759043+00:00",
+  "last_updated": "2026-10-31T15:55:34.965269+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+      "published_date": "2026-10-31T15:35:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
+      "published_date": "2026-10-31T09:36:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+      "published_date": "2026-10-31T06:00:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/ukraine-war-briefing-moscows-lavrov-snubbed-at-g20-in-atlanta",
+      "published_date": "2026-10-31T04:26:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European diplomats shun Russia at G20 gathering in the US",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T01:56:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukrainekrieg: Russischer Außenminister Lawrow provoziert beim G20-Treffen",
       "source": "ZEIT Online",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
-      "published_date": "2026-10-29T19:04:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU seeks 'highest level' ties with Canada in Montreal summit",
+      "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T18:50:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T15:47:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
+      "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-      "published_date": "2026-10-29T17:05:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU and Canada to bring ties to 'highest' possible level at summit",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261029/eu-and-canada-to-bring-ties-to-highest-possible-level-at-summit",
-      "published_date": "2026-10-29T16:18:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany seeks new head of state",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-seeks-new-head-of-state/a-79797794?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-29T14:27:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+      "published_date": "2026-10-31T02:18:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainekrieg: USA genehmigen Verkauf von 500 Patriot-Abwehrraketen",
@@ -267,20 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-28T17:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evacuation from Oleshky: How are preparations going?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-28T17:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gernot Döllner bei Donald Trump: Was, wenn dieser Auftritt doch kein Fehler war?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/47/gernot-doellner-donald-trump-audi-werk-usa-georgia",
-      "published_date": "2026-10-28T16:42:25+00:00",
       "category": "Military"
     },
     {
@@ -459,6 +459,76 @@
       "category": "Economy"
     },
     {
+      "title": "Partei: Weg frei für rot-grün-rote Koalitionsgespräche in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/31/weg-frei-fuer-rot-gruen-rote-koalitionsgespraeche-in-berlin",
+      "published_date": "2026-10-31T15:52:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteste: Tausende bei Demo in Frankfurt - Pyrotechnik sorgt für Stopp",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/31/mehrere-tausend-bei-demo-in-frankfurt",
+      "published_date": "2026-10-31T15:48:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Demonstrationen: Tausende beteiligen sich an Gen-Z-Demos in NRW",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/31/tausende-beteiligen-sich-an-gen-z-demos-in-nrw",
+      "published_date": "2026-10-31T15:46:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteste: Mehrere Tausend bei Gen-Z-Demos in Hannover und Bremen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/31/mehrere-tausend-bei-gen-z-demos-in-hannover-und-bremen",
+      "published_date": "2026-10-31T15:43:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany braces for massive youth protests",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261031/germany-braces-for-massive-youth-protests",
+      "published_date": "2026-10-31T11:19:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Merkel calls for first female president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-31T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Merkel calls for first female president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Germany: Gen Z protests, Left Party scandals and the AfD email leak",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261031/inside-germany-gen-z-protests-left-party-scandals-and-the-afd-email-leak",
+      "published_date": "2026-10-31T11:11:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T05:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+      "published_date": "2026-10-31T04:27:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Poland: Protesters clash with police over sacked court chief",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
@@ -526,76 +596,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261030/germanys-gen-z-to-join-europes-youth-protest-wave",
       "published_date": "2026-10-30T15:06:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How passengers will be affected by closure on Nuremberg-Ingolstadt railway",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261030/how-passengers-will-be-affected-by-closure-on-nuremberg-ingolstadt-railway",
-      "published_date": "2026-10-30T14:33:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 'Hitler Pilgrimage' and trips to Russia: What has the mass AfD data leak revealed?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261030/a-hitler-pilgrimage-and-trips-to-russia-what-has-the-mass-afd-data-leak-revealed",
-      "published_date": "2026-10-30T13:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T13:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week’s best new tracks and the act you need to know: Dutch squat-punks Bombstrap’s uncompromising racket",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/oct/30/the-weeks-best-new-songs-dutch-squat-punks-bombstrap-rotterdam",
-      "published_date": "2026-10-30T12:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany takes cautious approach on Israeli election results",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-30T11:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany takes cautious approach on Israeli election results",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T11:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's new anti-gang law: Can it curb organized crime?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T11:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
-      "published_date": "2026-10-30T10:54:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court backs finding that AfD in Lower Saxony is anti-constitutional",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261030/court-backs-finding-that-afd-in-lower-saxony-is-anti-constitutional",
-      "published_date": "2026-10-30T10:50:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261030/today-in-germany-a-roundup-of-the-latest-news-on-friday-146",
-      "published_date": "2026-10-30T07:30:13+00:00",
       "category": "Local Events"
     }
   ]
