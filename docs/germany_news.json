@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-01T01:42:22.741602+00:00",
+  "last_updated": "2026-11-01T16:58:14.959448+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "published_date": "2026-11-01T09:55:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Scottish nationalists should see Burnham as a real threat – and an opportunity | Rory Scothorne",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/scottish-nationalists-burnham-threat-opportunity-labour-eu",
+      "published_date": "2026-11-01T09:00:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "From teargas in Paris to gen Z in Germany: protests across Europe – in pictures",
       "source": "The Guardian",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gipfel in Montreal: Partner in unsicheren Zeiten: Was die EU und Kanada planen",
+      "title": "Wolfram Siebeck: »Siebeck wäre sicher auf Instagram. Seine Frau würde die Fotos machen«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/30/partner-in-unsicheren-zeiten-was-die-eu-und-kanada-planen",
-      "published_date": "2026-10-30T01:10:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/11/wolfram-siebeck-essen-kueche-wochenmarkt",
+      "published_date": "2026-11-01T16:54:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bosnien und Herzegowina: Vier Tote bei Absturz von Helikopter der EU-Friedenstruppe in Bosnien",
+      "title": "Gianni Matheja: »Das sollte nicht die Forderungen junger Menschen überschatten«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/eufor-helikopterabsturz-bosnien-herzegowina-brcko",
-      "published_date": "2026-10-29T23:56:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/zeit-magazin/leben/2026-11/gianni-matheja-genreation-z-proteste-demonstration",
+      "published_date": "2026-11-01T16:43:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russian attacks leave tens of thousands without power",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T14:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Biological weapons: The weaponization of disease",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T12:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's search for a nuclear waste site",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-01T08:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's search for a nuclear waste site",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T08:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T07:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
@@ -232,55 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
       "published_date": "2026-10-29T18:30:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US moves to lift sanctions on Russia's shadow fleet could undermine Western pressure on Moscow and help fund its war in Ukraine.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-moves-to-lift-sanctions-on-russia-s-shadow-fleet-could-undermine-western-pressure-on-moscow-and-help-fund-its-war-in-ukraine/a-79787035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T12:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "It’s easy to see through Trump’s Ukraine ploy | Kenneth Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
-      "published_date": "2026-10-29T12:00:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ship reported on fire off Oman as Iran escalation fears mount",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T10:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea fires around 10 ballistic missiles into sea",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T04:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T03:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
-      "published_date": "2026-10-29T01:48:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
-      "published_date": "2026-10-28T18:32:38+00:00",
       "category": "Military"
     },
     {
@@ -459,6 +459,125 @@
       "category": "Economy"
     },
     {
+      "title": "Unfall in Stuttgart: Drei Verletzte bei Frontalzusammenstoß",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/01/drei-verletzte-bei-frontalzusammenstoss",
+      "published_date": "2026-11-01T16:52:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 8. Spieltag – Sonntag : Union und Köln trennen sich unentschieden",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-11/bundesliga-berlin-koeln-frankfurt-hamburg",
+      "published_date": "2026-11-01T16:49:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteste in Frankfurt: Die Scherben von Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/2026-11/proteste-frankfurt-demonstration-polizei-generation-z",
+      "published_date": "2026-11-01T16:43:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dobrindt: Linksextreme und \"migrantische Chaoten\" für Gewalt verantwortlich",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/video/2026-11/dobrindt-linksextreme-und-migrantische-chaoten-fuer-gewalt-verantwortlich",
+      "published_date": "2026-11-01T16:42:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verbot von Palestine Action: Hunderte Festnahmen bei propalästinensischer Demonstration in London",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/gaza-demo-london-festnahmen-polizei-gxe",
+      "published_date": "2026-11-01T16:28:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wohnungen: Linke-Chef in MV warnt SPD vor Verbot von Vergesellschaftung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/01/linke-chef-in-mv-warnt-spd-vor-verbot-von-vergesellschaftung",
+      "published_date": "2026-11-01T16:28:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+      "published_date": "2026-11-01T16:24:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+      "published_date": "2026-11-01T15:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France opens attempted murder probe after protest attack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T14:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests across Europe continue over Halloween weekend – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/nov/01/protests-europe-halloween-weekend-video",
+      "published_date": "2026-11-01T14:29:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politicians slam violence that followed Germany's 'Gen Z' demos",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261101/politicians-slam-violence-that-followed-germanys-gen-z-demos",
+      "published_date": "2026-11-01T14:25:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portugal police storm housing protest camps in Lisbon, Porto",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T11:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German rioters loot shops as 'Gen Z' demos turn ugly",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261101/german-rioters-loot-shops-as-gen-z-demos-turn-ugly",
+      "published_date": "2026-11-01T09:16:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
+      "published_date": "2026-11-01T09:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
+      "published_date": "2026-11-01T05:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-war-briefing-oleshky-truce-shows-de-escalation-is-possible-says-zelenskyy",
+      "published_date": "2026-11-01T04:17:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T03:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Krawalle in Frankfurt: Ausschreitungen nach Demos: «Schockiert über Gewaltexzesse»",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-11/01/ausschreitungen-nach-demos-schockiert-ueber-gewaltexzesse",
@@ -477,125 +596,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
       "published_date": "2026-11-01T01:14:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gewalt eskaliert: Krawalle und Plünderungen nach Demo in Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/31/krawalle-und-pluenderungen-in-frankfurt",
-      "published_date": "2026-11-01T00:17:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gewaltausbruch: Der Abend der Krawalle in Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/31/der-abend-der-krawalle-in-frankfurt",
-      "published_date": "2026-11-01T00:15:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antisemitismus in Deutschland: Kramp-Karrenbauer warnt vor Bündnissen mit Linken oder AfD",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/01/kramp-karrenbauer-warnt-vor-buendnissen-mit-linken-oder-afd",
-      "published_date": "2026-11-01T00:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste von Gen Z regelt: Festnahmen nach Ausschreitungen im Anschluss an friedliche Proteste",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/genz-regelt-proteste-jugendliche-polizei-frankfurt-hamburg",
-      "published_date": "2026-10-31T23:53:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 8. Spieltag – Samstag: Dortmund gleicht in München spät aus – Stuttgart schlägt Leverkusen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-10/bundesliga-leverkusen-stuttgart-schalke-leipzig",
-      "published_date": "2026-10-31T20:08:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gen Z regelt: Ausschreitungen in mehreren Städten nach friedlichem Protest",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/jugend-proteste-gen-z-regelt-bildung-live",
-      "published_date": "2026-10-31T20:01:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia after Vucic: The winners are losing patience",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-31T19:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia after Vucic: The winners are losing patience",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-31T19:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 290 arrested in France as some weekend protests turn violent",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-31T18:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police clash with masked rioters after largely peaceful protests across France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-      "published_date": "2026-10-31T18:23:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Gen Z protests disrupted by violence on Saturday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-31T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Gen Z protests disrupted by violence on Saturday",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-31T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Partei: Weg frei für rot-grün-rote Koalitionsgespräche in Berlin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/31/weg-frei-fuer-rot-gruen-rote-koalitionsgespraeche-in-berlin",
-      "published_date": "2026-10-31T15:52:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste: Tausende bei Demo in Frankfurt - Pyrotechnik sorgt für Stopp",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/31/mehrere-tausend-bei-demo-in-frankfurt",
-      "published_date": "2026-10-31T15:48:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demonstrationen: Tausende beteiligen sich an Gen-Z-Demos in NRW",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/31/tausende-beteiligen-sich-an-gen-z-demos-in-nrw",
-      "published_date": "2026-10-31T15:46:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste: Mehrere Tausend bei Gen-Z-Demos in Hannover und Bremen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/31/mehrere-tausend-bei-gen-z-demos-in-hannover-und-bremen",
-      "published_date": "2026-10-31T15:43:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany braces for massive youth protests",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261031/germany-braces-for-massive-youth-protests",
-      "published_date": "2026-10-31T11:19:30+00:00",
       "category": "Local Events"
     }
   ]
