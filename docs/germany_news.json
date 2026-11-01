@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-10-31T15:55:34.965269+00:00",
+  "last_updated": "2026-11-01T01:42:22.741602+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "From teargas in Paris to gen Z in Germany: protests across Europe – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/oct/31/from-teargas-in-paris-to-gen-z-in-germany-europe-across-protests-in-pictures",
+      "published_date": "2026-10-31T17:49:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
       "source": "The Guardian",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europeans and Canadians set to get more opportunities to move across Atlantic",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic",
-      "published_date": "2026-10-29T20:09:48+00:00",
-      "category": "Diplomacy"
+      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+      "published_date": "2026-10-31T19:17:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
@@ -274,13 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
       "published_date": "2026-10-28T18:32:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evacuation from Oleshky: How are preparations going?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T17:04:00+00:00",
       "category": "Military"
     },
     {
@@ -459,6 +459,111 @@
       "category": "Economy"
     },
     {
+      "title": "Krawalle in Frankfurt: Ausschreitungen nach Demos: «Schockiert über Gewaltexzesse»",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/01/ausschreitungen-nach-demos-schockiert-ueber-gewaltexzesse",
+      "published_date": "2026-11-01T01:38:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nach Krawallen: Polizei: Lage in Frankfurt beruhigt sich wieder",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/01/polizei-lage-in-frankfurt-beruhigt-sich-wieder",
+      "published_date": "2026-11-01T01:21:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "published_date": "2026-11-01T01:14:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gewalt eskaliert: Krawalle und Plünderungen nach Demo in Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/31/krawalle-und-pluenderungen-in-frankfurt",
+      "published_date": "2026-11-01T00:17:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gewaltausbruch: Der Abend der Krawalle in Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-10/31/der-abend-der-krawalle-in-frankfurt",
+      "published_date": "2026-11-01T00:15:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antisemitismus in Deutschland: Kramp-Karrenbauer warnt vor Bündnissen mit Linken oder AfD",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/01/kramp-karrenbauer-warnt-vor-buendnissen-mit-linken-oder-afd",
+      "published_date": "2026-11-01T00:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteste von Gen Z regelt: Festnahmen nach Ausschreitungen im Anschluss an friedliche Proteste",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/genz-regelt-proteste-jugendliche-polizei-frankfurt-hamburg",
+      "published_date": "2026-10-31T23:53:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundesliga, 8. Spieltag – Samstag: Dortmund gleicht in München spät aus – Stuttgart schlägt Leverkusen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-10/bundesliga-leverkusen-stuttgart-schalke-leipzig",
+      "published_date": "2026-10-31T20:08:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z regelt: Ausschreitungen in mehreren Städten nach friedlichem Protest",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/jugend-proteste-gen-z-regelt-bildung-live",
+      "published_date": "2026-10-31T20:01:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia after Vucic: The winners are losing patience",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T19:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia after Vucic: The winners are losing patience",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-10-31T19:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 290 arrested in France as some weekend protests turn violent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T18:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police clash with masked rioters after largely peaceful protests across France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+      "published_date": "2026-10-31T18:23:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Gen Z protests disrupted by violence on Saturday",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-10-31T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Gen Z protests disrupted by violence on Saturday",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-10-31T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Partei: Weg frei für rot-grün-rote Koalitionsgespräche in Berlin",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-10/31/weg-frei-fuer-rot-gruen-rote-koalitionsgespraeche-in-berlin",
@@ -491,111 +596,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261031/germany-braces-for-massive-youth-protests",
       "published_date": "2026-10-31T11:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Merkel calls for first female president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-31T11:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Merkel calls for first female president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-31T11:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Germany: Gen Z protests, Left Party scandals and the AfD email leak",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261031/inside-germany-gen-z-protests-left-party-scandals-and-the-afd-email-leak",
-      "published_date": "2026-10-31T11:11:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-31T05:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-      "published_date": "2026-10-31T04:27:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland: Protesters clash with police over sacked court chief",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T23:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T20:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T18:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennessee woman Christa Pike describes pain after failed execution",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T16:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Debatte um Berliner Linke: Muss man in Berlin Angst haben?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/debatte-berliner-linke-elif-eralp-sicherheit-polizei",
-      "published_date": "2026-10-30T16:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mit viel Musik: Glühwein im Oktober: Früh-Weihnachtsmarkt in Essen eröffnet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/30/gluehwein-im-oktober-frueh-weihnachtsmarkt-startet-in-essen",
-      "published_date": "2026-10-30T16:17:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterms: Pope Leo XIV casts vote by mail",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T16:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "published_date": "2026-10-30T15:48:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
-      "published_date": "2026-10-30T15:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's gen Z to join Europe's youth protest wave",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261030/germanys-gen-z-to-join-europes-youth-protest-wave",
-      "published_date": "2026-10-30T15:06:05+00:00",
       "category": "Local Events"
     }
   ]
