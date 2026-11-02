@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-01T16:58:14.959448+00:00",
+  "last_updated": "2026-11-02T01:58:50.059279+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+      "published_date": "2026-11-01T17:00:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kanzler auf Asienreise: Merz wirbt auch in Südkorea für Freihandels-Netzwerk",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/30/merz-wirbt-auch-in-suedkorea-fuer-freihandels-netzwerk",
-      "published_date": "2026-10-30T01:48:01+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/02/ukraine-war-briefing-kyiv-says-air-raid-warning-app-likely-hacked-after-users-receive-false-alerts",
+      "published_date": "2026-11-02T00:34:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T20:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-01T20:34:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Wolfram Siebeck: »Siebeck wäre sicher auf Instagram. Seine Frau würde die Fotos machen«",
@@ -161,6 +182,13 @@
       "title": "Ukraine: Russian attacks leave tens of thousands without power",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T14:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Six-day localized ceasefire in Oleshky comes to end",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-six-day-localized-ceasefire-in-oleshky-comes-to-end/live-79815409?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-01T14:13:00+00:00",
       "category": "Military"
     },
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-30T12:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia: Critical newspaper 'Novaya Gazeta' to close",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T11:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IIHF ordered to allow Russia back into world championships",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T10:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "»Star Trek«: Schauspieler Patrick Stewart ist tot",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-10/schauspieler-patrick-stewart-tot",
-      "published_date": "2026-10-29T20:57:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on a changing Brexit debate: Kemi Badenoch is trapped in denial | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
-      "published_date": "2026-10-29T18:30:28+00:00",
       "category": "Military"
     },
     {
@@ -459,6 +459,41 @@
       "category": "Economy"
     },
     {
+      "title": "German police investigating after needles found in Halloween candy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T01:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "«Durch den Monsun»: Tokio Hotel in Hamburg - Fans erleben große Show",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/01/tokio-hotel-in-hamburg-fans-erwartet-grosse-show",
+      "published_date": "2026-11-02T00:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z regelt: Pistorius hinterfragt Dobrindts Aussagen über Randalierer",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/krawalle-berlin-boris-pistorius-alexander-dobrindt-migrantische-gruppen",
+      "published_date": "2026-11-01T21:01:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "published_date": "2026-11-01T17:20:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia: Police chief arrested after election for abuse of office",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-01T17:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Unfall in Stuttgart: Drei Verletzte bei Frontalzusammenstoß",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-11/01/drei-verletzte-bei-frontalzusammenstoss",
@@ -561,41 +596,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
       "published_date": "2026-11-01T05:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-war-briefing-oleshky-truce-shows-de-escalation-is-possible-says-zelenskyy",
-      "published_date": "2026-11-01T04:17:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T03:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krawalle in Frankfurt: Ausschreitungen nach Demos: «Schockiert über Gewaltexzesse»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/01/ausschreitungen-nach-demos-schockiert-ueber-gewaltexzesse",
-      "published_date": "2026-11-01T01:38:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nach Krawallen: Polizei: Lage in Frankfurt beruhigt sich wieder",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/01/polizei-lage-in-frankfurt-beruhigt-sich-wieder",
-      "published_date": "2026-11-01T01:21:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-      "published_date": "2026-11-01T01:14:06+00:00",
       "category": "Local Events"
     }
   ]
