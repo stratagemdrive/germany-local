@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-02T01:58:50.059279+00:00",
-  "story_count": 85,
+  "last_updated": "2026-11-02T20:35:50.241938+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+      "published_date": "2026-11-02T19:07:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How the EU can resist the divisive influence of the far right | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/02/how-the-eu-can-resist-the-divisive-influence-of-the-far-right",
+      "published_date": "2026-11-02T17:58:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A decade of magical thinking since Brexit has taught me that it’s always OK to hope for better | Zoe Williams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/a-decade-of-magical-thinking-since-brexit-has-taught-me-that-its-always-ok-to-hope-for-better",
+      "published_date": "2026-11-02T17:01:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T12:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz says next German president 'must be a woman' — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-02T07:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz says next German president 'must be a woman' — report",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T07:36:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
       "source": "The Guardian",
@@ -102,46 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany news: Merz hopes for Korean reunification at DMZ",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-hopes-for-korean-reunification-at-dmz/live-79803462?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-30T14:46:00+00:00",
-      "category": "Diplomacy"
+      "title": "Krieg in der Ukraine: Mindestens 24 Tote bei russischen Luftangriffen in Saporischschja",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/russland-luftangriff-ukraine-komyschuwacha-saporischschja-humanitaere-hilfe",
+      "published_date": "2026-11-02T19:48:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz hopes for Korean reunification at DMZ",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-hopes-for-korean-reunification-at-dmz/live-79803462?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T14:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
+      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-      "published_date": "2026-10-30T14:42:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "published_date": "2026-11-02T16:17:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Seoul fears being sidelined as US reaches out to North Korea",
+      "title": "What might Trump have planned for Iran following the midterm election?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T14:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T15:41:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU to slap new €2 fee on online shopping orders from outside Europe",
+      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
+      "published_date": "2026-11-02T13:00:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "published_date": "2026-11-02T12:57:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ryanair to hit passengers in Europe with 'double-digit' hikes in air fares",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261030/eu-to-slap-new-e2-fee-on-online-shopping-orders-from-outside-europe",
-      "published_date": "2026-10-30T09:00:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20261102/ryanair-to-hit-passengers-in-europe-with-double-digit-hikes-in-air-fares",
+      "published_date": "2026-11-02T12:35:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Many Turkish 'guest workers' hit by poverty in old age",
+      "title": "Uganda begins withdrawing troops from Somalia after two decades",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/many-turkish-guest-workers-hit-by-poverty-in-old-age/a-79746838?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T08:38:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T12:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Iliana Yotova won the presidential election in Bulgaria",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T12:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Iliana Yotova won the presidential election in Bulgaria",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-02T12:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T02:48:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
+      "title": "LA communities kick out Big Oil",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T07:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T14:21:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
-      "published_date": "2026-10-31T19:17:22+00:00",
-      "category": "Military"
+      "title": "Germany says it has enough gas for winter after missing storage target",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261102/germany-says-it-has-enough-gas-for-winter-after-missing-storage-target",
+      "published_date": "2026-11-02T13:55:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+      "title": "For US Democrats, climate policy is now about energy bills",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-31T15:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
-      "published_date": "2026-10-31T02:18:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainekrieg: USA genehmigen Verkauf von 500 Patriot-Abwehrraketen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/patriot-raketen-usa-ukraine-verkauf",
-      "published_date": "2026-10-31T01:07:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: USA billigen Verkauf von 500 Patriot-Raketen an die Ukraine",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-10-30T23:52:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
-      "published_date": "2026-10-30T17:13:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wetterbilanz: Oktober war in MV deutlich regenreicher als gewöhnlich",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/30/oktober-war-in-mv-deutlich-regenreicher-als-gewoehnlich",
-      "published_date": "2026-10-30T16:29:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russische Besatzung: Russland und Ukraine beginnen mit der Evakuierung von Oleschky",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-waffenruhe-evakuierung-russland",
-      "published_date": "2026-10-30T16:16:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy: Students and workers rally over living costs",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T12:45:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T08:59:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oh to Believe in Another World review – William Kentridge’s amazing animated ballet of black comic pain",
@@ -317,6 +338,41 @@
       "url": "https://www.zeit.de/news/2026-10/27/reiche-luecke-bei-ausbau-der-windkraft-auf-see-schliessen",
       "published_date": "2026-10-27T00:01:05+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Will renewed conflict derail Ethiopia's economic growth?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T11:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why German workers in industry and banking are striking on Monday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261102/why-german-workers-in-industry-and-banking-are-striking-on-monday",
+      "published_date": "2026-11-02T10:26:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/king-charles-slavery-apology-caribbean-tour",
+      "published_date": "2026-11-02T08:00:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South Korea to pour billions into AI",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T05:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Radical-right youth groups are at the root of Europe’s populist surge | Cas Mudde and Duncan McDonnell",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/radical-right-youth-europe-populist-surge-france-jordan-bardella-italy-giorgia-meloni",
+      "published_date": "2026-11-02T05:00:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
@@ -424,44 +480,128 @@
       "category": "Economy"
     },
     {
-      "title": "Mercedes to cut more jobs in Germany as Chinese competition bites",
+      "title": "Eskalation in Frankfurt: Scherben, Solidarität und Sorgen vor der nächsten Demo",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/02/scherben-solidaritaet-und-sorgen-vor-der-naechsten-demo",
+      "published_date": "2026-11-02T20:22:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US-Zwischenwahlen: US-Regierung schaltet im Streit um Briefwahlstimmen Supreme Court ein",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/us-zwischenwahlen-supreme-court-donald-trump-stimmzettel-kalifornien",
+      "published_date": "2026-11-02T19:59:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'It's a form of terrorism': fridges across Europe hit by suspected cyber-attacks – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/video/2026/nov/02/its-a-form-of-terrorism-fridges-across-europe-hit-by-suspected-cyber-attacks-video",
+      "published_date": "2026-11-02T19:54:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump asks Supreme Court to block 20,000 California midterm ballots",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T19:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Poland’s political turmoil: an ominous portent of bigger battles to come | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/the-guardian-view-on-polands-political-turmoil-an-ominous-portent-of-bigger-battles-to-come",
+      "published_date": "2026-11-02T18:52:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French pupils resume school blockades as country braces for more protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+      "published_date": "2026-11-02T18:17:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Petition to ban TV channel gets 500,000 signatures",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T18:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "published_date": "2026-11-02T16:39:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ice hockey officials considering options after CAS order to reinstate Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T15:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European supermarkets targeted in second reported cyberattack",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T14:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where sharp objects were found in Halloween candy in Germany",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261028/mercedes-to-cut-more-jobs-in-germany-as-chinese-competition-bites",
-      "published_date": "2026-10-28T12:05:44+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20261102/where-foreign-objects-were-found-in-halloween-candy-in-germany",
+      "published_date": "2026-11-02T12:40:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What to expect at Gen Z protests in Germany on October 31st",
+      "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T12:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-02T12:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today on Germany: A roundup of the latest news on Monday",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261028/what-to-expect-at-gen-z-protests-in-germany-on-october-31st",
-      "published_date": "2026-10-28T10:34:39+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20261102/today-on-germany-a-roundup-of-the-latest-news-on-monday",
+      "published_date": "2026-11-02T07:30:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
+      "title": "India news: Gandhi vows to step up pressure on Modi at protest rally",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T10:24:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T06:38:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
+      "title": "Kimi Antonelli makes history as youngest F1 champion",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-10-28T10:24:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "India news: Cyclone Arnab turns deadly after landfall",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T04:30:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T05:01:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "German police investigating after needles found in Halloween candy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T01:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police investigating after needles found in Halloween candy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-11-02T01:16:00+00:00",
       "category": "Local Events"
     },
@@ -477,125 +617,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/krawalle-berlin-boris-pistorius-alexander-dobrindt-migrantische-gruppen",
       "published_date": "2026-11-01T21:01:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
-      "published_date": "2026-11-01T17:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia: Police chief arrested after election for abuse of office",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T17:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unfall in Stuttgart: Drei Verletzte bei Frontalzusammenstoß",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/01/drei-verletzte-bei-frontalzusammenstoss",
-      "published_date": "2026-11-01T16:52:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundesliga, 8. Spieltag – Sonntag : Union und Köln trennen sich unentschieden",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-11/bundesliga-berlin-koeln-frankfurt-hamburg",
-      "published_date": "2026-11-01T16:49:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteste in Frankfurt: Die Scherben von Frankfurt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/2026-11/proteste-frankfurt-demonstration-polizei-generation-z",
-      "published_date": "2026-11-01T16:43:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dobrindt: Linksextreme und \"migrantische Chaoten\" für Gewalt verantwortlich",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/video/2026-11/dobrindt-linksextreme-und-migrantische-chaoten-fuer-gewalt-verantwortlich",
-      "published_date": "2026-11-01T16:42:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verbot von Palestine Action: Hunderte Festnahmen bei propalästinensischer Demonstration in London",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/gaza-demo-london-festnahmen-polizei-gxe",
-      "published_date": "2026-11-01T16:28:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wohnungen: Linke-Chef in MV warnt SPD vor Verbot von Vergesellschaftung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/01/linke-chef-in-mv-warnt-spd-vor-verbot-von-vergesellschaftung",
-      "published_date": "2026-11-01T16:28:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
-      "published_date": "2026-11-01T16:24:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-      "published_date": "2026-11-01T15:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France opens attempted murder probe after protest attack",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T14:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests across Europe continue over Halloween weekend – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/nov/01/protests-europe-halloween-weekend-video",
-      "published_date": "2026-11-01T14:29:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politicians slam violence that followed Germany's 'Gen Z' demos",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261101/politicians-slam-violence-that-followed-germanys-gen-z-demos",
-      "published_date": "2026-11-01T14:25:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal police storm housing protest camps in Lisbon, Porto",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T11:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German rioters loot shops as 'Gen Z' demos turn ugly",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261101/german-rioters-loot-shops-as-gen-z-demos-turn-ugly",
-      "published_date": "2026-11-01T09:16:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
-      "published_date": "2026-11-01T09:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
-      "published_date": "2026-11-01T05:00:04+00:00",
       "category": "Local Events"
     }
   ]
