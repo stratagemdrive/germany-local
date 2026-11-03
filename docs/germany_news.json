@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-02T20:35:50.241938+00:00",
-  "story_count": 88,
+  "last_updated": "2026-11-03T03:46:52.261161+00:00",
+  "story_count": 87,
   "stories": [
     {
       "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
@@ -88,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+      "published_date": "2026-10-31T09:13:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Treffen in Atlanta: Kein «Familienfoto»: G20-Außenminister mit Signal an Moskau",
+      "title": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/03/ukraine-war-briefing-us-to-mediate-talks-with-kyiv-and-moscow-in-abu-dhabi-next-week-says-witkoff",
+      "published_date": "2026-11-03T02:00:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Witkoff kündigt neue Gespräche zwischen USA, Ukraine und Russland an",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/30/kein-familienfoto-g20-aussenminister-mit-signal-an-moskau",
-      "published_date": "2026-10-30T16:38:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-11-03T00:19:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: At least 26 killed in Russian strikes on aid center",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T21:59:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Krieg in der Ukraine: Mindestens 24 Tote bei russischen Luftangriffen in Saporischschja",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Biological weapons: The weaponization of disease",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T12:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's search for a nuclear waste site",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-01T08:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's search for a nuclear waste site",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-01T08:06:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "LA communities kick out Big Oil",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",
@@ -333,11 +333,11 @@
       "category": "Energy"
     },
     {
-      "title": "Wind auf See: Reiche: Lücke bei Ausbau der Windkraft auf See schließen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-10/27/reiche-luecke-bei-ausbau-der-windkraft-auf-see-schliessen",
-      "published_date": "2026-10-27T00:01:05+00:00",
-      "category": "Energy"
+      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T21:40:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Will renewed conflict derail Ethiopia's economic growth?",
@@ -473,11 +473,25 @@
       "category": "Economy"
     },
     {
-      "title": "Gasversorgung: Gaspreis in Europa erstmals seit 2022 bei über 100 Euro",
+      "title": "Offener Vollzug: NRW: Weniger Häftlinge kehren nach Freigang nicht zurück",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/gaspreis-europa-ttf-iran-krieg-gasspeicher",
-      "published_date": "2026-10-28T16:31:13+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/news/2026-11/03/nrw-weniger-haeftlinge-kehren-nach-freigang-nicht-zurueck",
+      "published_date": "2026-11-03T03:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+      "published_date": "2026-11-03T01:13:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-02T23:18:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Eskalation in Frankfurt: Scherben, Solidarität und Sorgen vor der nächsten Demo",
@@ -596,27 +610,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-02T01:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German police investigating after needles found in Halloween candy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-02T01:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "«Durch den Monsun»: Tokio Hotel in Hamburg - Fans erleben große Show",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/01/tokio-hotel-in-hamburg-fans-erwartet-grosse-show",
-      "published_date": "2026-11-02T00:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gen Z regelt: Pistorius hinterfragt Dobrindts Aussagen über Randalierer",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/krawalle-berlin-boris-pistorius-alexander-dobrindt-migrantische-gruppen",
-      "published_date": "2026-11-01T21:01:37+00:00",
       "category": "Local Events"
     }
   ]
