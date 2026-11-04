@@ -1,8 +1,43 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-04T02:50:01.692662+00:00",
-  "story_count": 86,
+  "last_updated": "2026-11-04T18:21:43.865869+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Iran: Schah-Sohn Pahlavi drängt EU zu mehr Druck auf Teheran",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/04/schah-sohn-pahlavi-draengt-eu-zu-mehr-druck-auf-teheran",
+      "published_date": "2026-11-04T17:34:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pet passports set to be restored between the EU and the UK",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261104/pet-passports-set-to-be-restored-between-the-eu-and-the-uk",
+      "published_date": "2026-11-04T16:02:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU says Montenegro on track to become bloc's next member state by 2028",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T14:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PODCAST🎧:  What really happened at the Gen Z protests, new parcel fees and November events",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261104/podcast%f0%9f%8e%a7-what-really-happened-at-the-gen-z-protests-new-parcel-fees-and-november-events",
+      "published_date": "2026-11-04T09:40:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From the archive: The trials of Robert Habeck: is the world’s most powerful green politician doomed to fail? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/04/from-the-archive-the-trials-of-robert-habeck-is-the-worlds-most-powerful-green-politician-doomed-to-fail-podcast",
+      "published_date": "2026-11-04T05:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Greenland's parliament ratifies Trump's US security agreement",
       "source": "Deutsche Welle",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-      "published_date": "2026-11-02T19:07:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How the EU can resist the divisive influence of the far right | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/02/how-the-eu-can-resist-the-divisive-influence-of-the-far-right",
-      "published_date": "2026-11-02T17:58:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A decade of magical thinking since Brexit has taught me that it’s always OK to hope for better | Zoe Williams",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/a-decade-of-magical-thinking-since-brexit-has-taught-me-that-its-always-ok-to-hope-for-better",
-      "published_date": "2026-11-02T17:01:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+      "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T12:51:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T12:52:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Merz says next German president 'must be a woman' — report",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-02T07:36:00+00:00",
-      "category": "Diplomacy"
+      "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
+      "published_date": "2026-11-04T10:58:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
+      "published_date": "2026-11-04T06:00:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Kyiv, hackers sent fake alerts about a nuclear apocalypse. We hardly noticed | Diana Berg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/in-kyiv-hackers-sent-fake-alerts-about-a-nuclear-apocalypse-we-hardly-noticed",
+      "published_date": "2026-11-04T05:00:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
@@ -214,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Multiple flights to European airports targeted by bomb threats",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-03T14:18:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Germany's Lufthansa warns of ticket price hikes amid Iran war energy shock",
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261103/germanys-lufthansa-warns-of-ticket-price-hikes-amid-iran-war-energy-shock",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+      "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/03/ukraine-war-briefing-us-to-mediate-talks-with-kyiv-and-moscow-in-abu-dhabi-next-week-says-witkoff",
-      "published_date": "2026-11-03T02:00:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Witkoff kündigt neue Gespräche zwischen USA, Ukraine und Russland an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-11-03T00:19:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: At least 26 killed in Russian strikes on aid center",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T21:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg in der Ukraine: Mindestens 24 Tote bei russischen Luftangriffen in Saporischschja",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/russland-luftangriff-ukraine-komyschuwacha-saporischschja-humanitaere-hilfe",
-      "published_date": "2026-11-02T19:48:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "published_date": "2026-11-02T16:17:14+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
+      "published_date": "2026-11-04T12:00:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "LA communities kick out Big Oil",
@@ -312,18 +319,60 @@
       "category": "Energy"
     },
     {
-      "title": "Gen Z protests in Germany: Is France-style violence looming?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-28T13:43:00+00:00",
-      "category": "Energy"
+      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "published_date": "2026-11-04T16:47:15+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Gen Z protests in Germany: Is France-style violence looming?",
+      "title": "Africa's shifting role in the global drug trade",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T13:43:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T15:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T15:09:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump's tariff policies remains",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-04T12:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump's tariff policies remains",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T12:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+      "published_date": "2026-11-04T11:58:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BMW reports lower Q3 earnings as China woes mount",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-04T10:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BMW reports lower Q3 earnings as China woes mount",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T10:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
@@ -410,60 +459,116 @@
       "category": "Economy"
     },
     {
-      "title": "Bollywood and the underworld — together in the spotlight?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T14:00:00+00:00",
-      "category": "Economy"
+      "title": "Koalitionsverhandlungen in Berlin: Merz bezeichnet Vergesellschaftungspläne als »Berliner Unsinn«",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/enteignung-berlin-vergesellschaftung-rot-gruen-rot-friedrich-merz-lars-klingbeil",
+      "published_date": "2026-11-04T18:06:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
+      "title": "Länder-Zusammenarbeit: Schleswig-Holstein und Bayern kooperieren bei IT-Lösungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/04/schleswig-holstein-und-bayern-kooperieren-bei-it-loesungen",
+      "published_date": "2026-11-04T17:57:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundespräsidentenwahl: Alle CDU-Ministerpräsidenten aus dem Osten für Aigner",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/04/erste-cdu-ministerpraesidenten-fuer-aigner",
+      "published_date": "2026-11-04T17:48:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German leaders react to the 'blue wave' after US mid-term elections",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261104/german-leaders-react-to-the-blue-wave-after-us-mid-term-elections",
+      "published_date": "2026-11-04T16:30:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo: Protests and outrage after a woman was killed despite repeatedly seeking assistance from the authorities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-protests-and-outrage-after-a-woman-was-killed-despite-repeatedly-seeking-assistance-from-the-authorities/a-79856726?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T16:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo: Protests and outrage after a woman was killed despite repeatedly seeking assistance from the authorities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-protests-and-outrage-after-a-woman-was-killed-despite-repeatedly-seeking-assistance-from-the-authorities/a-79856726?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-04T16:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham",
-      "published_date": "2026-10-30T06:00:47+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+      "published_date": "2026-11-04T16:09:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bayer wins Roundup cancer trial after Supreme Court ruling",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-10-30T02:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bayer wins Roundup cancer trial after Supreme Court ruling",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-30T02:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "India increases growth forecast for fiscal year",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T16:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "China leaders demand more loyalty and more initiative",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T16:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
+      "title": "Spain’s deadly train crashes have damaged public confidence in the system",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
-      "published_date": "2026-10-29T16:05:50+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
+      "published_date": "2026-11-04T15:40:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Human trafficking victims stranded in Guinea-Bissau",
+      "title": "Leading ice hockey nations, sponsors oppose Russia's return",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/human-trafficking-victims-stranded-in-guinea-bissau/a-79785558?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-29T14:20:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-04T13:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leading ice hockey nations, sponsors oppose Russia's return",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T13:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+      "published_date": "2026-11-04T13:22:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary opens communist-era secret police files identifying informants",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-opens-communist-era-secret-police-files-identifying-informants/a-79853492?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T12:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wawira Njirum, Kenya's school feeder and German Africa Prize recipient",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/wawira-njirum-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T10:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africans vote in local elections in test for ANC",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T10:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Election body opens door for voter reinclusion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T05:58:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Champions League: Wiedersehen mit Ex-Spieler Bartra: Dortmund empfängt Sevilla",
@@ -491,118 +596,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-04T01:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
-      "published_date": "2026-11-04T01:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish transport minister resigns after deadly train crash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
-      "published_date": "2026-11-03T21:46:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain transport minister offers resignation in wake of train accident",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T20:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
-      "published_date": "2026-11-03T20:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin: Berliner CDU will Grünen und SPD Sondierungen anbieten",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/cdu-berlin-stefan-evers-sondierungsgespraeche-linke-landesregierung",
-      "published_date": "2026-11-03T18:03:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hannover 96 in der Krise: «Ein Irrtum»: Hannover-Boss Kind kritisiert Boldt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/03/bericht-hannover-mit-drei-kandidaten-nach-boldt-aus",
-      "published_date": "2026-11-03T17:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gewerkschaft der Polizei: Polizeigewerkschaft warnt vor veränderter Arbeit unter AfD-Regierung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/gewerkschaft-polizei-afd-sachsen-anhalt-jochen-kopelke",
-      "published_date": "2026-11-03T17:44:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Jetzt live: Galatasaray gegen den VfB Stuttgart",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/championsleague-ticker",
-      "published_date": "2026-11-03T17:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelensky says dozens dead and missing in Russian strike",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/zelensky-says-dozens-dead-and-missing-in-russian-strike",
-      "published_date": "2026-11-03T16:27:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LISTED: The new flights from Berlin this winter",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/listed-the-new-and-returning-flights-from-berlin-this-winter",
-      "published_date": "2026-11-03T15:43:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German metros among the most expensive in the world for single journeys",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/german-metros-among-the-most-expensive-in-the-world-for-single-journeys",
-      "published_date": "2026-11-03T15:14:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why South Africa's local elections matter",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T15:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Berlin's Arab queers are building their community",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-03T14:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Berlin's Arab queers are building their community",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T14:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They fell in love on The Simpsons and married in real life. Meet the French Homer and Marge",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau",
-      "published_date": "2026-11-03T14:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
-      "published_date": "2026-11-03T14:31:00+00:00",
       "category": "Local Events"
     }
   ]
