@@ -1,8 +1,50 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-03T18:11:01.533060+00:00",
-  "story_count": 87,
+  "last_updated": "2026-11-04T02:50:01.692662+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Greenland's parliament ratifies Trump's US security agreement",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-03T20:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+      "published_date": "2026-11-03T20:00:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why are fridges being hacked and what could be next? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+      "published_date": "2026-11-03T19:12:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cold war? Why are fridges being hacked and what could be next? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+      "published_date": "2026-11-03T18:21:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK's King Charles III decries 'monstrous injustice' of slave trade",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-03T18:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/us-democracy-donald-trump-europe-trust",
+      "published_date": "2026-11-03T18:07:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
       "source": "The Guardian",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Merz says next German president 'must be a woman' — report",
+      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+      "published_date": "2026-11-04T01:31:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to cut nearly $4 billion in Israel military aid, Trump says",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T07:36:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-      "published_date": "2026-11-01T17:00:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-      "published_date": "2026-11-01T09:55:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Scottish nationalists should see Burnham as a real threat – and an opportunity | Rory Scothorne",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/scottish-nationalists-burnham-threat-opportunity-labour-eu",
-      "published_date": "2026-11-01T09:00:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From teargas in Paris to gen Z in Germany: protests across Europe – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/oct/31/from-teargas-in-paris-to-gen-z-in-germany-europe-across-protests-in-pictures",
-      "published_date": "2026-10-31T17:49:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-      "published_date": "2026-10-31T15:35:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T00:21:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Midterms live: Ministerium schickt Wahlbeobachter vor allem in demokratische Gebiete",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "What might Trump have planned for Iran following the midterm election?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T15:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
-      "published_date": "2026-11-02T13:00:41+00:00",
-      "category": "Military"
-    },
-    {
       "title": "LA communities kick out Big Oil",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",
@@ -323,13 +323,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-10-28T13:43:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Experts urge 'global health emergency' as climate harms accelerate",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-10-28T00:05:00+00:00",
       "category": "Energy"
     },
     {
@@ -473,6 +466,62 @@
       "category": "Economy"
     },
     {
+      "title": "Champions League: Wiedersehen mit Ex-Spieler Bartra: Dortmund empfängt Sevilla",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/04/wiedersehen-mit-ex-spieler-bartra-dortmund-empfaengt-sevilla",
+      "published_date": "2026-11-04T02:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung: Rot-grün-rote Koalitionsverhandlungen in Berlin gehen weiter",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/04/rot-gruen-rote-koalitionsverhandlungen-in-berlin-gehen-weiter",
+      "published_date": "2026-11-04T02:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: RB Leipzig mit Baumgartner in der Startelf gegen Man City",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/04/rb-leipzig-mit-baumgartner-in-der-startelf-gegen-man-city",
+      "published_date": "2026-11-04T02:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterm election results: How Americans voted and what the data tells us",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T01:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
+      "published_date": "2026-11-04T01:08:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish transport minister resigns after deadly train crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+      "published_date": "2026-11-03T21:46:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain transport minister offers resignation in wake of train accident",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-03T20:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+      "published_date": "2026-11-03T20:21:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Berlin: Berliner CDU will Grünen und SPD Sondierungen anbieten",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/cdu-berlin-stefan-evers-sondierungsgespraeche-linke-landesregierung",
@@ -554,62 +603,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
       "published_date": "2026-11-03T14:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T14:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterms: Americans vote in elections seen as referendum on Trump",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T10:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minority Rights in the Midterms: A Democratic Recoil from Transgender Rights",
-      "source": "Der Spiegel",
-      "url": "https://www.spiegel.de/international/world/minority-rights-in-the-midterms-a-democratic-recoil-from-transgender-rights-a-628f6205-c90b-421b-a564-58bbbac5a0e1#ref=rss",
-      "published_date": "2026-11-03T09:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency responders comb through rubble after deadly strike on Ukrainian aid centre – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/nov/03/rubble-deadly-strike-ukrainian-aid-centre-video",
-      "published_date": "2026-11-03T08:53:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-147",
-      "published_date": "2026-11-03T07:29:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Offener Vollzug: NRW: Weniger Häftlinge kehren nach Freigang nicht zurück",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/03/nrw-weniger-haeftlinge-kehren-nach-freigang-nicht-zurueck",
-      "published_date": "2026-11-03T03:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "published_date": "2026-11-03T01:13:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T23:18:00+00:00",
       "category": "Local Events"
     }
   ]
