@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-04T18:21:43.865869+00:00",
+  "last_updated": "2026-11-05T02:58:26.850774+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Pflegereform: Bundestag debattiert über Pflegereform",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/pflegereform-pflegeversicherung-bundestag-beitrag-2026-expertenkommission",
+      "published_date": "2026-11-05T02:26:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T20:27:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran: Schah-Sohn Pahlavi drängt EU zu mehr Druck auf Teheran",
       "source": "ZEIT Online",
@@ -130,24 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Merz says next German president should be a woman",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/merz-says-next-german-president-should-be-a-woman",
-      "published_date": "2026-11-03T08:05:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fridge cyberattack on supermarkets across Europe prompts EU warning",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning",
-      "published_date": "2026-11-03T07:18:39+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/ukraine-war-briefing-zelenskyy-awards-melania-trump-national-honour-for-role-in-brokering-oleshky-truce",
+      "published_date": "2026-11-05T02:11:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-04T12:52:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says 'largely true' Iran war led to Republicans midterm loss",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T12:45:00+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-03T11:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Ukraine in focus at Berlin Security Conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-03T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Ukraine in focus at Berlin Security Conference",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T07:00:00+00:00",
       "category": "Military"
     },
     {
@@ -459,6 +459,62 @@
       "category": "Economy"
     },
     {
+      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+      "published_date": "2026-11-05T00:53:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democrats take House and Senate from Republicans in US midterm rout",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T23:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: Dortmund gewinnt gegen Betis Sevilla, Leipzig unterliegt ManCity",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/sport/2026-11/champions-league-dortmund-sevilla-leipzig-manchester",
+      "published_date": "2026-11-04T22:18:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-04T21:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T21:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia detains police officers over alleged use of force against protesters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
+      "published_date": "2026-11-04T20:42:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Examining viral narratives after the US midterm elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T18:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Both sides of the Atlantic sense more hope: voters are drawn to the ‘politics of love’ | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
+      "published_date": "2026-11-04T18:35:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Koalitionsverhandlungen in Berlin: Merz bezeichnet Vergesellschaftungspläne als »Berliner Unsinn«",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/enteignung-berlin-vergesellschaftung-rot-gruen-rot-friedrich-merz-lars-klingbeil",
@@ -501,6 +557,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Kosovo: Outrage as authorities accused of not helping femicide victim",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-outrage-as-authorities-accused-of-not-helping-femicide-victim/a-79856726?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-04T16:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kosovo: Outrage as authorities accused of not helping femicide victim",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/kosovo-outrage-as-authorities-accused-of-not-helping-femicide-victim/a-79856726?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-04T16:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
@@ -526,76 +596,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-04T13:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French blood banks hacked in latest cyber-attack on Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-      "published_date": "2026-11-04T13:22:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary opens communist-era secret police files identifying informants",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-opens-communist-era-secret-police-files-identifying-informants/a-79853492?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T12:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wawira Njirum, Kenya's school feeder and German Africa Prize recipient",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/wawira-njirum-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T10:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africans vote in local elections in test for ANC",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T10:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Election body opens door for voter reinclusion",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T05:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Wiedersehen mit Ex-Spieler Bartra: Dortmund empfängt Sevilla",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/04/wiedersehen-mit-ex-spieler-bartra-dortmund-empfaengt-sevilla",
-      "published_date": "2026-11-04T02:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regierungsbildung: Rot-grün-rote Koalitionsverhandlungen in Berlin gehen weiter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/04/rot-gruen-rote-koalitionsverhandlungen-in-berlin-gehen-weiter",
-      "published_date": "2026-11-04T02:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: RB Leipzig mit Baumgartner in der Startelf gegen Man City",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/04/rb-leipzig-mit-baumgartner-in-der-startelf-gegen-man-city",
-      "published_date": "2026-11-04T02:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterm election results: How Americans voted and what the data tells us",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T01:10:00+00:00",
       "category": "Local Events"
     }
   ]
