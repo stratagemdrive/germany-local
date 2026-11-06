@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-06T02:58:52.142885+00:00",
-  "story_count": 86,
+  "last_updated": "2026-11-06T17:46:34.444427+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Katastrophenschutz: EU stellt wegen El Niño Gelder für afrikanische Länder bereit",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-11/el-nino-afrika-eu-hilfen-somalia-kenia-uganda",
+      "published_date": "2026-11-06T16:52:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU charges TikTok with failing to protect users’ mental health",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "published_date": "2026-11-06T15:17:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New bomb threats target Irish media, more European flights",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T12:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German parliament approves plan to cut costs for getting a driver's licence",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261106/german-parliament-approves-plan-to-cut-costs-for-getting-a-drivers-licence",
+      "published_date": "2026-11-06T09:16:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab",
       "source": "ZEIT Online",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Greenland's parliament ratifies Trump's US security agreement",
+      "title": "Stiefväter: War Ihr Stiefvater der bessere Vater?",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/familie/2026-10/stiefvaeter-vaterrolle-erfahrungen-aufruf",
+      "published_date": "2026-11-06T17:23:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "published_date": "2026-11-06T17:14:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+      "published_date": "2026-11-06T16:26:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact check: Three viral Iran war posts debunked",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T20:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T15:29:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
-      "published_date": "2026-11-03T20:00:13+00:00",
-      "category": "Diplomacy"
+      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T14:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why are fridges being hacked and what could be next? - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
-      "published_date": "2026-11-03T19:12:31+00:00",
-      "category": "Diplomacy"
+      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-06T14:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cold war? Why are fridges being hacked and what could be next? - The Latest",
+      "title": "For people in Iran, a constant threat of war and dearth of information",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T12:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is behind the bomb hoaxes hitting flights across Europe?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261106/who-is-behind-the-bomb-hoaxes-hitting-flights-across-europe",
+      "published_date": "2026-11-06T09:21:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
-      "published_date": "2026-11-03T18:21:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+      "published_date": "2026-11-06T06:43:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
@@ -221,67 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Iran signals satisfaction, skepticism after US midterm vote",
+      "title": "Tesla to 'wind down' production of flop Cybertruck",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T15:04:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T17:10:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UPDATE: New hoax bomb threats hit flights across Europe",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261105/hoax-bomb-threats-hit-european-flights-for-third-day",
-      "published_date": "2026-11-05T12:03:42+00:00",
-      "category": "Military"
+      "title": "Data center protesters break into Microsoft site in Amsterdam",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T16:38:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pioneering Jewish academy opens in Germany",
+      "title": "Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pioneering-jewish-academy-opens-in-germany/a-79863293?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-05T11:57:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T13:23:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pioneering Jewish academy opens in Germany",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pioneering-jewish-academy-opens-in-germany/a-79863293?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T11:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland arrests 4 accused of spying for Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/poland-arrests-4-accused-of-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T10:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland court jails captain and crew member over Baltic cable sabotage",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T10:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb threats disrupt several flights across Europe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T10:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb threats disrupt several flights across Europe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-05T10:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea tests Arctic shipping route amid Russia-West row",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T09:45:00+00:00",
-      "category": "Military"
+      "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
+      "published_date": "2026-11-06T12:27:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Rare Renaissance masterpiece hidden for 70 years could fetch £5m at auction",
@@ -319,11 +347,60 @@
       "category": "Energy"
     },
     {
-      "title": "Oh to Believe in Another World review – William Kentridge’s amazing animated ballet of black comic pain",
+      "title": "Dax: Dax fällt tief, US-Börsen erholen sich",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/dax-boerse-rekord-us-zwischenwahlen-ki-regulierung",
+      "published_date": "2026-11-06T17:43:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stadtentwicklung: 60.000 Euro - Wurzen gewinnt Innenstadt-Wettbewerb",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/06/60-000-euro-wurzen-gewinnt-innenstadt-wettbewerb",
+      "published_date": "2026-11-06T16:48:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Like the Danes, we need to pay for the society we want | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
-      "published_date": "2026-10-30T09:29:33+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
+      "published_date": "2026-11-06T16:37:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+      "published_date": "2026-11-06T15:38:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Protests and reforms: France's rising debt costs threaten stability",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T14:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Protests and reforms: France's rising debt costs threaten stability",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-06T14:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T09:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Too many stories exist only to make you think you’re on the right side’: Cristian Mungiu on Fjord, the Cannes winner that divided Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/06/too-many-stories-exist-only-to-make-you-think-youre-on-the-right-side-cristian-mungiu-on-fjord-his-disquieting-social-drama",
+      "published_date": "2026-11-06T08:00:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Asian stocks slump after US tech rout amid AI jitters",
@@ -410,60 +487,102 @@
       "category": "Economy"
     },
     {
-      "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
-      "published_date": "2026-11-04T11:58:19+00:00",
-      "category": "Economy"
+      "title": "Wie weiter nach der Wahl?: Schulze: AfD-Anträgen zustimmen, wenn es dem Land nützt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/06/schulze-afd-antraegen-zustimmen-wenn-es-dem-land-nuetzt",
+      "published_date": "2026-11-06T17:00:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BMW reports lower Q3 earnings as China woes mount",
+      "title": "Bundespräsidentenwahl: Aigner soll Bundespräsidentin werden - CDU einig",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/06/unions-frauen-wollen-aigner-als-bundespraesidentin",
+      "published_date": "2026-11-06T16:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu",
+      "published_date": "2026-11-06T16:54:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-04T10:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T16:28:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BMW reports lower Q3 earnings as China woes mount",
+      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T10:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-06T16:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-      "published_date": "2026-11-03T17:30:19+00:00",
-      "category": "Economy"
+      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T16:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
-      "published_date": "2026-11-03T09:19:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "German auto parts supplier to cut thousands of jobs and close five sites",
+      "title": "'Enjoy the moment': The German clubs limiting smartphones in stadiums",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261103/german-auto-parts-supplier-to-cut-thousands-of-jobs-and-close-five-sites",
-      "published_date": "2026-11-03T09:04:37+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.de/20261106/enjoy-the-moment-the-german-clubs-limiting-smartphones-in-stadiums",
+      "published_date": "2026-11-06T14:18:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Manipulation review – preposterous Da Vinci Code-esque thriller like being trapped in a Ferrero Rocher ad",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/03/manipulation-review-preposterous-da-vinci-code-thriller-david-balda",
-      "published_date": "2026-11-03T09:00:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T21:40:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T12:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Acid spill in North Rhine-Westphalia disrupts traffic and closes schools",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261106/acid-spill-in-north-rhine-westphalia-disrupts-traffic-and-closes-schools",
+      "published_date": "2026-11-06T11:05:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French bus carrying school children crashes, killing 2",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T10:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
+      "published_date": "2026-11-06T10:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Halle Without Us': Immigrant shopkeepers strike against far right in Saxony-Anhalt",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261106/halle-without-us-immigrant-shopkeepers-strike-against-far-right-in-saxony-anhalt",
+      "published_date": "2026-11-06T08:03:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261106/today-in-germany-a-roundup-of-the-latest-news-on-friday-147",
+      "published_date": "2026-11-06T07:27:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia has banished the monsters from Belgrade – it was, and still is, a truly wonderful revolution | Barbi Marković",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/serbia-banished-monsters-belgrade-student-list-milosevic-regime",
+      "published_date": "2026-11-06T05:00:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Prozess in Düsseldorf: «Königreich Deutschland»: Prozess startet",
@@ -505,104 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
       "published_date": "2026-11-05T17:21:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of stalled and unresolved cases and investigations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/after-the-landslide-victory-of-the-students-list-serbia-s-judiciary-springs-into-life-after-years-of-stalled-and-unresolved-cases-and-investigations/a-79868652?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of stalled and unresolved cases and investigations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/after-the-landslide-victory-of-the-students-list-serbia-s-judiciary-springs-into-life-after-years-of-stalled-and-unresolved-cases-and-investigations/a-79868652?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-05T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrests and investigations as Serbia begins post-election clean-up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrests and investigations as Serbia begins post-election clean-up",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-05T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s Gen Z protest riots spark debate on integration and bias",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-gen-z-protest-riots-spark-debate-on-integration-and-bias/a-79868497?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-05T16:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s Gen Z protest riots spark debate on integration and bias",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-s-gen-z-protest-riots-spark-debate-on-integration-and-bias/a-79868497?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T16:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
-      "published_date": "2026-11-05T13:36:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What can Britain learn from backlash to Dutch slavery apology?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/what-can-britain-learn-dutch-slavery-apology",
-      "published_date": "2026-11-05T12:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German politician found dead in Berlin hotel",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261105/german-politician-found-dead-in-berlin-hotel",
-      "published_date": "2026-11-05T11:55:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Thursday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261105/today-in-germany-a-roundup-of-the-latest-news-on-thursday-143",
-      "published_date": "2026-11-05T07:34:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Czech government's new culture war assault on press freedom shows the Maga spirit is still alive in Europe | Jan Bělíček",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe",
-      "published_date": "2026-11-05T05:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
-      "published_date": "2026-11-05T00:53:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democrats take House and Senate from Republicans in US midterm rout",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T23:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Dortmund gewinnt gegen Betis Sevilla, Leipzig unterliegt ManCity",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/sport/2026-11/champions-league-dortmund-sevilla-leipzig-manchester",
-      "published_date": "2026-11-04T22:18:41+00:00",
       "category": "Local Events"
     }
   ]
