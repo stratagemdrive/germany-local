@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-05T18:26:47.167452+00:00",
+  "last_updated": "2026-11-06T02:58:52.142885+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundespraesident-nachfolge-ilse-aigner-friedrich-merz-cdu-csu-kritik-roderich-kiesewetter",
+      "published_date": "2026-11-06T02:20:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tabaksteuer: Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/tabaksteuer-erhoehung-bundestag-gesetz-finanzausgleich",
+      "published_date": "2026-11-05T23:58:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tierschutz: Bundestag beschließt Videoüberwachung für Schlachthöfe",
       "source": "ZEIT Online",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK's King Charles III decries 'monstrous injustice' of slave trade",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-03T18:08:00+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+      "published_date": "2026-11-06T02:11:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/us-democracy-donald-trump-europe-trust",
-      "published_date": "2026-11-03T18:07:14+00:00",
-      "category": "Diplomacy"
+      "title": "Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland",
+      "published_date": "2026-11-06T01:58:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-05T23:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Donald Trump kündigt »großes Abkommen« über Europa an",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-11-05T23:31:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-05T19:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-05T19:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-05T18:55:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/ukraine-war-briefing-zelenskyy-awards-melania-trump-national-honour-for-role-in-brokering-oleshky-truce",
-      "published_date": "2026-11-05T02:11:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T12:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says 'largely true' Iran war led to Republicans midterm loss",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T12:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
-      "published_date": "2026-11-04T10:58:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
-      "published_date": "2026-11-04T06:00:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Kyiv, hackers sent fake alerts about a nuclear apocalypse. We hardly noticed | Diana Berg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/in-kyiv-hackers-sent-fake-alerts-about-a-nuclear-apocalypse-we-hardly-noticed",
-      "published_date": "2026-11-04T05:00:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-      "published_date": "2026-11-04T01:31:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Rare Renaissance masterpiece hidden for 70 years could fetch £5m at auction",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/nov/05/rare-renaissance-masterpiece-painting-could-fetch-5m-at-auction",
@@ -324,6 +324,13 @@
       "url": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
       "published_date": "2026-10-30T09:29:33+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Asian stocks slump after US tech rout amid AI jitters",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T02:41:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "France: More than 600,000 protest as anger grows over cost of living",
@@ -459,11 +466,25 @@
       "category": "Economy"
     },
     {
-      "title": "Will renewed conflict derail Ethiopia's economic growth?",
+      "title": "Prozess in Düsseldorf: «Königreich Deutschland»: Prozess startet",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/06/koenigreich-deutschland-prozess-startet",
+      "published_date": "2026-11-06T02:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+      "published_date": "2026-11-05T20:52:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gavin Newsom commutes sentences of all death row inmates in California",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-02T11:19:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-05T20:04:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Auf A2 bei Hannover: Unfall mit gestohlenem Sportwagen bei Flucht vor Polizei",
@@ -497,6 +518,20 @@
       "title": "After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of stalled and unresolved cases and investigations",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/after-the-landslide-victory-of-the-students-list-serbia-s-judiciary-springs-into-life-after-years-of-stalled-and-unresolved-cases-and-investigations/a-79868652?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-05T17:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrests and investigations as Serbia begins post-election clean-up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-05T17:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrests and investigations as Serbia begins post-election clean-up",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-11-05T17:00:00+00:00",
       "category": "Local Events"
     },
@@ -568,41 +603,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/sport/2026-11/champions-league-dortmund-sevilla-leipzig-manchester",
       "published_date": "2026-11-04T22:18:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-04T21:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T21:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia detains police officers over alleged use of force against protesters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
-      "published_date": "2026-11-04T20:42:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Examining viral narratives after the US midterm elections",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T18:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Both sides of the Atlantic sense more hope: voters are drawn to the ‘politics of love’ | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
-      "published_date": "2026-11-04T18:35:18+00:00",
       "category": "Local Events"
     }
   ]
