@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-07T02:28:22.929238+00:00",
-  "story_count": 89,
+  "last_updated": "2026-11-07T16:42:22.454718+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+      "published_date": "2026-11-07T15:30:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T14:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+      "published_date": "2026-11-07T09:15:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T04:44:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bundespräsidentenwahl: Merz schweigt weiter zu Aigner",
       "source": "ZEIT Online",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Merz sceptical Trump will change tack after US mid-term vote",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261105/merz-sceptical-trump-will-change-tack-after-us-mid-term-vote",
-      "published_date": "2026-11-05T08:02:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pflegereform: Bundestag debattiert über Pflegereform",
+      "title": "Soziale Netzwerke: Social Media wird unsozial. Und jetzt?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/pflegereform-pflegeversicherung-bundestag-beitrag-2026-expertenkommission",
-      "published_date": "2026-11-05T02:26:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/zeit-wissen/2026/06/soziale-netzwerke-digitalisierung-entwicklung-facebook-plattformen",
+      "published_date": "2026-11-07T16:15:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T20:27:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T09:21:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran: Schah-Sohn Pahlavi drängt EU zu mehr Druck auf Teheran",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/04/schah-sohn-pahlavi-draengt-eu-zu-mehr-druck-auf-teheran",
-      "published_date": "2026-11-04T17:34:05+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-07T09:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Frankfurt braces for Iran protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-07T09:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Frankfurt braces for Iran protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T09:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
+      "published_date": "2026-11-07T05:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/07/how-injured-ukrainian-soldier-rescued-by-drone",
+      "published_date": "2026-11-07T05:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion",
+      "published_date": "2026-11-07T03:12:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T23:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Donald Trump kündigt »großes Abkommen« über Europa an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-11-05T23:31:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T19:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T19:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T18:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "published_date": "2026-11-05T18:17:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainekrieg: Melania Trump empfängt russischen und ukrainischen Vertreter",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/melania-trump-waffenruhe-ukraine-oleschky-russland",
-      "published_date": "2026-11-05T18:10:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why have more than 30 European flights been hit by bomb threats this week?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer",
-      "published_date": "2026-11-05T17:36:43+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "published_date": "2026-11-07T13:03:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tesla to 'wind down' production of flop Cybertruck",
@@ -345,6 +352,20 @@
       "url": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-02T08:59:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Amid protests, France's rising debt costs threaten stability",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T08:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Amid protests, France's rising debt costs threaten stability",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-07T08:16:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dax: Dax fällt tief, US-Börsen erholen sich",
@@ -473,18 +494,116 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump's tariff policies remains",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T12:58:00+00:00",
-      "category": "Economy"
+      "title": "Fußball-Bundesliga: Stille nach Notarzteinsatz: Burkardts Hacke rettet Frankfurt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/07/stille-nach-notarzteinsatz-burkardts-hacke-rettet-frankfurt",
+      "published_date": "2026-11-07T16:36:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Commerce chief hopes for more stable US trade",
+      "title": "Bundesliga: Nmecha schießt Dortmund zum Pflichtsieg gegen Elversberg",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/07/nmecha-schiesst-dortmund-zum-pflichtsieg-gegen-elversberg",
+      "published_date": "2026-11-07T16:31:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "published_date": "2026-11-07T16:28:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland: At least 5 killed in shooting in Krakow, police say",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-commerce-chief-hopes-for-more-stable-us-trade/live-79854127?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-04T12:58:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T15:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-07T14:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T14:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-07T14:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T13:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court rules against Home Office in asylum seeker kidnapping case",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+      "published_date": "2026-11-07T13:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Zealand election too close to call with over 95% of votes counted",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T11:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany hopes to host world ice hockey championship — without Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-07T11:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany hopes to host world ice hockey championship — without Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T11:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France braces for new round of Yellow Vest, student protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T10:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bavaria's Aigner tipped to become Germany's first woman president",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261107/bavarias-aigner-tipped-to-become-germanys-first-woman-president",
+      "published_date": "2026-11-07T09:35:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T07:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it  | Luca Cesari",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked",
+      "published_date": "2026-11-07T07:00:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AfD-Verbotsverfahren: Hubig spricht sich erneut für Prüfung von AfD-Verbotsverfahren aus",
@@ -512,118 +631,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-11/06/schulze-afd-antraegen-zustimmen-wenn-es-dem-land-nuetzt",
       "published_date": "2026-11-06T17:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundespräsidentenwahl: Aigner soll Bundespräsidentin werden - CDU einig",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/06/unions-frauen-wollen-aigner-als-bundespraesidentin",
-      "published_date": "2026-11-06T16:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu",
-      "published_date": "2026-11-06T16:54:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T16:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-06T16:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T16:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Enjoy the moment': The German clubs limiting smartphones in stadiums",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261106/enjoy-the-moment-the-german-clubs-limiting-smartphones-in-stadiums",
-      "published_date": "2026-11-06T14:18:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T12:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acid spill in North Rhine-Westphalia disrupts traffic and closes schools",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261106/acid-spill-in-north-rhine-westphalia-disrupts-traffic-and-closes-schools",
-      "published_date": "2026-11-06T11:05:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French bus carrying school children crashes, killing 2",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T10:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
-      "published_date": "2026-11-06T10:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Halle Without Us': Immigrant shopkeepers strike against far right in Saxony-Anhalt",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261106/halle-without-us-immigrant-shopkeepers-strike-against-far-right-in-saxony-anhalt",
-      "published_date": "2026-11-06T08:03:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261106/today-in-germany-a-roundup-of-the-latest-news-on-friday-147",
-      "published_date": "2026-11-06T07:27:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia has banished the monsters from Belgrade – it was, and still is, a truly wonderful revolution | Barbi Marković",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/serbia-banished-monsters-belgrade-student-list-milosevic-regime",
-      "published_date": "2026-11-06T05:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prozess in Düsseldorf: «Königreich Deutschland»: Prozess startet",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/06/koenigreich-deutschland-prozess-startet",
-      "published_date": "2026-11-06T02:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
-      "published_date": "2026-11-05T20:52:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gavin Newsom commutes sentences of all death row inmates in California",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T20:04:00+00:00",
       "category": "Local Events"
     }
   ]
