@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-06T17:46:34.444427+00:00",
+  "last_updated": "2026-11-07T02:28:22.929238+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Bundespräsidentenwahl: Merz schweigt weiter zu Aigner",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/07/merz-schweigt-weiter-zu-aigner",
+      "published_date": "2026-11-07T00:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tankers carrying Russian diesel to the US change course",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T20:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ilse Aigner tipped by party allies as next German president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-06T18:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ilse Aigner tipped by party allies as next German president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T18:48:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Katastrophenschutz: EU stellt wegen El Niño Gelder für afrikanische Länder bereit",
       "source": "ZEIT Online",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pet passports set to be restored between the EU and the UK",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261104/pet-passports-set-to-be-restored-between-the-eu-and-the-uk",
-      "published_date": "2026-11-04T16:02:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU says Montenegro on track to become bloc's next member state by 2028",
+      "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-04T14:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PODCAST🎧:  What really happened at the Gen Z protests, new parcel fees and November events",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261104/podcast%f0%9f%8e%a7-what-really-happened-at-the-gen-z-protests-new-parcel-fees-and-november-events",
-      "published_date": "2026-11-04T09:40:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From the archive: The trials of Robert Habeck: is the world’s most powerful green politician doomed to fail? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/04/from-the-archive-the-trials-of-robert-habeck-is-the-worlds-most-powerful-green-politician-doomed-to-fail-podcast",
-      "published_date": "2026-11-04T05:00:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-06T17:47:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Stiefväter: War Ihr Stiefvater der bessere Vater?",
@@ -274,13 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer",
       "published_date": "2026-11-05T17:36:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia agreed to supply Iran with 90 helicopter missile launchers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/russia-agreed-to-supply-iran-90-helicopter-missile-launchers",
-      "published_date": "2026-11-05T15:10:55+00:00",
       "category": "Military"
     },
     {
@@ -487,6 +487,27 @@
       "category": "Economy"
     },
     {
+      "title": "AfD-Verbotsverfahren: Hubig spricht sich erneut für Prüfung von AfD-Verbotsverfahren aus",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/afd-verbotsverfahren-stefanie-hubig-spd-rechtsextremismus",
+      "published_date": "2026-11-07T01:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/07/hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen",
+      "published_date": "2026-11-07T00:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "published_date": "2026-11-06T18:51:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wie weiter nach der Wahl?: Schulze: AfD-Anträgen zustimmen, wenn es dem Land nützt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-11/06/schulze-afd-antraegen-zustimmen-wenn-es-dem-land-nuetzt",
@@ -603,27 +624,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-05T20:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Auf A2 bei Hannover: Unfall mit gestohlenem Sportwagen bei Flucht vor Polizei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/05/unfall-mit-gestohlenem-sportwagen-bei-flucht-vor-polizei",
-      "published_date": "2026-11-05T18:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARD-»Deutschlandtrend«: Große Mehrheit hat Verständnis für Proteste der Generation Z",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/proteste-generation-z-ard-deutschlandtrend-umfrage",
-      "published_date": "2026-11-05T17:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters march in cities across France as unions stage general strike",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-      "published_date": "2026-11-05T17:21:45+00:00",
       "category": "Local Events"
     }
   ]
