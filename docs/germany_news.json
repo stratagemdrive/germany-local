@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-08T01:57:29.997387+00:00",
-  "story_count": 90,
+  "last_updated": "2026-11-08T16:53:09.246488+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+      "published_date": "2026-11-08T11:00:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T09:02:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli president tasks Gadi Eisenkot with forming government",
       "source": "Deutsche Welle",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-      "published_date": "2026-11-05T17:57:54+00:00",
-      "category": "Diplomacy"
+      "title": "Iran: US strikes ship after Hormuz blockade breach",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T13:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+      "title": "Gaza: Rains add misery to humanitarian catastrophe",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T10:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us?  | Simon Tisdall",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-      "published_date": "2026-11-05T16:58:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
+      "published_date": "2026-11-08T06:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Max’s journey to the grave 113 years after death, via a doctor fleeing murder charges and an Australian museum",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T14:00:00+00:00",
-      "category": "Military"
+      "title": "Who’s who at Cop31: key players at the climate talks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+      "published_date": "2026-11-08T11:48:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-06T14:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "For people in Iran, a constant threat of war and dearth of information",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T12:56:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T05:55:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
@@ -494,9 +508,72 @@
       "category": "Economy"
     },
     {
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "published_date": "2026-11-08T14:49:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CCTV footage shows police shootout after Kraków attack – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/nov/08/cctv-footage-shows-police-shootout-after-krakow-attack-video",
+      "published_date": "2026-11-08T14:09:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 21 killed after migrant boat sinks off Senegal",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T13:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+      "published_date": "2026-11-08T11:50:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
+      "published_date": "2026-11-08T11:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/election-brazil-serbia-israel-and-us-resilience-democracy-grassroots-activism-authoritarianism",
+      "published_date": "2026-11-08T10:00:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland begins two days of mourning over Krakow shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T09:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T07:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Poland: Gunman kills 6 in Krakow main square",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T21:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland: Gunman kills 6 in Krakow main square, police say",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-07T21:34:00+00:00",
       "category": "Local Events"
     },
@@ -568,69 +645,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-11-07T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T13:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "published_date": "2026-11-07T13:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Zealand election too close to call with over 95% of votes counted",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T11:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany hopes to host world ice hockey championship — without Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-07T11:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany hopes to host world ice hockey championship — without Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T11:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for new round of Yellow Vest, student protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T10:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavaria's Aigner tipped to become Germany's first woman president",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261107/bavarias-aigner-tipped-to-become-germanys-first-woman-president",
-      "published_date": "2026-11-07T09:35:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T07:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it  | Luca Cesari",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked",
-      "published_date": "2026-11-07T07:00:06+00:00",
       "category": "Local Events"
     }
   ]
