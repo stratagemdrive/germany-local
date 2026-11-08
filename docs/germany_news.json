@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-07T16:42:22.454718+00:00",
+  "last_updated": "2026-11-08T01:57:29.997387+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Israeli president tasks Gadi Eisenkot with forming government",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T19:56:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia's selective prosecution: A threat to EU relations?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T18:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia's selective prosecution: A threat to EU relations?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-07T18:36:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
       "source": "The Guardian",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pound hits highest level since its crash after 2016 Brexit vote",
+      "title": "Max’s journey to the grave 113 years after death, via a doctor fleeing murder charges and an Australian museum",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
-      "published_date": "2026-11-05T15:20:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/max-the-skeleton-buried-adelaide-south-australia-museum",
+      "published_date": "2026-11-07T23:00:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU court says CBD foods need approval for sale before they can be certified organic",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-court-says-cbd-foods-need-approval-for-sale-before-they-can-be-certified-organic/a-79865773?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T14:51:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "North Korea tells EU to 'mind its own business' on human rights",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T11:14:00+00:00",
-      "category": "Diplomacy"
+      "title": "Polen: Sechs Tote und mehrere Verletzte nach Schüssen in Kraków",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/fuenf-tote-und-mehrere-verletzte-nach-schuessen-in-krakau",
+      "published_date": "2026-11-07T21:23:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Soziale Netzwerke: Social Media wird unsozial. Und jetzt?",
@@ -175,6 +189,20 @@
       "title": "Germany news: Frankfurt braces for Iran protests",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T09:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-07T09:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-07T09:08:00+00:00",
       "category": "Military"
     },
@@ -253,34 +281,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-06T12:56:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is behind the bomb hoaxes hitting flights across Europe?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261106/who-is-behind-the-bomb-hoaxes-hitting-flights-across-europe",
-      "published_date": "2026-11-06T09:21:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
-      "published_date": "2026-11-06T06:43:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
-      "published_date": "2026-11-06T02:11:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland",
-      "published_date": "2026-11-06T01:58:23+00:00",
       "category": "Military"
     },
     {
@@ -494,6 +494,34 @@
       "category": "Economy"
     },
     {
+      "title": "Poland: Gunman kills 6 in Krakow main square",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T21:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "published_date": "2026-11-07T21:19:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France sees new round of Yellow Vest, student protests",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T19:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-07T18:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Fußball-Bundesliga: Stille nach Notarzteinsatz: Burkardts Hacke rettet Frankfurt",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-11/07/stille-nach-notarzteinsatz-burkardts-hacke-rettet-frankfurt",
@@ -603,34 +631,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked",
       "published_date": "2026-11-07T07:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AfD-Verbotsverfahren: Hubig spricht sich erneut für Prüfung von AfD-Verbotsverfahren aus",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/afd-verbotsverfahren-stefanie-hubig-spd-rechtsextremismus",
-      "published_date": "2026-11-07T01:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/07/hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen",
-      "published_date": "2026-11-07T00:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-      "published_date": "2026-11-06T18:51:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wie weiter nach der Wahl?: Schulze: AfD-Anträgen zustimmen, wenn es dem Land nützt",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/06/schulze-afd-antraegen-zustimmen-wenn-es-dem-land-nuetzt",
-      "published_date": "2026-11-06T17:00:07+00:00",
       "category": "Local Events"
     }
   ]
