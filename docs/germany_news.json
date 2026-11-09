@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-08T16:53:09.246488+00:00",
-  "story_count": 92,
+  "last_updated": "2026-11-09T02:14:32.619914+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Germany news: Merz to nominate Aigner for president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-08T19:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Merz to nominate Aigner for president",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T19:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "published_date": "2026-11-08T18:20:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
       "source": "The Guardian",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundespraesident-nachfolge-ilse-aigner-friedrich-merz-cdu-csu-kritik-roderich-kiesewetter",
-      "published_date": "2026-11-06T02:20:17+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
+      "published_date": "2026-11-09T01:44:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tabaksteuer: Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "title": "«Koalition der Willigen»: Was es mit dem Manöver der Ukraine-Koalition auf sich hat",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/tabaksteuer-erhoehung-bundestag-gesetz-finanzausgleich",
-      "published_date": "2026-11-05T23:58:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tierschutz: Bundestag beschließt Videoüberwachung für Schlachthöfe",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/videoueberwachung-schlachthoefe-tierversuche-gesetz-alois-rainer",
-      "published_date": "2026-11-05T17:59:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/news/2026-11/09/was-es-mit-dem-manoever-der-ukraine-koalition-auf-sich-hat",
+      "published_date": "2026-11-09T00:11:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran: US strikes ship after Hormuz blockade breach",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-      "published_date": "2026-11-06T16:26:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact check: Three viral Iran war posts debunked",
+      "title": "South Africa elections: ANC marks its worst-ever performance",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T15:29:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T17:35:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Who’s who at Cop31: key players at the climate talks",
@@ -366,6 +373,13 @@
       "url": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-02T08:59:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-09T01:35:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Amid protests, France's rising debt costs threaten stability",
@@ -501,11 +515,25 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump's tariff policies remains",
+      "title": "Bundeshaushalt: Thorsten Frei lehnt Einführung der geplanten Plastiksteuer ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/plastiksteuer-cdu-spd-thorsten-frei-matthias-miersch-streit",
+      "published_date": "2026-11-08T23:13:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Many killed after migrant boat sinks off Senegal",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-04T12:58:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-08T19:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "published_date": "2026-11-08T16:50:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two police officers hailed as heroes for confronting Kraków gunman",
@@ -624,27 +652,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-07T15:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-07T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T14:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-07T14:38:00+00:00",
       "category": "Local Events"
     }
   ]
