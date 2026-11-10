@@ -1,8 +1,64 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-10T04:25:27.021927+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-10T18:23:53.719838+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+      "published_date": "2026-11-10T17:52:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+      "published_date": "2026-11-10T17:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+      "published_date": "2026-11-10T16:44:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T15:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T15:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan watches for signs of change in Trump's foreign policy priorities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T13:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Ilse Aigner meets parties at Bundestag",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T08:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261110/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-148",
+      "published_date": "2026-11-10T07:37:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
       "source": "The Guardian",
@@ -88,60 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany: Chancellor Merz to nominate Aigner for president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-08T19:43:00+00:00",
-      "category": "Diplomacy"
+      "title": "Drohneneinschlag in Tschernobyl: Staaten sagen 300 Millionen Euro für Reparatur an Tschernobyl-Hülle zu",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/tschernobyl-schutzhuelle-atomruine-reparatur-drohnenangriff",
+      "published_date": "2026-11-10T18:15:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany: Chancellor Merz to nominate Aigner for president",
+      "title": "Victims of Nazi war in Poland call on Germany for support",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T19:43:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-10T17:53:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "title": "Victims of Nazi war in Poland call on Germany for support",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T17:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Victims of Nazi war in Poland call on Germany for support",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T17:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-      "published_date": "2026-11-08T18:20:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+      "published_date": "2026-11-10T17:26:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-      "published_date": "2026-11-08T11:00:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+      "published_date": "2026-11-10T16:59:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+      "title": "DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T09:02:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T09:43:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli president tasks Gadi Eisenkot with forming government",
+      "title": "US, Russia and Ukraine start talks in Abu Dhabi",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T19:56:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T07:09:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia's selective prosecution: A threat to EU relations?",
+      "title": "US, Russia and Ukraine start talks in Abu Dhabi",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T18:36:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T07:09:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia's selective prosecution: A threat to EU relations?",
+      "title": "India news: New Delhi ready to mediate Black Sea food corridors, says Ukraine's Zelenskyy",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-07T18:36:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/india-news-new-delhi-ready-to-mediate-black-sea-food-corridors-says-ukraine-s-zelenskyy/live-79906023?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T06:52:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Drohnentraining: Bundeswehr trainiert Drohnenpiloten für mögliche Einsätze",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Gaza: Rains add misery to humanitarian catastrophe",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T10:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us?  | Simon Tisdall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
-      "published_date": "2026-11-08T06:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Max’s journey to the grave 113 years after death, via a doctor fleeing murder charges and an Australian museum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/max-the-skeleton-buried-adelaide-south-australia-museum",
-      "published_date": "2026-11-07T23:00:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polen: Sechs Tote und mehrere Verletzte nach Schüssen in Kraków",
+      "title": "COP in Antalya: Greta Thunberg bezeichnet Klimakonferenzen als »Greenwashing-Zirkusse«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/fuenf-tote-und-mehrere-verletzte-nach-schuessen-in-krakau",
-      "published_date": "2026-11-07T21:23:01+00:00",
-      "category": "Military"
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-11/greta-thunberg-cop-klimakonferenzen-antalya-greenwashing",
+      "published_date": "2026-11-10T17:25:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Soziale Netzwerke: Social Media wird unsozial. Und jetzt?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/zeit-wissen/2026/06/soziale-netzwerke-digitalisierung-entwicklung-facebook-plattformen",
-      "published_date": "2026-11-07T16:15:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "title": "Why electrification is the climate game changer we need",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T09:21:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T08:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "title": "Will Australia push for fossil fuel exit at UN talks?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-07T09:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Frankfurt braces for Iran protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-07T09:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Frankfurt braces for Iran protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T09:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-07T09:08:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/will-australia-push-for-fossil-fuel-exit-at-un-talks/a-79782066?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T07:43:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran war oil shock drives dip in global emissions, study shows",
@@ -394,6 +415,20 @@
       "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
       "published_date": "2026-11-04T12:00:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Is it fair to give EU students discounted university fees in the UK? | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/nov/10/is-it-fair-to-give-eu-students-discounted-university-fees-in-the-uk",
+      "published_date": "2026-11-10T17:52:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Plenardebatte: Landtag streitet über Haushalt und Kurs für 2027",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/10/rhein-wir-brauchen-kraft-der-politischen-mitte",
+      "published_date": "2026-11-10T17:08:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
@@ -522,18 +557,109 @@
       "category": "Economy"
     },
     {
-      "title": "Germany news: Deportations on the decline",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-05T09:31:00+00:00",
-      "category": "Economy"
+      "title": "Personalien: AfD scheitert abermals bei Wahl zum Landtags-Vizepräsidenten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/10/afd-scheitert-abermals-bei-wahl-zum-landtags-vizepraesidenten",
+      "published_date": "2026-11-10T18:12:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany news: Deportations on the decline",
+      "title": "Schüsse in Hamburg: Am Ende fanden sie ihn im Hotel der Elbphilharmonie",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/hamburg/2026-11/schuesse-hamburg-hafencity-polizei-ermittlungen",
+      "published_date": "2026-11-10T17:54:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: Berliner Linke-Führungsriege will Emde aus Fraktion werfen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/10/berliner-linke-abgeordnete-emde-soll-fraktion-verlassen",
+      "published_date": "2026-11-10T17:45:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Children taken from school': Left Party MP slams German deportations",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261110/children-taken-from-school-left-party-mp-slams-german-deportations",
+      "published_date": "2026-11-10T16:10:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German left-wing parties to form state government in Mecklenburg-Western Pomerania",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261110/german-left-wing-parties-to-form-state-government-in-mecklenburg-western-pomerania",
+      "published_date": "2026-11-10T15:50:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-05T09:31:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T15:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T11:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T11:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
+      "published_date": "2026-11-10T11:50:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s response to protests is making Islamophobia worse. But ministers won’t even utter the word | Kamélia Ouaissa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/france-protests-response-islamophobia-far-right-hate-speech",
+      "published_date": "2026-11-10T11:22:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Borussia Dortmund's Felix Nmecha and the question of religion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-10T11:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Borussia Dortmund's Felix Nmecha and the question of religion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T11:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: Police officer killed in Oviedo after neighborhood dispute escalates with explosion",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T10:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T10:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T10:02:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Schusswaffenkriminalität: Großeinsatz in Berlin: Durchsuchung auch bei «Hells Angels»",
@@ -568,111 +694,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/news/2026-11/09/rb-leipzig-verliert-auch-in-koeln",
       "published_date": "2026-11-09T19:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd",
-      "published_date": "2026-11-09T19:08:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
-      "published_date": "2026-11-09T17:42:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hometown glory? Norwegian library unveils £100k history book donated by Erling Haaland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/norwegian-library-unveils-viking-history-book-donated-by-erling-haaland",
-      "published_date": "2026-11-09T16:40:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-      "published_date": "2026-11-09T15:52:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police officers on trial over beating of black man they accused of not wearing Covid mask",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
-      "published_date": "2026-11-09T15:40:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dortmund police attacked as crowd storms kebab shop for €1 doner",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner",
-      "published_date": "2026-11-09T15:23:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "37 years after fall of Berlin Wall: How divided are Germans?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-09T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "37 years after fall of Berlin Wall: How divided are Germans?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump is humiliated and angry – and Europe is where he’s free to lash out | Nathalie Tocci",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/donald-trump-humiliated-angry-europe",
-      "published_date": "2026-11-09T13:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: CDU names Ilse Aigner as candidate for president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-09T12:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: CDU names Ilse Aigner as candidate for president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T12:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Ilse Aigner, leading candidate for Germany's next president?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-ilse-aigner-leading-candidate-for-germany-s-next-president/a-79898848?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-09T11:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Ilse Aigner, leading candidate for Germany's next president?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/who-is-ilse-aigner-leading-candidate-for-germany-s-next-president/a-79898848?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T11:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
-      "published_date": "2026-11-09T08:04:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Germany marks fateful date of November 9",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-09T07:43:00+00:00",
       "category": "Local Events"
     }
   ]
