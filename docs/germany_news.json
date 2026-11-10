@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-09T21:14:45.163878+00:00",
-  "story_count": 94,
+  "last_updated": "2026-11-10T04:25:27.021927+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
+      "published_date": "2026-11-10T01:51:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tabakwaren: Zigaretten-Freimenge aus EU-Ausland sinkt vorerst nicht",
       "source": "ZEIT Online",
@@ -137,16 +144,44 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+      "title": "Drohnentraining: Bundeswehr trainiert Drohnenpiloten für mögliche Einsätze",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/10/bundeswehr-trainiert-drohnenpiloten-fuer-moegliche-einsaetze",
+      "published_date": "2026-11-10T04:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Ukrainians who made it out of their Russian-occupied city – podcast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-      "published_date": "2026-11-07T15:30:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/audio/2026/nov/10/the-ukrainians-who-made-it-out-of-their-russian-occupied-city-podcast",
+      "published_date": "2026-11-10T03:00:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-09T23:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-09T23:46:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-09T20:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-09T20:15:00+00:00",
       "category": "Military"
     },
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
+      "title": "Iran war oil shock drives dip in global emissions, study shows",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T09:08:00+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T03:58:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+      "title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
-      "published_date": "2026-11-07T05:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/07/how-injured-ukrainian-soldier-rescued-by-drone",
-      "published_date": "2026-11-07T05:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion",
-      "published_date": "2026-11-07T03:12:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T17:47:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/video/2026/nov/10/australias-chris-bowen-tells-cop31-the-world-can-still-limit-global-heating-to-15c-video",
+      "published_date": "2026-11-10T02:23:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
