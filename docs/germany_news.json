@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-10T18:23:53.719838+00:00",
-  "story_count": 99,
+  "last_updated": "2026-11-11T02:25:21.379060+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj zufrieden mit Fortschritt bei Friedensverhandlungen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published_date": "2026-11-11T02:10:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
+      "published_date": "2026-11-11T01:08:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
       "source": "The Guardian",
@@ -49,6 +63,13 @@
       "title": "Germany news: Ilse Aigner meets parties at Bundestag",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T08:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany news: Ilse Aigner meets parties at Bundestag",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-11-10T08:36:00+00:00",
       "category": "Diplomacy"
     },
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261109/today-in-germany-a-roundup-of-the-latest-news-on-monday-145",
-      "published_date": "2026-11-09T07:33:15+00:00",
-      "category": "Diplomacy"
+      "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T02:04:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz to nominate Aigner for president",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-08T19:43:00+00:00",
-      "category": "Diplomacy"
+      "title": "Spionage: Bundeswehr stoppt Einsatz chinesischer Drohnen aus Sicherheitsbedenken",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundeswehr-drohnenverbot-china-dji-sicherheit",
+      "published_date": "2026-11-11T00:49:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany news: Merz to nominate Aigner for president",
+      "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T19:43:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T19:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T19:35:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Drohneneinschlag in Tschernobyl: Staaten sagen 300 Millionen Euro für Reparatur an Tschernobyl-Hülle zu",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+      "title": "UN chief urges Cop31 hosts Turkey and Australia to turn fossil fuel promises into action",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-      "published_date": "2026-11-09T14:17:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
-      "published_date": "2026-11-09T01:44:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "«Koalition der Willigen»: Was es mit dem Manöver der Ukraine-Koalition auf sich hat",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/was-es-mit-dem-manoever-der-ukraine-koalition-auf-sich-hat",
-      "published_date": "2026-11-09T00:11:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: US strikes ship after Hormuz blockade breach",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T13:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/nov/10/un-antonio-guterres-cop31-fossil-fuels-turkey-australia",
+      "published_date": "2026-11-10T18:49:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "COP in Antalya: Greta Thunberg bezeichnet Klimakonferenzen als »Greenwashing-Zirkusse«",
@@ -417,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Inflation in Deutschland: Geringere Inflation durch Tankrabatt im Oktober",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/inflation-frankreich-tankrabatt-energiesteuer-benzin",
+      "published_date": "2026-11-11T01:45:06+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Is it fair to give EU students discounted university fees in the UK? | Letters",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/education/2026/nov/10/is-it-fair-to-give-eu-students-discounted-university-fees-in-the-uk",
@@ -550,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham says long-awaited 10-year plan may be delayed until January – as it happened",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-      "published_date": "2026-11-05T17:00:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "published_date": "2026-11-11T01:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T23:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T20:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
+      "published_date": "2026-11-10T20:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-10T19:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-10T19:21:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Personalien: AfD scheitert abermals bei Wahl zum Landtags-Vizepräsidenten",
@@ -652,48 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-10T10:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-10T10:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schusswaffenkriminalität: Großeinsatz in Berlin: Durchsuchung auch bei «Hells Angels»",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/durchsuchung-bei-hells-angels-grosseinsatz-in-berlin",
-      "published_date": "2026-11-09T21:03:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundespräsidentenwahl: NRW-CDU nominiert Günther Jauch für Bundesversammlung",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/nrw-cdu-nominiert-guenther-jauch-fuer-bundesversammlung",
-      "published_date": "2026-11-09T21:01:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gedenken: Berlin erinnert an die Opfer der Pogromnacht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/berlin-erinnert-an-die-opfer-der-pogromnacht",
-      "published_date": "2026-11-09T20:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-      "published_date": "2026-11-09T19:40:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frauenfußball: RB Leipzig verliert auch in Köln",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/rb-leipzig-verliert-auch-in-koeln",
-      "published_date": "2026-11-09T19:30:09+00:00",
       "category": "Local Events"
     }
   ]
