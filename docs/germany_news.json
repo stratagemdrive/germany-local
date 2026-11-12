@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-12T03:29:52.402199+00:00",
+  "last_updated": "2026-11-12T18:39:29.496942+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kapitalmärkte: EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/12/eu-parlament-stimmt-gegen-neue-schutzregeln-fuer-kleinanleger",
+      "published_date": "2026-11-12T17:51:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bundestag: Bundestag gibt Sicherheitsbehörden neue Cyberabwehr-Befugnisse",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/cyberabwehr-gesetz-bsi-bundespolizei-bka",
+      "published_date": "2026-11-12T17:47:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Finland bars Russian athletes from entering country over Ukraine war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+      "published_date": "2026-11-12T17:23:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can the EU make it harder to trick consumers online?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T17:19:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can the EU make it harder to trick consumers online?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T17:19:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+      "published_date": "2026-11-12T17:17:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
+      "published_date": "2026-11-12T16:30:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Travel to Germany: How to check your EES 90-day allowance and what to do if it’s wrong",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261112/travel-to-germany-how-to-check-your-ees-90-day-allowance-and-what-to-do-if-its-wrong",
+      "published_date": "2026-11-12T12:13:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine peace talks: US envoys meet with Putin at Kremlin",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T06:35:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bundeshaushalt 2027: Friedrich Merz läuft wieder einmal gegen die Wand",
       "source": "ZEIT Online",
@@ -81,67 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran denies role in fridge hack, France summons ambassador",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-10T15:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan watches for signs of change in Trump's foreign policy priorities",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-10T13:31:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Ilse Aigner meets parties at Bundestag",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-10T08:36:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany news: Ilse Aigner meets parties at Bundestag",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-10T08:36:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261110/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-148",
-      "published_date": "2026-11-10T07:37:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
+      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
-      "published_date": "2026-11-10T01:51:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "published_date": "2026-11-12T17:26:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tabakwaren: Zigaretten-Freimenge aus EU-Ausland sinkt vorerst nicht",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/zigaretten-freimenge-aus-eu-ausland-koennte-deutlich-sinken",
-      "published_date": "2026-11-09T20:46:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abwehrkampf gegen Russland: Merz will bei EU-Gipfel über Ukraine-Hilfe sprechen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/09/merz-will-bei-eu-gipfel-ueber-ukraine-hilfe-sprechen",
-      "published_date": "2026-11-09T20:12:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French officials blame Iran for supermarket fridge hacking",
+      "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T18:33:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T16:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T16:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
+      "published_date": "2026-11-12T16:14:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What does the US midterm result mean for German defence and trade?",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261112/what-does-the-us-mid-term-result-mean-for-german-defence-and-trade",
+      "published_date": "2026-11-12T15:25:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German stock exchange hits record high on AI optimism",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261112/german-stock-exchange-hits-record-high-on-ai-optimism",
+      "published_date": "2026-11-12T13:38:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T13:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump won't save Ukraine. But Marine Le Pen's betrayal could be worse | Mujtaba Rahman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/donald-trump-ukraine-marine-le-pen-europe-france",
+      "published_date": "2026-11-12T13:22:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bundeswehr study exposes widespread sexual harassment in German military",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-12T08:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bundeswehr study exposes widespread sexual harassment in German military",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T08:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Intelligent women get less help at work, study finds",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T07:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Where the US's war with Iran stands after the midterms",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T05:50:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Dunkelfeldstudie: Grüne fordern Erhebung zu sexualisiertem Fehlverhalten in der Polizei",
@@ -200,90 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Germany news: Only 1/3 of Germans satisfied with state of democracy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T11:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany news: Only 1/3 of Germans satisfied with state of democracy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-11T11:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran classes Argentina navy, air force as 'terrorist organizations'",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T11:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany reportedly bans Chinese drones at military bases over security concerns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security",
-      "published_date": "2026-11-11T09:41:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T02:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spionage: Bundeswehr stoppt Einsatz chinesischer Drohnen aus Sicherheitsbedenken",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundeswehr-drohnenverbot-china-dji-sicherheit",
-      "published_date": "2026-11-11T00:49:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-10T19:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-10T19:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drohneneinschlag in Tschernobyl: Staaten sagen 300 Millionen Euro für Reparatur an Tschernobyl-Hülle zu",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/tschernobyl-schutzhuelle-atomruine-reparatur-drohnenangriff",
-      "published_date": "2026-11-10T18:15:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Victims of Nazi war in Poland call on Germany for support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-10T17:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Victims of Nazi war in Poland call on Germany for support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-10T17:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Victims of Nazi war in Poland call on Germany for support",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-10T17:53:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
@@ -315,6 +315,13 @@
       "title": "Germany slips in climate protection rankings as other countries make gains",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T06:41:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany slips in climate protection rankings as other countries make gains",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-11-11T06:41:00+00:00",
       "category": "Energy"
     },
@@ -417,11 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Tesla to 'wind down' production of flop Cybertruck",
+      "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+      "published_date": "2026-11-12T17:58:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Leitindex: Optimismus an der Börse - Dax erstmals über 27.000 Punkten",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/12/dax-erstmals-ueber-27-000-punkten",
+      "published_date": "2026-11-12T17:33:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mercedes-Benz halts all further investment at German facilities",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T17:10:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-12T16:59:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mercedes-Benz halts all further investment at German facilities",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T16:59:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
+      "published_date": "2026-11-12T13:46:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany postpones sugar tax and scraps electricity tax cut ahead of budget talks",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261112/germany-postpones-sugar-tax-and-scraps-electricity-tax-cut-ahead-of-budget-talks",
+      "published_date": "2026-11-12T09:31:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Australian teen found alive after six days in the bush",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T09:14:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261112/today-in-germany-a-roundup-of-the-latest-news-on-thursday-144",
+      "published_date": "2026-11-12T07:32:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "VW scraps production modernization plan citing tough financial straits",
@@ -449,6 +505,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
       "published_date": "2026-11-11T17:40:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is AIIB's complaint mechanism failing affected communities?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T15:12:00+00:00",
       "category": "Economy"
     },
     {
@@ -501,67 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "India’s demonetization: 10 years on, promises remain unfulfilled",
+      "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T16:21:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T18:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "German exports beat forecasts as EU demand grows",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261109/german-exports-beat-forecasts-as-eu-demand-grows",
-      "published_date": "2026-11-09T15:07:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "LISTED: The major German companies cutting jobs at the end of 2026",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261109/listed-the-major-german-companies-cutting-jobs-at-the-end-of-2026",
-      "published_date": "2026-11-09T13:51:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T01:35:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T18:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Amid protests, France's rising debt costs threaten stability",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-07T08:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Amid protests, France's rising debt costs threaten stability",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-07T08:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Dax: Dax fällt tief, US-Börsen erholen sich",
+      "title": "Bundeshaushalt: CDU-Vorschlag zu Stromsteuersenkung sorgt für Streit mit CSU",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/dax-boerse-rekord-us-zwischenwahlen-ki-regulierung",
-      "published_date": "2026-11-06T17:43:28+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/wirtschaft/2026-11/mathias-middelberg-cdu-stromsteuer-muetterrente",
+      "published_date": "2026-11-12T18:22:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Stadtentwicklung: 60.000 Euro - Wurzen gewinnt Innenstadt-Wettbewerb",
+      "title": "Koalition in Berlin: Scheitert eine rot-grün-rote Koalition an dieser Frau?",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/06/60-000-euro-wurzen-gewinnt-innenstadt-wettbewerb",
-      "published_date": "2026-11-06T16:48:04+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/koalition-berlin-die-linke-die-gruenen-vanessa-emde",
+      "published_date": "2026-11-12T17:32:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Like the Danes, we need to pay for the society we want | Letters",
+      "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
-      "published_date": "2026-11-06T16:37:15+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+      "published_date": "2026-11-12T16:39:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary eases abortion restrictions in women's rights overhaul",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T16:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary eases abortion restrictions in women's rights overhaul",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T16:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK court convicts 2 Iranian men of spying on journalists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T15:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK court convicts 2 Iranian men of spying on journalists",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T15:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran: Exiled journalists still repressed by regime",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T14:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T11:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
+      "published_date": "2026-11-12T10:20:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Police raid chapters of Gremium MC biker gang",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-12T09:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany news: Police raid chapters of Gremium MC biker gang",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T09:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
+      "published_date": "2026-11-12T05:00:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
@@ -596,111 +701,6 @@
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/2026/47/drogenboss-hamburg-drogenkartell-kokain",
       "published_date": "2026-11-11T17:40:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T17:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-11T17:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dobrindt will Abhängigkeit von USA bei KI und Geheimdiensten verringern",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/video/2026-11/dobrindt-will-abhaengigkeit-von-usa-bei-ki-und-geheimdiensten-verringern",
-      "published_date": "2026-11-11T17:24:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democracy study: One-quarter of Germans want a right-wing authoritarian dictatorship",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/democracy-study-one-quarter-of-germans-want-a-right-wing-authoritarian-dictatorship/a-79922718?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-11T16:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democracy study: One-quarter of Germans want a right-wing authoritarian dictatorship",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/democracy-study-one-quarter-of-germans-want-a-right-wing-authoritarian-dictatorship/a-79922718?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T16:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya's last Ebola patient leaves hospital",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T16:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-      "published_date": "2026-11-11T13:54:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration",
-      "published_date": "2026-11-11T12:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What are Germany's 'Migration Advisory Boards' and who can vote for them?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/what-are-germanys-migration-advisory-boards-and-who-can-vote-for-them",
-      "published_date": "2026-11-11T11:19:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands evacuated in Oranienburg for WWII bomb disposal",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/thousands-evacuated-in-oranienburg-for-wwii-bomb-disposal",
-      "published_date": "2026-11-11T10:17:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free museum Sundays and a €9 ticket: Berlin's likely government has bold plans",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/free-museum-sundays-and-a-e9-ticket-berlins-incoming-government-has-bold-plans",
-      "published_date": "2026-11-11T09:48:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Housing crisis prompts general strike",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T09:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-146",
-      "published_date": "2026-11-11T07:22:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barenboim orchestra spreads 'message of peace' in Berlin",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/barenboim-orchestra-spreads-message-of-peace-in-berlin",
-      "published_date": "2026-11-11T06:58:21+00:00",
       "category": "Local Events"
     }
   ]
