@@ -1,8 +1,22 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-11T18:16:08.509257+00:00",
+  "last_updated": "2026-11-12T03:29:52.402199+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bundeshaushalt 2027: Friedrich Merz läuft wieder einmal gegen die Wand",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundeshaushalt-2027-bundesregierung-koalition-stromsteuer-einigung",
+      "published_date": "2026-11-12T00:08:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian Foreign Ministry says its ambassador to US has died",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T23:20:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine-Hilfen: Eine mächtige Drohung. Und eine verzweifelte",
       "source": "ZEIT Online",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-      "published_date": "2026-11-09T17:54:40+00:00",
-      "category": "Diplomacy"
+      "title": "Dunkelfeldstudie: Grüne fordern Erhebung zu sexualisiertem Fehlverhalten in der Polizei",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/sexismus-polizei-bundespolizei-bka-irene-mihalic-uli-groetsch",
+      "published_date": "2026-11-12T02:11:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
+      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
-      "published_date": "2026-11-09T17:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
+      "published_date": "2026-11-12T01:58:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
@@ -189,6 +203,13 @@
       "title": "Germany news: Only 1/3 of Germans satisfied with state of democracy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T11:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany news: Only 1/3 of Germans satisfied with state of democracy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-11-11T11:31:00+00:00",
       "category": "Military"
     },
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+      "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
-      "published_date": "2026-11-10T17:26:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-      "published_date": "2026-11-10T16:59:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-10T09:43:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+      "published_date": "2026-11-11T18:52:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Electricity and gas bills in Germany expected to rise in early 2027",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Data center protesters break into Microsoft site in Amsterdam",
+      "title": "VW scraps production modernization plan citing tough financial straits",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T16:38:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/vw-scraps-production-modernization-plan-citing-tough-financial-straits/a-79923597?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-11T19:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VW scraps production modernization plan citing tough financial straits",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/vw-scraps-production-modernization-plan-citing-tough-financial-straits/a-79923597?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T19:06:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dax-Konzern: Fresenius will rund 13,4 Millionen FMC-Aktien verkaufen",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-      "published_date": "2026-11-06T15:38:22+00:00",
-      "category": "Economy"
+      "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T23:33:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Protests and reforms: France's rising debt costs threaten stability",
+      "title": "Police clash with protesters during Spain's general strike – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/nov/11/police-clash-with-protesters-during-spains-general-strike-video",
+      "published_date": "2026-11-11T22:06:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: Housing crisis prompts general strike, mass nighttime protests",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-06T14:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T21:58:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Schüsse in der Hamburger Hafencity: Schütze in Hafencity schoss auf Schwiegertochter und deren Bewacher",
@@ -581,6 +602,13 @@
       "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-11T17:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-ger-1023-rdf",
       "published_date": "2026-11-11T17:30:00+00:00",
       "category": "Local Events"
     },
@@ -673,34 +701,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261111/barenboim-orchestra-spreads-message-of-peace-in-berlin",
       "published_date": "2026-11-11T06:58:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: CPCB addresses stark Delhi pollution data gap on Diwali night",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T06:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How AI worsens online violence against Middle East women",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T06:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea bus causes large crash near Seoul, dozens hurt",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-korea-bus-causes-large-crash-near-seoul-dozens-hurt/a-79914074?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T04:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T03:33:00+00:00",
       "category": "Local Events"
     }
   ]
