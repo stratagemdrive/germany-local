@@ -1,8 +1,71 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-13T03:03:07.070557+00:00",
+  "last_updated": "2026-11-13T18:19:21.914887+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ukraine-Krieg: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/12/trumps-abgesandte-mit-heikler-botschaft-bei-putin",
+      "published_date": "2026-11-13T18:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine-Krieg: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/13/eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht",
+      "published_date": "2026-11-13T17:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders urged to 'act now' to stay AI competitive with US, China",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T16:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "published_date": "2026-11-13T16:39:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T15:28:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+      "published_date": "2026-11-13T14:14:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Microsoft outage hits Germany and Deutsche Bahn",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261113/microsoft-outage-hits-germany-and-deutsche-bahn",
+      "published_date": "2026-11-13T09:20:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As housing protests sweep Portugal, police and politicians here seem bent on making the crisis worse | Ana Naomi de Sousa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters",
+      "published_date": "2026-11-13T05:00:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘The time is ripe’: ex-helicopter engineer poised to be Germany’s first female president",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/germany-expected-to-elect-ilse-aigner-first-female-president",
+      "published_date": "2026-11-13T05:00:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-Emissionshandel: Industrie in der EU soll weniger für Emissionen bezahlen müssen",
       "source": "ZEIT Online",
@@ -28,6 +91,20 @@
       "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T22:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T22:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-11-12T22:00:00+00:00",
       "category": "Diplomacy"
     },
@@ -67,81 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-      "published_date": "2026-11-12T17:17:55+00:00",
-      "category": "Diplomacy"
+      "title": "Lage in der Ukraine: Wie Putin versucht, sich den Donbass zu erschleichen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/ukraine-lage-wladimir-putin-kostjantyniwka-donbass-front-ukraine-verhandlungen-woche",
+      "published_date": "2026-11-13T18:11:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
-      "published_date": "2026-11-12T16:30:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Travel to Germany: How to check your EES 90-day allowance and what to do if it’s wrong",
+      "title": "Harassment and bath toys: Why the German army kept making headlines this week",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261112/travel-to-germany-how-to-check-your-ees-90-day-allowance-and-what-to-do-if-its-wrong",
-      "published_date": "2026-11-12T12:13:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20261113/harassment-and-bath-toys-why-the-german-army-kept-making-headlines-this-week",
+      "published_date": "2026-11-13T16:08:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine peace talks: US envoys meet with Putin at Kremlin",
+      "title": "Why does El Salvador's Bukele have troops in Haiti?",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T06:35:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/why-does-el-salvador-s-bukele-have-troops-in-haiti/a-79940771?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T15:37:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bundeshaushalt 2027: Friedrich Merz läuft wieder einmal gegen die Wand",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundeshaushalt-2027-bundesregierung-koalition-stromsteuer-einigung",
-      "published_date": "2026-11-12T00:08:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian Foreign Ministry says its ambassador to US has died",
+      "title": "Iran targeted US radar system in Bahrain",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T23:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T15:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine-Hilfen: Eine mächtige Drohung. Und eine verzweifelte",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/ukraine-hilfen-friedrich-merz-eu-haushalt-finanzen-blockade",
-      "published_date": "2026-11-11T17:52:27+00:00",
-      "category": "Diplomacy"
+      "title": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-13T15:26:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "PODCAST🎧: What to do if you lose your job in Germany and will we see first woman president?",
+      "title": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T15:26:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Germany is reforming its spy agencies",
       "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/podcast%f0%9f%8e%a7-what-to-do-if-you-lose-your-job-in-germany-and-will-we-see-first-woman-president",
-      "published_date": "2026-11-11T12:08:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.de/20261113/how-germany-is-reforming-its-spy-agencies",
+      "published_date": "2026-11-13T13:40:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor",
+      "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders",
-      "published_date": "2026-11-11T05:00:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+      "published_date": "2026-11-13T11:24:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Krieg gegen die Ukraine: Selenskyj zufrieden mit Fortschritt bei Friedensverhandlungen",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published_date": "2026-11-11T02:10:34+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine updates: Russia hit with second car bomb attack in two days",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T10:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "title": "Humanitarian situation in Gaza worsens amid political deadlock",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T09:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
-      "published_date": "2026-11-11T01:08:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
+      "published_date": "2026-11-13T05:00:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Trump won't save Ukraine. But Marine Le Pen's betrayal could be worse | Mujtaba Rahman",
+      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/donald-trump-ukraine-marine-le-pen-europe-france",
-      "published_date": "2026-11-12T13:22:27+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+      "published_date": "2026-11-13T08:49:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bundeswehr study exposes widespread sexual harassment in German military",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-12T08:45:00+00:00",
-      "category": "Military"
+      "title": "Today in Germany: A roundup of the latest news on Friday",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261113/today-in-germany-a-roundup-of-the-latest-news-on-friday-148",
+      "published_date": "2026-11-13T07:31:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bundeswehr study exposes widespread sexual harassment in German military",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T08:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Intelligent women get less help at work, study finds",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T07:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Where the US's war with Iran stands after the midterms",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T05:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dunkelfeldstudie: Grüne fordern Erhebung zu sexualisiertem Fehlverhalten in der Polizei",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/sexismus-polizei-bundespolizei-bka-irene-mihalic-uli-groetsch",
-      "published_date": "2026-11-12T02:11:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
+      "title": "A new song gives Cop31 Eurovision vibes – but how should we score progress so far?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
-      "published_date": "2026-11-12T01:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-      "published_date": "2026-11-11T17:03:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-      "published_date": "2026-11-11T16:08:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the US blue wave a turning point for Europe, too?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-      "published_date": "2026-11-11T15:40:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy: Hundreds of schools evacuated after bomb threats",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T13:43:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/nov/12/down-to-earth-eurovision-cop31-turkey-scotland",
+      "published_date": "2026-11-13T07:00:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Weltklimakonferenz: António Guterres kritisiert Milliarden-Gewinne von Energiekonzernen",
@@ -403,25 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "South Africa elections: ANC marks its worst-ever performance",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T17:35:00+00:00",
-      "category": "Energy"
+      "title": "Verdacht auf Geldwäsche: Gold im Wert von 20.000 Euro bei Grenzkontrolle entdeckt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/13/gold-im-wert-von-20-000-euro-bei-grenzkontrolle-entdeckt",
+      "published_date": "2026-11-13T17:42:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Who’s who at Cop31: key players at the climate talks",
+      "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-      "published_date": "2026-11-08T11:48:56+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+      "published_date": "2026-11-13T16:00:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+      "title": "German government reaches agreement on record €560.9 billion budget",
+      "source": "The Local Germany",
+      "url": "https://www.thelocal.de/20261113/german-government-reaches-agreement-on-record-e560-9-billion-budget",
+      "published_date": "2026-11-13T10:22:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Parliament agrees on debt-laden 2027 budget",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-08T05:55:00+00:00",
-      "category": "Energy"
+      "url": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-13T08:52:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Germany news: Parliament agrees on debt-laden 2027 budget",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T08:52:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
@@ -529,39 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
-      "published_date": "2026-11-11T07:30:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inflation in Deutschland: Geringere Inflation durch Tankrabatt im Oktober",
+      "title": "Türkei und Katar: Türkei unterzeichnet Verteidigungsabkommen mit Katar",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/inflation-frankreich-tankrabatt-energiesteuer-benzin",
-      "published_date": "2026-11-11T01:45:06+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/ausland/2026-11/tuerkei-katar-verteidigungsabkommen-recep-tayyip-erdogan-tamim-bin-hamad",
+      "published_date": "2026-11-13T17:43:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Is it fair to give EU students discounted university fees in the UK? | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/nov/10/is-it-fair-to-give-eu-students-discounted-university-fees-in-the-uk",
-      "published_date": "2026-11-10T17:52:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Plenardebatte: Landtag streitet über Haushalt und Kurs für 2027",
+      "title": "Fridays for Future: Demonstranten fordern mehr Geld für internationalen Klimaschutz",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/10/rhein-wir-brauchen-kraft-der-politischen-mitte",
-      "published_date": "2026-11-10T17:08:08+00:00",
-      "category": "Economy"
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/fridays-for-future-demo-berlin-cop31-klimawandel-deutschland",
+      "published_date": "2026-11-13T17:39:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
+      "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
+      "published_date": "2026-11-13T17:14:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia's wiretapping scandal opens a political fault line",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T18:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T14:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czechia braces for massive protest against public media reform plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T08:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czechia braces for massive protest against public media reform plans",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-13T08:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T08:33:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NRW-Landtagswahl: Neubaur vor erneuter Kür als Grünen-Frontfrau zur NRW-Wahl",
@@ -652,55 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-12T14:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T11:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
-      "published_date": "2026-11-12T10:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Police raid chapters of Gremium MC biker gang",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-ger-1023-rdf",
-      "published_date": "2026-11-12T09:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany news: Police raid chapters of Gremium MC biker gang",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T09:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
-      "published_date": "2026-11-12T05:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T23:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police clash with protesters during Spain's general strike – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/nov/11/police-clash-with-protesters-during-spains-general-strike-video",
-      "published_date": "2026-11-11T22:06:54+00:00",
       "category": "Local Events"
     }
   ]
