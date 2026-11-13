@@ -1,8 +1,36 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-12T18:39:29.496942+00:00",
+  "last_updated": "2026-11-13T03:03:07.070557+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU-Emissionshandel: Industrie in der EU soll weniger für Emissionen bezahlen müssen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/emissionshandel-eu-industrie-ets-kostenlose-zertifikate",
+      "published_date": "2026-11-13T00:49:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+      "published_date": "2026-11-12T22:01:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T22:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-12T22:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kapitalmärkte: EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
       "source": "ZEIT Online",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+      "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-      "published_date": "2026-11-10T17:52:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/12/leonardo-bertulazzi-escape-argentina",
+      "published_date": "2026-11-12T19:52:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-      "published_date": "2026-11-10T17:05:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-      "published_date": "2026-11-10T16:44:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "title": "Pete Hegseth honors soldier who scolded him at Arlington cemetery",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-10T15:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T19:07:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "German military bans Chinese-made drones",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/german-military-bans-chinese-made-drones",
-      "published_date": "2026-11-11T12:58:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British and French culinary rivalry heats up in Paris – archive, 1976",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/food/2026/nov/11/british-french-chefs-culinary-rivalry-heats-up-in-paris-1976",
-      "published_date": "2026-11-11T12:00:50+00:00",
-      "category": "Military"
+      "title": "Weltklimakonferenz: António Guterres kritisiert Milliarden-Gewinne von Energiekonzernen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/antonio-guterres-oelkonzerne-gewinne-klimakrise",
+      "published_date": "2026-11-12T23:20:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
@@ -414,13 +421,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-08T05:55:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-      "published_date": "2026-11-07T13:03:03+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,27 @@
       "category": "Economy"
     },
     {
+      "title": "NRW-Landtagswahl: Neubaur vor erneuter Kür als Grünen-Frontfrau zur NRW-Wahl",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/13/neubaur-vor-erneuter-kuer-als-gruenen-frontfrau-zur-nrw-wahl",
+      "published_date": "2026-11-13T02:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grüne stellen Weichen: NRW-Wahl 2027: Neubaur erneut vor Kür als Grünen-Frontfrau",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/13/nrw-wahl-2027-neubaur-erneut-vor-kuer-als-gruenen-frontfrau",
+      "published_date": "2026-11-13T02:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Axe-wielding men attack opposition campaign rally in Lagos",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-axe-wielding-men-attack-opposition-campaign-rally-in-lagos/a-79934958?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-12T19:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-all-1573-rdf",
@@ -680,27 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/nov/11/police-clash-with-protesters-during-spains-general-strike-video",
       "published_date": "2026-11-11T22:06:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Housing crisis prompts general strike, mass nighttime protests",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-11T21:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schüsse in der Hamburger Hafencity: Schütze in Hafencity schoss auf Schwiegertochter und deren Bewacher",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/hamburger-hafencity-schuesse-schwiegerfamilie-eningen-achalm",
-      "published_date": "2026-11-11T18:11:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gesuchter Drogenboss: Er brachte die Methoden der  Drogenkartelle nach Hamburg",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/2026/47/drogenboss-hamburg-drogenkartell-kokain",
-      "published_date": "2026-11-11T17:40:08+00:00",
       "category": "Local Events"
     }
   ]
