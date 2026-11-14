@@ -1,8 +1,29 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-14T02:49:06.034024+00:00",
+  "last_updated": "2026-11-14T16:48:39.225095+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+      "published_date": "2026-11-14T15:34:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+      "published_date": "2026-11-14T07:00:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "published_date": "2026-11-14T07:00:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukrainefriedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
       "source": "ZEIT Online",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bundestag: Bundestag gibt Sicherheitsbehörden neue Cyberabwehr-Befugnisse",
+      "title": "7. Oktober: »Wir sind gestern doch nicht nach Tel Aviv gefahren«",
       "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/cyberabwehr-gesetz-bsi-bundespolizei-bka",
-      "published_date": "2026-11-12T17:47:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.zeit.de/zeit-verbrechen/2026/41/7-oktober-hamas-israel-kibbuz-nir-oz-trauer-carolin-bohl",
+      "published_date": "2026-11-14T16:11:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Finland bars Russian athletes from entering country over Ukraine war",
+      "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-      "published_date": "2026-11-12T17:23:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+      "published_date": "2026-11-14T15:00:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can the EU make it harder to trick consumers online?",
+      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T17:19:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T11:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-14T11:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T11:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T08:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
+      "published_date": "2026-11-14T08:00:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T07:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senegal Youth Olympics in Dakar end on high note",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T04:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T04:11:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
@@ -154,6 +224,13 @@
       "title": "Ukraine updates: EU to send united front to potential peace talks",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T19:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine updates: Europe to send united front to potential peace talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-13T19:39:00+00:00",
       "category": "Military"
     },
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+      "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
-      "published_date": "2026-11-13T11:24:30+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+      "published_date": "2026-11-14T13:00:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine updates: Russia hit with second car bomb attack in two days",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-13T10:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Humanitarian situation in Gaza worsens amid political deadlock",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-13T09:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
+      "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
-      "published_date": "2026-11-13T05:00:09+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "published_date": "2026-11-14T13:00:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/leonardo-bertulazzi-escape-argentina",
-      "published_date": "2026-11-12T19:52:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pete Hegseth honors soldier who scolded him at Arlington cemetery",
+      "title": "Germany news: Solar power production approaches record high",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T19:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-      "published_date": "2026-11-12T17:26:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T16:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-12T16:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
-      "published_date": "2026-11-12T16:14:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What does the US midterm result mean for German defence and trade?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261112/what-does-the-us-mid-term-result-mean-for-german-defence-and-trade",
-      "published_date": "2026-11-12T15:25:40+00:00",
-      "category": "Military"
+      "url": "https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T11:22:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Storm Charles causes floods and flight cancellations across southern Europe",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Strait of Hormuz still a source of leverage for Iran",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T14:49:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan farmers take German firms to court to pay for flood damage",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261109/pakistan-farmers-take-german-firms-to-court-to-pay-for-flood-damage",
-      "published_date": "2026-11-09T09:12:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Turkey pushes for transition at COP31 as coal burns",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-09T08:31:00+00:00",
-      "category": "Energy"
+      "title": "Datenschutz: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/meta-strafe-italien-datenschutz-facebook-app-garante",
+      "published_date": "2026-11-14T16:27:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Verdacht auf Geldwäsche: Gold im Wert von 20.000 Euro bei Grenzkontrolle entdeckt",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Ryanair changes bag drop rules for all European travellers",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261111/ryanair-changes-bag-drop-rules-for-all-european-travellers",
-      "published_date": "2026-11-11T13:19:57+00:00",
-      "category": "Economy"
+      "title": "Koalition: SPD-Chef Klingbeil will von CDU mehr Tempo bei Reformen",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/14/spd-chef-klingbeil-will-von-cdu-mehr-tempo-bei-reformen",
+      "published_date": "2026-11-14T16:19:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erneuerbare Energie Gesetz: Union und SPD weiter uneins bei Reform der Ökostromförderung",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/eeg-reform-einspeiseverguetung-solaranlagen-netzpaket-spd-cdu-gxe",
+      "published_date": "2026-11-14T16:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Public media freedom has been eroded across central Europe. Now Czechs are rallying to protect theirs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/protests-grow-czechia-changes-public-media-funding",
+      "published_date": "2026-11-14T10:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Delhi surpasses Lahore as world's most polluted city",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-delhi-surpasses-lahore-as-world-s-most-polluted-city/live-79946817?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T06:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-ger-1023-rdf",
+      "published_date": "2026-11-14T06:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-14T06:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-eu-2092-rdf",
+      "published_date": "2026-11-14T06:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gesellschaftsspiel: «Mensch ärgere Dich nicht» - Weltmeisterschaft in Berlin",
@@ -652,55 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-all-1573-rdf",
       "published_date": "2026-11-13T08:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czechia braces for massive protest against public media reform plans",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-13T08:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-13T08:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NRW-Landtagswahl: Neubaur vor erneuter Kür als Grünen-Frontfrau zur NRW-Wahl",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/13/neubaur-vor-erneuter-kuer-als-gruenen-frontfrau-zur-nrw-wahl",
-      "published_date": "2026-11-13T02:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grüne stellen Weichen: NRW-Wahl 2027: Neubaur erneut vor Kür als Grünen-Frontfrau",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/news/2026-11/13/nrw-wahl-2027-neubaur-erneut-vor-kuer-als-gruenen-frontfrau",
-      "published_date": "2026-11-13T02:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria: Axe-wielding men attack opposition campaign rally in Lagos",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-axe-wielding-men-attack-opposition-campaign-rally-in-lagos/a-79934958?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T19:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T18:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-12T18:26:00+00:00",
       "category": "Local Events"
     }
   ]
