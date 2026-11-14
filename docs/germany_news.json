@@ -1,8 +1,15 @@
 {
   "country": "Germany",
-  "last_updated": "2026-11-13T18:19:21.914887+00:00",
+  "last_updated": "2026-11-14T02:49:06.034024+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ukrainefriedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/ukraine-friedensgespraeche-beteiligung-europa-deutschland",
+      "published_date": "2026-11-14T00:58:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine-Krieg: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
       "source": "ZEIT Online",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can the EU make it harder to trick consumers online?",
+      "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line",
+      "published_date": "2026-11-14T02:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine updates: EU to send united front to potential peace talks",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-12T17:19:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T19:39:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Lage in der Ukraine: Wie Putin versucht, sich den Donbass zu erschleichen",
@@ -267,20 +281,6 @@
       "source": "The Local Germany",
       "url": "https://www.thelocal.de/20261112/what-does-the-us-mid-term-result-mean-for-german-defence-and-trade",
       "published_date": "2026-11-12T15:25:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German stock exchange hits record high on AI optimism",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261112/german-stock-exchange-hits-record-high-on-ai-optimism",
-      "published_date": "2026-11-12T13:38:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T13:26:00+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,62 @@
       "category": "Economy"
     },
     {
+      "title": "Gesellschaftsspiel: «Mensch ärgere Dich nicht» - Weltmeisterschaft in Berlin",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/14/mensch-aergere-dich-nicht-weltmeisterschaft-in-berlin",
+      "published_date": "2026-11-14T02:30:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jugendprotest: «Gen Z regelt» ruft erneut zu Demonstration in Berlin auf",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/14/gen-z-regelt-ruft-erneut-zu-demonstration-in-berlin-auf",
+      "published_date": "2026-11-14T02:30:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Endspurt für neue MV-Regierung: Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/14/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab",
+      "published_date": "2026-11-14T02:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landtagswahl 2027: Niedersachsens CDU will Lechner zum Spitzenkandidaten küren",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/14/niedersachsens-cdu-will-lechner-zum-spitzenkandidaten-kueren",
+      "published_date": "2026-11-14T02:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fahrbahnabsenkung: Reparatur nahe Norderelbbrücke - A1 Richtung Bremen gesperrt",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/news/2026-11/14/reparatur-nahe-norderelbbruecke-a1-richtung-bremen-gesperrt",
+      "published_date": "2026-11-14T02:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bundeshaushalt: Bundesrechnungshof mahnt Union und SPD zu härterem Sparkurs",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundesrechnungshof-ansgar-heveling-cdu-bundeshaushalt-schuldenregel",
+      "published_date": "2026-11-14T00:45:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+      "published_date": "2026-11-13T22:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Walliams: UK police launch sex offense probe into comedian",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
+      "published_date": "2026-11-13T19:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Türkei und Katar: Türkei unterzeichnet Verteidigungsabkommen mit Katar",
       "source": "ZEIT Online",
       "url": "https://www.zeit.de/politik/ausland/2026-11/tuerkei-katar-verteidigungsabkommen-recep-tayyip-erdogan-tamim-bin-hamad",
@@ -645,62 +701,6 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-eu-2092-rdf",
       "published_date": "2026-11-12T18:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bundeshaushalt: CDU-Vorschlag zu Stromsteuersenkung sorgt für Streit mit CSU",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/mathias-middelberg-cdu-stromsteuer-muetterrente",
-      "published_date": "2026-11-12T18:22:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Koalition in Berlin: Scheitert eine rot-grün-rote Koalition an dieser Frau?",
-      "source": "ZEIT Online",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/koalition-berlin-die-linke-die-gruenen-vanessa-emde",
-      "published_date": "2026-11-12T17:32:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-      "published_date": "2026-11-12T16:39:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary eases abortion restrictions in women's rights overhaul",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T16:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary eases abortion restrictions in women's rights overhaul",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-12T16:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK court convicts 2 Iranian men of spying on journalists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T15:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK court convicts 2 Iranian men of spying on journalists",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-eu-2092-rdf",
-      "published_date": "2026-11-12T15:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran: Exiled journalists still repressed by regime",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-rdf",
-      "published_date": "2026-11-12T14:25:00+00:00",
       "category": "Local Events"
     }
   ]
